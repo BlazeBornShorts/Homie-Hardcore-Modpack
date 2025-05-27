@@ -1,0 +1,215 @@
+
+[origins]
+
+	[origins."peng:penguin"]
+		"peng:ice_speed" = true
+		"peng:toggle" = true
+		"peng:peng_slide" = true
+		"peng:peng_health" = true
+		"peng:heat" = true
+		"peng:peng_size" = true
+		"peng:hunter_vision" = true
+		"peng:peng_swimspeed" = true
+		"peng:peng_waterbreath" = true
+		"peng:extra_jump" = true
+		enabled = true
+
+	[origins."toomanyorigins:withered"]
+		"toomanyorigins:deathly_digestion" = true
+		"toomanyorigins:unholy" = true
+		"toomanyorigins:affliction" = true
+		"origins:nether_spawn" = true
+		"toomanyorigins:spirit_strider" = true
+		enabled = true
+		"toomanyorigins:soul_siphon" = true
+		"toomanyorigins:hell_raised" = true
+
+	[origins."cham:chameleon"]
+		"cham:cham_natarmor" = true
+		"origins:carnivore" = true
+		"cham:cham_invis" = true
+		"cham:cham_size" = true
+		"origins:fall_immunity" = true
+		"origins:tailwind" = true
+		enabled = true
+		"origins:climbing" = true
+		"origins:extra_reach" = true
+
+	[origins."monke:monkey"]
+		"monke:staminarefill" = true
+		"monke:monke_lunge" = true
+		"monke:monke_size" = true
+		"peng:extra_jump" = true
+		enabled = true
+		"monke:monke_drown" = true
+		"monke:monke_stamina" = true
+		"monke:monke_frhand" = true
+		"monke:monke_velocity" = true
+		"monke:staminawaste2" = true
+		"monke:staminawaste" = true
+		"origins:tailwind" = true
+		"monke:monke_climb" = true
+		"monke:monke_grapple" = true
+
+	[origins."kang:kangaroo"]
+		"origins:vegetarian" = true
+		"kang:kang_nobow" = true
+		"kang:kang_pouch" = true
+		"kang:kang_longjump" = true
+		"kang:kang_dodge" = true
+		"origins:tailwind" = true
+		enabled = true
+		"kang:kang_health" = true
+
+	[origins."origins:arachnid"]
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+		"origins:master_of_webs" = true
+		enabled = true
+		"origins:climbing" = true
+
+	[origins."toomanyorigins:hare"]
+		"origins:vegetarian" = true
+		"toomanyorigins:frail" = true
+		"toomanyorigins:hot_hops" = true
+		"toomanyorigins:drenchable_fur" = true
+		"toomanyorigins:cancel_out_sprint_disable_on_hit" = true
+		"toomanyorigins:extra_step_height" = true
+		"toomanyorigins:waterskipper" = true
+		"toomanyorigins:prevent_movement_checks" = true
+		enabled = true
+		"toomanyorigins:superfall" = true
+		"toomanyorigins:small_appetite" = true
+
+	[origins."origins:enderian"]
+		"origins:water_vulnerability" = true
+		"origins:throw_ender_pearl" = true
+		"origins:pumpkin_hate" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+		"origins:extra_reach" = true
+
+	[origins."origins:feline"]
+		"origins:cat_vision" = true
+		"origins:velvet_paws" = true
+		"origins:fall_immunity" = true
+		"origins:weak_arms" = true
+		"origins:nine_lives" = true
+		enabled = true
+		"origins:sprint_jump" = true
+		"origins:scare_creepers" = true
+
+	[origins."toomanyorigins:dragonborn"]
+		"toomanyorigins:block_synergistics" = true
+		"toomanyorigins:zenith_scales" = true
+		"toomanyorigins:rough_claws" = true
+		"toomanyorigins:draconic_breath" = true
+		"toomanyorigins:weaponry_pride" = true
+		enabled = true
+
+	[origins."toomanyorigins:swarm"]
+		"toomanyorigins:stinging_pains" = true
+		"origins:arthropod" = true
+		"toomanyorigins:unity" = true
+		"toomanyorigins:beekeeper" = true
+		"toomanyorigins:pollination" = true
+		"toomanyorigins:hover" = true
+		"toomanyorigins:calming_aura" = true
+		enabled = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."rept:reptilian"]
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+		"rept:rept_freeze" = true
+		"rept:rept_size" = true
+		"origins:tailwind" = true
+		"rept:rept_natarmor" = true
+		enabled = true
+		"rept:rept_immune" = true
+		"rept:rept_poison" = true
+
+	[origins."origins:shulk"]
+		"origins:strong_arms" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:natural_armor" = true
+		enabled = true
+		"origins:shulker_inventory" = true
+
+	[origins."origins:merling"]
+		"origins:air_from_potions" = true
+		"origins:swim_speed" = true
+		"origins:water_vision" = true
+		"origins:like_water" = true
+		"origins:aqua_affinity" = true
+		"origins:water_breathing" = true
+		"origins:conduit_power_on_land" = true
+		enabled = true
+		"origins:aquatic" = true
+
+	[origins."origins:phantom"]
+		"origins:phasing" = true
+		"origins:fragile" = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:invisibility" = true
+		"origins:hunger_over_time" = true
+		enabled = true
+		"origins:burn_in_daylight" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."rr:roadrunner"]
+		"rr:rr_noswim" = true
+		"rr:rr_nobow" = true
+		"rr:rr_waterhover" = true
+		"rr:rr_fast" = true
+		"rr:rr_noslow" = true
+		"rr:rr_hunger" = true
+		"rr:rr_low" = true
+		"rr:rr_speed" = true
+		enabled = true
+
+	[origins."origins:blazeborn"]
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:fire_immunity" = true
+		"origins:damage_from_snowballs" = true
+		"origins:nether_spawn" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+
+	[origins."toomanyorigins:hisskin"]
+		"toomanyorigins:buildup" = true
+		"toomanyorigins:stubby_legs" = true
+		"toomanyorigins:conductive" = true
+		"toomanyorigins:aerial_stability" = true
+		"toomanyorigins:redirect_lightning_chance" = true
+		"toomanyorigins:ailurophobia" = true
+		enabled = true
+
+	[origins."origins:elytrian"]
+		"origins:more_kinetic_damage" = true
+		"origins:elytra" = true
+		"origins:claustrophobia" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:launch_into_air" = true
+		enabled = true
+
+	[origins."origins:avian"]
+		"origins:fresh_air" = true
+		"origins:vegetarian" = true
+		"origins:lay_eggs" = true
+		"origins:slow_falling" = true
+		"origins:tailwind" = true
+		"origins:like_air" = true
+		enabled = true
+
