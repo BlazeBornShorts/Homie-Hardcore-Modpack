@@ -5,7 +5,7 @@
 	#
 	# Whether to show message saying to check out Bumblezone's advancements when you get enar beehive for first time.
 	#
-	enableInitialWelcomeMessage = true
+	enableInitialWelcomeMessage = false
 
 ["The Bumblezone Teleportation Options"]
 	# 
