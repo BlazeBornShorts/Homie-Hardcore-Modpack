@@ -138,7 +138,7 @@
 		"origins:no_shield" = true
 		"origins:more_exhaustion" = true
 		"origins:strong_arms_break_speed" = true
-		"origins:natural_armor" = true
+		"origins:natural_armor" = false
 		enabled = true
 		"origins:shulker_inventory" = true
 
@@ -160,7 +160,7 @@
 		"origins:translucent" = true
 		"origins:invisibility" = true
 		"origins:hunger_over_time" = true
-		enabled = true
+		enabled = false
 		"origins:burn_in_daylight" = true
 		"origins:phantomize_overlay" = true
 
@@ -207,9 +207,9 @@
 	[origins."origins:avian"]
 		"origins:fresh_air" = true
 		"origins:vegetarian" = true
-		"origins:lay_eggs" = true
+		"origins:lay_eggs" = false
 		"origins:slow_falling" = true
-		"origins:tailwind" = true
+		"origins:tailwind" = false
 		"origins:like_air" = true
 		enabled = true
 
