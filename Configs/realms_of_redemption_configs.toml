@@ -1,0 +1,41 @@
+
+["Realms of Redemption Configs"]
+	#Shows a message on first joining a world
+	"First Load Message" = true
+	#Gives the player a guide book to the mod on first world load
+	"Do first load guide" = true
+	#[ADVANCED] Only change this if you have a resource pack which adds localization keys of entity.ror.neonica.talk_19 or a higher number
+	"Neonica Message Count" = 18.0
+	#[ADVANCED] Only change this if you have a resource pack which adds localization keys of entity.ror.neonica.you_are_hurt_5 or a higher number
+	"Neonica Player Hurt Message Count" = 4.0
+	#[ADVANCED] Only change this if you have a resource pack which adds localization keys of entity.ror.neonica.you_are_not_hurt_3 or a higher number
+	"Neonica Player Not Hurt Message Count" = 2.0
+	#[ADVANCED] Only change this if you have a resource pack which adds localization keys of entity.ror.neonica.thank_you_5 or a higher number
+	"Neonica Thank You Message Count" = 4.0
+	#[ADVANCED] Only change this if you have a resource pack which adds localization keys of entity.ror.neonica.can_you_get_a_5 or a higher number
+	"Neonica Wants Item Message Count" = 0.0
+	#Sets the limit of Neonica's affection value - only worth changing if you are using a mod which adds new content to Neonica
+	"Neonica Affection Cap" = 1000.0
+	#Enables or disables the Bottle Of Rum's effects
+	"Allow Alchohol" = true
+	#Sets the limit of Mox's affection value - only worth changing if you are using a mod which adds new content to Mox
+	"Mox Affection Cap" = 1000.0
+	#[ADVANCED] Only change this if you have a resource pack which adds localization keys of entity.ror.mox.talk_19 or a higher number
+	"Mox Message Count" = 18.0
+
+[Difficulty]
+	#Any health values over 1024 will REQUIRE AttributeFix or another mod which raises the vanilla health cap
+	"Killbot Health" = 750.0
+	"Killbot Damage" = 7.0
+	"Corrundodile Health" = 800.0
+	"Corrundodile Damage" = 8.0
+	"Neonica Health" = 1000.0
+	"neonica Damage" = 9.0
+	"Mox Health" = 1000.0
+	"Mox Damage" = 6.0
+	"Titania Health" = 1000.0
+	"Titania Damage" = 8.0
+	#Multiplies the chance of Titania using a spell by this value
+	"Titania Attack Speed Multiplier * 100" = 100.0
+	"Mox Attack Speed Multiplier * 100" = 100.0
+

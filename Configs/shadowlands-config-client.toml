@@ -1,0 +1,5 @@
+
+["Client configs for Shadowlands"]
+	#Use custom sky texture in the Shadow Forest and Blood Forest. Turn off if you experience rendering issues.
+	"Use custom skies" = true
+

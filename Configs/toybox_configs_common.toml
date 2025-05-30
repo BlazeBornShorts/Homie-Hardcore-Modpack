@@ -1,0 +1,6 @@
+
+["Toybox Configs"]
+	#Show warning about getting the mod from unsafe sites on first world load (auto disabled if running with Infinite Abyss or Shadowlands
+	"Do first load message" = true
+	"Do first load guide" = true
+
