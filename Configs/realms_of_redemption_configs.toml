@@ -1,7 +1,7 @@
 
 ["Realms of Redemption Configs"]
 	#Shows a message on first joining a world
-	"First Load Message" = true
+	"First Load Message" = false
 	#Gives the player a guide book to the mod on first world load
 	"Do first load guide" = true
 	#[ADVANCED] Only change this if you have a resource pack which adds localization keys of entity.ror.neonica.talk_19 or a higher number
