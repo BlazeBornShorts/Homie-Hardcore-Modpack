@@ -18,7 +18,7 @@
 		"toomanyorigins:deathly_digestion" = true
 		"toomanyorigins:unholy" = true
 		"toomanyorigins:affliction" = true
-		"origins:nether_spawn" = true
+		"origins:nether_spawn" = false
 		"toomanyorigins:spirit_strider" = true
 		enabled = true
 		"toomanyorigins:soul_siphon" = true
@@ -120,7 +120,7 @@
 		enabled = true
 
 	[origins."origins:human"]
-		enabled = true
+		enabled = false
 
 	[origins."rept:reptilian"]
 		"origins:no_shield" = true
@@ -160,7 +160,7 @@
 		"origins:translucent" = true
 		"origins:invisibility" = true
 		"origins:hunger_over_time" = true
-		enabled = false
+		enabled = true
 		"origins:burn_in_daylight" = true
 		"origins:phantomize_overlay" = true
 
@@ -178,11 +178,11 @@
 	[origins."origins:blazeborn"]
 		"origins:water_vulnerability" = true
 		"origins:flame_particles" = true
-		"origins:burning_wrath" = true
+		"origins:burning_wrath" = false
 		"origins:hotblooded" = true
 		"origins:fire_immunity" = true
 		"origins:damage_from_snowballs" = true
-		"origins:nether_spawn" = true
+		"origins:nether_spawn" = false
 		"origins:damage_from_potions" = true
 		enabled = true
 

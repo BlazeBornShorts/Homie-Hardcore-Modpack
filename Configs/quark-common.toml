@@ -1821,13 +1821,13 @@
 		"Reroll Even If Not Out Of Stock" = false
 
 [oddities]
-	Backpack = true
+	Backpack = false
 	Crate = true
-	Magnets = true
+	Magnets = false
 	"Matrix Enchanting" = true
 	Pipes = true
-	"Tiny Potato" = true
-	"Totem Of Holding" = true
+	"Tiny Potato" = false
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them

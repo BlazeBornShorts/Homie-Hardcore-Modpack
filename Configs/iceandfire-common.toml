@@ -44,12 +44,12 @@
 	[Dragons.Griefing]
 		#Dragon griefing - 2 is no griefing, 1 is breaking weak blocks, 0 is default. This value is also affected by minecrafts mob griefing rule.
 		#Range: 0 ~ 2
-		"Dragon Griefing" = 0
+		"Dragon Griefing" = 2
 		#True if tamed dragons can follow the griefing rules.
 		"Tamed Dragon Griefing" = true
 		#The percentage chance for a block to drop as an item when a dragon breaks it.
 		#Range: 0.0 ~ 1.0
-		"Dragon Block Breaking Drop Chance" = 0.10000000149011612
+		"Dragon Block Breaking Drop Chance" = 1
 
 	[Dragons.Attributes]
 		#How long it takes(in ticks) for a dragon egg to hatch
@@ -88,7 +88,7 @@
 		"Max Dragon Flight Height" = 256
 		#How far away dragons will detect gold blocks being destroyed or chests being opened
 		#Range: 0 ~ 10000
-		"Dragon Gold Search Length" = 30
+		"Dragon Gold Search Length" = 25
 		#Whether the bite attack from a dragon heals them or not.
 		"Dragon Bite Heal" = true
 		#True if dragons can despawn. Note that if this is false there may be SERIOUS lag issues.
@@ -107,10 +107,10 @@
 		"Explosive Dragon Breath" = false
 		#How many blocks away can dragons spot potential prey. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
-		"Dragon Target Search Length" = 128
+		"Dragon Target Search Length" = 64
 		#How many blocks away can dragons wander from their defined "home" position.
 		#Range: 1 ~ 10000
-		"Dragon Wander From Home Distance" = 40
+		"Dragon Wander From Home Distance" = 32
 		#Every interval of this number in ticks, dragon hunger decreases.
 		#Range: 1 ~ 10000
 		"Dragon Hunger Tick Rate" = 3000
@@ -142,7 +142,7 @@
 		"Spawn Cyclops Cave Chance" = 100
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Wandering Cyclops Chance" = 100
+		"Spawn Wandering Cyclops Chance" = 70
 		#Maximum cyclops health
 		#Range: 1.0 ~ 10000.0
 		"Cyclops Max Health" = 150.0
@@ -156,7 +156,7 @@
 		#Range: 1.0 ~ 10000.0
 		"Cyclops Bite Strength" = 40.0
 		#Whether or not cyclops can break logs or leaves in their way
-		"Cyclops Griefing" = true
+		"Cyclops Griefing" = false
 
 	[Mobs.Sirens]
 		#Maximum siren health
@@ -177,7 +177,7 @@
 	[Mobs.DeathWorms]
 		#How many blocks away can death worms spot potential prey. Note that increasing this could cause lag
 		#Range: 1 ~ 10000
-		"Death Worm Target Search Length" = 64
+		"Death Worm Target Search Length" = 32
 		#Default deathworm health, this is scaled to the worm's particular size
 		#Range: 1.0 ~ 10000.0
 		"Death Worm Base Health" = 10.0

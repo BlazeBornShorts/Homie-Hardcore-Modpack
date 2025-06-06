@@ -52,7 +52,7 @@ modid_dimension_whitelist = []
 #prevent notifications of decaying or refreshed chests
 disable_notifications = false
 #overriding refresh_loot_tables, refresh_modids and refresh_dimensions: all chests will refresh after being opened for the first time
-refresh_all = false
+refresh_all = true
 #overriding decay_loot_tables, decay_modids and decay_dimensions: all chests will decay after being opened for the first time
 decay_all = false
 #lootr chests cannot be destroyed by creeper or TNT explosions
@@ -77,7 +77,7 @@ notification_delay = 600
 disable = false
 #how long (in ticks) a refreshing loot containers should take to refresh their contents (default 20 minutes = 20 * 60 * 20)
 #Range: > 0
-refresh_value = 24000
+refresh_value = 6000
 #disregard chests and chunks that are outside of the world border; enable this option if you are using a world border and are suffering consistent TPS issues; if you change the world border, you will need to restart your client
 check_world_border = false
 #list of structures in which loot chests should automatically refresh (in the format of ["modid:structure_name", "othermodid:other_structure_name"])
