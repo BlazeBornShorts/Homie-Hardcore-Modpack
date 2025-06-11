@@ -213,3 +213,43 @@
 		"origins:like_air" = true
 		enabled = true
 
+	[origins."medievalorigins:yeti"]
+		enabled = true
+		"medievalorigins:yeti/frigid_pulse" = true
+		"medievalorigins:yeti/from_whence_you_came" = true
+		"medievalorigins:yeti/frosty_breath" = true
+		"medievalorigins:yeti/titanic" = true
+		"medievalorigins:yeti/unstoppable" = true
+		"medievalorigins:yeti/winter_body" = true
+		"medievalorigins:yeti/flammable" = true
+		"medievalorigins:yeti/thick_fur" = true
+		"medievalorigins:yeti/spell_power" = true
+		"origins_env_deh:cold_resistance" = true
+		"thermoo-patches:cold_immune" = true
+		"origins_survive:cold_resistance" = true
+		"origins_toughasnails:cold_resistance" = true
+		"extra_compat:cold_resistance" = true
+
+	[origins."medievalorigins:incubus"]
+		enabled = true
+		"medievalorigins:incubus/demon_fire" = true
+		"medievalorigins:incubus/hellborne" = true
+		"medievalorigins:incubus/carnivore" = true
+		"medievalorigins:incubus/unholy_deal" = true
+		"medievalorigins:incubus/hydrophobe" = true
+		"medievalorigins:incubus/impure" = true
+		"medievalorigins:incubus/dimension_strength" = true
+		"medievalorigins:incubus/lava_swim" = true
+		"medievalorigins:incubus/red" = true
+		"medievalorigins:incubus/spell_power" = true
+		"origins:nether_spawn" = true
+		"origins_env_deh:heat_resistance" = true
+		"thermoo-patches:heat_immune" = true
+		"thermoo-patches:cold_vulnerability" = true
+		"origins_survive:lava_drinker" = true
+		"origins_survive:heat_resistance" = true
+		"origins_toughasnails:lava_drinker" = true
+		"origins_toughasnails:thermal_regulator" = true
+		"extra_compat:lava_drinker" = true
+		"extra_compat:thermal_regulator" = true
+
