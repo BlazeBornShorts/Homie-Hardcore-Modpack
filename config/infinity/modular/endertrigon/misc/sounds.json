@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endertrigon:baby_dragon_egg_breaks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endertrigon:dragon_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "endertrigon:dragon_lays_egg"
+		}
+	]
+}

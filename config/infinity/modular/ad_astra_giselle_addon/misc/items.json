@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:automation_nasa_workbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:fuel_loader"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:gravity_normalizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:lander_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:module_acid_rain_proof_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:module_gravity_normalizing_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:module_space_breathing_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:module_space_fire_proof_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:netherite_oxygen_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:oxygen_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra_giselle_addon:rocket_sensor"
+		}
+	]
+}

@@ -1,0 +1,476 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "inventorypets:anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:anvil_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:apple_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:april_fool"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:baa"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:bark1"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:bed_yawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:bgsay"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:biome"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:biome_found"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:biome_waiting"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:black_hole"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:blaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:blech"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:boing"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:bolt_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:bolt_thunder"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:brew"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:brewpot"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:cheetah_go"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:clang"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:click"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:cloud_rumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:combo"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:crafting"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:creeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:doorbell"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:doulbedoorbell"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:dubstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:fade"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:fireball"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:fishin"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:fizz"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:ghast_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:grave"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:hey"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:horn_fade"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:howl2"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:humburp"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:illuminati"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:illuminati_confirmed"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:illuminout"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:iron_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:jet"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:juggerout"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:knockback"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:lifesteal"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:magmacube"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:medieval"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:meow"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:meow1"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:meta_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mgehit"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:moo"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mqbbreathe"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mqbdeath"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mqbhit"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mqedeath"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mqeidle"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mqeportal"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:mqestare"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nether"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nomnom"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:oink"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:overbell"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pageflip"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pc_moo"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petrifier"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:ping"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pm_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pm_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pm_eat4u"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pm_eatghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pm_wokka"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:qcm_buzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:raspberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:rickroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sbsay"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:shields_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:shorted"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:siamese_gift"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:silverhunger"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:slamready"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:slamstop"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sleigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:slime_revive"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:smelt"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:snsay"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:spider_screech"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:splat"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sponge_dry"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sponge_slurp"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sponge_wet"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:squawk"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:squeak"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:stringsnap"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:time_warp"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:trololo"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:trololo1"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:trololo2"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:unwrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:venom_inject"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:visible"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:wither"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:zap"
+		}
+	]
+}

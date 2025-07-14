@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hh_hardcore_revivestone:crystal_of_reviving"
+		},
+		{
+			"weight": 1.0,
+			"key": "hh_hardcore_revivestone:revival_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "hh_hardcore_revivestone:token_of_reviving"
+		}
+	]
+}

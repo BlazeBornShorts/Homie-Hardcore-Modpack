@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:glow_panels"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:plastic_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:plastic_blocks/glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:plastic_blocks/plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:plastic_blocks/reinforced"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:plastic_blocks/road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:plastic_blocks/slick"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:plastic_blocks/transparent"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ags_day_counter:calendar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ags_day_counter:calendar_item"
+		}
+	]
+}

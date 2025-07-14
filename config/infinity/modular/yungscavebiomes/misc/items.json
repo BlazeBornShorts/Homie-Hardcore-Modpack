@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ancient_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ancient_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ancient_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ancient_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ancient_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ancient_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:brittle_ancient_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:brittle_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:brittle_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:chiseled_ancient_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:clock_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:cut_ancient_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:cut_ancient_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:frost_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:hourglass_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ice_cube_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ice_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:icicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:layered_ancient_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:layered_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:layered_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:prickly_peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:prickly_peach_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:prickly_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:rare_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:sand_snapper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:smooth_ancient_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:smooth_ancient_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:smooth_ancient_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:suspicious_ancient_sand"
+		}
+	]
+}

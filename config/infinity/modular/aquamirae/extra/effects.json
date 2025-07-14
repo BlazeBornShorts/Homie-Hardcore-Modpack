@@ -1,0 +1,58 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -6750055,
+				"Instant": false,
+				"Name": "aquamirae:abyss_blindness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -6750055,
+				"Instant": false,
+				"Name": "aquamirae:armor_decrease"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -6750055,
+				"Instant": false,
+				"Name": "aquamirae:crystallization"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -6750055,
+				"Instant": false,
+				"Name": "aquamirae:health_decrease"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3407668,
+				"Instant": false,
+				"Name": "aquamirae:strong_armor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16737844,
+				"Instant": false,
+				"Name": "aquamirae:swim_speed"
+			}
+		}
+	]
+}

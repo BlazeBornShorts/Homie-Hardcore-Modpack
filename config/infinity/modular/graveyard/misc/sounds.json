@@ -1,0 +1,244 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.altar.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.bone.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.bone.placed"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.coffin.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.coffin.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.ossuary.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.sarcophagus.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.urn.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:block.urn.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.acolyte.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.acolyte.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.acolyte.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.corrupted_illager.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.corrupted_illager.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.corrupted_illager.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.corrupted_illager.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghoul.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghoul.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghoul.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghoul.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghoul.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghouling.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghouling.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghouling.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghouling.groan"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghouling.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghouling.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.ghouling.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.corpse_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.hunt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.levitation"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.melee"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.phase_three"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.phase_three_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.phase_two"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.scare"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.shoot_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.lich.theme_01"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.nameless_hanged.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.nameless_hanged.breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.nameless_hanged.interact"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.nightmare.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.nightmare.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.nightmare.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.reaper.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.reaper.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.reaper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.reaper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.revenant.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.revenant.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.revenant.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.revenant.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.wraith.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:entity.wraith.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:item.vial.splash"
+		}
+	]
+}

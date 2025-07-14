@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "endertrigon:baby_ender_dragon"
+			}
+		}
+	]
+}

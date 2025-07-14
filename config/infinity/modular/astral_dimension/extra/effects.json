@@ -1,0 +1,103 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1,
+				"Instant": false,
+				"Name": "astral_dimension:fire_trail"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -346270,
+				"Instant": false,
+				"Name": "astral_dimension:flight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -9363938,
+				"Instant": false,
+				"Name": "astral_dimension:fury"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1,
+				"Instant": true,
+				"Name": "astral_dimension:home"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1,
+				"Instant": false,
+				"Name": "astral_dimension:lifesteal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -11435161,
+				"Instant": false,
+				"Name": "astral_dimension:poison_resistance"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -1,
+				"Instant": false,
+				"Name": "astral_dimension:rain_of_fire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -9290720,
+				"Instant": false,
+				"Name": "astral_dimension:thorn_resistance"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8362929,
+				"Instant": false,
+				"Name": "astral_dimension:thorny"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -32748,
+				"Instant": false,
+				"Name": "astral_dimension:void_walker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11128969,
+				"Instant": false,
+				"Name": "astral_dimension:wounded"
+			}
+		}
+	]
+}

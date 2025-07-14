@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "origins:temporary_cobweb",
+				"full": false
+			}
+		}
+	]
+}

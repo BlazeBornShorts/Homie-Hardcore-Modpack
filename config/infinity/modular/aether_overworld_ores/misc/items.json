@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_nickel_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_sulfur_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_overworld_ores:holystone_zinc_ore"
+		}
+	]
+}

@@ -1,0 +1,481 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8382954,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:bad_feeling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -9272941,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:barbedattack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11123149,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:block_break"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6119795,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:bone_barrier"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -3611673,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:bone_chilling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -9542813,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:bone_fracture"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11656923,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:cursed_mark"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -12350519,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:curseofthe_boat"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -15856369,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:dark_splash"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -15333873,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:dark_ward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11448498,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:detonation"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -15395559,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:dogtruce"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -6695368,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:experience_container"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -11576741,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:fish_breath"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3670016,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:furious_rampage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16119285,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:gaze_of_terror"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -10769710,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:ice_barrier"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -9393633,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:infernal_flame"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -11119283,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:infestationof_flies"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -4839388,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:insect_protection"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8375942,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:intoxication"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11446963,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:jawattack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -7726815,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:lifesteal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -8454144,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:light_rampage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8533996,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:living_bomb"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11706311,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:living_cocoon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -11771077,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:living_cocoon_player_side"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1605,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:lost_items"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11918299,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:magic_depletion"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6553600,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:medium_rampage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -8248798,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:minion_summon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10344912,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:myiasis"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -4974033,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:obsession"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6110003,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:predators_desire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6110003,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:rabbit_agility"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3470832,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:rampant_rampage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11376835,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:rotten_smell"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -13882063,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:sacrifice"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -4198145,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:snow_storm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10251232,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:soul_stratification"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -4352983,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:stimulatingsurge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3169230,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:stimulation"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6110003,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:stone_persistence"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -13884120,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:stranglehold"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -4587520,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:strong_rampage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -1319354,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:stun"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -6316675,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:stunning_strike"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -3407668,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:sweet_madness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:terrifying_presence"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -13283794,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:undead_summonun"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -16185079,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:unity_with_darkness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -5430209,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:vampiric_touch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -14803164,
+				"Instant": false,
+				"Name": "born_in_chaos_v1:wither_resistance"
+			}
+		}
+	]
+}

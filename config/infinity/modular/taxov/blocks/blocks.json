@@ -1,0 +1,54 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "taxov:block_captain",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "taxov:block_crew",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "taxov:block_pirate",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "taxov:block_sailor",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "taxov:block_trader",
+				"full": true
+			}
+		}
+	]
+}

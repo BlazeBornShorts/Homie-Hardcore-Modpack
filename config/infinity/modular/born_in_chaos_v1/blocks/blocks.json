@@ -1,0 +1,1079 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:argillite_lamp",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick_slab_n",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick_stairs_n",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_brick_wall_n",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "born_in_chaos_v1:black_argillite_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_column",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_column_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_column_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_column_slab_n",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_slab_n",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_stairs_n",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:black_argillite_wall_n",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "born_in_chaos_v1:black_argillitepressureplate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:bundle_of_bones",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:c_black_argillite_brick_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:carved_black_argillite",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:carved_black_argillite_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:chipped_black_argillite_brick",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:closed_hound_trap",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:cobweb_cover",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:creepy_nutcracker",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:cultivated_pumpkin",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:cursed_scarlet_ornate_glass_pane",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:dark_grid",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "born_in_chaos_v1:dark_ice",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:dark_metal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:dark_metal_deposit",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:dark_stained_glass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:dark_stained_glass_panel",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:evil_carved_pumpkin",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:fel_soil",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "born_in_chaos_v1:fel_soil_destructible",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:fired_black_argillite",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:fired_black_argillite_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:flaming_evil_pumpkin",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:fragile_scorched_boards",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "born_in_chaos_v1:gnawed_bones",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:green_stained_glass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:green_stained_glass_panel",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:hound_trap",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:infected_deepslate_diamond_ore",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:infected_diamond_ore",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:infernal_evil_pumpkin",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:infernal_evil_pumpkin_s",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "born_in_chaos_v1:lifestealer_skull",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "born_in_chaos_v1:marigolds",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "born_in_chaos_v1:mesh_door",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:mossy_black_argillite_brick",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:mossy_black_argillite_brick_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "born_in_chaos_v1:nightmare_stalker_skull",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:orange_stained_glass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:orange_stained_glass_panel",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:pile_of_skulls",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "born_in_chaos_v1:puddleof_stimulation",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "born_in_chaos_v1:puddleofintoxication",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:purple_stained_glass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:purple_stained_glass_panel",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "born_in_chaos_v1:river_mint",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:rotten_infernal_pumpkin",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:rotten_soil",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scarlet_stained_glass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scarlet_stained_glass_panel",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "born_in_chaos_v1:scorched_planks_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "born_in_chaos_v1:scorched_planks_door",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_planks_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_planks_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "born_in_chaos_v1:scorched_planks_pressure_plates",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_planks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_planks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_planks_trapdoor",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:scorched_wood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:smoldering_scorched_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:smoldering_scorched_wood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:spiny_shell_trap",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:spooky_snowman_head",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:stained_black_argillite_brick",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:stained_black_argillite_brick_n",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:stripped_scorched_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:stripped_scorched_wood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_2003wise",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_2_dling",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_carrion",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_dark_titan_066",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_derivas",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_euthymia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_feral",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_fubuki_banzai",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_memesus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_mike_rory",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_orion",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_petasi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_somfunambulist",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:tombstone_tem_187",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "born_in_chaos_v1:webbed_cobblestone",
+				"full": true
+			}
+		}
+	]
+}

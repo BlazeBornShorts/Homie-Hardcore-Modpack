@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "thermal:devices/tree_extractor_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "thermal:ducts"
+		},
+		{
+			"weight": 1.0,
+			"key": "thermal:dynamos"
+		},
+		{
+			"weight": 1.0,
+			"key": "thermal:glass/hardened"
+		},
+		{
+			"weight": 1.0,
+			"key": "thermal:machines"
+		},
+		{
+			"weight": 1.0,
+			"key": "thermal:rockwool"
+		}
+	]
+}

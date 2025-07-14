@@ -1,0 +1,6784 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:abstruse_platform",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:agricarnation",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:agricarnation_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:alchemy_catalyst",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:alfheim_portal",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:animated_torch",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_deepslate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_default",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_desert",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_forest",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_fungal",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_livingrock",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_mesa",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_mossy",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_mountain",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_plains",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_swamp",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:apothecary_taiga",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:avatar",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_0",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_1",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_10",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_11",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_12",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_13",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_14",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_15",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_2",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_3",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_4",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_5",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_6",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_7",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_8",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:azulejo_9",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:bellethorn",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:bellethorn_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:bellows",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:bergamute",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:bifrost",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:bifrost_pane",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:bifrost_perm",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:black_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:black_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:black_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:black_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:black_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:black_pavement",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:black_pavement_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:black_pavement_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:black_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:black_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blaze_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blaze_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blaze_quartz_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blaze_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blaze_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:blue_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:blue_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:blue_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:blue_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:blue_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blue_pavement",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blue_pavement_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blue_pavement_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:blue_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:blue_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:brewery",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:brown_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:brown_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:brown_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:brown_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:brown_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:brown_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:brown_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:bubbell",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:bubbell_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:cacophonium_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:cell_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_blaze_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_dark_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_elf_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_lavender_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_livingrock_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_mana_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_desert_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_forest_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_fungal_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_mesa_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_mountain_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_plains_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_swamp_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_metamorphic_taiga_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_red_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:chiseled_sunny_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:clayconia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:clayconia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:cocoon",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:conjuration_catalyst",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:corporea_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:corporea_brick",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:corporea_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:corporea_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:corporea_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:corporea_crystal_cube",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:corporea_funnel",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:corporea_index",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:corporea_interceptor",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:corporea_retainer",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:corporea_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:corporea_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:cracked_livingrock_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:crafty_crate",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:creative_pool",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:cyan_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:cyan_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:cyan_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:cyan_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:cyan_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:cyan_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:cyan_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:daffomill",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:dandelifeon",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dark_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dark_quartz_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dark_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dark_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:daybloom_motif",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:detector_light_relay",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:diluted_pool",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dragonstone_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:dreadthorn",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_planks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_planks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dreamwood_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:drum_canopy",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:drum_gathering",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:drum_wild",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:dry_grass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:elementium_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:elf_glass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:elf_glass_pane",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:elf_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:elf_quartz_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:elf_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:elf_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:elven_spreader",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:enchanted_soil",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:enchanter",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:ender_eye_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:endoflame",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:entropinnyum",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:exoflame",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:fabulous_pool",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:fake_air",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:fallen_kanade",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:fel_pumpkin",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_agricarnation",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_agricarnation_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_bellethorn",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_bellethorn_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_bergamute",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_bubbell",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_bubbell_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_clayconia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_clayconia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_daffomill",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_dandelifeon",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_dreadthorn",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_endoflame",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_entropinnyum",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_exoflame",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_fallen_kanade",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_gourmaryllis",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_heisei_dream",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_hopperhock",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_hopperhock_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_hyacidus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_hydroangeas",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_jaded_amaranthus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_jiyuulia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_jiyuulia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_kekimurus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_labellia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_loonium",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_manastar",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_marimorphosis",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_marimorphosis_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_medumone",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_munchdew",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_narslimmus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_orechid",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_orechid_ignem",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_pollidisiac",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_pure_daisy",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_rafflowsia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_rannuncarpus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_rannuncarpus_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_rosa_arcana",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_shulk_me_not",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_solegnolia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_solegnolia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_spectranthemum",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_spectrolus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_tangleberrie",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_tangleberrie_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_thermalily",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_tigerseye",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:floating_vinculotus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:forest_eye",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:fork_light_relay",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:framed_dreamwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:framed_livingwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:gaia_head",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:gaia_pylon",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:gaia_spreader",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:gaia_wall_head",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:ghost_rail",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_dreamwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_dreamwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_livingwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_livingwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_stripped_dreamwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_stripped_dreamwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_stripped_livingwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:glimmering_stripped_livingwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:golden_grass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:gourmaryllis",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:gray_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:gray_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:gray_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:gray_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:gray_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:gray_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:gray_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:green_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:green_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:green_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:green_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:green_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:green_pavement",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:green_pavement_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:green_pavement_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:green_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:green_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:heisei_dream",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:hopperhock",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:hopperhock_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:hourglass",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:hyacidus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:hydroangeas",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:hydroangeas_motif",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:incense_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:infrangible_platform",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:infused_grass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:jaded_amaranthus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:jiyuulia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:jiyuulia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:kekimurus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:labellia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:lavender_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:lavender_quartz_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:lavender_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:lavender_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_blue_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_blue_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:light_blue_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_blue_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_blue_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:light_blue_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_blue_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_gray_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_gray_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:light_gray_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_gray_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_gray_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:light_gray_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:light_gray_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:light_launcher",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:light_relay",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:lime_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:lime_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:lime_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:lime_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:lime_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:lime_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:lime_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_slate",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingrock_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_planks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_planks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:livingwood_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:loonium",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:magenta_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:magenta_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:magenta_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:magenta_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:magenta_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:magenta_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:magenta_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_bomb",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_detector",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_diamond_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:mana_distributor",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:mana_flame",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:mana_fluxfield",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_glass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_glass_pane",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:mana_pool",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:mana_pylon",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_quartz_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:mana_spreader",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mana_void",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:manastar",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:manasteel_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:marimorphosis",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:marimorphosis_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:medumone",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_desert_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_forest_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_fungal_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mesa_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_mountain_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_plains_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_swamp_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_cobblestone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_cobblestone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_cobblestone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_cobblestone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:metamorphic_taiga_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mossy_dreamwood_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mossy_livingrock_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mossy_livingrock_bricks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mossy_livingrock_bricks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mossy_livingrock_bricks_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mossy_livingwood_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:munchdew",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:mutated_grass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:narslimmus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:natura_pylon",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:nightshade_motif",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:open_crate",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:orange_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:orange_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:orange_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:orange_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:orange_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:orange_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:orange_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:orechid",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:orechid_ignem",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:pattern_framed_dreamwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:pattern_framed_livingwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:pink_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:pink_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:pink_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:pink_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:pink_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:pink_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:pink_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:piston_relay",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:polished_livingrock",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:polished_livingrock_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:polished_livingrock_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:polished_livingrock_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:pollidisiac",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_agricarnation",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_agricarnation_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_bellethorn",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_bellethorn_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_bergamute",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_black_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_black_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_black_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_blue_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_blue_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_blue_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_brown_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_brown_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_brown_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_bubbell",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_bubbell_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_clayconia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_clayconia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_cyan_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_cyan_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_cyan_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_daffomill",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_dandelifeon",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_daybloom_motif",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_dreadthorn",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_endoflame",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_entropinnyum",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_exoflame",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_fallen_kanade",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_gourmaryllis",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_gray_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_gray_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_gray_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_green_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_green_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_green_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_heisei_dream",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_hopperhock",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_hopperhock_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_hyacidus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_hydroangeas",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_hydroangeas_motif",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_jaded_amaranthus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_jiyuulia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_jiyuulia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_kekimurus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_labellia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_light_blue_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_light_blue_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_light_blue_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_light_gray_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_light_gray_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_light_gray_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_lime_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_lime_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_lime_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_loonium",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_magenta_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_magenta_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_magenta_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_manastar",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_marimorphosis",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_marimorphosis_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_medumone",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_munchdew",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_narslimmus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_nightshade_motif",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_orange_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_orange_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_orange_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_orechid",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_orechid_ignem",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_pink_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_pink_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_pink_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_pollidisiac",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_pure_daisy",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_purple_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_purple_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_purple_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_rafflowsia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_rannuncarpus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_rannuncarpus_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_red_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_red_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_red_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_rosa_arcana",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_shulk_me_not",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_solegnolia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_solegnolia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_spectranthemum",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_spectrolus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_tangleberrie",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_tangleberrie_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_thermalily",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_tigerseye",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_vinculotus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_white_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_white_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_white_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_yellow_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_yellow_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:potted_yellow_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:prism",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:pump",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:pure_daisy",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:purple_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:purple_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:purple_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:purple_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:purple_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:purple_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:purple_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:rafflowsia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:rannuncarpus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:rannuncarpus_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:red_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:red_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:red_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:red_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:red_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_pavement",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_pavement_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_pavement_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_quartz_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:red_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:red_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:red_string_comparator",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:red_string_container",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:red_string_dispenser",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:red_string_fertilizer",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:red_string_interceptor",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:red_string_relay",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:redstone_spreader",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:root",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:rosa_arcana",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:runic_altar",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:scorched_grass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:shimmerrock",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:shimmerrock_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:shimmerrock_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:shimmerwood_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:shimmerwood_planks_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:shimmerwood_planks_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:shulk_me_not",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:solegnolia",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:solegnolia_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:solid_vine",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:spark_changer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:spawner_claw",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:spectral_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:spectranthemum",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:spectrolus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:starfield",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_dreamwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_dreamwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_dreamwood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_dreamwood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_dreamwood_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_livingwood",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_livingwood_log",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_livingwood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_livingwood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:stripped_livingwood_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:sunny_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:sunny_quartz_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:sunny_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:sunny_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:tangleberrie",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:tangleberrie_chibi",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:terra_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:terrasteel_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:teru_teru_bozu",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:thermalily",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:tigerseye",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:tiny_planet_block",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:tiny_potato",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:toggle_light_relay",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:turntable",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "botania:vinculotus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:vivid_grass",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:white_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:white_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:white_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:white_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:white_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:white_pavement",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:white_pavement_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:white_pavement_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:white_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:white_shiny_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:yellow_buried_petals",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:yellow_double_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "botania:yellow_floating_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:yellow_mushroom",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:yellow_mystical_flower",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:yellow_pavement",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:yellow_pavement_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:yellow_pavement_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "botania:yellow_petal_block",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "botania:yellow_shiny_flower",
+				"full": false
+			}
+		}
+	]
+}

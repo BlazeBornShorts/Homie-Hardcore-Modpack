@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualend:bluk_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endblob_queen_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endstone_golem_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endstone_golem_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:firch_prophet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_aria"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_circus"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_docks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_doctor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_drift"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_fishe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_moog"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_party"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_saria"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_storms"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_strange"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_tapion"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flute_wilds"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:oheight-moog-in-space"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:peter_hont_astray_archipelago"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:the_great_abyss"
+		}
+	]
+}

@@ -1,0 +1,86 @@
+
+["Hostile Water Mobs"]
+
+	["Hostile Water Mobs"."Hostile Water Mobs - General"]
+		#Debug Level: 0 = Off, 1 = Log, 2 = Chat+Log
+		#Range: 0 ~ 2
+		debugLevel = 0
+		#blockLightLevel from light emitting blocks that prevents spawn
+		#Range: 1 ~ 15
+		blockLightLevel = 7
+
+	["Hostile Water Mobs"."Hostile Water Mobs - River Guardian"]
+		#riverGuardianPreysOnVillagerChildren = true
+		riverGuardianPreysOnVillagerChildren = true
+		#riverGuardianSpawnWeight
+		#Range: 0 ~ 500
+		riverGuardianSpawnWeight = 80
+		#riverGuardianSpawnCap
+		#Range: 1 ~ 100
+		riverGuardianSpawnCap = 21
+		#riverGuardian attack SoundRange in meters.  default is 7 meters. 0 turns off attack sound unless the river guardian is attacking the player.
+		#Range: 0 ~ 24
+		riverGuardianSoundRange = 17
+
+	["Hostile Water Mobs"."Hostile Water Mobs - Slippery Biter"]
+		#slipperyBiterSpawnWeight
+		#Range: 0 ~ 500
+		slipperyBiterSpawnWeight = 80
+		#slipperyBiterSpawnCap
+		#Range: 1 ~ 100
+		slipperyBiterSpawnCap = 17
+
+	["Hostile Water Mobs"."Hostile Water Mobs - Gurty"]
+		#gurtySpawnWeight
+		#Range: 0 ~ 500
+		gurtySpawnWeight = 80
+		#gurtySpawnCap
+		#Range: 1 ~ 100
+		gurtySpawnCap = 9
+		#gurtyBaseHitPoints : note- this doesn't seem to work.
+		#Range: 0 ~ 100
+		gurtyBaseHitPoints = 18
+		#gurtyBaseDefense
+		#Range: 2 ~ 10
+		gurtyBaseDefense = 2
+		#gurtyNestDistance
+		#Range: 2 ~ 15
+		gurtyNestDistance = 6
+
+	["Hostile Water Mobs"."Hostile Water Mobs - Watersnake"]
+		#watersnakeSpawnWeight
+		#Range: 0 ~ 500
+		watersnakeSpawnWeight = 80
+		#watersnakeSpawnCap
+		#Range: 1 ~ 100
+		watersnakeSpawnCap = 17
+
+	["Hostile Water Mobs"."Mod Structure Boost - Add Zo,Sk,W*0"]
+
+		["Hostile Water Mobs"."Mod Structure Boost - Add Zo,Sk,W*0"."16 to modded structures"]
+			#modStructureBoost
+			#Range: 0 ~ 100
+			modStructureBoost = 10
+
+		["Hostile Water Mobs"."Mod Structure Boost - Add Zo,Sk,W*0"."Hostile Water Mobs - Fish Spawn Boost"]
+			#codSpawnBoost
+			#Range: 1 ~ 100
+			codSpawnBoost = 15
+			#salmonSpawnBoost
+			#Range: 1 ~ 100
+			salmonSpawnBoost = 15
+			#squidSpawnBoost
+			#Range: 1 ~ 100
+			squidSpawnBoost = 10
+			#dolphinSpawnBoost
+			#Range: 1 ~ 100
+			dolphinSpawnBoost = 10
+
+		["Hostile Water Mobs"."Mod Structure Boost - Add Zo,Sk,W*0"."Hostile Water Mobs - Experimental Nether Spawn Fix"]
+			#zombiePiglinSpawnBoost 
+			#Range: 0 ~ 100
+			"zombifiedPiglinSpawnBoost " = 25
+			#ghastSpawnBoost 
+			#Range: 0 ~ 100
+			"ghastSpawnBoost " = 30
+

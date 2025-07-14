@@ -1,0 +1,2816 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "blue_skies:alchemist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:alchemist_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:alchemy_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:alchemy_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquatic_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquatic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquatic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquatic_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:aquite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:arachnarch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:arachnarch_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:armored_frost_spirit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:artificial_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:astrolabe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:azulfo_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:azulfo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bag_of_spoils"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:baneful_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:banished_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:black_brewberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blaze_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blinding_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blinding_rage"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blinding_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blinding_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blinding_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blinding_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blinding_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blue_journal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bluebright_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blush_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brewberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brewberry_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bright_blinding_keystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:briskbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brittlebush"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brumble_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brumble_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brumble_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brumble_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brumble_vine_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brumble_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:bug_guts"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:camel_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:camellia"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:carabeef"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:carved_blinding_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:carved_nature_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:carved_poison_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charoite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charscale_moki"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:charscale_moki_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:chilled_lily_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:chillweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:chiseled_crystal_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:chiseled_lunar_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:chiseled_midnight_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:chiseled_polished_brumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:chiseled_turquoise_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cinderstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cinderstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cinderstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cinderstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:coarse_lunar_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:coarse_turquoise_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_berry_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:comet_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cooked_carabeef"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cooked_charscale_moki"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cooked_grittle_flatfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cooked_horizofin_tunid"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cooked_monitor_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cooked_municipal_monkfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cooked_venison"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cosmic_fox_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_lunar_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_lunar_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_lunar_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_lunar_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_turquoise_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_turquoise_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_turquoise_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cracked_turquoise_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crescent_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crescent_fruit_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crescent_fruit_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crogre_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crushing_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crynocerous_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cryo_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_camel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystal_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crystallized_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cut_crystal_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cut_crystal_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cut_midnight_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:cut_midnight_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dawn_blinding_keystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:debug_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:decaying_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:defying_starlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:different_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diophyde_prowler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:diopside_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:emberback_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ethereal_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_aquite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_charoite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_diopside_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_moonstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_pyrope_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_aquite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_charoite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_diopside_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_moonstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_pyrope_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:falsite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:falsite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:falsite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:falsite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:fiery_bean_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:fiery_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:firefly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:flare_floret"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:food_prep_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:fox_pelt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frose"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frost_spirit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frostbright_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:gatekeeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glimmer_reed"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_aquatic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_aquatic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_aquatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_aquatic_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_blinding_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_blinding_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_blinding_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_blinding_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_life_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_life_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_life_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_life_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_nature_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_nature_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_nature_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_nature_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_nature_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_nature_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_nature_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_poison_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_poison_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:glowing_poison_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:grittle_flatfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:grittle_flatfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizofin_tunid"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizofin_tunid_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:horizonite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:infested_swarmer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:infused_arc_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:jelly_drifter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:life_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:life_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:life_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:life_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:life_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:loot_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:loot_bag_alchemist"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:loot_bag_arachnarch"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:loot_bag_starlit_crusher"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:loot_bag_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lucentroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_comet_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_dripstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:lunar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midday_bayhop"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:midnight_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:monitor_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonlit_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonlit_water_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonstone_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonstone_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonstone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonstone_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:moonstone_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_lunar_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:mossy_turquoise_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:muckweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:multi_portal_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:municipal_monkfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:municipal_monkfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_keystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nature_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nested_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nightcress"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:nyctofly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pine_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pine_fruit_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pink_brewberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_keystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:poison_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polar_posy"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polargeist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_brumble_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_cinderstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_cinderstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_cinderstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_cinderstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_rimestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_rimestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_rimestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_rimestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_taratite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_taratite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_taratite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_taratite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_umber"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_umber_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_umber_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:polished_umber_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:population"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:prepared_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:pyrope_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_aquite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_aquite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_charoite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_charoite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_falsite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_falsite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_horizonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_horizonite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_ventium"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:raw_ventium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:regrowth_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:reindeer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:rimestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:rimestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:rimestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:rimestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:rough_poison_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:rough_poison_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:rough_poison_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:runic_arc"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:scalefruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:scalefruit_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:sea_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:sea_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:sea_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:seclam_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:shade_monitor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:shadow_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:shadow_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:shadow_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:shadow_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:shrumpty_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:sliv_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:smooth_crystal_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:smooth_crystal_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:smooth_crystal_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:smooth_midnight_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:smooth_midnight_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:smooth_midnight_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:snow_owl_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:snowbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:snowcap_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:snowcap_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:snowcap_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:snowcap_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:snowcap_pinhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:solnut"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:soul_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:soulbound_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:spewter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:spider_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:spider_webbing"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:spike_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:star_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:star_flare"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stardust_ram_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_crusher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_crusher_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:starlit_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stonelet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_bluebright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_bluebright_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_comet_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_comet_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_dusk_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_dusk_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_frostbright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_frostbright_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_lunar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_starlit_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:stripped_starlit_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:summoner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:summoner_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:summoning_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:summoning_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:sunstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:sunstone_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:tall_lunar_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:tall_turquoise_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:taratite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:taratite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:taratite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:taratite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:thwarted_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:tool_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:toxic_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:trough"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_comet_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_dripstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stonebrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stonebrick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stonebrick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:turquoise_stonebrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:umber"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:umber_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:umber_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:umber_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:venison"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:venom_sac"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:venom_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:venomous_encounter"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_charscale_moki_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_drifter_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_grittle_flatfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_horizofin_tunid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_lava_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_milk_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_municipal_monkfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_shears"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:ventium_water_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:vitreous_moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:warding_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:whistleshell_crab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:winter_leaf_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:winter_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:zeal_lighter"
+		}
+	]
+}

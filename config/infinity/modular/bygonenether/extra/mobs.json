@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bygonenether:corpor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bygonenether:piglin_hunter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bygonenether:piglin_prisoner"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bygonenether:warped_enderman"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bygonenether:wex"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "bygonenether:wither_skeleton_horse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bygonenether:wither_skeleton_knight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bygonenether:wraither"
+			}
+		}
+	]
+}

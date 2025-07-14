@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "etheria:cryo_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "etheria:cryo_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "etheria:mage_micon_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "etheria:mage_micon_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "etheria:mage_micon_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "etheria:pyro_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "etheria:pyro_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "etheria:pyro_3"
+		}
+	]
+}

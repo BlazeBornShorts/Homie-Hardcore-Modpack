@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 1
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:witch",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "betterwitchhuts:witch_circle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:cat",
+								"maxCount": 1
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:witch",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "betterwitchhuts:witch_hut"
+			}
+		}
+	]
+}

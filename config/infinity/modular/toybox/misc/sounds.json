@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "toybox:circus"
+		},
+		{
+			"weight": 1.0,
+			"key": "toybox:clown_kills"
+		},
+		{
+			"weight": 1.0,
+			"key": "toybox:clown_laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "toybox:robot_dies"
+		}
+	]
+}

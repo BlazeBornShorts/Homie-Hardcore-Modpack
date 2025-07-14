@@ -1,0 +1,184 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:creep_spider_spawner"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:blood_forest_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:shadowdungeon_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:clowdtower_1.19.2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:verybigshroomdungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:shadowtower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:voidupgradingtower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:large_creeper_spawner"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:shadowvault"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:ghost_creeper_spawner"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:arena"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:blood_key_watchtower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:shadowdungeonlarge_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:tallshadowtower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:red_castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:verytallshadowtower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:shadowdungeonhuge_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "shadowlands:upgradetower"
+			}
+		}
+	]
+}

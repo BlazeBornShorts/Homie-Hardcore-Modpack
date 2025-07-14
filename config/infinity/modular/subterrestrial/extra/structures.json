@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:jungle_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:deepslate_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:desert_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:ice_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:mesa_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:default_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:ocean_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "subterrestrial:taiga_cabin"
+			}
+		}
+	]
+}

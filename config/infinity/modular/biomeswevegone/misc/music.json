@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:music.overworld.crag_gardens"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:music.overworld.eroded_borealis"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:music.overworld.forgotten_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:music_disc.better_days"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:music_disc.pixie_club"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:crying_obsidian_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:end_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:end_dungeon_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:end_shulker_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:end_warship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:end_enchanted_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:end_well"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "echoes_of_the_end__structures_:end_pillar"
+			}
+		}
+	]
+}

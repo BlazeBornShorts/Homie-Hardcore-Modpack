@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:dreadfulltunes"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_vault_closes"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_vault_eject_items"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_vault_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_vault_insert_fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_vault_opens"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:geiger_tick"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:genetic_miracle"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:mystic_blues"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:roarer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:roarer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:roarer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:roarer_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:stramplerscreech"
+		}
+	]
+}

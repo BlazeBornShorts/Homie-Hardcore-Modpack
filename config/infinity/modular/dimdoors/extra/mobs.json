@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "dimdoors:mask"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "dimdoors:monolith"
+			}
+		}
+	]
+}

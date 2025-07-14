@@ -1,0 +1,267 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "yungscavebiomes:ancient_sand",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:ancient_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:ancient_sandstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:ancient_sandstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:ancient_sandstone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:brittle_ancient_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:brittle_red_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:brittle_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:chiseled_ancient_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:cut_ancient_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:cut_ancient_sandstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "yungscavebiomes:frost_lily",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
+				"Name": "yungscavebiomes:ice_sheet",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "yungscavebiomes:icicle",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:layered_ancient_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:layered_red_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:layered_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:potted_prickly_peach_cactus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "yungscavebiomes:prickly_peach_cactus",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "yungscavebiomes:prickly_vines",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": false,
+				"float": false,
+				"Name": "yungscavebiomes:prickly_vines_plant",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "yungscavebiomes:rare_ice",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:smooth_ancient_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:smooth_ancient_sandstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "yungscavebiomes:smooth_ancient_sandstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "yungscavebiomes:suspicious_ancient_sand",
+				"full": true
+			}
+		}
+	]
+}

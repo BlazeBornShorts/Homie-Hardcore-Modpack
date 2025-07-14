@@ -1,0 +1,58 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9843250,
+				"Instant": false,
+				"Name": "undergarden:brittleness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9154528,
+				"Instant": false,
+				"Name": "undergarden:chilly"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 13158655,
+				"Instant": false,
+				"Name": "undergarden:featherweight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 7827026,
+				"Instant": false,
+				"Name": "undergarden:gooey"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3550530,
+				"Instant": false,
+				"Name": "undergarden:virulence"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 3550530,
+				"Instant": false,
+				"Name": "undergarden:virulent_resistance"
+			}
+		}
+	]
+}

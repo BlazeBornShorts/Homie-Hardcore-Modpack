@@ -1,0 +1,1351 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:blackstone_bastion_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:mountain_mine_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:spruce_house_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:acacia_house_medium_3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_bubble_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_house_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:ancient_palace_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:red_sand_temple_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:jungle_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:spruce_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_gateway_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:frozen_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_hut_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:dark_oak_house_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:jungle_tree_house_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_bubble_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_ship_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:birch_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:ancient_palace_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_ship_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_pyramid_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:library_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_tree_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_temple_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_underground_castle_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:birch_house_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:acacia_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:bamboo_campfire_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:nether_portal_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_gateway_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:crimson_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:acacia_house_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:ocean_temple_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 2,
+								"type": "minecraft:blaze",
+								"maxCount": 3
+							},
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "minecraft:zombified_piglin",
+								"maxCount": 4
+							},
+							{
+								"weight": 8,
+								"minCount": 5,
+								"type": "minecraft:wither_skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 5,
+								"type": "minecraft:skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 3,
+								"minCount": 4,
+								"type": "minecraft:magma_cube",
+								"maxCount": 4
+							},
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 3
+							},
+							{
+								"weight": 4,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_wither_skeleton",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:nether_fortress_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:dark_oak_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_house_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:bamboo_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:jungle_boat_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:warped_house_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_house_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:dark_oak_ship_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:red_sand_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:acacia_house_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:mushroom_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:spruce_ship_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:blackstone_temple_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 2,
+								"type": "minecraft:blaze",
+								"maxCount": 3
+							},
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "minecraft:zombified_piglin",
+								"maxCount": 4
+							},
+							{
+								"weight": 8,
+								"minCount": 5,
+								"type": "minecraft:wither_skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 5,
+								"type": "minecraft:skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 3,
+								"minCount": 4,
+								"type": "minecraft:magma_cube",
+								"maxCount": 4
+							},
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 3
+							},
+							{
+								"weight": 4,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_wither_skeleton",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:nether_temple_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:crimson_house_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_house_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "adorabuild_structures:basalt_chambers_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:red_sand_temple_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:birch_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:prison_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:ocean_bubble_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:frozen_hut_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:birch_tree_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:cherry_tree_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:mountain_mine_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:spruce_house_small_3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:spruce_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:blackstone_bastion_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_bubble_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:frozen_hut_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 2,
+								"type": "minecraft:blaze",
+								"maxCount": 3
+							},
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "minecraft:zombified_piglin",
+								"maxCount": 4
+							},
+							{
+								"weight": 8,
+								"minCount": 5,
+								"type": "minecraft:wither_skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 5,
+								"type": "minecraft:skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 3,
+								"minCount": 4,
+								"type": "minecraft:magma_cube",
+								"maxCount": 4
+							},
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 3
+							},
+							{
+								"weight": 4,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_wither_skeleton",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:nether_fortress_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_temple_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:warped_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:mangrove_tree_house_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_house_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:cherry_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:prison_large_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:guardian",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:ocean_temple_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:acacia_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:red_sand_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:cherry_house_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "minecraft:zombified_piglin",
+								"maxCount": 4
+							},
+							{
+								"weight": 2,
+								"minCount": 5,
+								"type": "minecraft:wither_skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 8,
+								"minCount": 5,
+								"type": "minecraft:skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 4,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 3
+							},
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_wither_skeleton",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:nether_fossil_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 2,
+								"type": "minecraft:blaze",
+								"maxCount": 3
+							},
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "minecraft:zombified_piglin",
+								"maxCount": 4
+							},
+							{
+								"weight": 8,
+								"minCount": 5,
+								"type": "minecraft:wither_skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 5,
+								"type": "minecraft:skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 3,
+								"minCount": 4,
+								"type": "minecraft:magma_cube",
+								"maxCount": 4
+							},
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 3
+							},
+							{
+								"weight": 4,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_wither_skeleton",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:nether_fortress_large_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_house_medium_3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:acacia_well_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:guardian",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:ocean_temple_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_house_small_3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:bamboo_raft_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:ocean_temple_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:mangrove_tree_house_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_castle_tiny_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:blackstone_bastion_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:spruce_house_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_house_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:birch_beehive_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:mangrove_house_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:oak_house_small_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:end_house_medium_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:birch_house_medium_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:cherry_raft_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:sand_castle_small_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "adorabuild_structures:library_large_1"
+			}
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "dimdoors:enclosed_prismarine_gateway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "dimdoors:enclosed_mud_gateway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "dimdoors:enclosed_red_sandstone_gateway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "dimdoors:enclosed_quartz_gateway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "dimdoors:enclosed_sandstone_gateway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "dimdoors:enclosed_gateway"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "dimdoors:enclosed_endstone_gateway"
+			}
+		}
+	]
+}

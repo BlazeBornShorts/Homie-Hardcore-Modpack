@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9109504,
+				"Instant": false,
+				"Name": "attributeslib:bleeding"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16766976,
+				"Instant": false,
+				"Name": "attributeslib:detonation"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16733525,
+				"Instant": false,
+				"Name": "attributeslib:flying"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 11141120,
+				"Instant": false,
+				"Name": "attributeslib:grievous"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16051778,
+				"Instant": false,
+				"Name": "attributeslib:knowledge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 10000536,
+				"Instant": false,
+				"Name": "attributeslib:sundering"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16733525,
+				"Instant": false,
+				"Name": "attributeslib:vitality"
+			}
+		}
+	]
+}

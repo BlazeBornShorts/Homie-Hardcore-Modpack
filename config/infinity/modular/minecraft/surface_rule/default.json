@@ -1,0 +1,110 @@
+{
+	"biomes": [
+		"minecraft:default"
+	],
+	"rule": {
+		"sequence": [
+			{
+				"type": "minecraft:condition",
+				"if_true": {
+					"true_at_and_below": {
+						"above_bottom": 0
+					},
+					"false_at_and_above": {
+						"above_bottom": 5
+					},
+					"type": "minecraft:vertical_gradient",
+					"random_name": "dimdoors:floor"
+				},
+				"then_run": {
+					"result_state": {
+						"Name": "dimdoors:black_ancient_fabric"
+					},
+					"type": "minecraft:block"
+				}
+			},
+			{
+				"result_state": {
+					"Name": "dimdoors:unravelled_fabric"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"type": "minecraft:condition",
+				"if_true": {
+					"true_at_and_below": {
+						"above_bottom": 0
+					},
+					"false_at_and_above": {
+						"above_bottom": 5
+					},
+					"type": "minecraft:vertical_gradient",
+					"random_name": "dimdoors:floor"
+				},
+				"then_run": {
+					"result_state": {
+						"Name": "dimdoors:black_ancient_fabric"
+					},
+					"type": "minecraft:block"
+				}
+			},
+			{
+				"result_state": {
+					"Name": "dimdoors:unravelled_fabric"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"type": "minecraft:condition",
+				"if_true": {
+					"true_at_and_below": {
+						"above_bottom": 0
+					},
+					"false_at_and_above": {
+						"above_bottom": 5
+					},
+					"type": "minecraft:vertical_gradient",
+					"random_name": "dimdoors:floor"
+				},
+				"then_run": {
+					"result_state": {
+						"Name": "dimdoors:black_ancient_fabric"
+					},
+					"type": "minecraft:block"
+				}
+			},
+			{
+				"result_state": {
+					"Name": "dimdoors:unravelled_fabric"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"type": "minecraft:condition",
+				"if_true": {
+					"true_at_and_below": {
+						"above_bottom": 0
+					},
+					"false_at_and_above": {
+						"above_bottom": 5
+					},
+					"type": "minecraft:vertical_gradient",
+					"random_name": "dimdoors:floor"
+				},
+				"then_run": {
+					"result_state": {
+						"Name": "dimdoors:black_ancient_fabric"
+					},
+					"type": "minecraft:block"
+				}
+			},
+			{
+				"result_state": {
+					"Name": "dimdoors:unravelled_fabric"
+				},
+				"type": "minecraft:block"
+			}
+		],
+		"type": "minecraft:sequence"
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "celestial_core:death_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:earth_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:fire_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:heart_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:light_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:midnight_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:ocean_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:pure_nether_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:shulker_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:soaring_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:treasure_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:void_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_core:warden_sclerite"
+		}
+	]
+}

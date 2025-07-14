@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 3,
+								"minCount": 1,
+								"type": "outer_end:entombed",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "outer_end:catacombs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 3,
+								"minCount": 1,
+								"type": "outer_end:purpur_golem",
+								"maxCount": 1
+							},
+							{
+								"weight": 7,
+								"minCount": 2,
+								"type": "outer_end:himmelite",
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "outer_end:end_tower"
+			}
+		}
+	]
+}

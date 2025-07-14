@@ -1,0 +1,305 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:antimatter_bomb_entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:antimatter_supernova"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:apparition"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:black_hole"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:black_hole_bomb_entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "terramity:blue_fairy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "terramity:cave_gnome"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:conjurling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:crystal_heart_ring"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:decoy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:dungeon_effigy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:duskrok"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:echo_bug"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:elite_skeleton"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:enchanter_merlin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:final_kamehameha"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:gaias_grace_ring"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:galick_gun"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:gatmancer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:gob"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "terramity:green_fairy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:guided_energy_blast_projectile"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:gundalf"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:hellrok"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:holy_beam"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:macro_black_hole_bomb_entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:megabite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:micro_black_hole"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "terramity:pink_fairy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "terramity:royal_gnome"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:shadowflame_ring"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:sniffer_kamehameha"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:sorceress_circe"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:spirit_bomb"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:stygian_soul"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:super_sniffer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:tg_hand"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:thunker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:trial_guardian"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:ultra_sniffer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:unholy_beam"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:uvogre"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "terramity:virtue"
+			}
+		}
+	]
+}

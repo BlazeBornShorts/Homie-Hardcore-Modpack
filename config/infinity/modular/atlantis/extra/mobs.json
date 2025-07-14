@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "atlantis:atlantean_crab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_ambient",
+				"Name": "atlantis:atlantean_jellyfish"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "atlantis:atlantean_seahorse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_ambient",
+				"Name": "atlantis:atlantean_shrimp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "atlantis:atlantean_starfish"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "atlantis:atlantean_starzomfish"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "atlantis:coconut_crab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "atlantis:leviathan"
+			}
+		}
+	]
+}

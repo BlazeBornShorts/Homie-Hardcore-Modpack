@@ -1,0 +1,452 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:allied_ghost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:baby_neon_resident"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:blue_crystal_construct"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:blue_crystal_golem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:blue_crystal_star"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:corrundodile"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:corrundoling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:corrundum_golem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:corrundum_spike"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "ror:cowbot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:crystalcopter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:fairy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:ghost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:ghost_angel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "ror:giant_butterfly"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:giant_mole"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:gnome"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:gold_construct"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:gold_scanbot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:gold_undead_neon_resident"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:googloid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:googloid_ghost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:green_crystal_construct"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:green_crystal_golem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:green_crystal_star"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:guardbot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:heavy_laserbot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:humboldt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:killbot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:laserbeam"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:laserbot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:light_blue_crystal_construct"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:light_blue_crystal_golem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:light_blue_crystal_star"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:malicious_root"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:meat_puddle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:moon_dungeon_guard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:mox"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:mutant_neon_resident"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:neon_resident"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:neon_vortex"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:neonica"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:neutral_mox"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:neutral_neonica"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:placer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:prismkeeper"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:rainboom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:red_crystal_construct"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:red_crystal_golem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:red_crystal_star"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:scanbot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:small_robot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "ror:small_snail"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:spawn_fluffer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:spawner_placer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:streetlight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:swarm_spider"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:titania"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:undead_neon_resident"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:undercopter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:yellow_crystal_construct"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:yellow_crystal_golem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "ror:yellow_crystal_star"
+			}
+		}
+	]
+}

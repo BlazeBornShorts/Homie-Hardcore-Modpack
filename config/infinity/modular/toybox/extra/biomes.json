@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -16777063,
+				"Name": "toybox:blue_carpet_toybox"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -3407668,
+				"Name": "toybox:magenta_carpet_toybox"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -65536,
+				"Name": "toybox:red_carpet_toybox"
+			}
+		}
+	]
+}

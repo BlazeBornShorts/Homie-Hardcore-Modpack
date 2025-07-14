@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "netherdungeons:baby_ghast"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherdungeons:hoglin_brute"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherdungeons:piglin_thrower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "netherdungeons:truncus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherdungeons:zombified_piglin_thrower"
+			}
+		}
+	]
+}

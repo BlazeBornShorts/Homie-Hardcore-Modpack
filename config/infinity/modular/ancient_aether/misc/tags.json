@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogetic_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aether_carver_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:leaf_vine_can_spawn_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:mosaic_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:replaceable_boss_room_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:replaceable_dungeon_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:slammroot_spawnable_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:vases"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wyndcaps_animals_spawnable_on"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualend:candle_shiny_flames"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:candle_soul_flames"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_totem_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endermites_infested"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_ground_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_valid_placement"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopy_removed"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:more_endermites_infested"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:purpur_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:strippable"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:valid_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_bypass"
+		}
+	]
+}

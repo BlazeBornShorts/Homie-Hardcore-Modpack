@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"Name": "ad_astra_giselle_addon:automation_nasa_workbench",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"Name": "ad_astra_giselle_addon:fuel_loader",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"Name": "ad_astra_giselle_addon:gravity_normalizer",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
+				"Name": "ad_astra_giselle_addon:rocket_sensor",
+				"full": true
+			}
+		}
+	]
+}

@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -8945316,
+				"Instant": false,
+				"Name": "sons_of_sins:acid_bloodstream"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -6140833,
+				"Instant": false,
+				"Name": "sons_of_sins:allure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3622936,
+				"Instant": false,
+				"Name": "sons_of_sins:arctic_cells"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3042732,
+				"Instant": false,
+				"Name": "sons_of_sins:boiling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8601493,
+				"Instant": false,
+				"Name": "sons_of_sins:cell_division"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -9422261,
+				"Instant": false,
+				"Name": "sons_of_sins:greed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -9676451,
+				"Instant": false,
+				"Name": "sons_of_sins:hercules_fury"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11306856,
+				"Instant": false,
+				"Name": "sons_of_sins:hydrophobia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -4277844,
+				"Instant": false,
+				"Name": "sons_of_sins:insanity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6990940,
+				"Instant": false,
+				"Name": "sons_of_sins:instinct"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11696554,
+				"Instant": false,
+				"Name": "sons_of_sins:last_breath"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -8601493,
+				"Instant": false,
+				"Name": "sons_of_sins:stretchy_tendons"
+			}
+		}
+	]
+}

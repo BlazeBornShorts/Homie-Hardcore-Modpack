@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9328819,
+				"Name": "galosphere:crystal_canyons"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9328819,
+				"Name": "galosphere:lichen_caves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9328819,
+				"Name": "galosphere:pink_salt_caves"
+			}
+		}
+	]
+}

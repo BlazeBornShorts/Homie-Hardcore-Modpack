@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 6829738,
+				"Instant": false,
+				"Name": "arcane_abilities:xp_boost"
+			}
+		}
+	]
+}

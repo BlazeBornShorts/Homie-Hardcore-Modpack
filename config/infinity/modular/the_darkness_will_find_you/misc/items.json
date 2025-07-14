@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:ancient_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:ancient_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:ancient_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:burned_totem_of_darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:charged_totem_of_darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:cursed_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:cursed_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deep_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:sculk_cat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:sculk_cow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:sculk_pig_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:shackled_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:spreader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:totem_of_darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:wretched_spawn_egg"
+		}
+	]
+}

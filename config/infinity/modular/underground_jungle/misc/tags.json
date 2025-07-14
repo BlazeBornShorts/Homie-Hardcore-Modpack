@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:jungle_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_bricks"
+		}
+	]
+}

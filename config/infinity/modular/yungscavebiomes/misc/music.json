@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:music.overworld.ice_caves"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:music.overworld.lost_caves"
+		}
+	]
+}

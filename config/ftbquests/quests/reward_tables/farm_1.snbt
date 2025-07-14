@@ -1,0 +1,104 @@
+{
+	id: "44B08404DEEE9BF8"
+	loot_size: 3
+	order_index: 7
+	rewards: [
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:wheat_seeds"
+			}
+		}
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:pumpkin_seeds"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:melon_seeds"
+			}
+			random_bonus: 4
+		}
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:beetroot_seeds"
+			}
+		}
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:carrot"
+			}
+		}
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:potato"
+			}
+		}
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:tomato_seeds"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "farmersdelight:cabbage_seeds"
+			}
+			random_bonus: 4
+		}
+	]
+	title: "farm 1"
+}

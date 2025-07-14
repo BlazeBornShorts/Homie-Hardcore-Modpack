@@ -1,0 +1,85 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16764109,
+				"Instant": false,
+				"Name": "unusualend:breach_linked"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -39169,
+				"Instant": false,
+				"Name": "unusualend:crystallization"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -13487566,
+				"Instant": false,
+				"Name": "unusualend:disruption"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -15704495,
+				"Instant": false,
+				"Name": "unusualend:ender_infection"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16751002,
+				"Instant": false,
+				"Name": "unusualend:heaviness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16026,
+				"Instant": false,
+				"Name": "unusualend:serenity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -4121136,
+				"Instant": false,
+				"Name": "unusualend:spectral_stride"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -4468228,
+				"Instant": false,
+				"Name": "unusualend:swift_strikes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -14376058,
+				"Instant": false,
+				"Name": "unusualend:warped_tenacity"
+			}
+		}
+	]
+}

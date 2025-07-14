@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "seadwellers:loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish"
+		}
+	]
+}

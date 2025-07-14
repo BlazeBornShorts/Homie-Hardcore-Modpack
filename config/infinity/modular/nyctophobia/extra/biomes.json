@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9328819,
+				"Name": "nyctophobia:ancient_dead_coral_reef"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4226851,
+				"Name": "nyctophobia:deep_dark_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7842607,
+				"Name": "nyctophobia:eroded_haunted_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7312170,
+				"Name": "nyctophobia:haunted_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8299824,
+				"Name": "nyctophobia:haunted_lakes"
+			}
+		}
+	]
+}

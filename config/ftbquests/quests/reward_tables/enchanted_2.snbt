@@ -1,0 +1,41 @@
+{
+	id: "7AD58EC2B58BC920"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "blazegear:brimsteel_ingot"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "celestial_artifacts:netherite_ring"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "potionring:ring_of_regeneration"
+			}
+		}
+	]
+	title: "enchanted 2"
+}

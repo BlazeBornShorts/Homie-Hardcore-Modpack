@@ -1,0 +1,85 @@
+{
+	id: "73B21140E891CDAE"
+	loot_size: 3
+	order_index: 13
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:pearl"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:uranium"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:pure_darkness"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:tectonic_shard"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:azure_neodymium_ingot"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:scarlet_neodymium_ingot"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:gumball_pile"
+			}
+		}
+	]
+	title: "alex caves"
+}

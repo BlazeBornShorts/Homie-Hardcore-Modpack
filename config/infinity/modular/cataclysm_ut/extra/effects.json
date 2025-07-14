@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3407668,
+				"Instant": false,
+				"Name": "cataclysm_ut:cataclysmdebuff"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3407617,
+				"Instant": false,
+				"Name": "cataclysm_ut:cataclysmdebuff_2"
+			}
+		}
+	]
+}

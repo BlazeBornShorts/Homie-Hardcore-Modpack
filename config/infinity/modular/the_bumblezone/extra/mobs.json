@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "the_bumblezone:bee_queen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "the_bumblezone:beehemoth"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "the_bumblezone:honey_slime"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "the_bumblezone:rootmin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "the_bumblezone:variant_bee"
+			}
+		}
+	]
+}

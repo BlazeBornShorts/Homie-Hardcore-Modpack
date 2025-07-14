@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "thermal:white_rockwool"
+				},
+				{
+					"Name": "thermal:light_gray_rockwool"
+				},
+				{
+					"Name": "thermal:gray_rockwool"
+				},
+				{
+					"Name": "thermal:black_rockwool"
+				},
+				{
+					"Name": "thermal:brown_rockwool"
+				},
+				{
+					"Name": "thermal:red_rockwool"
+				},
+				{
+					"Name": "thermal:orange_rockwool"
+				},
+				{
+					"Name": "thermal:yellow_rockwool"
+				},
+				{
+					"Name": "thermal:lime_rockwool"
+				},
+				{
+					"Name": "thermal:green_rockwool"
+				},
+				{
+					"Name": "thermal:light_blue_rockwool"
+				},
+				{
+					"Name": "thermal:blue_rockwool"
+				},
+				{
+					"Name": "thermal:cyan_rockwool"
+				},
+				{
+					"Name": "thermal:purple_rockwool"
+				},
+				{
+					"Name": "thermal:magenta_rockwool"
+				},
+				{
+					"Name": "thermal:pink_rockwool"
+				}
+			]
+		}
+	]
+}

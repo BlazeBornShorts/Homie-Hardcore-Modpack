@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "echoes:cobalt_shimmerdown"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "echoes:cobalt_shimmerdown_bush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "echoes:forest_llerae"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "echoes:llerae"
+			}
+		}
+	]
+}

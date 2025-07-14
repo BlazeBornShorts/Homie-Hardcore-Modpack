@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:music.disc.gloomper_anthem"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music.disc.gloomper_secret"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music.disc.limax_maximus"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music.disc.mammoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music.disc.relict"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music.undergarden"
+		}
+	]
+}

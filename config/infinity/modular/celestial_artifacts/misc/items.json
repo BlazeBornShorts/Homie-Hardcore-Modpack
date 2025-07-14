@@ -1,0 +1,380 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:abyss_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:abyss_will_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:amethyst_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:angel_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:angel_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:backtrack_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:bearing_stamen"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:catastrophe_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:chaotic_etching"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:chaotic_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:charming_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:corrupt_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:cross_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:cursed_protector"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:cursed_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:cursed_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:demon_curse"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:demon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:desire_etching"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:destroyer_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:diamond_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:earth_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:earth_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:earth_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:earth_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:emerald_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:emerald_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:emerald_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:end_etching"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:ender_protector"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:evil_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:fang_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:flame_arrow_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:flight_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:freeze_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:gallop_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:gluttony_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:gold_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:greedy_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:guardian_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:heart_of_revenge"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:heirloom_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:hidden_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:holy_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:holy_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:holy_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:iron_scabbard"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:knight_shelter"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:leech_scabbard"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:life_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:life_etching"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:lock_of_abyss"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:magic_arrow_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:magic_horseshoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:nebula_cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:nether_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:netherite_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:nihility_etching"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:origin_etching"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:prayer_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:precious_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:precious_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:purified_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:red_heart_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:red_ruby_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:repent_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:ring_of_life"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:sacrificial_object"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:sands_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:scarlet_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:sea_god_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:sea_god_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:shadow_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:skywalker_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:solar_magnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:soul_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:spirit_arrow_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:spirit_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:spirit_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:spirit_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:star_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:the_end_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:thunder_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:titan_scabbard"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:traveler_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:truth_etching"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:twisted_brain"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:twisted_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:twisted_scabbard"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:twisted_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:undead_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:unlucky_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:unowned_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestial_artifacts:war_dead_badge"
+		}
+	]
+}

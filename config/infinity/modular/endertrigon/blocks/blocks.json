@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Name": "endertrigon:baby_dragon_egg",
+				"full": false
+			}
+		}
+	]
+}

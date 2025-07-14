@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "skilltree:amnesia_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:armored_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:arsonist_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:assassin_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:bone_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:copper_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:copper_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:diamond_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:fiery_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:fisherman_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:gilded_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:golden_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:healer_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:healing_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:iron_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:scholar_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:silent_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:simple_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:toxic_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:traveler_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "skilltree:wisdom_scroll"
+		}
+	]
+}

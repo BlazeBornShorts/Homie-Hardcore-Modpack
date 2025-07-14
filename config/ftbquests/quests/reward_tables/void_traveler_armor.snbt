@@ -1,0 +1,44 @@
+{
+	id: "66F159CA5B610812"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "shadowlands:void_traveler_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "shadowlands:void_traveler_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "shadowlands:void_traveler_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "shadowlands:void_traveler_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "void_traveler_armor"
+}

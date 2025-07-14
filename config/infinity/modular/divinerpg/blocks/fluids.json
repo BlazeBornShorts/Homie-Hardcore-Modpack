@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "divinerpg:smoldering_tar_still",
+				"Name": "divinerpg:smoldering_tar"
+			}
+		}
+	]
+}

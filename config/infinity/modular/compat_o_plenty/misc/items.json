@@ -1,0 +1,904 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:black_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:black_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:black_sandstone_brick_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:black_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:black_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:black_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:chiseled_polished_rose_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:cracked_polished_rose_quartz_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:cut_black_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:cut_orange_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:cut_white_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:cypress_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:cypress_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:cypress_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:dead_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:fir_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:flowering_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:flowering_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:flowering_oak_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:galanos_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:galanos_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:galanos_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:galanos_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:galanos_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:glowing_moss_paste"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hellbark_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_dead_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_hellbark_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_jacaranda_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_magic_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_umbran_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:hollow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:jacaranda_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:magic_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:mahogany_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_sandstone_brick_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:orange_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:origin_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:origin_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:origin_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:palm_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_brick_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:polished_rose_quartz_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:rainbow_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:rainbow_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:rainbow_birch_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:red_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:red_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:red_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:redwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:smooth_black_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:smooth_orange_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:smooth_white_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:snowblossom_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:snowblossom_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:snowblossom_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_dead_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_fir_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_hellbark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_jacaranda_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_magic_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_mahogany_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_palm_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_redwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_umbran_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:stripped_willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_dead_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_fir_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_hellbark_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_jacaranda_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_magic_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_mahogany_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_palm_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_redwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_umbran_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:trapped_willow_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:umbran_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_dead_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_fir_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_hellbark_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_jacaranda_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_magic_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_mahogany_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_redwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_umbran_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:vertical_willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:white_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:white_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:white_sandstone_brick_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:white_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:white_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:white_sandstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:willow_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:yellow_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:yellow_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "compat_o_plenty:yellow_maple_leaf_pile"
+		}
+	]
+}

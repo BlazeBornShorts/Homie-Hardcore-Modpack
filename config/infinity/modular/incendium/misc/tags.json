@@ -1,0 +1,104 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "incendium:airs"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:basalt_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:bedrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:bsn_no_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:dunes"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:ices"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:knight_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:nether_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:nether_blocks_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:nether_blocks_no_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:nether_wart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:smashables"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:smooth_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:smooth_basalt_only"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:soil_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:soul_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:soul_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:ssv_ceiling"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:ssv_soil_ceiling"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:toxic_surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "incendium:warped_wart_block"
+		}
+	]
+}

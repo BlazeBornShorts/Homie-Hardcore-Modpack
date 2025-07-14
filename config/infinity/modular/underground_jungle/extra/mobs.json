@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "underground_jungle:jungle_zombie"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "underground_jungle:mossy_skeleton"
+			}
+		}
+	]
+}

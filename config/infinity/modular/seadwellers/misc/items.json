@@ -1,0 +1,280 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "seadwellers:aquamarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:aquamarine_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:aquamarine_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:aquamarine_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:architect_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:blacksmith_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:broken_trident"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:cavern_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:collector_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:copper_relics"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:coral_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:depth_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:farmer_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:gold_relics"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:hunter_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:icy_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:iron_relics"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:kelp_shearer"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_architect_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_blacksmith_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_cavern_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_collector_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_coral_orange_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_coral_yellow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_farmer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_hunter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_polar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_river_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:oxygen_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:oxygen_coral_inactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:random_mermorph_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:river_loot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:sea_house_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:sea_house_spawner_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:sea_village_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:seashell_of_architect"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:seashell_of_blacksmith"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:seashell_of_farmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:seashell_of_hunter"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:seashell_of_worker"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:snatcherfish_yellow"
+		}
+	]
+}

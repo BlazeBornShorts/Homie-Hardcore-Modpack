@@ -1,0 +1,39 @@
+{
+  "require_storm_to_spawn": true,
+  "aberrationconfigs": {
+    "aberration_spawnweight": 3,
+    "aberration_health": 50.0,
+    "aberration_attack_damage": 8.0,
+    "aberration_exp": 30
+  },
+  "craekenconfigs": {
+    "craeken_spawnweight": 1,
+    "craeken_health": 250.0,
+    "craeken_attack_damage": 15.0,
+    "craeken_exp": 250
+  },
+  "manarawconfigs": {
+    "manaraw_spawnweight": 1,
+    "manaraw_health": 250.0,
+    "manaraw_attack_damage": 25.0,
+    "manaraw_exp": 500
+  },
+  "miraidconfigs": {
+    "miraid_spawnweight": 2,
+    "miraid_health": 70.0,
+    "miraid_attack_damage": 10.0,
+    "miraid_exp": 5
+  },
+  "mohastconfigs": {
+    "mohast_spawnweight": 3,
+    "mohast_health": 50.0,
+    "mohast_attack_damage": 8.0,
+    "mohast_exp": 15
+  },
+  "slighthunterconfigs": {
+    "sighthunter_spawnweight": 1,
+    "sighthunter_health": 35.0,
+    "sighthunter_attack_damage": 15.0,
+    "sighthunter_exp": 8
+  }
+}

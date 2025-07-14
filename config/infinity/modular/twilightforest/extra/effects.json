@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 5688317,
+				"Instant": false,
+				"Name": "twilightforest:frosted"
+			}
+		}
+	]
+}

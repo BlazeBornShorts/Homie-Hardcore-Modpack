@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ice_shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:lost_caves_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:sandstorm"
+		}
+	]
+}

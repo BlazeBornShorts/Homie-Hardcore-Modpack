@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 7799039,
+				"Instant": false,
+				"Name": "voidscape:aura"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 65450,
+				"Instant": false,
+				"Name": "voidscape:fortified"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16742144,
+				"Instant": false,
+				"Name": "voidscape:ichor"
+			}
+		}
+	]
+}

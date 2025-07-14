@@ -1,0 +1,173 @@
+{
+	id: "57AED0C6E671F43D"
+	loot_size: 5
+	order_index: 8
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "majruszsdifficulty:wither_treasure_bag"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "irons_spellbooks:mana_ring"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:wither_skeleton_skull"
+			}
+		}
+		{
+			count: 16
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:blue_obsidian"
+			}
+			random_bonus: 48
+		}
+		{
+			count: 16
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:obsidian"
+			}
+			random_bonus: 48
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:ancient_debris"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 3
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 4
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:netherite_upgrade_smithing_template"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_diamond_upgrade_smithing_template"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:flaming_ruby_upgrade_smithing_template"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:diamond"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_ingot"
+			}
+			random_bonus: 2
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:nether_ruby"
+			}
+			random_bonus: 1
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "celestial_artifacts:undead_charm"
+			}
+		}
+	]
+	title: "Nether boss tier 1"
+}

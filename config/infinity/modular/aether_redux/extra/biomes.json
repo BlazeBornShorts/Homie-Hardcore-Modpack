@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:cloudcaps"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:frosted_forests"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:gilded_grasslands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:gilded_groves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:glacial_tundra"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:skyfields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:skyroot_shrublands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether_redux:the_blight"
+			}
+		}
+	]
+}

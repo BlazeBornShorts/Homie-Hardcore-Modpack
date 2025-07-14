@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:bedrolls"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pickerelweed_placeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pike_spawners"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_logs"
+		}
+	]
+}

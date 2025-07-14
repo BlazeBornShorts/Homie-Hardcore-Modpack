@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ror:amps"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:corrundodile_crushable"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:crystal_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:gem_cutters"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:moon_dungeon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:overworld_carver_replaceables"
+		}
+	]
+}

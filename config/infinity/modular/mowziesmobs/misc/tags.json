@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:can_grottol_dig"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:geomancy_tunnelable"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:geomancy_useable"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:glazed_terracotta"
+		}
+	]
+}

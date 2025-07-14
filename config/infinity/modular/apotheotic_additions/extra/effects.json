@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -60730,
+				"Instant": false,
+				"Name": "apotheotic_additions:bad_voodoo"
+			}
+		}
+	]
+}

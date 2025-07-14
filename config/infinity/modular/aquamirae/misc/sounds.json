@@ -1,0 +1,104 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:ambient.ship_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:block.frozen_chest.unlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:effect.mystery"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:effect.oxygen"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.attack_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.attack_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.captain_cornelia.rage"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.deep_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.deep_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.deep_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.eel.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.eel.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.golden_moth.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:entity.golden_moth.catch"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.pouch.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.scroll.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.shell_horn.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.terrible_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:item.treasure_pouch.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:record.forsaken_drownage"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:record.horizon"
+		}
+	]
+}

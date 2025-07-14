@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:borealis_glint"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:ironwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:red_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:silver_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:white_sakura_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:witch_hazel_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:yellow_sakura_leaves"
+		}
+	]
+}

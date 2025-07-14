@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "aether:crystal_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "aether:holiday_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "aether:skyroot_tree"
+			}
+		}
+	]
+}

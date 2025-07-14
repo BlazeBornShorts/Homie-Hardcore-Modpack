@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdoors:limbo_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:monolith"
+		}
+	]
+}

@@ -1,0 +1,160 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_dandelion"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:aster"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:black_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bleeding_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brown_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cyan_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dorcel"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:felicia_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:fireweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glistering_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:gray_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hibiscus"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hyssop"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_blue_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_gray_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:lime_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magenta_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:poppy_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:salmon_poppy_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tsubaki"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:waratah"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_trillium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:wilting_trillium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_snowbelle"
+		}
+	]
+}

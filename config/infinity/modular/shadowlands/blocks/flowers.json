@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:duskflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:endereye_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_dusklily"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:silver_creep_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:velloplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:velplant"
+		}
+	]
+}

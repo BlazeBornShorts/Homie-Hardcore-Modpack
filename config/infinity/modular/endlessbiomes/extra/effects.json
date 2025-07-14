@@ -1,0 +1,58 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -9714014,
+				"Instant": false,
+				"Name": "endlessbiomes:cowardice"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -13487566,
+				"Instant": false,
+				"Name": "endlessbiomes:decay"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11196283,
+				"Instant": false,
+				"Name": "endlessbiomes:perplexion"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8825542,
+				"Instant": false,
+				"Name": "endlessbiomes:tough_dirt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -7580002,
+				"Instant": false,
+				"Name": "endlessbiomes:truth"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -4505022,
+				"Instant": false,
+				"Name": "endlessbiomes:weight"
+			}
+		}
+	]
+}

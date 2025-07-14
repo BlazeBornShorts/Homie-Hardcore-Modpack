@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 10052662,
+				"Instant": false,
+				"Name": "yungscavebiomes:buffeted"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 246524,
+				"Instant": true,
+				"Name": "yungscavebiomes:frost"
+			}
+		}
+	]
+}

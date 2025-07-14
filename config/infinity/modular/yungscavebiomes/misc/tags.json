@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:creeping_ice_glows_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ice_sheet_feature_avoid"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:sand_snapper_blocks"
+		}
+	]
+}

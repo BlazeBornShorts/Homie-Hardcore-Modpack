@@ -1,0 +1,104 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:axe_of_regrowth"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:blade_of_the_jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:chiseled_temple_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:cracked_temple_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:jungle_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:jungle_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:jungle_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:jungle_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:mossy_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:mossy_temple_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_brick_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_brick_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_brick_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_brick_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "underground_jungle:temple_sword"
+		}
+	]
+}

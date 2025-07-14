@@ -1,0 +1,196 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:ancient_drive_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:animation_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:bloody_altar_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse_villager_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse_warlock_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:demolisher"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:erosion_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:erosion_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:erosion_rock_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:ghost_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:ghost_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:ghost_warrior_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:ghost_warrior_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:ghost_warrior_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:ghost_warrior_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guardian_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guardian_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guardians_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:heart_of_pagan"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_boss_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_debris"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_executioner_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_golem_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_knight_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_shaman_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_skeleton_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:logo_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:netherworld_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:remove_mob"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:soul_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:soul_summoning_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:tester_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:the_army_of_minotaur_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:tomb_arrows_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:tomb_gas_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:tomb_summon_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:tombstone"
+		}
+	]
+}

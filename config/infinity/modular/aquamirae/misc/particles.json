@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:electric"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:ghost_shine"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:shine"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.music_disc.sentience"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:music.redux_menu"
+		}
+	]
+}

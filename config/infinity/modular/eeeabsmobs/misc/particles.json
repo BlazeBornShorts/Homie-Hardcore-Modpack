@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guardian_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:vertical_line"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10444421,
+				"Name": "ad_astra:glacio_ice_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10444421,
+				"Name": "ad_astra:glacio_snowy_barrens"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -15024384,
+				"Name": "ad_astra:infernal_venus_barrens"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6839486,
+				"Name": "ad_astra:lunar_wastelands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6380485,
+				"Name": "ad_astra:martian_canyon_creek"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10444421,
+				"Name": "ad_astra:martian_polar_caps"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6380485,
+				"Name": "ad_astra:martian_wastelands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5331926,
+				"Name": "ad_astra:mercury_deltas"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -7888045,
+				"Name": "ad_astra:orbit"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -15024384,
+				"Name": "ad_astra:venus_wastelands"
+			}
+		}
+	]
+}

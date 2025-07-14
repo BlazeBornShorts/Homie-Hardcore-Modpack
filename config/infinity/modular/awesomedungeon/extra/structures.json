@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:jungle_giant_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:the_usine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:witch_castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:mushroom_abandonned"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:swamp_big_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:the_ztower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:abandoned_oak_palace"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:better_default_jungle_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "awesomedungeon:desert_temple_husk"
+			}
+		}
+	]
+}

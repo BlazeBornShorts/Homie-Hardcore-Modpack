@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:music.platinum_boss"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:music.platinum_boss_foggy"
+		}
+	]
+}

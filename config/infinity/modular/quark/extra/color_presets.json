@@ -1,0 +1,375 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "quark:white_framed_glass"
+				},
+				{
+					"Name": "quark:light_gray_framed_glass"
+				},
+				{
+					"Name": "quark:gray_framed_glass"
+				},
+				{
+					"Name": "quark:black_framed_glass"
+				},
+				{
+					"Name": "quark:brown_framed_glass"
+				},
+				{
+					"Name": "quark:red_framed_glass"
+				},
+				{
+					"Name": "quark:orange_framed_glass"
+				},
+				{
+					"Name": "quark:yellow_framed_glass"
+				},
+				{
+					"Name": "quark:lime_framed_glass"
+				},
+				{
+					"Name": "quark:green_framed_glass"
+				},
+				{
+					"Name": "quark:light_blue_framed_glass"
+				},
+				{
+					"Name": "quark:blue_framed_glass"
+				},
+				{
+					"Name": "quark:cyan_framed_glass"
+				},
+				{
+					"Name": "quark:purple_framed_glass"
+				},
+				{
+					"Name": "quark:magenta_framed_glass"
+				},
+				{
+					"Name": "quark:pink_framed_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "quark:white_framed_glass_pane"
+				},
+				{
+					"Name": "quark:light_gray_framed_glass_pane"
+				},
+				{
+					"Name": "quark:gray_framed_glass_pane"
+				},
+				{
+					"Name": "quark:black_framed_glass_pane"
+				},
+				{
+					"Name": "quark:brown_framed_glass_pane"
+				},
+				{
+					"Name": "quark:red_framed_glass_pane"
+				},
+				{
+					"Name": "quark:orange_framed_glass_pane"
+				},
+				{
+					"Name": "quark:yellow_framed_glass_pane"
+				},
+				{
+					"Name": "quark:lime_framed_glass_pane"
+				},
+				{
+					"Name": "quark:green_framed_glass_pane"
+				},
+				{
+					"Name": "quark:light_blue_framed_glass_pane"
+				},
+				{
+					"Name": "quark:blue_framed_glass_pane"
+				},
+				{
+					"Name": "quark:cyan_framed_glass_pane"
+				},
+				{
+					"Name": "quark:purple_framed_glass_pane"
+				},
+				{
+					"Name": "quark:magenta_framed_glass_pane"
+				},
+				{
+					"Name": "quark:pink_framed_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "quark:white_shingles"
+				},
+				{
+					"Name": "quark:light_gray_shingles"
+				},
+				{
+					"Name": "quark:gray_shingles"
+				},
+				{
+					"Name": "quark:black_shingles"
+				},
+				{
+					"Name": "quark:brown_shingles"
+				},
+				{
+					"Name": "quark:red_shingles"
+				},
+				{
+					"Name": "quark:orange_shingles"
+				},
+				{
+					"Name": "quark:yellow_shingles"
+				},
+				{
+					"Name": "quark:lime_shingles"
+				},
+				{
+					"Name": "quark:green_shingles"
+				},
+				{
+					"Name": "quark:light_blue_shingles"
+				},
+				{
+					"Name": "quark:blue_shingles"
+				},
+				{
+					"Name": "quark:cyan_shingles"
+				},
+				{
+					"Name": "quark:purple_shingles"
+				},
+				{
+					"Name": "quark:magenta_shingles"
+				},
+				{
+					"Name": "quark:pink_shingles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "quark:white_shingles_slab"
+				},
+				{
+					"Name": "quark:light_gray_shingles_slab"
+				},
+				{
+					"Name": "quark:gray_shingles_slab"
+				},
+				{
+					"Name": "quark:black_shingles_slab"
+				},
+				{
+					"Name": "quark:brown_shingles_slab"
+				},
+				{
+					"Name": "quark:red_shingles_slab"
+				},
+				{
+					"Name": "quark:orange_shingles_slab"
+				},
+				{
+					"Name": "quark:yellow_shingles_slab"
+				},
+				{
+					"Name": "quark:lime_shingles_slab"
+				},
+				{
+					"Name": "quark:green_shingles_slab"
+				},
+				{
+					"Name": "quark:light_blue_shingles_slab"
+				},
+				{
+					"Name": "quark:blue_shingles_slab"
+				},
+				{
+					"Name": "quark:cyan_shingles_slab"
+				},
+				{
+					"Name": "quark:purple_shingles_slab"
+				},
+				{
+					"Name": "quark:magenta_shingles_slab"
+				},
+				{
+					"Name": "quark:pink_shingles_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "quark:white_shingles_stairs"
+				},
+				{
+					"Name": "quark:light_gray_shingles_stairs"
+				},
+				{
+					"Name": "quark:gray_shingles_stairs"
+				},
+				{
+					"Name": "quark:black_shingles_stairs"
+				},
+				{
+					"Name": "quark:brown_shingles_stairs"
+				},
+				{
+					"Name": "quark:red_shingles_stairs"
+				},
+				{
+					"Name": "quark:orange_shingles_stairs"
+				},
+				{
+					"Name": "quark:yellow_shingles_stairs"
+				},
+				{
+					"Name": "quark:lime_shingles_stairs"
+				},
+				{
+					"Name": "quark:green_shingles_stairs"
+				},
+				{
+					"Name": "quark:light_blue_shingles_stairs"
+				},
+				{
+					"Name": "quark:blue_shingles_stairs"
+				},
+				{
+					"Name": "quark:cyan_shingles_stairs"
+				},
+				{
+					"Name": "quark:purple_shingles_stairs"
+				},
+				{
+					"Name": "quark:magenta_shingles_stairs"
+				},
+				{
+					"Name": "quark:pink_shingles_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "quark:white_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:light_gray_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:gray_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:black_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:brown_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:red_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:orange_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:yellow_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:lime_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:green_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:light_blue_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:blue_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:cyan_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:purple_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:magenta_shingles_vertical_slab"
+				},
+				{
+					"Name": "quark:pink_shingles_vertical_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "quark:white_stool"
+				},
+				{
+					"Name": "quark:light_gray_stool"
+				},
+				{
+					"Name": "quark:gray_stool"
+				},
+				{
+					"Name": "quark:black_stool"
+				},
+				{
+					"Name": "quark:brown_stool"
+				},
+				{
+					"Name": "quark:red_stool"
+				},
+				{
+					"Name": "quark:orange_stool"
+				},
+				{
+					"Name": "quark:yellow_stool"
+				},
+				{
+					"Name": "quark:lime_stool"
+				},
+				{
+					"Name": "quark:green_stool"
+				},
+				{
+					"Name": "quark:light_blue_stool"
+				},
+				{
+					"Name": "quark:blue_stool"
+				},
+				{
+					"Name": "quark:cyan_stool"
+				},
+				{
+					"Name": "quark:purple_stool"
+				},
+				{
+					"Name": "quark:magenta_stool"
+				},
+				{
+					"Name": "quark:pink_stool"
+				}
+			]
+		}
+	]
+}

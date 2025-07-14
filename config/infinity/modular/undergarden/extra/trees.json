@@ -1,0 +1,95 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:grongle_bush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:grongle_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:huge_blood_mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_brown_mushroom",
+				"Name": "undergarden:huge_indigo_mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:huge_ink_mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:huge_veil_mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:small_grongle_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:smogstem_bush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:smogstem_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:tall_smogstem_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:tall_wigglewood_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:wide_smogstem_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "undergarden:wigglewood_tree"
+			}
+		}
+	]
+}

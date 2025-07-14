@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:gamma_mushroom_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:gamma_proton"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:gamma_tephra"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:gamma_tephra_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:gamma_tephra_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:tremorzilla_gamma_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:tremorzilla_gamma_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:tremorzilla_gamma_proton"
+		}
+	]
+}

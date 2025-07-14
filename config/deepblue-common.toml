@@ -1,0 +1,23 @@
+
+["Configs for Deep Blue!"]
+	#How often should this creature spawn? Default is 1.
+	"Great White Shark Spawn Weight" = 1
+	#How often should this creature spawn? Default is 3.
+	"Mako Shark Spawn Weight" = 3
+	#How often should this creature spawn? Default is 1.
+	"Blue Whale Spawn Weight" = 1
+	#How often should this creature spawn? Default is 1.
+	"Whale Shark Spawn Weight" = 1
+	#How often should this creature spawn? Default is 4.
+	"Beluga Whale Spawn Weight" = 4
+	#How often should this creature? Default is 8.
+	"Lion's Mane Jellyfish Spawn Weight" = 8
+	#How often should this creature spawn? Default is 3.
+	"Coelacanth Spawn Weight" = 3
+	#How often should this creature spawn? Default is 2.
+	"Hammerhead Shark Spawn Weight" = 2
+	#How often should this creature spawn? Default is 3.
+	"Krill Spawn Weight" = 3
+	#How often should this creature spawn? Default is 3.
+	"Shrimp Spawn Weight" = 3
+

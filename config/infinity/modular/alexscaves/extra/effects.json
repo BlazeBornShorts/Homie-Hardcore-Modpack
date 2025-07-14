@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 2209279,
+				"Instant": false,
+				"Name": "alexscaves:bubbled"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 5312014,
+				"Instant": false,
+				"Name": "alexscaves:darkness_incarnate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 10610,
+				"Instant": false,
+				"Name": "alexscaves:deepsight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 7853582,
+				"Instant": false,
+				"Name": "alexscaves:irradiated"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 5461356,
+				"Instant": false,
+				"Name": "alexscaves:magnetizing"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 12201518,
+				"Instant": false,
+				"Name": "alexscaves:rage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16776133,
+				"Instant": false,
+				"Name": "alexscaves:stunned"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16753899,
+				"Instant": false,
+				"Name": "alexscaves:sugar_rush"
+			}
+		}
+	]
+}

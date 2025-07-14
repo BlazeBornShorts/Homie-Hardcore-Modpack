@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_gem_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_gem_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_gem_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_gem_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_irons_spellbook"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_meka_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_mekasuit_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_mekasuit_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_mekasuit_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:catalyst_mekasuit_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:creative_scorched_rf_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:creative_seared_rf_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:etheric_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:etheric_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:flickering_reconstruction_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:incomparable_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:meka_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:mekaplate_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:mekaplate_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:mekaplate_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:mekaplate_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:molten_etheric_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:molten_reconstruction_core_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:overload_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:override_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:radiation_shielding_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:reconstruction_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:revival_spellbook_irons"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:scorched_rf_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:seared_rf_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:singular_gem_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:singular_gem_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:singular_gem_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ticex:singular_gem_leggings"
+		}
+	]
+}

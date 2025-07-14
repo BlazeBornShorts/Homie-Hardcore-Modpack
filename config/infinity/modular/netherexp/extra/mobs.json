@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherexp:apparition"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherexp:banshee"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherexp:ecto_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherexp:stampede"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "netherexp:vessel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "netherexp:wisp"
+			}
+		}
+	]
+}

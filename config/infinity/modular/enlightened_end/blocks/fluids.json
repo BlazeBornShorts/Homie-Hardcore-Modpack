@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "enlightened_end:ooze_fluid",
+				"Name": "enlightened_end:ooze_fluid"
+			}
+		}
+	]
+}

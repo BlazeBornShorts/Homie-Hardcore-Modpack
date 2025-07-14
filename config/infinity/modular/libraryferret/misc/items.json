@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "libraryferret:diamond_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:emerald_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:fake_diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:fake_emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:fake_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:fake_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:fake_netherite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:gold_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:iron_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:netherite_coins_jtl"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:unbreakable_diamond_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:unbreakable_emerald_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:unbreakable_gold_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:unbreakable_iron_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "libraryferret:unbreakable_netherite_beacon"
+		}
+	]
+}

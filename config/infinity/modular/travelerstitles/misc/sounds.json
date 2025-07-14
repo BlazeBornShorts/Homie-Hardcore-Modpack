@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "travelerstitles:biome"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelerstitles:dimension"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelerstitles:waystone"
+		}
+	]
+}

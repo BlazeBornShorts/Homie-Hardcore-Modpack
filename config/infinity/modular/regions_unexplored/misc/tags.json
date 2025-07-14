@@ -1,0 +1,164 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bamboo_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bioshroom_grow_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:branches_can_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brim_plant_can_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cattail_can_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:crop_plantable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hyacinth_blooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:prismarite_crystals"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:replaceable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:sandy_plant_can_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:shrub_can_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:shrubs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:snow_plant_can_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stone_plant_can_survive_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_logs"
+		}
+	]
+}

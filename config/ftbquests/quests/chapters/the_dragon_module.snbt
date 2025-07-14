@@ -1,0 +1,498 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_dragon_module"
+	group: "7D1CA68D540B909D"
+	icon: {
+		Count: 1b
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "iceandfire:bestiary"
+	}
+	id: "6C5F2C44D60826BB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"As I am sure you have already noticed dragon run loose this world. They are free, destructive forces of nature who prove difficult to conquer. Maybe one day you will have one of your own!"
+				""
+				"You must become very powerful if you expect to defeat your first dragon. Be sure to have a plan whenever you believe that you are ready!"
+				""
+				"Information on Completing quests can be found by filling out your manuscript! This can be done by placing a Bestiary in the lecturn and filling it with manuscripts. Manuscripts can be obtained from Ice and Fire Structures as well as quests."
+			]
+			id: "50A455E93349EBB6"
+			rewards: [
+				{
+					id: "2504B504BEF8848B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "5BD9A09E25B91013"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:manuscript"
+					}
+					type: "item"
+				}
+				{
+					id: "1F9FA1E174E2DD09"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:lectern"
+					}
+					type: "item"
+				}
+				{
+					id: "0854B7653ADEA021"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:bestiary"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Death From Above"
+			tasks: [{
+				id: "4418B51760B954BB"
+				title: "Here there be Dragons!!!"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "32CCC195D3F63172"
+			rewards: [
+				{
+					id: "7AFF9F797A73CDA7"
+					type: "xp"
+					xp: 750
+				}
+				{
+					id: "22F75E06E75F72C9"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:manuscript"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Slay a Fire Dragon"
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:armor_red_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "1E3FDBA84A6B6427"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Burn Baby Burn!!!"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "10D7953FD75D51A5"
+			rewards: [
+				{
+					id: "5E50BB85DF1F5B33"
+					type: "xp"
+					xp: 750
+				}
+				{
+					id: "22FA6AB5E628C488"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:manuscript"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Slay an Ice Dragon"
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:armor_white_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "579948FC1457CAE9"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Icy Heights"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "4726F9A9177F0C5D"
+			rewards: [
+				{
+					id: "394209997E2519A6"
+					type: "xp"
+					xp: 750
+				}
+				{
+					id: "049902C299A01CC8"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:manuscript"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Slay a lightning dragon"
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:armor_amythest_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "6B8077C52E7A4606"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ride the Lightning"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "6868E7B016FEC339"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "347FF6AB0448D9CE"
+				table_id: 8662033830301184712L
+				type: "loot"
+			}]
+			subtitle: "Obtain Ice Dragon Blood"
+			tasks: [{
+				id: "671F71F2D90F40AD"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:ice_dragon_blood"
+				}
+				type: "item"
+			}]
+			title: "Cold Blooded"
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "1023EF29F189B485"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "021FAC3F0DA4D801"
+				table_id: 8662033830301184712L
+				type: "loot"
+			}]
+			subtitle: "Obtain Fire Dragon Blood"
+			tasks: [{
+				id: "65A8C818B55AA3B8"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:fire_dragon_blood"
+				}
+				type: "item"
+			}]
+			title: "Too Hot to Handle"
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "012A56781EB9B291"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2016D1F8AA3C7947"
+				table_id: 8662033830301184712L
+				type: "loot"
+			}]
+			subtitle: "Obtain Lightning Dragon Blood"
+			tasks: [{
+				id: "50292036B924D690"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:lightning_dragon_blood"
+				}
+				type: "item"
+			}]
+			title: "Rain Down"
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "5491206AEC5084DD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D7C1BF6B8A14FCA"
+				table_id: 5845929851812371026L
+				type: "choice"
+			}]
+			subtitle: "Obtain a Dragon Egg"
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_egg"
+				criterion: ""
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:dragonegg_red"
+				}
+				id: "72CC24B3EC903434"
+				type: "advancement"
+			}]
+			title: "Dragon Omelet?"
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5491206AEC5084DD"]
+			id: "23F501C26EB06021"
+			rewards: [{
+				id: "11F8669329783CB3"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "iceandfire:dragon_horn"
+				}
+				type: "item"
+			}]
+			subtitle: "A good pet deserves insurance"
+			tasks: [
+				{
+					id: "62AB20FA5F358B81"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragonarmor_diamond_head"
+					}
+					type: "item"
+				}
+				{
+					id: "49A764AD59181337"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragonarmor_diamond_neck"
+					}
+					type: "item"
+				}
+				{
+					id: "7971F2D110F63036"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragonarmor_diamond_body"
+					}
+					type: "item"
+				}
+				{
+					id: "4A6965DBBF249669"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragonarmor_diamond_tail"
+					}
+					type: "item"
+				}
+			]
+			title: "Guarded"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["50A455E93349EBB6"]
+			id: "4D2CE987615E6820"
+			rewards: [
+				{
+					count: 64
+					id: "4B47EB07975017EC"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragon_meal"
+					}
+					type: "item"
+				}
+				{
+					id: "7B8ECA4318D1F0EF"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			subtitle: "Craft a Dragon Forge Core"
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_forge_core"
+				criterion: ""
+				id: "6305F0F73A895353"
+				type: "advancement"
+			}]
+			title: "Powering Up"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4D2CE987615E6820"]
+			id: "026CC8956E08486A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E0DF107848D3E37"
+				table_id: 5845929851812371026L
+				type: "choice"
+			}]
+			subtitle: "Forge one of each dragonsteel ingots"
+			tasks: [
+				{
+					id: "0A8AD90F53379346"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragonsteel_ice_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "34F5CFB8DCDAB15A"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragonsteel_fire_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "5E9B44FBDB07A212"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "iceandfire:dragonsteel_lightning_ingot"
+					}
+					type: "item"
+				}
+			]
+			title: "Through Combined Forces"
+			x: -1.5d
+			y: -4.0d
+		}
+	]
+	title: "The Dragon Module"
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elysium:non_solid_fire_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "elysium:roots_plantable_on"
+		}
+	]
+}

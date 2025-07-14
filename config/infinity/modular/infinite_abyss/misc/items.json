@@ -1,0 +1,728 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:anciant_prismetal_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:anciant_shadowgem_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:astarium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:astarium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:astarium_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:astarium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:astarium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:astarium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:blue_glowing_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:blue_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:charium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:charya_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:charya_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:chomper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cooked_eyeball_frog_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cooked_puffball"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:crystal_construct_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:crystal_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cursed_opal_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cut_charium"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cut_light_blue_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:cut_red_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:dead_crystal_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deep_amethyst_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deep_amethyst_crystal_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deep_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deep_prismarine_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deeprock_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deeprock_golem_spirit_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deepsilver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deepsilver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deepsilver_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:deepstone_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:disgruntled_glow_bulb_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:drill_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:drill_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:ectoplasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:emerald_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:emerald_crystal_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:enchanted_puffball_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:enhancing_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:exploration_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:eyeball_frog_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:eyeball_frog_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fairy_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fifth_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fire_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fire_vortex_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:first_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:flawless_charium"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:flawless_light_blue_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:flawless_red_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fourth_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fourth_layer_cobbled_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fourth_layer_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fourth_layer_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fourth_layer_flowering_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fourth_layer_mycelium"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:frozen_wither_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:frozen_wither_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:fuel_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:giant_eyeball_frog_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:glow_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:glowing_green_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:glowing_green_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:glowing_mycelium"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:glowing_pink_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:glowing_red_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:golden_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:golden_topaz_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:golden_topaz_crystal_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:green_glowing_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:green_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:guardian_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:guardian_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:guardian_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:guardian_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:heart_of_restoration"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:huge_mineshaft_spawn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:huge_puffball_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:ice_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:ice_cube_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:ice_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:ice_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:icicle_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:icicle_middle"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:icicle_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:iron_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:l_1_s_helper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:l_2_s_helper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:l_6_s_helper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:l_7_s_helper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:large_brown_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:large_glowing_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:large_glowing_mushroom_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:large_red_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:layer_1_stalactite"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:layer_1_stalagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:layer_2_stalactite"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:layer_2_stalagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:layer_7_stalactite"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:layer_7_stalagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:light_blue_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:light_blue_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:light_blue_downwards_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:lightning_ghost_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:magical_conduit"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:mechanical_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:medium_brown_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:medium_red_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:mushroom_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:mushroomy_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:mycelium_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:mycelium_vine_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:opal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:opal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:opal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:perfect_charium"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:perfect_red_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:pink_glowing_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:prismashroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:puffball_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:puffball_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:puffball_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:rainbow_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:red_cobbled_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:red_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:red_glowing_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:rough_charium"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:rough_light_blue_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:rough_red_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:ruby_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:ruby_crystal_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:sapphire_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:second_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:second_layer_deepstone_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:seventh_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:seventh_layer_cobbled_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:seventh_layer_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:seventh_layer_deepstone_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:seventh_layer_molten_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:seventh_layer_slimy_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:shadow_eyes_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:shield_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:sixth_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:slimy_deepstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:small_fairy_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:spiked_horror_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:sporetower"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:strange_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:strange_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:strange_stem_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:summoning_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:tempest_of_flame_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:territe"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:vicerite_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:vicerite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:violet_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:violet_diamond_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:violet_diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:violet_diamond_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:violet_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:violet_diamond_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:violet_diamond_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:vortex_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:warmth_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:wind_spirit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:wither_artefact"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinite_abyss:yellow_glowing_crystal"
+		}
+	]
+}

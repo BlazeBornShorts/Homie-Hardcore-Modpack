@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:crystal_spikes_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:gravel_may_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:oasis_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:obfuscates_sound_waves"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:omit_astral"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_heated_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sparkles_spawn_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:spectres_spawn_on"
+		}
+	]
+}

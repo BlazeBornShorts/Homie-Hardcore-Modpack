@@ -1,0 +1,163 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "mna:chimerite_crystal_white"
+				},
+				{
+					"Name": "mna:chimerite_crystal_light_gray"
+				},
+				{
+					"Name": "mna:chimerite_crystal_gray"
+				},
+				{
+					"Name": "mna:chimerite_crystal_black"
+				},
+				{
+					"Name": "mna:chimerite_crystal_brown"
+				},
+				{
+					"Name": "mna:chimerite_crystal_red"
+				},
+				{
+					"Name": "mna:chimerite_crystal_orange"
+				},
+				{
+					"Name": "mna:chimerite_crystal_yellow"
+				},
+				{
+					"Name": "mna:chimerite_crystal_lime"
+				},
+				{
+					"Name": "mna:chimerite_crystal_green"
+				},
+				{
+					"Name": "mna:chimerite_crystal_light_blue"
+				},
+				{
+					"Name": "mna:chimerite_crystal_blue"
+				},
+				{
+					"Name": "mna:chimerite_crystal_cyan"
+				},
+				{
+					"Name": "mna:chimerite_crystal_purple"
+				},
+				{
+					"Name": "mna:chimerite_crystal_magenta"
+				},
+				{
+					"Name": "mna:chimerite_crystal_pink"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "mna:decoration/runic_glass_pane_white"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_light_gray"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_gray"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_black"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_brown"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_red"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_orange"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_yellow"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_lime"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_green"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_light_blue"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_blue"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_cyan"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_purple"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_magenta"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pane_pink"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "mna:decoration/runic_glass_white"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_light_gray"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_gray"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_black"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_brown"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_red"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_orange"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_yellow"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_lime"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_green"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_light_blue"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_blue"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_cyan"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_purple"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_magenta"
+				},
+				{
+					"Name": "mna:decoration/runic_glass_pink"
+				}
+			]
+		}
+	]
+}

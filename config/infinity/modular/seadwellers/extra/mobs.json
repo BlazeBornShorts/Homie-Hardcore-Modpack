@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_architect"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_blacksmith"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "underground_water_creature",
+				"Name": "seadwellers:mermorph_cavern"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_collector"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_coral_orange"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_coral_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_farmer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_hunter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_polar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:mermorph_river"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "seadwellers:random_mermorph"
+			}
+		}
+	]
+}

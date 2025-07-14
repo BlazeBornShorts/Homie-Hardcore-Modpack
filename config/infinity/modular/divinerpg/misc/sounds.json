@@ -1,0 +1,920 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "divinerpg:acid_hag"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:acid_hag_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:alicanto"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:alicanto_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:arcanium_saber"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:archer"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:arid_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:arid_warrior_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ayeraco"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ayeraco_half_health"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ayeraco_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ayeraco_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ayeraco_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ayeraco_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:biphron"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:biphron_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:blitz"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:bohemite"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:bohemite_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cadillion"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cave_crawler_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ceiling_explosions"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:constructor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:constructor_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cori"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cori_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cori_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cori_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:crab"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:crab_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:crawler"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:crawler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:croak"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cyclops"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cyclops_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cymesoid"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cymesoid_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:death_hound"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:death_hound_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:deathcryx"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:deathcryx_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:deep_laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:demon_of_darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:densos"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:densos_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dissiment"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dissiment_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:divine_accumulator"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dramcryx"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dramcryx_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dramix"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dramix_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dream_wrecker"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dream_wrecker_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dungeon_prisoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dungeon_prisoner_change"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dungeon_prisoner_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:duo"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:duo_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:endiku"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:endiku_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ent"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ent_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:explosions"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:feel_soul_arksiane"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:fractite"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:fractite_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:fractite_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:fractite_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:frost_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:frostclaw_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:frozen_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:frozen_flesh_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:galroid"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:galroid_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ghast_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:glacide"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:glacide_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:glinthop"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:glinthop_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:gorgosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:gorgosion_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:grizzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:grizzle_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:growl_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hastreus"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hastreus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:helio"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:helio_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hell_spider"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:herbomancer"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:herbomancer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:high_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hive_queen"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hive_queen_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hover_stinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:hover_stinger_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:iceman"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:iceman_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:insect"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:jackoman"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:jungle_spider"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:karos_intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:karos_laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:kazrotic"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:kazrotic_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:king_of_scorchers"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:king_of_scorchers_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:kobblin"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:la_vekor"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lady_luna"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lady_luna_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lheiva"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lheiva_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:liopleurodon"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:liopleurodon_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:livestock_merchant"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:livestock_merchant_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lorga"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lorga_flight"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lorga_flight_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:lorga_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:madivel"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:madivel_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:mage_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:mandragora"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:meet_doom"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:megalith"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:megalith_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:merchant_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:merchant_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:merchant_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:merchant_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:mortum_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:mortum_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:mucky"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:nesro"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:nesro_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:nobody_can_defeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:parasecta"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:parasecta_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:patchouli_flip"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:patchouli_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:phaser"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_die_before"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_enough"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_incoming_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_is_next"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_kill_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_my_kill"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_no_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_sit_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:quadro_taste_fist"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:raglok_avenge"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:raglok_awaken"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:raglok_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:raglok_guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:raglok_nothing"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:raglok_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:rainbour"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:rainbour_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:razorback"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:razorback_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:reflector"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:reyvor"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:reyvor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:roamer"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:roamer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:rollum"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:rollum_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:rotatick"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:rotatick_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:saguaro_worm"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:scorcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:seng_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:seng_growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:seng_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:serenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:shadahier"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:shadahier_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:shadow_saber"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:shark_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:skyre_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:skyre_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:skyre_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:skyre_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:snap"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:snowflakes_after_blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:snowflakes_after_blizzard_synth"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:sound_of_carols"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:sparkler"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:starlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:stop_at_once"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:the_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:the_eye_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:tocaxin"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:tocaxin_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:try_your_best"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:verek"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:verek_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:vermenous"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:vermenous_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:vethea_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:vethea_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:vhraak"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:vhraak_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:whale"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:whale_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wildfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wildfire_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wraith"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wraith_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wreck_intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wreck_speed"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wreck_strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:you_cant_kill_me"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:zone"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:zone_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:zoragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:zoragon_hurt"
+		}
+	]
+}

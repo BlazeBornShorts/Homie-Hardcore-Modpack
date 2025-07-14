@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10444421,
+				"Name": "yungscavebiomes:frosted_caves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9261286,
+				"Name": "yungscavebiomes:lost_caves"
+			}
+		}
+	]
+}

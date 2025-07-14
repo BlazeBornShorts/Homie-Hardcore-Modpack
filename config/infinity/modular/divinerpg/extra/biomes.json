@@ -1,0 +1,228 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14161151,
+				"Name": "divinerpg:apalachia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6056679,
+				"Name": "divinerpg:arcana/barren_highlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2044369,
+				"Name": "divinerpg:arcana/dune_valley"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 16774932,
+				"Name": "divinerpg:eden"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14876413,
+				"Name": "divinerpg:iceika/boneyard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 9655010,
+				"Name": "divinerpg:iceika/borealis_steeps"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11391736,
+				"Name": "divinerpg:iceika/chill_passage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12660455,
+				"Name": "divinerpg:iceika/chilly_cavern"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 9840470,
+				"Name": "divinerpg:iceika/cozybark_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11992313,
+				"Name": "divinerpg:iceika/deep_frozen_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 3185643,
+				"Name": "divinerpg:iceika/fractal_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 3456743,
+				"Name": "divinerpg:iceika/frozen_menagerie"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11992313,
+				"Name": "divinerpg:iceika/frozen_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5549551,
+				"Name": "divinerpg:iceika/frozen_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 15383191,
+				"Name": "divinerpg:iceika/geyser_plateau"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4692090,
+				"Name": "divinerpg:iceika/glowing_deep"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6919923,
+				"Name": "divinerpg:iceika/ice_sheet"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11992313,
+				"Name": "divinerpg:iceika/ice_spikes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6928883,
+				"Name": "divinerpg:iceika/morgue_marsh"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 1877094,
+				"Name": "divinerpg:iceika/sheltered_garden"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11991288,
+				"Name": "divinerpg:iceika/shiverspine_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6403559,
+				"Name": "divinerpg:iceika/snow_bog"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14876413,
+				"Name": "divinerpg:iceika/snowy_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14587267,
+				"Name": "divinerpg:iceika/thermal_vents"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11992313,
+				"Name": "divinerpg:iceika/tundra"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 0,
+				"Name": "divinerpg:mortum"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 16777215,
+				"Name": "divinerpg:skythern"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 1103943,
+				"Name": "divinerpg:vethea/dream_grounds"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 16350007,
+				"Name": "divinerpg:vethea/ember_caverns"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11218134,
+				"Name": "divinerpg:vethea/hyrelands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 1827303,
+				"Name": "divinerpg:vethea/scorched_tops"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2818303,
+				"Name": "divinerpg:wildwood"
+			}
+		}
+	]
+}

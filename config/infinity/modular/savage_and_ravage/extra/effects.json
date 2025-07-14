@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 5002087,
+				"Instant": false,
+				"Name": "savage_and_ravage:weight"
+			}
+		}
+	]
+}

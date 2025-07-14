@@ -1,0 +1,53 @@
+{
+	id: "155850562BDB6C1A"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "endermanoverhaul:soul_pearl"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:gold_block"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:ancient_debris"
+			}
+		}
+	]
+	title: "generic nether loot"
+}

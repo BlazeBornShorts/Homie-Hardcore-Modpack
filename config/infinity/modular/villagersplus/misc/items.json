@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "villagersplus:acacia_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:alchemist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:bamboo_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:birch_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:cherry_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:crimson_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:dark_oak_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:jungle_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:mangrove_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:oak_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:occultist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:oceanographer_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:spruce_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:warped_horticulturist_table"
+		}
+	]
+}

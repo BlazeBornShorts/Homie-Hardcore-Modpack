@@ -1,0 +1,12 @@
+[
+    {
+        "dimension": "infinite_abyss:fith_layer",
+        "mob": "jcwcustom:corundum_guardian_spawn",
+        "mincount": {
+            "amount": 1,
+            "mob": "corundumguardian:corundum_guardian",
+            "perplayer": true
+        },
+        "result": "deny"
+    }
+]

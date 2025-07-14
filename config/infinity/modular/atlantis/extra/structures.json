@@ -1,0 +1,265 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 2,
+								"type": "atlantis:atlantean_starfish",
+								"maxCount": 2
+							}
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_atlantean_fountain"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 2,
+								"type": "atlantis:atlantean_starfish",
+								"maxCount": 2
+							}
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_atlantean_city"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 15,
+								"minCount": 2,
+								"type": "minecraft:guardian",
+								"maxCount": 5
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_atlantean_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_atlantean_house_3"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 2,
+								"type": "atlantis:atlantean_starfish",
+								"maxCount": 2
+							}
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:atlantean_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 3,
+								"type": "atlantis:atlantean_starzomfish",
+								"maxCount": 3
+							},
+							{
+								"weight": 25,
+								"minCount": 6,
+								"type": "minecraft:drowned",
+								"maxCount": 20
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_atlantean_spire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_atlantean_house_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 2,
+								"type": "atlantis:atlantean_starfish",
+								"maxCount": 2
+							}
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_oyster_structure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 25,
+								"minCount": 4,
+								"type": "minecraft:tropical_fish",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "atlantis:configured_atlantean_tower"
+			}
+		}
+	]
+}

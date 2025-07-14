@@ -1,0 +1,500 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "reliquary:alkahestry_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:alkahestry_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:angelheart_vial"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:angelic_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:aphrodite_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:apothecary_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:apothecary_mortar"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:barrel_assembly"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bat_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/blaze_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/buster_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/concussive_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/empty_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/ender_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/exorcism_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/neutral_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/sand_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/seeker_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:bullets/storm_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:catalyzing_gland"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:chelicerae"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:crimson_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:destruction_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:emperor_chalice"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:empty_potion_vial"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:ender_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:eye_of_the_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:fertile_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:fertile_lily_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:fertile_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:fortune_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:frozen_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:glacial_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:glowing_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:glowing_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:grip_assembly"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:guardian_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:hammer_assembly"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:handgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:harvest_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:hero_medallion"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:holy_hand_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:ice_magus_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:infernal_chalice"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:infernal_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:infernal_claws"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:infernal_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:interdiction_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:kraken_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:kraken_shell_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:lantern_of_paranoia"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:lingering_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/blaze_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/buster_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/concussive_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/empty_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/ender_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/exorcism_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/neutral_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/sand_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/seeker_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magazines/storm_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:magicbane"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:mercy_cross"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:midas_touchstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:mob_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:mob_charm_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:mob_charm_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:molten_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:nebulous_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/black_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/blue_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/brown_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/cyan_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/gray_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/green_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/light_blue_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/light_gray_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/lime_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/magenta_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/orange_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/black_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/blue_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/brown_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/cyan_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/gray_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/green_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/light_blue_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/light_gray_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/lime_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/magenta_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/orange_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/pink_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/purple_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/red_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/white_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/passive/yellow_passive_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/pink_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/purple_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/red_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/white_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pedestals/yellow_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:phoenix_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:potion_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:pyromancer_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:rending_gale"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:rib_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:rod_of_lyssa"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:salamander_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:serpent_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:shears_of_winter"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:slime_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:sojourner_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:splash_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:squid_beak"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:tipped_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:twilight_cloak"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:void_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:witch_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:withered_rib"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:witherless_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:wraith_node"
+		},
+		{
+			"weight": 1.0,
+			"key": "reliquary:zombie_heart"
+		}
+	]
+}

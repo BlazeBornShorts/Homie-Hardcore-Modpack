@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "aether_darkness_monster",
+				"Name": "aether_redux:blightbunny"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "aether_redux:blightbunny_spawner"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "aether_redux:cockatrice_spawner"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "aether_redux:mykapod"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "aether_redux:shimmercow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "aether_surface_monster",
+				"Name": "aether_redux:vanilla_swet"
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 715204,
+				"Instant": false,
+				"Name": "libraryferret:unbreakable_curse"
+			}
+		}
+	]
+}

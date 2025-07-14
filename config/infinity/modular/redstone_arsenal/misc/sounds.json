@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:empower.off"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:empower.on"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:shielding.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:shielding.recharge"
+		}
+	]
+}

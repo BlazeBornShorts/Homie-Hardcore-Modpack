@@ -1,0 +1,668 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:affinity_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:alchemist_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:amethyst_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:amethyst_resonance_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ancient_knowledge_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:apothecarist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:arcane_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:arcane_debris"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:arcane_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:arcane_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:arcane_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:arcane_salvage"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:archevoker_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:archevoker_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:archevoker_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:archevoker_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:archevoker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:armor_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:artificer_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:autoloader_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blank_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blaze_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blood_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blood_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blood_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blood_vial"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cast_time_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cinder_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:common_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:concentration_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:conjurers_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cooldown_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cooldown_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cooldown_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:copper_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cryomancer_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cryomancer_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cryomancer_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cryomancer_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cryomancer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cultist_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cultist_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cultist_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:cultist_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:dead_king_corpse_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:diamond_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:divine_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:dragonskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:dragonskin_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:druidic_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:eldritch_manuscript"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:electromancer_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:electromancer_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:electromancer_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:electromancer_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:emerald_stoneplate_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ender_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ender_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:energized_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:epic_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:evasion_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:evocation_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:evocation_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:evoker_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fire_ale"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fire_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fire_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:firefly_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fireward_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:frosted_helve"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:frostward_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:frozen_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:furled_map"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:gold_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:gold_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:graybeard_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:greater_evasion_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:greater_healing_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:greater_invisibility_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:greater_oakskin_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:heavy_chain_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:hither_thither_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:hogskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:holy_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:holy_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ice_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ice_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ice_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:inscription_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:invisibility_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:invisibility_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:iron_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:keeper_flamberge"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:keeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:legendary_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:legendary_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:lesser_spell_slot_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:lightning_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:lightning_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:lightning_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:lightning_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:lurker_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magehunter"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:magic_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:mana_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:mana_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:misery"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:nature_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:nature_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:necromancer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:necronomicon_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:netherite_mage_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:netherite_mage_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:netherite_mage_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:netherite_mage_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:netherite_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:netherward_tincture"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:oakskin_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:permafrost_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:plagued_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:plagued_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:plagued_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:plagued_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:poisonward_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:priest_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:priest_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:priest_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:priest_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:priest_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:protection_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:protection_upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pumpkin_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pumpkin_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pumpkin_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pumpkin_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pyromancer_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pyromancer_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pyromancer_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pyromancer_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:pyromancer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:rare_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:rotten_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ruined_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:scroll_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:shadowwalker_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:shadowwalker_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:shadowwalker_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:shadowwalker_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:shriving_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:silver_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spellbreaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:staff_of_the_nines"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:tarnished_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:uncommon_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:upgrade_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:villager_spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:wandering_magician_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:wandering_magician_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:wandering_magician_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:wandering_magician_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:wayward_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:weapon_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:wimpy_spell_book"
+		}
+	]
+}

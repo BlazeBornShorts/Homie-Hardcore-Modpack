@@ -1,0 +1,102 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:creeper_forest_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:giant_cherry_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:giant_cherry_tree_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:glowshroom_forest_lowlands_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:gray_shadow_forest_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:mutant_cactus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:overgrown_forest_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:red_shadow_forest_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:shadow_normal_tree_1_feature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:the_bloodlust_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_red_mushroom",
+				"Name": "shadowlands:toxic_tree_2_feature"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:twisting_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:vellium_mountains_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "shadowlands:void_forest_tree"
+			}
+		}
+	]
+}

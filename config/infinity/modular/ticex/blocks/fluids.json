@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "ticex:molten_etheric",
+				"Name": "ticex:molten_etheric_fluid"
+			}
+		}
+	]
+}

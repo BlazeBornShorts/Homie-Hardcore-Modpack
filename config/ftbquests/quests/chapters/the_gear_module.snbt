@@ -1,0 +1,498 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_gear_module"
+	group: "7D1CA68D540B909D"
+	icon: {
+		Count: 1b
+		id: "apotheosis:gem"
+		tag: {
+			affix_data: {
+				rarity: "apotheosis:ancient"
+			}
+			gem: "apotheosis:the_end/endersurge"
+		}
+	}
+	id: "6D9F9A26FCA7E124"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Armor stats can be altered through a number of avenus:"
+				"- &bEnchanting&r: Adds specific powers and abilities to armor corresbonding to the added enchant"
+				"- &bReforging&r: Changes gear quality increasing or decreasing the tools base stats"
+				"- &bAffixs&r: Gives specific abilities or power ups to the armor"
+				"- &bGems&r: Increases base stats on a piece of gear"
+			]
+			icon_scale: 2.0d
+			id: "6FADF29B8AD842AA"
+			rewards: [{
+				id: "263069E0A9EC4365"
+				item: {
+					Count: 1b
+					id: "apotheosis:gem"
+					tag: {
+						affix_data: {
+							rarity: "apotheosis:common"
+						}
+						gem: "apotheosis:core/warlord"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Build it up"
+			tasks: [{
+				id: "2D1D5B05E37A2889"
+				title: "Art of the Forge"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6FADF29B8AD842AA"]
+			description: ["Used to repair armor and add enchantments"]
+			id: "51679C42D27FF36D"
+			rewards: [
+				{
+					id: "6ED7DE5A1DFE8D16"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:ferrouslime_ball"
+					}
+					random_bonus: 19
+					type: "item"
+				}
+				{
+					id: "5117D40BCE50A393"
+					type: "xp"
+					xp: 25
+				}
+			]
+			subtitle: "Obtain an Anvil"
+			tasks: [{
+				id: "14C3F214DCDAEBD9"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:anvil"
+				}
+				type: "item"
+			}]
+			title: "More wants, More needs"
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["51679C42D27FF36D"]
+			description: ["Used to add spell scrolls and orbs to gear"]
+			id: "6F1604857A3BFB20"
+			rewards: [
+				{
+					id: "679EEB084F0012BA"
+					item: {
+						Count: 1b
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:summon_vex"
+									index: 0
+									level: 2
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6175C8E21CED8346"
+					type: "xp"
+					xp: 50
+				}
+			]
+			subtitle: "Craft an Arcane Anvil"
+			tasks: [{
+				id: "47CF5A093E1F5AB6"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:arcane_anvil"
+				}
+				type: "item"
+			}]
+			title: "Imbued With Magic"
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["51679C42D27FF36D"]
+			description: ["Used to change armor quality"]
+			id: "6383195B60224AAB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B14D54473DAD089"
+				table_id: 4329548466731727806L
+				type: "loot"
+			}]
+			subtitle: "Craft a reforging station"
+			tasks: [{
+				id: "16785F714B93CE0D"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "quality_equipment:reforging_station"
+				}
+				type: "item"
+			}]
+			title: "Fogre your destiny"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6FADF29B8AD842AA"]
+			description: ["Used to gain access to low level affixs. Requires &4gem dust&r, a &5piece of gear&r, and a &6sigil of rebirth&r to use."]
+			id: "43264AEFCAAEC242"
+			rewards: [
+				{
+					id: "3243CCA8CBF055DF"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:gem_dust"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "78B9AB10685A3170"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:common_material"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Craft a simple reforging table"
+			tasks: [{
+				id: "4C8534D917E49498"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:simple_reforging_table"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43264AEFCAAEC242"]
+			description: ["An upgrade over the previous table that requires higher levels of scrap"]
+			id: "68208885062C0225"
+			rewards: [{
+				id: "4891000E3AC09485"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:mythic_material"
+				}
+				type: "item"
+			}]
+			subtitle: "Craft a reforging table"
+			tasks: [{
+				id: "20A1ED69BDDC1FFA"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:reforging_table"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["43264AEFCAAEC242"]
+			description: ["Used to Upgrade Affixs"]
+			id: "4100B29500FA7482"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0B2E27FDF45A0A5A"
+					table_id: 534297987422588795L
+					type: "loot"
+				}
+				{
+					id: "3BAA6B95ECF13520"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "13B7959E87DDE072"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:sigil_of_socketing"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft an Augmenting table"
+			tasks: [{
+				id: "52934A020CECB0A5"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:augmenting_table"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6FADF29B8AD842AA"]
+			id: "4B8E797AB31FD560"
+			rewards: [{
+				id: "3CE4A4BD964D4745"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:lava_bucket"
+				}
+				type: "item"
+			}]
+			subtitle: "Obtain a Smithing Table"
+			tasks: [{
+				id: "145CC7A84A72A4B5"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:smithing_table"
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B8E797AB31FD560"]
+			description: ["Using a Sigil of Socketing on gear in a Smithing Table will add a Gem Slot to the gear"]
+			id: "7152B58023BD29B3"
+			rewards: [
+				{
+					id: "1DEB4569C60EA186"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:sigil_of_socketing"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CF6DC4B4C3B8FA8"
+					table_id: 8662033830301184712L
+					type: "loot"
+				}
+			]
+			subtitle: "Craft a Sigil Of Socketing"
+			tasks: [{
+				id: "7FC9F494DDD67963"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:sigil_of_socketing"
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6FADF29B8AD842AA"]
+			description: ["Using an &2Altar&r crafted from block in the &eAether&r you can repair items using &6ambrosium&r as fuel."]
+			id: "56A316EF79DF0F0C"
+			rewards: [
+				{
+					id: "7C2D357C8F8995D8"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "aether:zanite_gemstone"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "0A4DB40703E504B8"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "aether:ambrosium_shard"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Craft an Altar"
+			tasks: [{
+				id: "73D1E5266E30D08D"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aether:altar"
+				}
+				type: "item"
+			}]
+			title: "Mending but easy"
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1FB4CB5F02F8463B"]
+			description: ["Use an &aGem Cutting Table&r to obtain a &9Perfect Gem&r"]
+			id: "6B58855E073E4D17"
+			rewards: [
+				{
+					id: "767E0F62D61709B8"
+					item: {
+						Count: 1b
+						id: "apotheosis:gem"
+						tag: {
+							affix_data: {
+								rarity: "apotheosis:ancient"
+							}
+							gem: "apotheosis:core/splendor"
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44650179D782F135"
+					table_id: 8662033830301184712L
+					type: "loot"
+				}
+			]
+			subtitle: "Complete the Infinity Stones Advancement"
+			tasks: [{
+				advancement: "apotheosis:affix/ancient_gem"
+				criterion: ""
+				id: "0F7134FC70B8BA51"
+				type: "advancement"
+			}]
+			title: "Infinity Stones"
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4B8E797AB31FD560"]
+			description: ["Using a matching gem and gem dust you can upgrade a gem in the Gem Cutting Table."]
+			id: "1FB4CB5F02F8463B"
+			rewards: [{
+				id: "7ED6CE23D9B46456"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Craft a Gem Cutting Table"
+			tasks: [{
+				id: "1A09B1413CE725EF"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:gem_cutting_table"
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+	]
+	title: "The Gear Module"
+}

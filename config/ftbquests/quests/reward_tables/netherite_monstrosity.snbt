@@ -1,0 +1,136 @@
+{
+	id: "04BC8E9136953C21"
+	loot_size: 10
+	order_index: 12
+	rewards: [
+		{
+			count: 2
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:nether_ruby"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 5
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_ingot"
+			}
+			random_bonus: 3
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:ancient_debris"
+			}
+			random_bonus: 1
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:netherite_ingot"
+			}
+			weight: 0.8f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:netherite_block"
+			}
+			only_one: true
+			weight: 0.5f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:nether_star"
+			}
+			only_one: true
+		}
+		{
+			count: 2
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:diamond"
+			}
+			random_bonus: 4
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:diamond_block"
+			}
+			random_bonus: 1
+			weight: 0.8f
+		}
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 8
+		}
+		{
+			count: 2
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:gold_block"
+			}
+			random_bonus: 3
+			weight: 0.9f
+		}
+	]
+	title: "Netherite Monstrosity"
+}

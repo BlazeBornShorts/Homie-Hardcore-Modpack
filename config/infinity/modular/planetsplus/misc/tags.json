@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "planetsplus:atmas_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:callisto_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:charon_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:diater_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:dread_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:dune_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:dytiona_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:eclipsa_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:enceladus_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:europa_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:fierer_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:flade_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:galia_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:ganymede_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:geode_invalid_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:glacies_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:iapetus_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:ice_chasm_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:io_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:jada_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:mixeus_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:pluto_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:reveda_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:ringetic_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:sorea_deepslate_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:sorea_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:soulfer_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:spike_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:titan_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "planetsplus:vulcan_ore_replaceables"
+		}
+	]
+}

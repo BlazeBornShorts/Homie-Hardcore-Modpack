@@ -1,0 +1,168 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "botania:agricarnation/apply_bonemeal"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:agricarnation/growth_candidate"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:agricarnation/growth_excluded"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:corporea_spark_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:double_mystical_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:dreamwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:elementium_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:enchanter_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:ender_air_convertable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:floating_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:functional_special_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:gaia_break_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:generating_special_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:ghost_rail_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:glimmering_dreamwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:glimmering_livingwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:horn_of_the_canopy_breakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:horn_of_the_covering_breakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:horn_of_the_wild_breakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:laputa_immobile"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:laputa_no_double_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:livingwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:magnet_ring_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:manasteel_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:marimorphosis_convertable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:mini_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:misc_special_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:mundane_floating_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:mystical_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:pasture_seed_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:shimmering_mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:shiny_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:single_item_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:special_floating_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:special_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:terra_plate_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:terraformable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:terrasteel_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:unethical_tnt_check"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:unwandable"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:weight_lens_whitelist"
+		}
+	]
+}

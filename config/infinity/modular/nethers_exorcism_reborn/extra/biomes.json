@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10066432,
+				"Name": "nethers_exorcism_reborn:biohazardous_delta"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -52225,
+				"Name": "nethers_exorcism_reborn:dna_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -16750951,
+				"Name": "nethers_exorcism_reborn:turquoise_plains"
+			}
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_creature",
+				"Name": "aquamirae:anglerfish"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "aquamirae:captain_cornelia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "aquamirae:eel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "ambient",
+				"Name": "aquamirae:golden_moth"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_ambient",
+				"Name": "aquamirae:luminous_jelly"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "aquamirae:maw"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "aquamirae:maze_mother"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "aquamirae:pillagers_patrol"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "water_ambient",
+				"Name": "aquamirae:spinefish"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "aquamirae:tortured_soul"
+			}
+		}
+	]
+}

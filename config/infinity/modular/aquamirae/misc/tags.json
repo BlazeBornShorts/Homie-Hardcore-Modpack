@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aquamirae:eel_move"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:maze_mother_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "aquamirae:scroll_destroy"
+		}
+	]
+}

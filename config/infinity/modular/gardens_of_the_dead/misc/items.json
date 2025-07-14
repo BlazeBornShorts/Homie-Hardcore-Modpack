@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:blightwart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:blistercrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:glowing_soul_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soul_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:soulblight_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:stripped_soulblight_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:stripped_soulblight_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:tall_blistercrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:whistlecane_trapdoor"
+		}
+	]
+}

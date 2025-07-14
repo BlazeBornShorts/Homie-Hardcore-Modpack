@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:ender_trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:endingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "end_plus:endore"
+		}
+	]
+}

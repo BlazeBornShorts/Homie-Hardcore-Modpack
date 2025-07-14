@@ -1,0 +1,382 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8934609,
+				"Name": "biomeswevegone:allium_shrubland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8934609,
+				"Name": "biomeswevegone:amaranth_grassland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10860373,
+				"Name": "biomeswevegone:araucaria_savanna"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14194987,
+				"Name": "biomeswevegone:aspen_boreal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5331926,
+				"Name": "biomeswevegone:atacama_outback"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10860373,
+				"Name": "biomeswevegone:baobab_savanna"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11554018,
+				"Name": "biomeswevegone:basalt_barrera"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6337104,
+				"Name": "biomeswevegone:bayou"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2263842,
+				"Name": "biomeswevegone:black_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9591962,
+				"Name": "biomeswevegone:canadian_shield"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 13414235,
+				"Name": "biomeswevegone:cika_woods"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5999709,
+				"Name": "biomeswevegone:coconino_meadow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2263842,
+				"Name": "biomeswevegone:coniferous_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10145074,
+				"Name": "biomeswevegone:crag_gardens"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 13388072,
+				"Name": "biomeswevegone:crimson_tundra"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6337104,
+				"Name": "biomeswevegone:cypress_swamplands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6975545,
+				"Name": "biomeswevegone:cypress_wetlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2263842,
+				"Name": "biomeswevegone:dacite_ridges"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2263842,
+				"Name": "biomeswevegone:dacite_shore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5331926,
+				"Name": "biomeswevegone:dead_sea"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6589494,
+				"Name": "biomeswevegone:ebony_woods"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11898572,
+				"Name": "biomeswevegone:enchanted_tangle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10444421,
+				"Name": "biomeswevegone:eroded_borealis"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7048739,
+				"Name": "biomeswevegone:firecracker_chaparral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6530362,
+				"Name": "biomeswevegone:forgotten_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10145074,
+				"Name": "biomeswevegone:fragment_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2263842,
+				"Name": "biomeswevegone:frosted_coniferous_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10444421,
+				"Name": "biomeswevegone:frosted_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 15834405,
+				"Name": "biomeswevegone:howling_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10855786,
+				"Name": "biomeswevegone:ironwood_gour"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14180771,
+				"Name": "biomeswevegone:jacaranda_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10275901,
+				"Name": "biomeswevegone:lush_stacks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14206262,
+				"Name": "biomeswevegone:maple_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5331926,
+				"Name": "biomeswevegone:mojave_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10210365,
+				"Name": "biomeswevegone:orchard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7110705,
+				"Name": "biomeswevegone:overgrowth_woodlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10003745,
+				"Name": "biomeswevegone:prairie"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11957015,
+				"Name": "biomeswevegone:pumpkin_valley"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11554018,
+				"Name": "biomeswevegone:rainbow_beach"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10855786,
+				"Name": "biomeswevegone:red_rock_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10855786,
+				"Name": "biomeswevegone:red_rock_valley"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8896351,
+				"Name": "biomeswevegone:redwood_thicket"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8231780,
+				"Name": "biomeswevegone:rose_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10855786,
+				"Name": "biomeswevegone:rugged_badlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10999916,
+				"Name": "biomeswevegone:sakura_grove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 15834405,
+				"Name": "biomeswevegone:shattered_glacier"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10855786,
+				"Name": "biomeswevegone:sierra_badlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7135854,
+				"Name": "biomeswevegone:skyrise_vale"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11190111,
+				"Name": "biomeswevegone:temperate_grove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10145074,
+				"Name": "biomeswevegone:tropical_rainforest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12435265,
+				"Name": "biomeswevegone:weeping_witch_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5737549,
+				"Name": "biomeswevegone:white_mangrove_marshes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5331926,
+				"Name": "biomeswevegone:windswept_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5416309,
+				"Name": "biomeswevegone:zelkova_forest"
+			}
+		}
+	]
+}

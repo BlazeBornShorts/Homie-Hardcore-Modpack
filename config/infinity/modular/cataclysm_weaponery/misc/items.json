@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cataclysm_weaponery:ignitium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_weaponery:ignitium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_weaponery:ignitium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_weaponery:ignitium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_weaponery:ignitium_sword"
+		}
+	]
+}

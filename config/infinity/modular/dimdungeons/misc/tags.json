@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdungeons:key_activation_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdungeons:portal_frame_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdungeons:secret_chime_blocks"
+		}
+	]
+}

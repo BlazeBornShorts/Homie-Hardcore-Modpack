@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9328819,
+				"Name": "alexscaves:abyssal_chasm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 15877048,
+				"Name": "alexscaves:candy_cavity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -7887298,
+				"Name": "alexscaves:forlorn_hollows"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8935357,
+				"Name": "alexscaves:magnetic_caves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10601538,
+				"Name": "alexscaves:primordial_caves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9001394,
+				"Name": "alexscaves:toxic_caves"
+			}
+		}
+	]
+}

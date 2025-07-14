@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "undergarden:virulent_mix_source",
+				"Name": "undergarden:virulent_mix"
+			}
+		}
+	]
+}

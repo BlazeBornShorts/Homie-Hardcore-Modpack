@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:amorous_bristle"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:butterbunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:miserabell"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shimmerweed"
+		}
+	]
+}

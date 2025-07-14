@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "nether:crimson_forest/bush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "nether:warped_forest/bush"
+			}
+		}
+	]
+}

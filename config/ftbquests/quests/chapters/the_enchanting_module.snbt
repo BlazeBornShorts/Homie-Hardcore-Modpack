@@ -1,0 +1,448 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_enchanting_module"
+	group: "7D1CA68D540B909D"
+	icon: {
+		Count: 1b
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "apotheosis:treasure_shelf"
+	}
+	id: "1E2A0BD1D4F96FB8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 2.0d
+			id: "02794C6F5BDBCBC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E7C6865DBF64D3D"
+				table_id: 7426161276803249290L
+				type: "random"
+			}]
+			subtitle: "Craft an Enchanting Table"
+			tasks: [{
+				id: "7A5766D4880E6CA0"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:enchanting_table"
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02794C6F5BDBCBC0"]
+			id: "018D434BA3539579"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C86B17E4669E748"
+				table_id: 7426161276803249290L
+				type: "random"
+			}]
+			subtitle: "Enchant your first item"
+			tasks: [{
+				advancement: "apotheosis:enchanting/enchanter"
+				criterion: ""
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:lapis_lazuli"
+				}
+				id: "694C009F66888DDD"
+				title: "Upgrades People Upgrades"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["018D434BA3539579"]
+			id: "48BA4FE3846FD45B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "429A58B477FBDD50"
+					table_id: 7426161276803249290L
+					type: "loot"
+				}
+				{
+					id: "64AB4C9EC1D548CC"
+					type: "xp"
+					xp: 250
+				}
+			]
+			subtitle: "Craft a Hell Shelf Increase Enchanting Set Up Power"
+			tasks: [{
+				count: 5L
+				id: "782DB3E49B41BCDC"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:hellshelf"
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["018D434BA3539579"]
+			id: "1FF464B087641964"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "328AE85B38102C53"
+					table_id: 7426161276803249290L
+					type: "loot"
+				}
+				{
+					id: "63D00856DE099A73"
+					type: "xp"
+					xp: 250
+				}
+			]
+			subtitle: "Craft a Sea Shelf Increase Enchanting Set up Power"
+			tasks: [{
+				count: 5L
+				id: "10C80AE2DCE41705"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:seashelf"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"1FF464B087641964"
+				"48BA4FE3846FD45B"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"Using Hell Shelves or Sea Shelves you may have noticed that you have gained access to higher level enchantments. There are three stats associated with enchanting that you may have also noticed; not all of which always work in your favor."
+				""
+				"Eterna is the enchanting level provided by your book shelves. A level 30 enchanting set up will have 15 eterna and a level 45 will have 22.5 eterna. Upon adding your 5 Hell or Sea Shelves you will reach 22.5 eterna."
+				""
+				"Quanta increases variance in enchanting levels meaning you may see higher or lower levels of enchants more regularly making it harder to obtain high level enchants more regularly. Higher quanta means more variance; which can be benificial if you have high Rectification. Rectification helps to negate the appearance of lower levels enchants."
+				""
+				"Arcana makes rarer enchants more common and common enchants less common at higher values allowing you to switch between what enchament rarity is most likely by altering your set up. Slightly increasing Arcana values is good for increasing the number of enchantments you recieve."
+			]
+			id: "602493BF0C75341F"
+			rewards: [
+				{
+					id: "7BB45648B245E091"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "375F22BD082DCEEE"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "A helping hand"
+			tasks: [{
+				id: "7EE6DE6033FC68B9"
+				title: "Enchanting Details"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["602493BF0C75341F"]
+			description: ["Place these items around the set up to increase certain stats as desired. Multiple of these items can be placed"]
+			id: "4AAAF132A7EF1423"
+			rewards: [{
+				id: "11C65CBD1808AD0B"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:mending"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "My set up not good enough for you?"
+			tasks: [
+				{
+					id: "0EA700681174C180"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:zombie_head"
+					}
+					type: "item"
+				}
+				{
+					id: "545012B7D08F0074"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "galosphere:glinted_amethyst_cluster"
+					}
+					type: "item"
+				}
+				{
+					id: "533EEB8C488DF89D"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:candle"
+					}
+					type: "item"
+				}
+			]
+			title: "Selective Enchanting"
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4AAAF132A7EF1423"]
+			description: ["Enchant a Hell Shelf to make an Infused Hell Shelf"]
+			id: "18C8936B311A12F7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25E48A4493683D9F"
+				table_id: 8851137609587214624L
+				type: "loot"
+			}]
+			subtitle: "Next Level"
+			tasks: [{
+				count: 7L
+				id: "7EAD26FA22AB82D6"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:infused_hellshelf"
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4AAAF132A7EF1423"]
+			description: ["Enchant a Sea Shelf to make an Infued Sea Shelf"]
+			id: "283ECAE42F373A4C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F4972C2501C0F82"
+				table_id: 8851137609587214624L
+				type: "loot"
+			}]
+			subtitle: "Next Level"
+			tasks: [{
+				count: 7L
+				id: "7351243EB7397A63"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:infused_seashelf"
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"18C8936B311A12F7"
+				"283ECAE42F373A4C"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"Now that you understand how the enchanting system and stats work you may continue upgrading your set up."
+				""
+				"Craft new shelves from your infused shelves to change stats."
+				""
+				"Craft, infuse, and use Dormant Shelves to increase your enchanting power further."
+				""
+				"Explore the Deep Dark to reach a reach 80 enchanting set up by crafting new shelves from deep dark materials....."
+			]
+			id: "15A6420BD60F7B71"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43F2C0D4B9F2CD27"
+				table_id: 7834037544179711984L
+				type: "loot"
+			}]
+			subtitle: "What comes next?"
+			tasks: [{
+				id: "1A56E8634F13A65E"
+				title: "Not Quite Finished"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["15A6420BD60F7B71"]
+			description: ["Use Warden Tendrils to craft bookshelves to reach a level 80 set up!"]
+			id: "493D8482755A4B98"
+			rewards: [
+				{
+					count: 64
+					id: "6C5BC1A6F58251EF"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:deepslate"
+					}
+					type: "item"
+				}
+				{
+					id: "2569C480E36BAF5B"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "6F247E3C8DA48E49"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "majruszsdifficulty:warden_treasure_bag"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Defeat the warden"
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:warden_tendril"
+				}
+				id: "1485884126BF130B"
+				title: "What are you doing sculking around?"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["493D8482755A4B98"]
+			id: "004ED74DB34A0CDF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5744B540A89FD44A"
+					table_id: 7834037544179711984L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A7C1809488B1206"
+					table_id: 8851137609587214624L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "42654C5691ACFF6F"
+					table_id: 7426161276803249290L
+					type: "loot"
+				}
+				{
+					id: "1A87A8F164C01379"
+					type: "xp"
+					xp: 400
+				}
+			]
+			subtitle: "Craft and End Shelf"
+			tasks: [{
+				id: "5C4F6EED60907608"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "apotheosis:endshelf"
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+	]
+	title: "The Enchanting Module"
+}

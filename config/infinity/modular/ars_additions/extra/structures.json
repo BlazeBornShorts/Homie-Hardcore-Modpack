@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 5,
+								"minCount": 5,
+								"type": "ars_nouveau:wilden_guardian",
+								"maxCount": 10
+							},
+							{
+								"weight": 5,
+								"minCount": 5,
+								"type": "ars_nouveau:wilden_stalker",
+								"maxCount": 10
+							},
+							{
+								"weight": 5,
+								"minCount": 5,
+								"type": "ars_nouveau:wilden_hunter",
+								"maxCount": 10
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "ars_additions:arcane_library"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ars_additions:ruined_portal_large"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ars_additions:nexus_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ars_additions:ruined_portal"
+			}
+		}
+	]
+}

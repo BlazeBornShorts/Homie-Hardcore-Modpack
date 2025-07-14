@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "xpbook:xp_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "xpbook:xp_tome"
+		}
+	]
+}

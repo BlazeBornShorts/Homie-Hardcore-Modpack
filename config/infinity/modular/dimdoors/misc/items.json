@@ -1,0 +1,1168 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_lump"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clod"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clod_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clod_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:creepy_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dimensional_eraser"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dimensional_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:enduring_fibers"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:eternal_fluid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:fabric_of_finality"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:frayed_filament"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:fuzzy_fireball"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gold_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gritty_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:infrangible_fiber"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ad_astra_aeronos_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ad_astra_glacian_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ad_astra_steel_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ad_astra_strophar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_aether_redux_blightwillow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_aether_redux_cloudcap_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_aether_redux_crystal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_aether_redux_fieldsproot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_aether_redux_glacia_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_aether_redux_jellyshroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_aether_skyroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ancient_aether_aerogel_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ancient_aether_highsproot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ancient_aether_sakura_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ars_additions_polished_sourcestone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ars_additions_sourcestone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ars_nouveau_archwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_astral_dimension_luminous_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_astral_dimension_sick_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_astral_dimension_soggy_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_astral_dimension_soul_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_astral_dimension_tormented_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_astral_dimension_wisteria_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_ancient_acacia_wood_moss_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_ancient_birch_wood_moss_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_ancient_dark_oak_wood_moss_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_ancient_jungle_wood_moss_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_ancient_oak_wood_moss_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_ancient_spruce_wood_moss_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_atlantean_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_atlantis_palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_betterarcheology_rotten_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_dead_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_empyreal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_fir_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_hellbark_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_jacaranda_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_magic_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_mahogany_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_pine_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_redwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_umbran_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomesoplenty_willow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_aspen_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_baobab_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_blue_enchanted_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_cika_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_cypress_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_ebony_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_fir_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_florus_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_green_enchanted_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_holly_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_ironwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_jacaranda_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_mahogany_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_pine_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_rainbow_eucalyptus_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_redwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_sakura_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_skyris_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_white_mangrove_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_willow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_witch_hazel_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_biomeswevegone_zelkova_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_bluebright_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_comet_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_crystallized_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_dusk_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_frostbright_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_lunar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_blue_skies_starlit_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_born_in_chaos_v1_mesh_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_born_in_chaos_v1_scorched_planks_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_cavesanddepths_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_deep_aether_conberry_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_deep_aether_cruderoot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_deep_aether_roseroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_deep_aether_sunroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_deep_aether_yagroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_amalgam_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_driftwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_gold_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_quartz_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_stone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_ancient_brick_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_apalachia_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_auroraoak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_barred_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_cozybark_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_degraded_brick_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_divine_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_eden_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_eucalyptus_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_mortum_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_shiverspine_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_skythern_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_soul_sludge_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_soul_stone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_steel_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_streamleaf_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_divinerpg_wildwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_echoes_llerae_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_echoes_shimmerdown_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_enlightened_end_cerulean_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_enlightened_end_indigo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_graveyard_dark_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_acacia_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_bamboo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_birch_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_cherry_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_crimson_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_dark_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_jungle_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_mangrove_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_spruce_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_warped_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_netherexp_claret_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_netherexp_smokestalk_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_nethers_exorcism_reborn_indigo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_nethers_exorcism_reborn_turquoise_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_outer_end_azure_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ror_azuric_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ror_crystalline_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ror_dark_blue_metal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_ror_industrial_metal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_tconstruct_bloodshroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_tconstruct_enderbark_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_tconstruct_greenheart_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_tconstruct_skyroot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_thermal_rubberwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_canopy_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_dark_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_mangrove_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_mining_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_sorting_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_time_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_transformation_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_twilightforest_twilight_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_undergarden_grongle_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_undergarden_smogstem_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_undergarden_wigglewood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_unusualend_chorus_nest_planks_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:leak_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:liminal_lint"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mask_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mask_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:monolith_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:quartz_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:reality_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_configuration_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_remover"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_signature"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_stabilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rust"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:solid_static"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stabilized_rift_signature"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stable_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:tesselating_loom"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:they_stare_back_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unravelled_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_void_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_fabric"
+		}
+	]
+}

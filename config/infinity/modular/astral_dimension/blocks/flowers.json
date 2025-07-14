@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hibiscus"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lava_orchid"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lush_bulbs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lush_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magma_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:rose"
+		}
+	]
+}

@@ -1,0 +1,110 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "tconstruct:white_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:light_gray_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:gray_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:black_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:brown_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:red_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:orange_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:yellow_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:lime_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:green_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:light_blue_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:blue_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:cyan_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:purple_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:magenta_clear_stained_glass"
+				},
+				{
+					"Name": "tconstruct:pink_clear_stained_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "tconstruct:white_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:light_gray_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:gray_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:black_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:brown_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:red_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:orange_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:yellow_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:lime_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:green_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:light_blue_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:blue_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:cyan_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:purple_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:magenta_clear_stained_glass_pane"
+				},
+				{
+					"Name": "tconstruct:pink_clear_stained_glass_pane"
+				}
+			]
+		}
+	]
+}

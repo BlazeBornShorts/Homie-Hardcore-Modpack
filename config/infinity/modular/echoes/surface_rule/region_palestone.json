@@ -1,0 +1,22 @@
+{
+	"biomes": [
+		"echoes:region_palestone"
+	],
+	"rule": {
+		"sequence": [
+			{
+				"result_state": {
+					"Name": "echoes:palestone"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"result_state": {
+					"Name": "echoes:palestone"
+				},
+				"type": "minecraft:block"
+			}
+		],
+		"type": "minecraft:sequence"
+	}
+}

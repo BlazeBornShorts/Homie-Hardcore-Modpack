@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "atlantis:column_cavitation"
+		},
+		{
+			"weight": 1.0,
+			"key": "atlantis:panbee"
+		}
+	]
+}

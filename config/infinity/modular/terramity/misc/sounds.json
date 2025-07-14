@@ -1,0 +1,944 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_automatic_rifle_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_automatic_rifle_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_automatic_rifle_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_burst_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_burst_fire_single"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_burst_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_burst_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_pistol_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_pistol_reloading"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anti-material_rifle_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anti-material_rifle_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anti-material_rifle_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_bomb_prime"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_rifle_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_rifle_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_rifle_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_supernova_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_supernova_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_supernova_hum"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ascendedbottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ascendedtop"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:asphodel_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:asphodel_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:asphodel_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:basic_pistol_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:basic_pistol_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:basic_rifle_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:basic_rifle_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:basicwandcast"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bassy_thud"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:big_iron_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:big_iron_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:big_iron_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:black_hole_bomb_prime"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blasphemic_rapture_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blasphemous_rapture_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blunderbuss_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blunderbuss_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bottlepop"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:buff_firey"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:buff_ghostly"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:buff_holy"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:buff_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:buff_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:buzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:celestial_sixty_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:celestial_sixty_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:celestial_sixty_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chaching"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chip-crit"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chip1"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chip2"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chip3"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chip4"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:clang"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:clap"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:coin_rattle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_laser_rifle_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_laser_rifle_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:correct"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmic_storm_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmic_storm_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:crescent_moonblade_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dart_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:davy_jones_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:davy_jones_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:davy_jones_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:deep_hum"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:discordping"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:divine_intervention_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:divine_intervention_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dryfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:duskrok_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:duskrok_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:electric_shock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:elegy_of_the_night"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:elite_bolt_cycle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:elite_rifle_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:elite_rifle_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_annihilator_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_annihilator_quickreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_annihilator_reloading"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fairyambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fairyuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fivek_magnum_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fivek_magnum_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flare_gun_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flare_gun_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flintlock_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flintlock_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fortune_slots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fortunes_favor_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fortunes_favor_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fusionfinish"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:futuristic_sfx"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaias_tempest_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaias_tempest_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:galebounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gathering"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gatmancer_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gatmancer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gatmancer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:generic_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gunkshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:heavy_thud"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:helm_cycle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:helm_semi"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hero_sword_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hexed"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hexed_super"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hitmarker"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:holy_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hyper_crit"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:jackpot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lance_rumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lance_shatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:large_bolt_cycle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:large_pistol_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:large_rifle_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lever_pull"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:loud_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:loud_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:massive_thud"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:megabite_aggression"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:megabite_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:megabite_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:megabite_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:megabite_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:microwave_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:microwave_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:microwave_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:microwave_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moon_exploding"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moondrill_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:murasama"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nihility_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nihility_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:null-dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_storm_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_storm_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_storm_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pistol_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:plague_pistol_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:plague_pistol_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:plaguebringer_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:plaguebringer_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:planet_buster_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:planet_buster_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:planet_buster_sound_oc"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:poof"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:potion_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prelude_to_battle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pump_first"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pump_second"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:railgun_fire_fire_oc"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:railgun_fire_first"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:railgun_fire_second"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:requiem_of_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:requiem_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:requiem_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:revolver_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rifle_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rifle_fire_ping"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rocket_launch"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rocket_loading"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sawed_off_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sawed_off_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shell_loading"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shotgunfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:single_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:single_coin_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:six_shooter_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:six_shooter_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:slash1"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:slash2"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:slash3"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:slots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:song_of_amplitude"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stairway_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stairway_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stairway_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stone_slide"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:summon_ultra_sniffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_aura"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_beam_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_beam_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_extreme_sniff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_kill"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_phase_transition"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_random"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_spirit_bomb_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_warp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:suppressed_pistol_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sword_pull"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sword_sharpen"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:symphony_of_storms"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:tg_hand_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:thud"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ting"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:titanomachy_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:titanomachy_rapid_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:toggle_cyber"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:tomeuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:trail_guardian_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:transmute"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:trial_guardian_alarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:trial_guardian_knuckles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:trial_guardian_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:true-crit"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:turret_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultra_sniffer_beam_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultra_sniffer_extreme_sniff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultra_sniffer_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultra_sniffer_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:unlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:uvogre_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:uvogre_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:uvogre_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virtue_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virtue_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virtue_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:vulcan_rapidreload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:vulcan_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:warp_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:warp_whistle_bind"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:warp_whistle_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:zap"
+		}
+	]
+}

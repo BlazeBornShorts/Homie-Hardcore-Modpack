@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 4879982,
+				"Instant": false,
+				"Name": "eeeabsmobs:armor_lower_effect"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -15132648,
+				"Instant": false,
+				"Name": "eeeabsmobs:erode_effect"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 16711680,
+				"Instant": false,
+				"Name": "eeeabsmobs:frenzy_effect"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -13382297,
+				"Instant": false,
+				"Name": "eeeabsmobs:vertigo_effect"
+			}
+		}
+	]
+}

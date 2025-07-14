@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "voidscape:null_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "voidscape:oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_fungus",
+				"Name": "voidscape:thunder_fungus"
+			}
+		}
+	]
+}

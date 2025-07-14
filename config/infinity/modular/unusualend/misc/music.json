@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualend:music_disc_endstone_golem_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:music_disc_flying_ships"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:music_disc_queen"
+		}
+	]
+}

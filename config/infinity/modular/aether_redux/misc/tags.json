@@ -1,0 +1,80 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aether_redux:aether_carver_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:aether_moss_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:aevelium_grasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:coarse_aether_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:do_not_replace_aether_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_grasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_vines_skip_placement"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:frosted_plants_placement"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:highlands_grasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:mushroom_caps"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:quicksoil_behavior"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:rock_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sporing_blightwillow_logs"
+		}
+	]
+}

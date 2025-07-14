@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "nyctophobia:dead_coral_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "nyctophobia:dead_coral_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "nyctophobia:dead_corals"
+		},
+		{
+			"weight": 1.0,
+			"key": "nyctophobia:dead_wall_corals"
+		}
+	]
+}

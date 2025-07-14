@@ -1,0 +1,1184 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:aqua_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:baby_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:baby_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:baby_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:baby_stray_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:baby_wither_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:black_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:blue_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:brown_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:cyan_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:dark_red_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:gray_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:green_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_blue_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:light_gray_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:lime_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:magenta_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:obsidian_tnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:orange_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:pink_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:purple_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:red_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:walkie_talkie"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:white_slick_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_glow_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_glow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_glow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_road"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_transparent_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_plastic_transparent_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_reinforced_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismadditions:yellow_slick_plastic"
+		}
+	]
+}

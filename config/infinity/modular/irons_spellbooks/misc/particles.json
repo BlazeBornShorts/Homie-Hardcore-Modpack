@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:acid_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:blood_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:dragon_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:electricity"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:embers"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:portal_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:ring_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:snow_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:snowflake"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:unstable_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "irons_spellbooks:wisp"
+		}
+	]
+}

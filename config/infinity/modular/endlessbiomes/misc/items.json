@@ -1,0 +1,512 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:altar_podium_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_shell_armour_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_shell_armour_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_shell_armour_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_shell_armour_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_shell_fragments"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_shell_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklor_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_ruin_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkan_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:battle_frisbee"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:black_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:blue_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:bottle_of_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:brown_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:chiseled_arkan_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:cracked_arkan_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:cracked_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:cyan_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:empty_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:encased_radon"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:encrusted_arkan"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:end_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ender_fern_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ender_ferns"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ender_root_spindles"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ender_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:endurian"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:frisboom"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:gilded_arkan"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:glowing_penumbral_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:gray_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:green_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:light_blue_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:light_gray_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:lime_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:loaded_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:magenta_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:marula_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:orange_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbra_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_shoal_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_spring_pad_compressed"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_spring_pad_extended"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbral_vines_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:perished_shiftling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:perished_twisted_canopy"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:perished_twisted_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:phantom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:pink_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:polished_arkan"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:polished_arkan_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:polished_arkan_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:purple_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:radon"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:radon_sentinel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:reaching_marula"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:reaching_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:reaching_vines_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:red_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:resistive_arkan"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:resistive_grease"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:resistive_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:resistive_sentinel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:riftite"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:riftite_sentinel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:riftite_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ruinous_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shattered_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shiftling_antenna"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shiftling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:slipgravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:slipstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:slipstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:stripped_penumbra_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:stripped_penumbra_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:stripped_twisted_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:stripped_twisted_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_canopy"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_shoal_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:void_touched_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:void_touched_boots_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:void_touched_leggings_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:vwooper"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:white_radon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:yellow_radon_lamp"
+		}
+	]
+}

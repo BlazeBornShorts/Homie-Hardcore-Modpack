@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "graveyard:graveyard_fog_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:graveyard_hand_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:graveyard_left_hand_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:graveyard_soul_beam_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:graveyard_soul_particle"
+		}
+	]
+}

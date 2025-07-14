@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:elevetia"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sky_blues"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sunset_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wynd_thistle"
+		}
+	]
+}

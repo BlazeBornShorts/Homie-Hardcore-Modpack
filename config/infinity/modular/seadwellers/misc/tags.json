@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "seadwellers:kelp_shearer_cutable"
+		},
+		{
+			"weight": 1.0,
+			"key": "seadwellers:mermorph_aggro_blocks"
+		}
+	]
+}

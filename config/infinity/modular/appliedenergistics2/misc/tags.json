@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "appliedenergistics2:fluix_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliedenergistics2:sky_stone_block"
+		}
+	]
+}

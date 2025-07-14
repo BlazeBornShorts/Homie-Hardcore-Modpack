@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_box_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:transmutable"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:wizards_safe"
+		}
+	]
+}

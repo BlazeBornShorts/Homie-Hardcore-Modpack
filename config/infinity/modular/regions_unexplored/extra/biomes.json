@@ -1,0 +1,501 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6028091,
+				"Name": "regions_unexplored:alpha_grove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10118056,
+				"Name": "regions_unexplored:ancient_delta"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6773446,
+				"Name": "regions_unexplored:arid_mountains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 15326658,
+				"Name": "regions_unexplored:ashen_woodland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 9877306,
+				"Name": "regions_unexplored:autumnal_maple_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11140963,
+				"Name": "regions_unexplored:bamboo_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6636971,
+				"Name": "regions_unexplored:baobab_savanna"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5256873,
+				"Name": "regions_unexplored:barley_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9333940,
+				"Name": "regions_unexplored:bayou"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11093361,
+				"Name": "regions_unexplored:bioshroom_caves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5463027,
+				"Name": "regions_unexplored:blackstone_basin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4347179,
+				"Name": "regions_unexplored:blackwood_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8103502,
+				"Name": "regions_unexplored:boreal_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8414642,
+				"Name": "regions_unexplored:chalk_cliffs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6044317,
+				"Name": "regions_unexplored:clover_plains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9922472,
+				"Name": "regions_unexplored:cold_boreal_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5614468,
+				"Name": "regions_unexplored:cold_deciduous_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5718172,
+				"Name": "regions_unexplored:cold_river"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7578936,
+				"Name": "regions_unexplored:deciduous_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5060484,
+				"Name": "regions_unexplored:dry_bushland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8828203,
+				"Name": "regions_unexplored:eucalyptus_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8754506,
+				"Name": "regions_unexplored:fen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10635453,
+				"Name": "regions_unexplored:flower_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9922472,
+				"Name": "regions_unexplored:frozen_pine_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5207984,
+				"Name": "regions_unexplored:frozen_tundra"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10667597,
+				"Name": "regions_unexplored:fungal_fen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12058781,
+				"Name": "regions_unexplored:glistering_meadow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12562512,
+				"Name": "regions_unexplored:golden_boreal_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -7159980,
+				"Name": "regions_unexplored:grassland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8933043,
+				"Name": "regions_unexplored:grassy_beach"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8673714,
+				"Name": "regions_unexplored:gravel_beach"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8275350,
+				"Name": "regions_unexplored:highland_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8275350,
+				"Name": "regions_unexplored:hyacinth_deeps"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9913745,
+				"Name": "regions_unexplored:icy_heights"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7295817,
+				"Name": "regions_unexplored:infernal_holt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8409523,
+				"Name": "regions_unexplored:joshua_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8437033,
+				"Name": "regions_unexplored:magnolia_woodland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6462505,
+				"Name": "regions_unexplored:maple_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8339092,
+				"Name": "regions_unexplored:marsh"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 3966928,
+				"Name": "regions_unexplored:mauve_hills"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9075130,
+				"Name": "regions_unexplored:mountains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -7159980,
+				"Name": "regions_unexplored:muddy_river"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10717988,
+				"Name": "regions_unexplored:mycotoxic_undergrowth"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9333940,
+				"Name": "regions_unexplored:old_growth_bayou"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10669160,
+				"Name": "regions_unexplored:orchard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8016810,
+				"Name": "regions_unexplored:outback"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9075130,
+				"Name": "regions_unexplored:pine_slopes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7702086,
+				"Name": "regions_unexplored:pine_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7578936,
+				"Name": "regions_unexplored:poppy_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8933043,
+				"Name": "regions_unexplored:prairie"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -16737793,
+				"Name": "regions_unexplored:prismachasm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 9877306,
+				"Name": "regions_unexplored:pumpkin_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11032271,
+				"Name": "regions_unexplored:rainforest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10623252,
+				"Name": "regions_unexplored:redstone_abyss"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6044317,
+				"Name": "regions_unexplored:redstone_caves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7512632,
+				"Name": "regions_unexplored:redwoods"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9001891,
+				"Name": "regions_unexplored:rocky_meadow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11617740,
+				"Name": "regions_unexplored:rocky_reef"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -6836695,
+				"Name": "regions_unexplored:saguaro_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8949914,
+				"Name": "regions_unexplored:scorching_caves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -8999081,
+				"Name": "regions_unexplored:shrubland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 8960834,
+				"Name": "regions_unexplored:silver_birch_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11032271,
+				"Name": "regions_unexplored:sparse_rainforest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7512632,
+				"Name": "regions_unexplored:sparse_redwoods"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11097502,
+				"Name": "regions_unexplored:spires"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -5589135,
+				"Name": "regions_unexplored:steppe"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7054415,
+				"Name": "regions_unexplored:temperate_grove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -7362208,
+				"Name": "regions_unexplored:towering_cliffs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4237620,
+				"Name": "regions_unexplored:tropical_river"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -11617740,
+				"Name": "regions_unexplored:tropics"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7778144,
+				"Name": "regions_unexplored:willow_forest"
+			}
+		}
+	]
+}

@@ -1,0 +1,160 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightshade"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blossom_flare"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_air_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_blighted_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_blightwillow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_blue_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_cloudcap_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_conberry_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_cruderoot_needles"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_crystal_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_crystal_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_dark_blue_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_enchanted_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_gilded_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_glacia_needles"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_golden_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_highsproot_needles"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_prismatic_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_purple_crystal_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_purple_glacia_needles"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_skyroot_pine_needles"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_sunroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:falling_yagroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsprout_petals_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsprout_petals_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsprout_petals_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsprout_petals_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsprout_petals_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsprout_petals_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsprout_petals_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:ice_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:landing_cloudcap_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sakura_petals"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shimmerstar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:whirlwind_lightning"
+		}
+	]
+}

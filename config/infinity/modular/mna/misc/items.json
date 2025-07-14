@@ -1,0 +1,3684 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mna:affinity_lock_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:affinity_tinker"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:air_cast_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:allfather_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:allfather_axe_control"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:altar_of_arcana"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:animated_quill"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:animus_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:antidote_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:arcane_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:arcane_compound"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:arcane_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:arcane_sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:arcanist_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:astro_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:aum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bangle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:basic_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:battlemage_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bed_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bell_of_bidding"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:belt_buckle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:blink_precision_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bone_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bone_armor_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bone_armor_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bone_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bone_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bone_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bone_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:book_marks"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:book_of_rote"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:book_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:book_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bound_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bound_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bound_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bound_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:break_ring_greater"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:break_ring_lesser"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:brimstone_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:brimstone_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:broken_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:broken_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:broken_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:broken_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:bubble_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:burn_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:cerublossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:charm_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:charm_pattern_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_crystal_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:chimerite_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:clay_mug"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:cloud_in_a_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:collector_ring_greater"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:collector_ring_lesser"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:construct_repair_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:construct_workbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_armor_torso_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_armor_torso_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_armor_torso_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_armor_torso_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_armor_torso_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_armor_torso_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_armor_torso_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_axe_arm_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_head_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_legs_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_basic_torso_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_blade_arm_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_caster_arm_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_ender_legs_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_ender_legs_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_ender_legs_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_ender_legs_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_ender_legs_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_ender_legs_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_ender_legs_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fishing_rod_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_fluid_nozzle_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_grabber_arm_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_hammer_arm_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_horn_head_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_horn_head_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_horn_head_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_horn_head_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_horn_head_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_horn_head_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_horn_head_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_cannon_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_torso_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_torso_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_torso_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_torso_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_torso_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_torso_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_mana_torso_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_reinforced_legs_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_reinforced_legs_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_reinforced_legs_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_reinforced_legs_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_reinforced_legs_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_reinforced_legs_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_reinforced_legs_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_rocket_legs_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_rocket_legs_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_rocket_legs_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_rocket_legs_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_rocket_legs_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_rocket_legs_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_rocket_legs_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_left_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_left_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_left_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_left_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_left_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_left_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_left_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_right_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_right_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_right_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_right_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_right_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_right_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_shield_arm_right_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_smart_head_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_smart_head_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_smart_head_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_smart_head_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_smart_head_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_smart_head_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_smart_head_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_wickerwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_storage_torso_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_tank_torso_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_tank_torso_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_tank_torso_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_tank_torso_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_tank_torso_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_tank_torso_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/construct_tank_torso_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_hips"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_pattern_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_pattern_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_pattern_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_pattern_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_pattern_hips"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_pattern_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_pattern_torso"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:constructs/rune_torso"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:council_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:council_armor_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:council_armor_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:council_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:council_hud_badge_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:cowl_of_consumption"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:crit_immune"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:crystal_of_memories"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:crystal_phylactery"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:crystallized_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:damage_charm_major"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:damage_charm_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:death_charm_major"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:death_charm_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:debug_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/amethyst_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/chimerite_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/copper_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/diamond_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/emerald_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/gold_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/quicksilver_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/redstone_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pane_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/runic_glass_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/transmuted_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/transmuted_silver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/transmuted_silver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_quad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_straight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:decoration/vinteum_arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:delegation_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:demon_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:demon_armor_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:demon_armor_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:demon_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:demon_lord_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:demon_lord_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:desert_nova"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:disenchanter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:dowsing_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:drown_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:earth_sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_conduit_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_conduit_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_conduit_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_conduit_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_conduit_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_conduit_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_fume"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_rift"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldrin_sight_unguent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:eldritch_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:emberglow_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:enchanted_vellum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:ender_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:ender_sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:enderguard_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:entrapment_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:faction_horn_council"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:faction_horn_demons"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:faction_horn_fey"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:faction_horn_undead"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fall_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fey_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fey_armor_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fey_armor_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fey_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fey_summer_hud_badge_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fey_winter_hud_badge_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:filter_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fire_sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:flat_lands_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fluid_jug"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fluid_jug_infinite_lava"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fluid_jug_infinite_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fortune_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fortune_ring_greater"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fortune_ring_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fume_bellows"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:fume_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_hellfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:greater_mote_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:grimoire_council"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:grimoire_demon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:grimoire_fey"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:grimoire_undead"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:guide_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:hat_fez"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:hat_large_witch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:hat_styled_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:hat_tall_cowboy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:healing_poultice"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:hellfire_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:hellfire_trident"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:herbalist_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:icarian_flight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:illusion_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:improvised_manaweaver_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:infused_silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:infused_thread"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:inscription_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:inscriptionist_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:ironbark"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lesser_eldrin_conduit_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lesser_eldrin_conduit_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lesser_eldrin_conduit_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lesser_eldrin_conduit_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lesser_eldrin_conduit_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lesser_eldrin_conduit_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:living_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lodestar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:lodestar_copier"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:low_cr_charm_major"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:low_cr_charm_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:low_health_charm_major"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:low_health_charm_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mage_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mage_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mage_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mage_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:magic_broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:magicians_workbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:major_mana_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mana_coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mana_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mana_crystal_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mana_resevoir"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:manaweave_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:manaweave_projector"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:manaweaver_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:manaweaver_wand_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:manaweaving_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:manaweaving_pattern_recipe_paper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mark_of_the_council"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mark_of_the_fey"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mark_of_the_nether"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mark_of_the_undead"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:minor_mana_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mithions_magnificent_mbag"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:modifier_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mote_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mote_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mote_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mote_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mote_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mote_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mundane_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mundane_amulet_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mundane_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mundane_bracelet_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mundane_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:mundane_ring_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:occulus"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:ornate_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:particle_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_collection"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_conveyance"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_depth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_depth_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_mote"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_rift"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_speed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_speed_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_speed_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:patch_weave"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pattern_belt_buckle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pattern_vinteum_needle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pedestal_with_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pilgrim_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pilgrims_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pilgrims_path_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pilgrims_path_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:player_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:practitioners_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pre_fall_charm_major"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pre_fall_charm_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:projectile_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pumpkin_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:purified_vinteum_coated_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:purified_vinteum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:purified_vinteum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/bind_wounds"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/camouflage"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/elytra_flight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/freeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/grow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/haste"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/inert"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/insight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/interdiction_in"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/interdiction_out"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/leap"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/levitate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/levitate_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/light"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/night_vision"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/pilgrim"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/recharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/shrink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/slowfall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/spider_climb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/swift_swim"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/water_breathing"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:pylon/water_walking"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:raid_charm_major"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:raid_charm_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:raw_vinteum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:recipe_copy_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:redstone_trigger"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:refraction_lens_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:refraction_lens_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:refraction_lens_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:refraction_lens_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:refraction_lens_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:refraction_lens_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:resonating_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:resonating_lump"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:ritual_focus_greater"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:ritual_focus_lesser"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:ritual_focus_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_aura"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_clay_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_defense"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_marking"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_marking_pair"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_aura"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_defense"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_marking"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_projection"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_ritual_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_pattern_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_projection"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_ritual_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:rune_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runeforge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runescribing_recipe_paper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runescribing_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runesmith_chisel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runesmith_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runic_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runic_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runic_malus"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runic_silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:runic_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:sachet_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:sachet_arcane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:sachet_earth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:sachet_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:sachet_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:sachet_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:scroll_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:seer_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:selfish_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:silk_touch_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:skeleton_assassin_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:slipstream_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:sorcerous_sewing_set"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spectral_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spectral_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spectral_elytra"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spectral_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spectral_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spectral_stonecutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spectral_web"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spell_infusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spell_part_thesis"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:spell_specialization"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_aum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_blueice"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_cerublossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_chimerite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_desertnova"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_fox"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_netherquartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_phylactery"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_prismarinecrystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_prismarineshard"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_skull_alt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_tarma"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_vinteum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:staff_wakebloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_blank"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:stone_rune_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:strange_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:study_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:suffocation_charm_major"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:suffocation_charm_minor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:superheated_purified_vinteum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:superheated_vinteum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:tarma_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:thaumaturgic_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:thaumaturgic_link"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:thesis_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:torn_journal_page"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:transitory_tunnel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:transmuted_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:trickery_bracelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:undead_hud_badge_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vellum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vinteum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vinteum_coated_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vinteum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vinteum_dust_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vinteum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vinteum_needle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vinteum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:vortex_broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wakebloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_aum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_blueice"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_cerublossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_chimerite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_clone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_desertnova"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_netherquartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_prismarinecrystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_prismarineshard"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_skull_alt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_tarma"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_vinteum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wand_wakebloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:warding_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:warding_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:water_sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:weaver_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wellspring_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wellspring_sight_unguent"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wind_sentry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:witherbone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:witherguard_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:wizard_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mna:world_charm"
+		}
+	]
+}

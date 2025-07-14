@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:altar_enhancer"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:freezer_enhancer"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:gale_stones"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:incubator_enhancer"
+		}
+	]
+}

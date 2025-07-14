@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:glacio_fluorite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:glacio_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:glacio_osmium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:glacio_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:glacio_uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:mars_fluorite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:mars_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:mars_uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:mercury_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:mercury_osmium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:mercury_uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:moon_osmium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:moon_tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:venus_fluorite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:venus_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mekanismaaa:venus_uranium_ore"
+		}
+	]
+}

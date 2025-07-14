@@ -1,0 +1,8932 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "everycomp:all_woods"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/aeronos_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/aeronos_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/aeronos_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/aeronos_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/glacian_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/glacian_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/glacian_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/glacian_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/glacian_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/glacian_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/glacian_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/hollow_glacian_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/strophar_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/strophar_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/strophar_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/strophar_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/vertical_aeronos_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/vertical_glacian_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ad_astra/vertical_strophar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/crystal_fruit_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/crystal_fruit_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/crystal_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/crystal_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/decorated_holiday_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/decorated_holiday_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/golden_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/golden_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/holiday_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/holiday_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/hollow_skyroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/skyroot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/skyroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/skyroot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/skyroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/skyroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/skyroot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/skyroot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/stripped_skyroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether/vertical_skyroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blighted_skyroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blighted_skyroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blightwillow_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blightwillow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blightwillow_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blightwillow_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blightwillow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blightwillow_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/blightwillow_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/cloudcap_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/cloudcap_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/cloudcap_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/cloudcap_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/cloudcap_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/crystal_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/crystal_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/crystal_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/crystal_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/crystal_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/fieldsproot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/fieldsproot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/fieldsproot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/fieldsproot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/fieldsproot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/fieldsproot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/fieldsproot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/gilded_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/gilded_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/glacia_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/glacia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/glacia_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/glacia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/glacia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/glacia_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/glacia_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/hollow_blightwillow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/hollow_cloudcap_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/hollow_crystal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/hollow_fieldsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/hollow_glacia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/jellyshroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/jellyshroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/jellyshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/jellyshroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/jellyshroom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/purple_glacia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/purple_glacia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/stripped_blightwillow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/stripped_cloudcap_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/stripped_crystal_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/stripped_fieldsproot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/stripped_glacia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/vertical_blightwillow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/vertical_cloudcap_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/vertical_crystal_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/vertical_fieldsproot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/vertical_glacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/aether_redux/vertical_jellyshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/ancient_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/ancient_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/hollow_pewen_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/hollow_thornwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/pewen_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/pewen_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/pewen_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/pewen_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/pewen_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/pewen_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/stripped_pewen_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/stripped_thornwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/thornwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/thornwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/thornwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/thornwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/thornwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/thornwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/vertical_pewen_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/alexscaves/vertical_thornwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/blue_skyroot_pine_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/blue_skyroot_pine_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/crystal_skyroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/crystal_skyroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/enchanted_skyroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/enchanted_skyroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/highsproot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/highsproot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/highsproot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/highsproot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/highsproot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/highsproot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/highsproot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/hollow_highsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/hollow_sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/sakura_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/sakura_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/sakura_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/sakura_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/sakura_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/sakura_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/sakura_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/skyroot_pine_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/skyroot_pine_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/stripped_highsproot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/stripped_sakura_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/vertical_highsproot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ancient_aether/vertical_sakura_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/archwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/archwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/archwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/archwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/blue_archwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/blue_archwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/green_archwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/green_archwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/hollow_archwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/purple_archwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/purple_archwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/red_archwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/red_archwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/stripped_archwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ars_nouveau/vertical_archwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/fiery_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/fiery_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/fiery_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/fiery_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/hollow_luminous_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/hollow_soggy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/hollow_soul_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/hollow_tormented_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/hollow_wisteria_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/luminous_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/luminous_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/luminous_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/luminous_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/luminous_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/luminous_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/sick_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/sick_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/sick_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/sick_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soggy_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soggy_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soggy_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soggy_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soggy_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soggy_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soggy_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soul_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soul_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soul_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soul_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soul_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soul_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/soul_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/stripped_luminous_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/stripped_soggy_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/stripped_soul_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/stripped_tormented_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/stripped_wisteria_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/tormented_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/tormented_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/tormented_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/tormented_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/tormented_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/vertical_luminous_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/vertical_sick_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/vertical_soggy_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/vertical_soul_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/vertical_tormented_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/vertical_wisteria_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/wisteria_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/wisteria_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/wisteria_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/wisteria_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/wisteria_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/astral_dimension/wisteria_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/atlantean_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/atlantean_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/atlantean_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/atlantean_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/atlantean_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/hollow_atlantean_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/palm_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/palm_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/palm_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/palm_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/palm_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/palm_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/palm_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/vertical_atlantean_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/atlantis/vertical_palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/betterarcheology/rotten_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/betterarcheology/rotten_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/betterarcheology/rotten_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/betterarcheology/rotten_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/betterarcheology/rotten_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/betterarcheology/vertical_rotten_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/empyreal_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/hollow_empyreal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/hollow_pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/maple_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/maple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/maple_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/maple_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/maple_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/null_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/null_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/pine_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/stripped_empyreal_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/stripped_maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/stripped_pine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/vertical_empyreal_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/vertical_maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomesoplenty/vertical_pine_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/araucaria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/araucaria_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/aspen_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/aspen_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/aspen_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/aspen_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/aspen_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/aspen_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/aspen_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/baobab_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/baobab_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/baobab_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/baobab_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/baobab_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/baobab_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/baobab_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blooming_witch_hazel_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blooming_witch_hazel_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_enchanted_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_enchanted_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_enchanted_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_enchanted_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_enchanted_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_enchanted_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_enchanted_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_spruce_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/blue_spruce_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/brown_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/brown_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/brown_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/brown_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/brown_zelkova_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/brown_zelkova_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cika_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cika_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cika_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cika_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cika_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cika_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cika_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cypress_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cypress_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cypress_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cypress_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cypress_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cypress_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/cypress_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ebony_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ebony_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ebony_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ebony_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ebony_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ebony_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ebony_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/fir_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/fir_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/fir_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/fir_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/fir_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/fir_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/fir_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/firecracker_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/firecracker_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/florus_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/florus_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/florus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/florus_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/florus_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_baobab_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_baobab_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_indigo_jacaranda_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_indigo_jacaranda_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_ironwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_ironwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_jacaranda_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_jacaranda_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_orchard_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_orchard_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_palo_verde_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_palo_verde_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_skyris_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_skyris_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_yucca_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/flowering_yucca_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_apple_skyris_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_apple_skyris_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_enchanted_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_enchanted_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_enchanted_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_enchanted_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_enchanted_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_enchanted_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/green_enchanted_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_aspen_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_blue_enchanted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_cika_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_ebony_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_florus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_green_enchanted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_holly_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_ironwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_jacaranda_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_rainbow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_skyris_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_white_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_witch_hazel_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/hollow_zelkova_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_berry_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_berry_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/holly_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/indigo_jacaranda_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/indigo_jacaranda_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ironwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ironwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ironwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ironwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ironwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ironwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ironwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/jacaranda_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/jacaranda_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/jacaranda_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/jacaranda_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/jacaranda_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/jacaranda_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/jacaranda_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/mahogany_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/mahogany_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/mahogany_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/mahogany_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/mahogany_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/mahogany_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/mahogany_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/maple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/maple_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/maple_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/maple_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orange_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orange_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orange_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orange_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orange_spruce_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orange_spruce_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orchard_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/orchard_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palm_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palm_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palm_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palm_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palm_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palm_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palm_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palo_verde_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/palo_verde_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/pine_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/pine_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/pine_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/pine_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/pine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/pine_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/pine_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/rainbow_eucalyptus_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/rainbow_eucalyptus_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/rainbow_eucalyptus_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/rainbow_eucalyptus_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/rainbow_eucalyptus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/rainbow_eucalyptus_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/rainbow_eucalyptus_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_spruce_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/red_spruce_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/redwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/redwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/redwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/redwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/redwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/redwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/redwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ripe_baobab_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ripe_baobab_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ripe_orchard_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ripe_orchard_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ripe_yucca_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/ripe_yucca_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/sakura_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/sakura_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/sakura_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/sakura_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/sakura_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/silver_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/silver_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/skyris_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/skyris_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/skyris_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/skyris_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/skyris_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/skyris_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/skyris_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_aspen_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_baobab_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_blue_enchanted_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_cika_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_cypress_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_ebony_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_fir_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_florus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_green_enchanted_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_holly_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_ironwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_jacaranda_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_mahogany_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_palm_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_pine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_rainbow_eucalyptus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_redwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_sakura_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_skyris_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_white_mangrove_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_witch_hazel_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/stripped_zelkova_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_aspen_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_baobab_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_blue_enchanted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_cika_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_cypress_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_ebony_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_fir_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_florus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_green_enchanted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_holly_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_ironwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_jacaranda_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_mahogany_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_pine_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_rainbow_eucalyptus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_redwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_sakura_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_skyris_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_white_mangrove_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_witch_hazel_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/vertical_zelkova_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_mangrove_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_mangrove_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_mangrove_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_mangrove_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_mangrove_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_mangrove_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_mangrove_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_sakura_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/white_sakura_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/willow_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/willow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/willow_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/willow_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/willow_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/willow_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/witch_hazel_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/witch_hazel_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/witch_hazel_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/witch_hazel_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/witch_hazel_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/witch_hazel_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/witch_hazel_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yellow_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yellow_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yellow_sakura_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yellow_sakura_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yellow_spruce_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yellow_spruce_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yucca_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/yucca_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/zelkova_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/zelkova_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/zelkova_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/zelkova_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/zelkova_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/zelkova_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/biomeswevegone/zelkova_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/bluebright_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/bluebright_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/bluebright_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/bluebright_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/bluebright_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/comet_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/comet_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/comet_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/comet_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/comet_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crescent_fruit_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crescent_fruit_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crystallized_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crystallized_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crystallized_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crystallized_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crystallized_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crystallized_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/crystallized_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/dusk_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/dusk_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/dusk_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/dusk_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/dusk_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/frostbright_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/frostbright_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/frostbright_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/frostbright_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/frostbright_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/hollow_bluebright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/hollow_comet_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/hollow_dusk_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/hollow_frostbright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/hollow_lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/hollow_starlit_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/lunar_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/lunar_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/lunar_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/lunar_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/lunar_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/maple_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/maple_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/starlit_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/starlit_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/starlit_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/starlit_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/starlit_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/stripped_bluebright_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/stripped_comet_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/stripped_dusk_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/stripped_frostbright_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/stripped_lunar_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/stripped_maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/stripped_starlit_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_bluebright_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_comet_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_crystallized_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_dusk_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_frostbright_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_lunar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/blue_skies/vertical_starlit_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/hollow_scorched_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/stripped_scorched_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/vertical_scorched_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/dreamwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/dreamwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/dreamwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/dreamwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/dreamwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/hollow_dreamwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/hollow_livingwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/livingwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/livingwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/livingwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/livingwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/livingwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/vertical_dreamwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/botania/vertical_livingwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/cataclysm/chorus_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/cataclysm/chorus_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/cataclysm/chorus_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/cataclysm/chorus_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/cataclysm/chorus_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/cataclysm/vertical_chorus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/blue_roseroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/blue_roseroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/conberry_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/cruderoot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/flowering_blue_roseroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/flowering_blue_roseroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/flowering_roseroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/flowering_roseroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/hollow_conberry_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/hollow_cruderoot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/hollow_roseroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/hollow_sunroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/hollow_yagroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/roseroot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/stripped_conberry_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/stripped_cruderoot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/stripped_roseroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/stripped_sunroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/stripped_yagroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/sunroot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/vertical_conberry_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/vertical_cruderoot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/vertical_roseroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/vertical_sunroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/vertical_yagroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deep_aether/yagroot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/bloom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/bloom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/bloom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/bloom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/bloom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/echo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/hollow_echo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/stripped_echo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/vertical_bloom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/deeperdarker/vertical_echo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/driftwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/dimdoors/vertical_driftwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/apalachia_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/auroraoak_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/brittle_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/brittle_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/cozybark_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/divine_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/dreamwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/dreamwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eden_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eden_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eden_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eden_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eden_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eden_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eucalyptus_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eucalyptus_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eucalyptus_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eucalyptus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eucalyptus_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/eucalyptus_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/firewood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/firewood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_apalachia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_auroraoak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_cozybark_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_divine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_eden_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_mortum_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_shiverspine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_skythern_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_streamleaf_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hollow_wildwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hyrewood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/hyrewood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mintwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mintwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/mortum_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/shiverspine_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/shiverspine_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/shiverspine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/shiverspine_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/shiverspine_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/skythern_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/streamleaf_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_apalachia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_auroraoak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_cozybark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_divine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_eden_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_eucalyptus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_mortum_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_shiverspine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_skythern_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_streamleaf_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/stripped_wildwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_apalachia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_auroraoak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_cozybark_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_divine_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_eden_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_eucalyptus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_mortum_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_shiverspine_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_skythern_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_streamleaf_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/vertical_wildwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/divinerpg/wildwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/hollow_llerae_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/hollow_shimmerdown_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/llerae_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/llerae_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/llerae_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/llerae_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/llerae_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/shimmerdown_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/shimmerdown_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/shimmerdown_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/shimmerdown_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/shimmerdown_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/vertical_llerae_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/echoes/vertical_shimmerdown_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endergetic/hollow_poise_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endergetic/poise_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endergetic/poise_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endergetic/stripped_poise_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endergetic/vertical_poise_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/glowing_penumbral_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/glowing_penumbral_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/hollow_penumbra_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/hollow_twisted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbra_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbra_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbra_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbra_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbra_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbra_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbral_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/penumbral_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/stripped_penumbra_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/stripped_twisted_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/twisted_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/twisted_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/twisted_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/twisted_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/twisted_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/twisted_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/vertical_penumbra_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/endlessbiomes/vertical_twisted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/hollow_cerulean_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/hollow_indigo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/stripped_indigo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/vertical_cerulean_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/vertical_indigo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/hollow_soulblight_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/stripped_soulblight_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/vertical_soulblight_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/vertical_whistlecane_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iceandfire/dreadwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iceandfire/dreadwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iceandfire/dreadwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iceandfire/dreadwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iceandfire/vertical_dreadwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/charred_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/saffron_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/vertical_charred_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nether_additions/vertical_saffron_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/ginger_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/ginger_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/ginger_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/ginger_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/ginger_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/ginger_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/hollow_ginger_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/stripped_ginger_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherdungeons/vertical_ginger_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/claret_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/claret_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/claret_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/claret_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/claret_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/claret_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/hollow_claret_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/stripped_claret_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/netherexp/vertical_claret_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/hollow_indigo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/indigo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/indigo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/indigo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/indigo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/indigo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/indigo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/stripped_indigo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/nethers_exorcism_reborn/vertical_indigo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/outer_end/azure_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/outer_end/azure_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/outer_end/azure_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/outer_end/hollow_azure_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/outer_end/vertical_azure_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/alpha_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/alpha_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/alpha_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/alpha_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/alpha_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/alpha_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/alpha_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/apple_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/apple_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/ashen_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/ashen_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/bamboo_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/bamboo_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/baobab_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blackwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_bioshroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_bioshroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_bioshroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_bioshroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_bioshroom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_magnolia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/blue_magnolia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/brimwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cobalt_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cobalt_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cobalt_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cobalt_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cobalt_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cobalt_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/cypress_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_pine_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_pine_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/dead_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/enchanted_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/enchanted_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/eucalyptus_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/flowering_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/flowering_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/golden_larch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/golden_larch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/green_bioshroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/green_bioshroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/green_bioshroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/green_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/green_bioshroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/green_bioshroom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_blackwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_blue_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_brimwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_cobalt_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_dead_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_green_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_joshua_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_kapok_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_larch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_magnolia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_mauve_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_pink_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_socotra_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/hollow_yellow_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/joshua_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/joshua_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/joshua_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/joshua_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/joshua_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/joshua_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/kapok_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/larch_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/magnolia_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/maple_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/mauve_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/orange_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/orange_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/palm_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pine_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_bioshroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_bioshroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_bioshroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_bioshroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_bioshroom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_magnolia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/pink_magnolia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/red_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/red_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/redwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/silver_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/silver_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/small_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/small_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/socotra_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_baobab_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_blackwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_blue_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_brimwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_cobalt_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_cypress_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_dead_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_eucalyptus_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_green_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_joshua_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_kapok_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_larch_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_magnolia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_mauve_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_palm_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_pine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_pink_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_redwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_socotra_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/stripped_yellow_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_alpha_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_baobab_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_blackwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_blue_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_brimwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_cobalt_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_cypress_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_dead_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_eucalyptus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_green_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_joshua_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_kapok_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_larch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_magnolia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_mauve_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_pine_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_pink_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_redwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_socotra_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/vertical_yellow_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/white_magnolia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/white_magnolia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/willow_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/yellow_bioshroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/yellow_bioshroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/yellow_bioshroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/yellow_bioshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/yellow_bioshroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/regions_unexplored/yellow_bioshroom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/azuric_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/azuric_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/azuric_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/azuric_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/azuric_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/azuric_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/blue_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/blue_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/crystalline_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/hollow_azuric_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/hollow_crystalline_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/neon_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/neon_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/vertical_azuric_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/vertical_crystalline_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/xaxos_moon_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ror/xaxos_moon_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/creep_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/creep_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/creep_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/creep_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/creep_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/creep_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/creep_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/golden_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/golden_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/hellish_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/hellish_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_green_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_green_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_mint_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_mint_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_pink_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_pink_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_yellow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/pastel_yellow_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/shadow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/shadow_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/sparkpolia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/sparkpolia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vellium_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vellium_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vellium_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vellium_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vellium_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vellium_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vellium_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vertical_creep_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/vertical_vellium_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/void_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/shadowlands/void_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/bloodshroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/bloodshroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/bloodshroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/bloodshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/bloodshroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/bloodshroom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/earth_slime_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/earth_slime_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/ender_slime_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/ender_slime_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/enderbark_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/enderbark_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/enderbark_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/enderbark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/enderbark_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/enderbark_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/greenheart_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/greenheart_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/greenheart_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/greenheart_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/greenheart_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/greenheart_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/hollow_bloodshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/hollow_enderbark_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/hollow_greenheart_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/hollow_skyroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/sky_slime_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/sky_slime_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/skyroot_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/skyroot_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/skyroot_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/skyroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/skyroot_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/skyroot_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/stripped_bloodshroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/stripped_enderbark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/stripped_greenheart_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/stripped_skyroot_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/vertical_bloodshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/vertical_enderbark_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/vertical_greenheart_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/tconstruct/vertical_skyroot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/hollow_rubberwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/rubberwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/stripped_rubberwood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/thermal/vertical_rubberwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/vertical_plastic_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/beanstalk_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/beanstalk_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/canopy_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/canopy_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/canopy_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/canopy_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/canopy_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/canopy_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/dark_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/dark_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/dark_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/dark_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/dark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/dark_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/dark_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_canopy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_dark_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_mining_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_sorting_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_time_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_transformation_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/hollow_twilight_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mangrove_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mangrove_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mangrove_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mangrove_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mangrove_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mangrove_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mining_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mining_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mining_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mining_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mining_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mining_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/mining_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/rainbow_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/rainbow_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/sorting_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/sorting_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/sorting_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/sorting_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/sorting_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/sorting_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/sorting_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_canopy_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_dark_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_mangrove_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_mining_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_sorting_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_time_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_transformation_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/stripped_twilight_oak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/thorn_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/thorn_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/time_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/time_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/time_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/time_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/time_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/time_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/time_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/transformation_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/transformation_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/transformation_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/transformation_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/transformation_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/transformation_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/transformation_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/twilight_oak_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/twilight_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/twilight_oak_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/twilight_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/twilight_oak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/twilight_oak_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/twilight_oak_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_canopy_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_dark_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_mangrove_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_mining_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_sorting_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_time_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_transformation_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/twilightforest/vertical_twilight_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/hollow_grongle_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/hollow_smogstem_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/hollow_wigglewood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/stripped_grongle_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/stripped_smogstem_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/stripped_wigglewood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/vertical_grongle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/vertical_smogstem_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/vertical_wigglewood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/hollow_chorus_nest_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/vertical_chorus_nest_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/driftwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/driftwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/driftwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/driftwood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/driftwood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/hollow_driftwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/hollow_river_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/river_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/stripped_river_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/vertical_driftwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/vertical_river_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/voidscape/thunder_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/voidscape/thunder_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/voidscape/thunder_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/voidscape/thunder_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/voidscape/thunder_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/voidscape/vertical_thunder_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ad_astra/aeronos_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ad_astra/glacian_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ad_astra/strophar_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether/golden_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether/skyroot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether/skyroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/blighted_skyroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/blightwillow_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/blightwillow_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/cloudcap_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/crystal_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/fieldsproot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/fieldsproot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/gilded_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/glacia_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/glacia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/jellyshroom_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/aether_redux/purple_glacia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/alexscaves/ancient_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/blue_skyroot_pine_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/crystal_skyroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/enchanted_skyroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/highsproot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/highsproot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/sakura_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/sakura_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ancient_aether/skyroot_pine_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ars_nouveau/archwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ars_nouveau/blue_archwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ars_nouveau/green_archwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ars_nouveau/purple_archwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ars_nouveau/red_archwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/fiery_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/fiery_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/luminous_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/sick_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/soggy_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/soggy_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/soul_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/soul_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/tormented_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/wisteria_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/astral_dimension/wisteria_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/atlantis/atlantean_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/atlantis/palm_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/atlantis/palm_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/betterarcheology/rotten_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/cypress_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/dead_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/empyreal_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/empyreal_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/fir_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/fir_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/flowering_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/hellbark_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/hellbark_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/jacaranda_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/jacaranda_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/magic_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/magic_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/mahogany_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/mahogany_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/maple_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/origin_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/palm_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/palm_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/pine_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/pine_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/rainbow_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/redwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/redwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/snowblossom_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/umbran_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/umbran_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/willow_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomesoplenty/willow_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/araucaria_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/aspen_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/aspen_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/baobab_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/baobab_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/blue_enchanted_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/blue_enchanted_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/blue_spruce_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/brown_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/brown_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/brown_zelkova_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/cika_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/cika_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/cypress_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/cypress_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/ebony_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/ebony_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/fir_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/fir_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/florus_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/green_enchanted_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/green_enchanted_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/holly_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/holly_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/indigo_jacaranda_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/ironwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/ironwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/jacaranda_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/jacaranda_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/mahogany_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/mahogany_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/maple_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/maple_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/orange_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/orange_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/orange_spruce_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/orchard_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/palm_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/palm_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/palo_verde_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/pine_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/pine_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/rainbow_eucalyptus_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/rainbow_eucalyptus_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/red_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/red_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/red_spruce_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/redwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/redwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/sakura_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/silver_maple_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/skyris_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/skyris_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/white_mangrove_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/white_mangrove_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/white_sakura_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/willow_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/willow_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/witch_hazel_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/yellow_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/yellow_sakura_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/yellow_spruce_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/yucca_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/zelkova_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/biomeswevegone/zelkova_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/bluebright_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/bluebright_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/comet_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/comet_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/crescent_fruit_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/crystallized_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/dusk_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/dusk_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/frostbright_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/frostbright_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/lunar_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/lunar_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/maple_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/maple_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/starlit_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/blue_skies/starlit_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/born_in_chaos_v1/scorched_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/botania/dreamwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/botania/livingwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/cataclysm/chorus_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/blue_roseroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/conberry_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/conberry_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/cruderoot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/cruderoot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/roseroot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/roseroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/sunroot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/sunroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/yagroot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deep_aether/yagroot_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deeperdarker/bloom_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deeperdarker/echo_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/deeperdarker/echo_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/dimdoors/driftwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/dimdoors/driftwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/apalachia_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/apalachia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/auroraoak_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/auroraoak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/cozybark_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/cozybark_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/divine_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/divine_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/eden_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/eden_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/eucalyptus_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/mortum_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/mortum_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/shiverspine_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/skythern_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/skythern_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/streamleaf_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/streamleaf_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/wildwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/divinerpg/wildwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/echoes/llerae_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/echoes/shimmerdown_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/endergetic/poise_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/endlessbiomes/penumbra_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/endlessbiomes/twisted_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/enlightened_end/cerulean_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/enlightened_end/indigo_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/gardens_of_the_dead/soulblight_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/iceandfire/dreadwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/nether_additions/charred_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/nether_additions/saffron_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/netherdungeons/ginger_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/netherexp/claret_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/nethers_exorcism_reborn/indigo_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/outer_end/azure_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/ancient_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/ancient_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/azalea_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/blossom_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/blue_blossom_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/lavender_blossom_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/orange_blossom_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/red_blossom_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/quark/yellow_blossom_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ror/azuric_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/ror/crystalline_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/shadowlands/creep_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/shadowlands/vellium_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/tconstruct/bloodshroom_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/tconstruct/earth_slime_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/tconstruct/ender_slime_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/tconstruct/enderbark_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/tconstruct/greenheart_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/tconstruct/sky_slime_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/tconstruct/skyroot_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/thermal/rubberwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/thermal/rubberwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/toybox/plastic_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/canopy_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/canopy_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/dark_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/mangrove_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/mining_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/mining_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/rainbow_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/sorting_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/sorting_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/time_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/time_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/transformation_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/transformation_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/twilight_oak_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/twilightforest/twilight_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/undergarden/grongle_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/undergarden/grongle_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/undergarden/smogstem_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/undergarden/smogstem_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/undergarden/wigglewood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/undergarden/wigglewood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/unusualend/chorus_nest_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/upgrade_aquatic/driftwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/upgrade_aquatic/river_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/upgrade_aquatic/river_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/voidscape/thunder_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ad_astra/aeronos_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ad_astra/glacian_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ad_astra/hollow_glacian_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ad_astra/strophar_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether/hollow_skyroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether/skyroot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/blightwillow_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/cloudcap_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/crystal_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/fieldsproot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/glacia_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/hollow_blightwillow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/hollow_cloudcap_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/hollow_crystal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/hollow_fieldsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/hollow_glacia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/aether_redux/jellyshroom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/alexscaves/hollow_pewen_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/alexscaves/hollow_thornwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/alexscaves/pewen_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/alexscaves/thornwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ancient_aether/highsproot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ancient_aether/hollow_highsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ancient_aether/hollow_sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ancient_aether/sakura_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ars_nouveau/archwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ars_nouveau/hollow_archwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/hollow_luminous_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/hollow_soggy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/hollow_soul_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/hollow_tormented_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/hollow_wisteria_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/luminous_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/sick_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/soggy_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/soul_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/tormented_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/astral_dimension/wisteria_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/atlantis/atlantean_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/atlantis/hollow_atlantean_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/atlantis/hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/atlantis/palm_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/betterarcheology/rotten_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/dead_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/empyreal_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/fir_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hellbark_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_dead_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_empyreal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_hellbark_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_jacaranda_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_magic_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_umbran_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/hollow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/jacaranda_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/magic_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/mahogany_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/maple_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/palm_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/pine_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/redwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/umbran_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomesoplenty/willow_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/aspen_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/baobab_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/blue_enchanted_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/cika_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/cypress_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/ebony_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/fir_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/florus_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/green_enchanted_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_aspen_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_blue_enchanted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_cika_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_ebony_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_florus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_green_enchanted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_holly_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_ironwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_jacaranda_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_rainbow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_skyris_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_white_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_witch_hazel_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/hollow_zelkova_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/holly_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/ironwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/jacaranda_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/mahogany_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/maple_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/palm_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/pine_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/rainbow_eucalyptus_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/redwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/sakura_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/skyris_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/white_mangrove_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/willow_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/witch_hazel_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/biomeswevegone/zelkova_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/bluebright_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/comet_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/crystallized_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/dusk_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/frostbright_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/hollow_bluebright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/hollow_comet_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/hollow_dusk_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/hollow_frostbright_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/hollow_lunar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/hollow_starlit_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/lunar_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/maple_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/blue_skies/starlit_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/born_in_chaos_v1/hollow_scorched_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/born_in_chaos_v1/scorched_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/botania/dreamwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/botania/hollow_dreamwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/botania/hollow_livingwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/botania/livingwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/cataclysm/chorus_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/conberry_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/cruderoot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/hollow_conberry_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/hollow_cruderoot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/hollow_roseroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/hollow_sunroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/hollow_yagroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/roseroot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/sunroot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deep_aether/yagroot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deeperdarker/bloom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deeperdarker/echo_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/deeperdarker/hollow_echo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/dimdoors/driftwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/apalachia_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/auroraoak_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/cozybark_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/divine_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/eden_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/eucalyptus_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_apalachia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_auroraoak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_cozybark_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_divine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_eden_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_mortum_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_shiverspine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_skythern_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_streamleaf_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/hollow_wildwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/mortum_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/shiverspine_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/skythern_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/streamleaf_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/divinerpg/wildwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/echoes/hollow_llerae_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/echoes/hollow_shimmerdown_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/echoes/llerae_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/echoes/shimmerdown_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/endergetic/hollow_poise_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/endergetic/poise_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/endlessbiomes/hollow_penumbra_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/endlessbiomes/hollow_twisted_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/endlessbiomes/penumbra_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/endlessbiomes/twisted_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/enlightened_end/cerulean_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/enlightened_end/hollow_cerulean_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/enlightened_end/hollow_indigo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/enlightened_end/indigo_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/gardens_of_the_dead/hollow_soulblight_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/gardens_of_the_dead/soulblight_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/gardens_of_the_dead/whistlecane_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/iceandfire/dreadwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/nether_additions/charred_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/nether_additions/saffron_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/netherdungeons/ginger_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/netherdungeons/hollow_ginger_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/netherexp/claret_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/netherexp/hollow_claret_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/nethers_exorcism_reborn/hollow_indigo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/nethers_exorcism_reborn/indigo_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/outer_end/azure_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/outer_end/hollow_azure_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/quark/ancient_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/quark/azalea_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/quark/blossom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/quark/hollow_ancient_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/quark/hollow_azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/quark/hollow_blossom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/alpha_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/baobab_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/blackwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/blue_bioshroom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/brimwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/cobalt_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/cypress_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/dead_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/eucalyptus_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/green_bioshroom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_blackwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_blue_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_brimwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_cobalt_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_dead_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_green_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_joshua_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_kapok_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_larch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_magnolia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_mauve_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_pink_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_socotra_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/hollow_yellow_bioshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/joshua_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/kapok_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/larch_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/magnolia_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/maple_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/mauve_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/palm_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/pine_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/pink_bioshroom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/redwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/socotra_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/willow_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/regions_unexplored/yellow_bioshroom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ror/azuric_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ror/crystalline_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ror/hollow_azuric_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/ror/hollow_crystalline_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/shadowlands/creep_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/shadowlands/vellium_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/bloodshroom_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/enderbark_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/greenheart_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/hollow_bloodshroom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/hollow_enderbark_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/hollow_greenheart_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/hollow_skyroot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/tconstruct/skyroot_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/thermal/hollow_rubberwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/thermal/rubberwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/toybox/plastic_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/twilightforest/hollow_mangrove_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/twilightforest/mangrove_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/undergarden/grongle_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/undergarden/hollow_grongle_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/undergarden/hollow_smogstem_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/undergarden/hollow_wigglewood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/undergarden/smogstem_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/undergarden/wigglewood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/unusualend/chorus_nest_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/unusualend/hollow_chorus_nest_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/upgrade_aquatic/driftwood_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/upgrade_aquatic/hollow_driftwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/upgrade_aquatic/hollow_river_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/upgrade_aquatic/river_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/voidscape/thunder_banister"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/ad_astra/glacian_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/aether/skyroot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/aether_redux/blightwillow_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/aether_redux/cloudcap_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/aether_redux/crystal_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/aether_redux/fieldsproot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/aether_redux/glacia_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/alexscaves/pewen_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/alexscaves/thornwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/ancient_aether/highsproot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/ancient_aether/sakura_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/ars_nouveau/archwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/astral_dimension/luminous_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/astral_dimension/soggy_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/astral_dimension/soul_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/astral_dimension/tormented_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/astral_dimension/wisteria_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/atlantis/atlantean_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/atlantis/palm_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/dead_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/empyreal_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/fir_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/hellbark_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/jacaranda_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/magic_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/mahogany_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/maple_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/palm_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/pine_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/redwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/umbran_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomesoplenty/willow_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/aspen_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/baobab_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/blue_enchanted_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/cika_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/cypress_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/ebony_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/fir_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/florus_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/green_enchanted_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/holly_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/ironwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/jacaranda_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/mahogany_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/maple_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/palm_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/pine_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/rainbow_eucalyptus_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/redwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/sakura_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/skyris_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/white_mangrove_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/willow_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/witch_hazel_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/biomeswevegone/zelkova_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/blue_skies/bluebright_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/blue_skies/comet_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/blue_skies/dusk_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/blue_skies/frostbright_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/blue_skies/lunar_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/blue_skies/maple_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/blue_skies/starlit_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/born_in_chaos_v1/scorched_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/botania/dreamwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/botania/livingwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/deep_aether/conberry_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/deep_aether/cruderoot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/deep_aether/roseroot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/deep_aether/sunroot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/deep_aether/yagroot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/deeperdarker/echo_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/apalachia_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/auroraoak_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/cozybark_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/divine_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/eden_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/eucalyptus_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/mortum_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/shiverspine_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/skythern_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/streamleaf_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/divinerpg/wildwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/echoes/llerae_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/echoes/shimmerdown_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/endergetic/poise_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/endlessbiomes/penumbra_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/endlessbiomes/twisted_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/enlightened_end/cerulean_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/enlightened_end/indigo_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/gardens_of_the_dead/soulblight_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/netherdungeons/ginger_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/netherexp/claret_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/nethers_exorcism_reborn/indigo_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/outer_end/azure_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/quark/ancient_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/quark/azalea_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/quark/blossom_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/baobab_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/blackwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/blue_bioshroom_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/brimwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/cobalt_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/cypress_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/dead_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/eucalyptus_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/green_bioshroom_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/joshua_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/kapok_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/larch_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/magnolia_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/maple_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/mauve_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/palm_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/pine_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/pink_bioshroom_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/redwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/socotra_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/willow_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/regions_unexplored/yellow_bioshroom_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/ror/azuric_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/ror/crystalline_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/tconstruct/bloodshroom_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/tconstruct/enderbark_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/tconstruct/greenheart_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/tconstruct/skyroot_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/thermal/rubberwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/canopy_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/dark_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/mangrove_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/mining_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/sorting_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/time_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/transformation_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/twilightforest/twilight_oak_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/undergarden/grongle_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/undergarden/smogstem_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/undergarden/wigglewood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/unusualend/chorus_nest_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/upgrade_aquatic/driftwood_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/upgrade_aquatic/river_horticulturist_table"
+		}
+	]
+}

@@ -1,0 +1,176 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:altarbasicitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:altarrewarditem"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:altarsacrifice"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklorambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklordies"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklorhurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:anklorresistsdamage"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkanbroken"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkanhit"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkanplaced"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:arkanstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:battlefrisbeethrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:changedimension"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:coreactivated"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:endaltarcharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:enderfernslurps"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:enderrootsgrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:noxiousstalkerambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:noxiousstalkerdeath"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:noxiousstalkerhurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbraldiskthrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbralpadextends"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:penumbralpadretracts"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:riftiteteleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ruiniousaltarbroken"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ruiniousaltarhit"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ruiniousaltarplaced"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:sentineldies"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:sentinelhurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:sentinelstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:sharedpainactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shiftlingambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shiftlingdeath"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shiftlinghurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shmoopaambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shmoopadeath"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:shmoopahurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:slipstonebroken"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:slipstonehit"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:slipstoneplaced"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:slipstonestep"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twistedblockdeath"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:voidtouchedbladesswing"
+		}
+	]
+}

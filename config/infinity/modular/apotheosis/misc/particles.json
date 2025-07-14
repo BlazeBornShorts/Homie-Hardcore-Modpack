@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:enchant_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:enchant_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:enchant_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:enchant_water"
+		}
+	]
+}

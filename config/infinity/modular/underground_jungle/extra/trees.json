@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "underground_jungle:jungle_tree_no_cocoa"
+			}
+		}
+	]
+}

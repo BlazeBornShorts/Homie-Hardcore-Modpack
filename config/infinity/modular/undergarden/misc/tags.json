@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:base_stone_undergarden"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:muncher_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:portal_frame_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:scintling_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smog_mog_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:undergarden_carver_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_logs"
+		}
+	]
+}

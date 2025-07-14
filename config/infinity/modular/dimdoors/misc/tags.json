@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdoors:ag_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_clay_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_clay_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_clay_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_clay_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_clay_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_amalgam"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_amalgam_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_clod_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_dark_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_driftwood_plank"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_grave"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_gritty_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_netherwart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_rust"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_solid_static"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_unraveled_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_unraveled_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_to_wither_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_unraveled_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_unraveled_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_unraveled_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decay_unraveled_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:fabric"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "outer_end:music.outer_end.azure"
+		},
+		{
+			"weight": 1.0,
+			"key": "outer_end:music.outer_end.crystal_crag"
+		},
+		{
+			"weight": 1.0,
+			"key": "outer_end:music.outer_end.disc.galactic_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "outer_end:music.outer_end.disc.unknown_frontier"
+		}
+	]
+}

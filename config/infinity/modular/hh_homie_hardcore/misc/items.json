@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hh_homie_hardcore:current_challenge_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "hh_homie_hardcore:tutorial_book"
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:bumbling_beepartments"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:crystal_canyon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2414649,
+				"Name": "the_bumblezone:floral_meadow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:hive_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:hive_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:howling_constructs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:pollinated_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:pollinated_pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7593531,
+				"Name": "the_bumblezone:sugar_water_floor"
+			}
+		}
+	]
+}

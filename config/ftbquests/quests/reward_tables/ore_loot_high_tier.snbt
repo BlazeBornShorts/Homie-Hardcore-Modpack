@@ -1,0 +1,135 @@
+{
+	id: "5C7C89FD19F6093C"
+	loot_size: 3
+	order_index: 18
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:netherite_ingot"
+			}
+			random_bonus: 2
+			weight: 1.2f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "advancednetherite:netherite_iron_ingot"
+			}
+			random_bonus: 1
+			weight: 0.9f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "advancednetherite:netherite_gold_ingot"
+			}
+			weight: 0.8f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "advancednetherite:netherite_emerald_ingot"
+			}
+			weight: 0.6f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "advancednetherite:netherite_diamond_ingot"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:diamond"
+			}
+			random_bonus: 3
+		}
+		{
+			count: 16
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:emerald"
+			}
+			random_bonus: 48
+		}
+		{
+			count: 3
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:nether_ruby"
+			}
+			random_bonus: 4
+		}
+		{
+			count: 2
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "aether_redux:gravitite_ingot"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "majruszsdifficulty:enderium_ingot"
+			}
+			random_bonus: 2
+		}
+	]
+	title: "ore loot high tier"
+}

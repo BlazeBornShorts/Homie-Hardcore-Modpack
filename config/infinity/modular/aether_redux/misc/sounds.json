@@ -1,0 +1,260 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.aercloud.gold_aercloud_whoosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.aercloud.green_aercloud_wubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.aercloud.purple_aercloud_zoom"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.blightshade_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.fungus.bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.glowstone.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.glowstone.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.glowstone.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.glowstone.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.glowstone.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.lightroots_pick"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.logicator.click"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:block.quickroots_pick"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.blightbunny.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.blightbunny.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.ember.bounce_big"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.ember.bounce_med"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.ember.bounce_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mimic.slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mykapod.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mykapod.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mykapod.hurt_hiding"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mykapod.move"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mykapod.shell_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mykapod.shell_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.mykapod.shell_shed"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.sentry.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.sentry.land_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.shimmercow.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.shimmercow.crazy_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.shimmercow.crazy_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.shimmercow.crazy_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.shimmercow.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.shimmercow.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:entity.swet.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:generic.boost_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:generic.fireball_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:generic.heartbeat_fast"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:generic.heartbeat_med"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:generic.heartbeat_slow"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_bittersweet_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_construction_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_enchanted_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_grand_medal"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_sentry_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_shroom_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_vampire_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.accessory.equip_wisdom_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.convert.ambrosium"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.convert.blighted_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.convert.swet_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.sfx.infuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.sfx.infusion_expire"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.spear.land"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.spear.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.loading_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.loading_middle"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.loading_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.quick_charge_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.quick_charge_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.quick_charge_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:item.subzero_crossbow.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:ui.toast.aether_redux_gold"
+		}
+	]
+}

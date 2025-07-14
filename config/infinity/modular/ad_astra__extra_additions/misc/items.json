@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:as_ostrum_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:as_ostrum_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:as_ostrum_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:as_ostrum_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:compressed_raw_ostrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:deshtrum_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:deshtrum_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:deshtrum_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:deshtrum_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:deshtrum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:marbellium_darkte"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:marbellium_lighta"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:melded_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:melded_deshtrum_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:melded_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:melded_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:melded_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:melded_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:moonstone_pebbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:ostrum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:ostrum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:ostrum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:ostrum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:ostrum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:saturna"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra__extra_additions:stemarla"
+		}
+	]
+}

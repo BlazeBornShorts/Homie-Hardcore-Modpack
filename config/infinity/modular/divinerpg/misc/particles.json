@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "divinerpg:apalachia_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:black_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:blue_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:eden_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:ender_triplets"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:green_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:halite_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:mortum_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:purple_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:skythern_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:sparkler"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:tar"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:twilight_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wildwood_portal"
+		}
+	]
+}

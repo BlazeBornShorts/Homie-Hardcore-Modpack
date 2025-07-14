@@ -1,0 +1,216 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "botania:potted_white_mushroom"
+				},
+				{
+					"Name": "botania:potted_light_gray_mushroom"
+				},
+				{
+					"Name": "botania:potted_gray_mushroom"
+				},
+				{
+					"Name": "botania:potted_black_mushroom"
+				},
+				{
+					"Name": "botania:potted_brown_mushroom"
+				},
+				{
+					"Name": "botania:potted_red_mushroom"
+				},
+				{
+					"Name": "botania:potted_orange_mushroom"
+				},
+				{
+					"Name": "botania:potted_yellow_mushroom"
+				},
+				{
+					"Name": "botania:potted_lime_mushroom"
+				},
+				{
+					"Name": "botania:potted_green_mushroom"
+				},
+				{
+					"Name": "botania:potted_light_blue_mushroom"
+				},
+				{
+					"Name": "botania:potted_blue_mushroom"
+				},
+				{
+					"Name": "botania:potted_cyan_mushroom"
+				},
+				{
+					"Name": "botania:potted_purple_mushroom"
+				},
+				{
+					"Name": "botania:potted_magenta_mushroom"
+				},
+				{
+					"Name": "botania:potted_pink_mushroom"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "botania:potted_white_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_light_gray_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_gray_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_black_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_brown_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_red_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_orange_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_yellow_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_lime_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_green_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_light_blue_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_blue_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_cyan_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_purple_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_magenta_mystical_flower"
+				},
+				{
+					"Name": "botania:potted_pink_mystical_flower"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "botania:potted_white_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_light_gray_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_gray_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_black_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_brown_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_red_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_orange_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_yellow_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_lime_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_green_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_light_blue_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_blue_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_cyan_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_purple_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_magenta_shiny_flower"
+				},
+				{
+					"Name": "botania:potted_pink_shiny_flower"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "botania:white_petal_block"
+				},
+				{
+					"Name": "botania:light_gray_petal_block"
+				},
+				{
+					"Name": "botania:gray_petal_block"
+				},
+				{
+					"Name": "botania:black_petal_block"
+				},
+				{
+					"Name": "botania:brown_petal_block"
+				},
+				{
+					"Name": "botania:red_petal_block"
+				},
+				{
+					"Name": "botania:orange_petal_block"
+				},
+				{
+					"Name": "botania:yellow_petal_block"
+				},
+				{
+					"Name": "botania:lime_petal_block"
+				},
+				{
+					"Name": "botania:green_petal_block"
+				},
+				{
+					"Name": "botania:light_blue_petal_block"
+				},
+				{
+					"Name": "botania:blue_petal_block"
+				},
+				{
+					"Name": "botania:cyan_petal_block"
+				},
+				{
+					"Name": "botania:purple_petal_block"
+				},
+				{
+					"Name": "botania:magenta_petal_block"
+				},
+				{
+					"Name": "botania:pink_petal_block"
+				}
+			]
+		}
+	]
+}

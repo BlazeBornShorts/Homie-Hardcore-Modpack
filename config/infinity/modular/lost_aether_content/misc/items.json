@@ -1,0 +1,164 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:agility_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:boss_doorway_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:boss_doorway_light_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:brown_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:crystal_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:enchanted_pink_aercloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:flaming_gemstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:gale_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:gale_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:gale_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:gale_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:gravitite_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:holiday_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:invincibility_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:light_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:locked_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:locked_light_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:music_disc_legacy"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:music_disc_sovereign_of_the_skies"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:noble_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:orange_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:phoenix_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:phoenix_cape"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:phoenix_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:phoenix_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:phoenix_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:phoenix_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:pink_aercloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:platinum_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:power_gloves"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:sentry_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:shield_of_emile"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:songstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:swetty_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:trapped_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:trapped_light_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:treasure_doorway_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:treasure_doorway_light_gale_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:zanite_shield"
+		}
+	]
+}

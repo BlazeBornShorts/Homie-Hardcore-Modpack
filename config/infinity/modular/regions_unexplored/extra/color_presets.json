@@ -1,0 +1,216 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "regions_unexplored:potted_white_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_light_gray_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_gray_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_black_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_brown_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_red_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_orange_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_yellow_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_lime_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_green_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_light_blue_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_blue_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_cyan_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_purple_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_magenta_snowbelle"
+				},
+				{
+					"Name": "regions_unexplored:potted_pink_snowbelle"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "regions_unexplored:white_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:light_gray_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:gray_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:black_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:brown_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:red_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:orange_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:yellow_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:lime_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:green_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:light_blue_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:blue_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:cyan_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:purple_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:magenta_painted_planks"
+				},
+				{
+					"Name": "regions_unexplored:pink_painted_planks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "regions_unexplored:white_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:light_gray_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:gray_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:black_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:brown_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:red_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:orange_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:yellow_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:lime_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:green_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:light_blue_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:blue_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:cyan_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:purple_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:magenta_painted_slab"
+				},
+				{
+					"Name": "regions_unexplored:pink_painted_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "regions_unexplored:white_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:light_gray_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:gray_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:black_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:brown_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:red_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:orange_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:yellow_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:lime_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:green_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:light_blue_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:blue_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:cyan_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:purple_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:magenta_painted_stairs"
+				},
+				{
+					"Name": "regions_unexplored:pink_painted_stairs"
+				}
+			]
+		}
+	]
+}

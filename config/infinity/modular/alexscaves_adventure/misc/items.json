@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexscaves_adventure:ferrouslime_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves_adventure:galena_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves_adventure:music_disc_redstone_baby"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves_adventure:occult_triangle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves_adventure:truffle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves_adventure:uranium_sword"
+		}
+	]
+}

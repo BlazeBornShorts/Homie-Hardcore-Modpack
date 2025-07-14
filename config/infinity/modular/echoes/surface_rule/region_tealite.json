@@ -1,0 +1,22 @@
+{
+	"biomes": [
+		"echoes:region_tealite"
+	],
+	"rule": {
+		"sequence": [
+			{
+				"result_state": {
+					"Name": "echoes:tealite"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"result_state": {
+					"Name": "echoes:tealite"
+				},
+				"type": "minecraft:block"
+			}
+		],
+		"type": "minecraft:sequence"
+	}
+}

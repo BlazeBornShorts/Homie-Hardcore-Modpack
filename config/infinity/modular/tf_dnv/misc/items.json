@@ -1,0 +1,80 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:alchemy_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:bonsai"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:butcher_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:composter"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:leather_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:lumber_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:miner_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:moss_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:mushgloom_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:mushroom_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:mycologist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:shroom_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:shroombrella"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:steeleaf_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:trader_token"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:twilight_trader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:wood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "tf_dnv:wood_table"
+		}
+	]
+}

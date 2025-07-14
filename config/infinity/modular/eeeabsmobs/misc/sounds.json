@@ -1,0 +1,192 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:break"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse_warlock.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:corpse_warlock_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:crimson_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:giant_axe_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling.sentinel.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling.sentinel.electromagnetic"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling.sentinel.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.electromagnetic"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.friction"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.pre_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel_heavy.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.executioner.block"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.executioner.burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.executioner.dash"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.executioner.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.executioner.detonation"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.executioner.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.executioner.scratch"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.shaman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.shaman.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.shaman.prepare_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.shaman.prepare_spell_casting"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.skeleton.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.skeleton.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal.skeleton.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.accumulating"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.accumulating_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.creak"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.madness"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.pre_pounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless.guardian.whoosh"
+		}
+	]
+}

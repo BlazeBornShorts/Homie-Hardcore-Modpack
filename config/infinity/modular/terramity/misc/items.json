@@ -1,0 +1,3020 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terramity:accursed_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:accursed_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:acidic_ampoule"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:adrenaline_tablets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_automatic_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_burst_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_gun_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:advanced_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:agility_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:all_seeing_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ambrosia"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:amethyst_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ammo_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:amp_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:analeptic_amphora"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ancient_stone_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:angel_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anti_gravity_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anti_gravity_round_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anti_material_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_pacemaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antimatter_round_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:antiprism"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anvil_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:anxiety_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:archangel_halo"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:artificial_blood_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:artificial_lava_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:artificial_rainbow_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:artificial_water_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:asphodel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:asteroid_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:axe_of_unholy_divinity"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ball_n_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:band_of_drifting"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:band_of_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:band_of_power_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:basic_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:basic_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bedrock_black_matter_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:belt_of_the_gnome_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:big_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:black_hole_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:black_matter"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:black_warp_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blackstone_coin_dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blank_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blasphemic_rapture"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blastguard_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blink_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blood_contract"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blue_fairy_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blue_fairy_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blue_fairy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blue_gnome_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blue_warp_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:blunderbuss"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bomb_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bomb_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bomb_flower_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bomb_flower_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bomb_flower_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:bottomless_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:brimslag"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:builder_mitts"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:burning_spirit_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_box_marked"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_pop_up_fort"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cardboard_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:carton_of_chocolate_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:carton_of_glowberry_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:carton_of_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:carton_of_sweetberry_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cave_gnome_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:celestial_brew"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:celestial_sixty"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chaos_heart_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chiseled_dungeon_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chiseled_igneostone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chiseled_nyxium_panelling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chiseled_reinforced_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chiseled_void_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chronoseraph_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonian_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonic_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonic_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonic_curse_bracelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonic_cursemark"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonic_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonic_nectar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:chthonic_shell_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:circuit_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cloud_in_a_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:concealment_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_laser_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_scouter_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conductite_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conjurling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conjuror_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conjuror_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conjuror_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:conjuror_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:copper_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:copper_round_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmic_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmic_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cosmilite_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cracked_dungeon_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cracked_dungeon_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cracked_microcosm"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:crescent_moonblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:crest_of_the_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:crumbled_dungeon_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:crystal_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:cyber_glasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_glass_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_shotshell_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_shotshells"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:daemonium_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dark_dungeon_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:davy_jones"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:debug_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:decay"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:decayed_bedrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:decayed_bedrock_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:decayed_black_matter_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:deepslate_dimlite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:deepslate_iridescent_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:deepslate_iridium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:deepslate_sapphire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:deepslate_topaz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:devastation"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:devils_dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:diamond_earrings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:diamond_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:diamond_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:diamond_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:diamond_studded_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:die_of_revival"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimensional_poof"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_round_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dimlite_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:divergency_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:divine_intervention"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dr_binty"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dragon_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_block_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_block_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_effigy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_sentry_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:dungeon_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:duskrok_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:duskrok_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:echo_bug_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:echo_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:electron_bracelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:electronic_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:elite_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:elite_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:embedded_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:empty_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:empty_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:empty_spell_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:enchanter_merlin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:end_iridium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:end_onyx_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:enderswap_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:enderswap_sceptre"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:energized_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:eternal_shadowflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ethereal_eclipse_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:evil_king_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:evil_king_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:evil_king_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:evil_king_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:excalibur"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:excavation_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_shield_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_superalloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_twin_bracelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_waraxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_warlock_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_warlock_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_warlock_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:exodium_warlock_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:experience_sapping_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:express_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:extremely_thick_oil"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:eyeglasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:eyepatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fairy_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fairystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:famine_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fateful_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fermented_apple_cider"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:final_kamehameha_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fireball_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fireball_sceptre"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:five_thousand_magnum"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flameburst_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flameguard_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flare_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flare_gun_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flintlock_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:flippers"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:focus_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:forbidden_chalice"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:forbidden_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fortunes_favor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:fragile_divinity"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaia_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaia_lily_half"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaia_lily_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaianite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaianite_cluster_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaias_grace"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gaias_tempest"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:galebounce_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:galick_gun_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gamblers_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gatmancer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gauntlet_of_decay"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:giant_dungeon_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:giant_sniffers_hoof"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gilded_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:glass_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gnome_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gnome_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gob_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gobs_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gobs_gilded_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gold_medal"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gold_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gold_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gold_round_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:golden_gnome_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gravity_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:green_fairy_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:green_fairy_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:green_fairy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:guardian_grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:guardians_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:guardians_padlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:guided_energy_blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:guiding_moonlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gundalf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gundalfs_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gunkshot_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:gunsmith_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hamstick_cudgel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:handcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:headhunter_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:headhunter_talisman_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellfire_flurry"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellrok_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellrok_gigaton_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellrok_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_alloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_alloy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_shotshells"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hellspec_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hermit_bean"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hero_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hexing_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:holy_chalice"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:holy_heart_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:holy_round_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:honey_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hover_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hover_charm_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hover_charm_plus_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hubris_of_icarus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hurricane_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:hurricane_in_a_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ibuprofen_capsules"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:icebrand"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneo_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:igneostone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:inverse_sarashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridescent_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridescent_shard_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:iridium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:kamehameha"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:kuiper_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lava_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lava_locket"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:leap_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:leap_ring_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:leather_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:life_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:life_ring_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lightning_sceptre"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lightning_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lost_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:lucky_dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:macro_black_hole_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:magma_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:malediction_bracelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:malware"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:megabite_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:melatonin_gummies"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:meteor_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moondrill_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_poker_chip_dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:moonstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:morphine_pills"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:mossy_dungeon_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:mossy_dungeon_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:murasama"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_bolstering"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_cleansing"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_daedalus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_debilitation"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_defense"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_destruction"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_everlasting"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_ghosts"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_good_fortune"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_incombustibility"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_levitation"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_life"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_null"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_oceanus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_perception"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_prosperity"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_rejuvenation"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_resilience"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_resourcefulness"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_storms"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_tempo"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_the_aegis"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_the_gnome_king"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_the_indomitable"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_the_legendary_super_sniffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_the_omnipotent_ultra_sniffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_the_shadow_wizards"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_the_trial_guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_time"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_untimely_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_vampirism"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:music_sheet_of_weakness"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nether_iridium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nether_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:neutron_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nihility"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:null_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nullifying_dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_greatsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_knight_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_knight_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_knight_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_knight_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_panelling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_panelling_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_panelling_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_panelling_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxium_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:nyxs_necklace"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ocarina_of_power"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:occult_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:offering_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:olympus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:omen_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:one_way_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_blast_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:onyx_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:opaline_moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:orders_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:overclocked_microwave"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pearls_of_persephone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:perish_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:permeable_one_way_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:phantom_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pink_fairy_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pink_fairy_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pink_fairy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:piston_cuffs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:placeholder_seeds_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:plague_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:plaguebringer"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:planet_buster"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:plumbers_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pocket_universe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:poisonguard_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:poker_chip_bracelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_igneostone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_igneostone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_igneostone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_igneostone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_igneostone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_igneostone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_moonstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:polished_moonstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pot_of_hot_coals"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:power_bracelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prism_solution_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_crystal_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_jewel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_sarashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:prismatic_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:profaned_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:profanum"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:projectile_defense_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:proximity_badge"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:pump_action_shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:purity_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:radiant_honey"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:railgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rainbow_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:raw_cosmilite"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:raw_cosmilite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:raw_profanum"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rebound_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:red_gnome_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:red_warp_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_rune_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_blackstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_red_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_red_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reinforced_red_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:requiem"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_paladin_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_paladin_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_paladin_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_paladin_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:reverium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ring_of_luck"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ring_of_luck_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ring_of_rejuvenation"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ring_of_rejuvenation_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rocket_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:royal_gnome_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_ring_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ruby_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rush_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:rush_ring_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sacred_speed_bracelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sacrificial_sash"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_ring_plus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sapphire_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sarashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sawed_off_shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:scuba_gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:seafarer_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shadowflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shadowflame_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shadowflame_sash"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shadowflame_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shadowstep_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sharpening_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shinobi_sash"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:shinobis_substitute"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:simmeredge"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:simple_turret_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:six_shooter"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:slam_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:slot_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sniffer_kamehameha_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:snow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:solar_safeguard_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sorceress_circe_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:soul_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:soulshot_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:spectral_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:spire_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:spire_keyhole"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:spiteful_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:spring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stairway_to_heaven"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:steady_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:steel_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stellar_remnant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stillness_scarf"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stratus_storm_ruler"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stygian_blood_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stygian_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:stygian_safety_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:super_sniffers_pelt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:supercharged_speed_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:suppressed_advanced_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:suppressed_gold_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:swag_glasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:sword_of_the_imprisoned"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:swordsmans_sarashi"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:tearstone_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:terawatt_bracers"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:terramity_guidebook_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:the_pill"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:throwing_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:thunker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:titanomachy"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:toaster_tart"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:tome_of_ascension"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:tome_of_commotion"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:topaz_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:trial_guardian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultra_sniffer_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultra_sniffer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultra_sniffers_pelt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ultrabright_ink_sac"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:unholy_lance"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:untapped_dimlite"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:uvogre_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:velocity_flip"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:ventilation_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_alloy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_alloy_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virentium_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:virtue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_alloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_alloy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_alloy_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_glasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_mage_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_mage_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_mage_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_mage_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_panelling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_panelling_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_panelling_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_panelling_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:void_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:voidguard_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:vulcan"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:warden_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:warp_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:warp_tornado"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:warp_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:weighted_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:white_warp_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:xp_remedy_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:yellow_warp_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "terramity:yoru"
+		}
+	]
+}

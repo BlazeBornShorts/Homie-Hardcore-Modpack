@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -3907429,
+				"Instant": false,
+				"Name": "enlightened_end:bouncy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1471754,
+				"Instant": false,
+				"Name": "enlightened_end:bubbling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -12628114,
+				"Instant": false,
+				"Name": "enlightened_end:burdened"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -7474945,
+				"Instant": false,
+				"Name": "enlightened_end:dazed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -12746894,
+				"Instant": false,
+				"Name": "enlightened_end:enderstride"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11437873,
+				"Instant": false,
+				"Name": "enlightened_end:frigid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -13121205,
+				"Instant": false,
+				"Name": "enlightened_end:radiation_resistance"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -7578820,
+				"Instant": false,
+				"Name": "enlightened_end:rooted"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11782532,
+				"Instant": false,
+				"Name": "enlightened_end:suffocation"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6850435,
+				"Instant": false,
+				"Name": "enlightened_end:vitality"
+			}
+		}
+	]
+}

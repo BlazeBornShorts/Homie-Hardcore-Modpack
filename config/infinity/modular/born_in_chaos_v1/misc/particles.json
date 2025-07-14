@@ -1,0 +1,184 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:anim_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:candy_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:candygren"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:candypurple"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:chaosenergy"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:chit"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:cloudsofdust"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:dark_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:darkmatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:darkspots"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:dim"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:dim_long"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:dimlarg"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fleshsplash"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fli"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:infernal_surge"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:infernaltrail"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:intoxicatind_bomb_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:intoxicatingsmoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:little_carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:littlesnowflake"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:magichit"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:magictrail"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:obsessionpar"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkin_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkin_staff_s"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkin_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:ritual"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:roarsplash"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:snowcloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:soul_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:soul_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:spider_blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:spider_infestation"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:spikerelease"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:splashofflesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:srirst_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stimulatingbubbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stimulatingsmoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stunstars"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:swap"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:tl"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:waningsnowflake"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:web_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:xp_particle"
+		}
+	]
+}

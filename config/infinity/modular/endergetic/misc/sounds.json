@@ -1,0 +1,176 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endergetic:ambient.poise_forest.additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:ambient.poise_forest.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:ambient.poise_forest.mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:ambient.small_end_islands.additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:ambient.small_end_islands.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.eetle_egg.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.eetle_egg.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.eetle_egg.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.eetle_egg.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.eetle_egg.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.eetle_egg.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.poise_bush.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.poise_bush.ambient_long"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:block.poise_cluster.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.boof_block.inflate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.croak"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.deflate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.hop"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.hop_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.inflate"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.booflo.slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.eetle.leetle_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.eetle.leetle_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.eetle.leetle_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.eetle.leetle_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.eetle.leetle_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.create_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.land"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.launch"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.puff"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.teleport_from"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:entity.puffbug.teleport_to"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:item.booflo_vest.inflate"
+		}
+	]
+}

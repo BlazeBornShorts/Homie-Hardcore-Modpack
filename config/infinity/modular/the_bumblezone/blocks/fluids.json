@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "the_bumblezone:honey_fluid_still",
+				"Name": "the_bumblezone:honey_fluid_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "the_bumblezone:royal_jelly_fluid_still",
+				"Name": "the_bumblezone:royal_jelly_fluid_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "the_bumblezone:sugar_water_still",
+				"Name": "the_bumblezone:sugar_water_block"
+			}
+		}
+	]
+}

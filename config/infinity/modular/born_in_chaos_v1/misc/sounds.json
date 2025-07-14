@@ -1,0 +1,556 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:bonk"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:bonk_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:brute_zombie_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:brute_zombie_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:chaos_spirit_haunt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:charm_of_endurance_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:charm_of_protection_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:charm_of_rage_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:charm_of_stealth_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:charm_of_strenght_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:clown_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:clown_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:clown_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:corpse_fly_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:corpse_fly_ambient2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:corpse_fly_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:corpse_fly_death2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:corpse_fly_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:corpse_fly_hurt2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:crab_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:crab_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:crab_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:crab_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:dark_warlblade_atak"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:dfjn"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:door1"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:door2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:doorblokc"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:doorblokc2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:doorsdisc"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fallen_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fallen_curse_mark"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fallen_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fallen_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fallen_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fallen_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fish_slap"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:fly_move"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:gadfly_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:gadfly_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:gadfly_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:glutton_fish_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:glutton_fish_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:glutton_fish_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:glutton_fish_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:hah"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:haha"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:haha_lord"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:halloween"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:hound_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:hound_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:hound_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:hound_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:houndtrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_alert"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_alert_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_alert_far"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_horn_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:krampus_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:lifestealer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:lifestealer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:lifestealer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:lifestealer_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:lifestealer_scream_ap"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:magic_staff_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:minion_blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:minion_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:minion_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:minion_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_alert"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_spawn_mobs"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_stun"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:missionary_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:mother_spider_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:mother_spider_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:mother_spider_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:nightmare_stalker_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:nsstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:obsession"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:persecutor_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:persecutor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:persecutor_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:persecutor_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkin_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkin_spirit_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkin_spirit_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkin_staff_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkinhead_bomb_curse"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkinhead_gun_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:pumpkinhead_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:restless_spirit_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:restless_spirit_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:restless_spirit_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:seared_spirit_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:serpumpkinheadm"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:skeleton_trasher_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:skeleton_trasher_block1"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:skeleton_trasher_block2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:skeleton_trasher_block3"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:skeleton_trasher_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:spider_mother_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:spider_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:spirit_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_dead"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_death2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_roar_distant"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stalker_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:step5"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:step_st"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:stomach_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:swarmer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:swarmer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:swarmer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:vortex_death1"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:vortex_hurt1"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:vortex_hurt11"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:vortex_hurt2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:vortex_hurt21"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:vortex_idle1"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:vortex_idle2"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:zombie_brute_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:zombie_brute_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:zombie_brute_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "born_in_chaos_v1:zombie_clown_attack"
+		}
+	]
+}

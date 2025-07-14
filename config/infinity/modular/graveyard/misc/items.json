@@ -1,0 +1,612 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "graveyard:acacia_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:acacia_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:acacia_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:acolyte_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:altar_center"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:altar_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:altar_side"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:bamboo_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:bamboo_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:bamboo_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:birch_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:birch_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:birch_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:black_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:black_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:blackstone_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:blue_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:bone_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:bone_remains"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:bricks_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:brown_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:candle_holder"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:cherry_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:cherry_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:cherry_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:cobblestone_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:corrupted_pillager_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:corrupted_vindicator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:corruption"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:cracked_blackstone_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:creeper_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:crimson_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:crimson_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:crimson_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:cyan_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:cyan_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_iron_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_oak_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_oak_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:dark_oak_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:deepslate_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:fire_brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:ghoul_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:gilded_blackstone_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:gray_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:green_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:hanged_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:hanged_wither_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:incarnated_evil_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:jungle_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:jungle_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:jungle_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:laterally_lying_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:laterally_lying_wither_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:leaning_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:leaning_wither_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:lich_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:light_blue_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:light_gray_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:lime_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:lower_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:lying_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:lying_wither_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:magenta_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:mangrove_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:mangrove_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:mangrove_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:middle_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:mossy_cobblestone_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:mossy_stone_bricks_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:nameless_hanged_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:nightmare_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:oak_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:oak_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:oak_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:orange_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:ossuary"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:pink_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:purple_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:purple_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:quartz_bricks_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:reaper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:red_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:red_sandstone_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:red_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:revenant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:sandstone_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:sarcophagus"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:sarcophagus_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:sarcophagus_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:skeleton_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:skeleton_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:skull_on_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:skull_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:skull_with_rib_cage"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_black_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_blue_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_brown_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_cyan_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_gray_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_green_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_light_blue_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_light_gray_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_lime_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_magenta_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_orange_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_pink_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_purple_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_red_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_white_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:small_yellow_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:soul_fire_brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:spruce_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:spruce_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:spruce_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:stone_bricks_gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_coarse_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_podzol"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_rooted_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:tg_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:torso_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:upper_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:vase_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:vial_of_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:warped_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:warped_coffin_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:warped_coffin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:white_bone_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:white_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:wither_bone_remains"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:wither_skeleton_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:wither_skull_on_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:wither_skull_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:wither_skull_with_rib_cage"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:wither_torso_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:wraith_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "graveyard:yellow_urn"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "tf_dnv:twilight_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "tf_dnv:dungeon_hedge"
+			}
+		}
+	]
+}

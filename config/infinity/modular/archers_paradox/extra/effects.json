@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 8947848,
+				"Instant": false,
+				"Name": "archers_paradox:challenge_complete"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 8947848,
+				"Instant": false,
+				"Name": "archers_paradox:challenge_miss"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 8947848,
+				"Instant": false,
+				"Name": "archers_paradox:challenge_streak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 8947848,
+				"Instant": false,
+				"Name": "archers_paradox:training_miss"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 8947848,
+				"Instant": false,
+				"Name": "archers_paradox:training_streak"
+			}
+		}
+	]
+}

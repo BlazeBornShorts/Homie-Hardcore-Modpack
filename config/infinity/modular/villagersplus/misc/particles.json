@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "villagersplus:bubble_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "villagersplus:experience_particle"
+		}
+	]
+}

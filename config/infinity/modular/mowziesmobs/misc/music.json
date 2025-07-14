@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.black_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.ferrous_wroughtnaut_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.frostmaw_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.petiole"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_combat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_ending"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_level1_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_level1_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_level2_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_level2_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_level3_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_level3_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_outro"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.sculptor_theme_transition"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.umvuthi_theme"
+		}
+	]
+}

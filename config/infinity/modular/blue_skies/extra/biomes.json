@@ -1,0 +1,165 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:brightlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:brisk_meadow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:brumble_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:calming_skies"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:crescent_orchard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:crescent_orchard_lake"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:crystal_dunes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:crystal_dunes_spikes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:crystal_roughs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:deep_peeking_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:frostbitten_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:frostbitten_forest_clearing"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:midday_shore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:moonlit_reservoir"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:peeking_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:polar_highland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:rising_creek"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:searing_grassland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:shaded_woodlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:slushlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7059637,
+				"Name": "blue_skies:snow_covered_pines"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:sunset_maple_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 12485859,
+				"Name": "blue_skies:unorthodox_valley"
+			}
+		}
+	]
+}

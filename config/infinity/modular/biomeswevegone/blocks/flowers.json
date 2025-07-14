@@ -1,0 +1,192 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:alpine_bellflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:amaranth"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:angelica"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:begonia"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:bistort"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:black_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:blue_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:california_poppy"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:crocus"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:cyan_amaranth"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:cyan_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:cyan_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:daffodil"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:fairy_slipper"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:green_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:guzmania"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:incan_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:iris"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:kovan_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:lazarus_bellflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:lollipop_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:magenta_amaranth"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:magenta_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:orange_amaranth"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:orange_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:osiria_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:peach_leather_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:pink_allium"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:pink_anemone"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:pink_daffodil"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:protea_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:purple_amaranth"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:purple_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:purple_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:richea"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:silver_vase_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:snowdrops"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:violet_leather_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:white_allium"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:white_anemone"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:white_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:winter_cyclamen"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:winter_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:winter_scilla"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:yellow_daffodil"
+		},
+		{
+			"weight": 1.0,
+			"key": "biomeswevegone:yellow_tulip"
+		}
+	]
+}

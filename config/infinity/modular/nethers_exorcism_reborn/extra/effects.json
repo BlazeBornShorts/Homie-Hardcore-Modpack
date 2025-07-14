@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16751002,
+				"Instant": false,
+				"Name": "nethers_exorcism_reborn:drifting_paralysis"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3407668,
+				"Instant": false,
+				"Name": "nethers_exorcism_reborn:instant_cure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -3355648,
+				"Instant": false,
+				"Name": "nethers_exorcism_reborn:radiation_poisoning"
+			}
+		}
+	]
+}

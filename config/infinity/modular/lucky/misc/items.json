@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lucky:lucky_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "lucky:lucky_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "lucky:lucky_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "lucky:lucky_sword"
+		}
+	]
+}

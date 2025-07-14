@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.warped_enderman.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.warped_enderman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.warped_enderman.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.warped_enderman.scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.warped_enderman.stare"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.warped_enderman.teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.wex.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.wex.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.wex.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:entity.wex.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:wither_waltz"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "toomanyorigins:origin.hare.dash"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyorigins:origin.hare.max_speed"
+		}
+	]
+}

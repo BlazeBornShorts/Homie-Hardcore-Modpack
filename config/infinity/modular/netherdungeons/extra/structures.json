@@ -1,0 +1,34 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "netherdungeons:piglin_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "netherdungeons:altar"
+			}
+		}
+	]
+}

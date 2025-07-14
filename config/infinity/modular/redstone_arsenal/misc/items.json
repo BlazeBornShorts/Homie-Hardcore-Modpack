@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_elytra"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_excavator"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_fishing_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_gem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_metal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_obsidian_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_trident"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:flux_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "redstone_arsenal:obsidian_rod"
+		}
+	]
+}

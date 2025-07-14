@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "blue_skies:black_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:blue_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:brisk_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:crusher_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dusk_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everbright_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:everdawn_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:falling_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:fluctuant_sphere"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:fluctuant_sphere_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:frose_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:searing_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "blue_skies:star_glimmer"
+		}
+	]
+}

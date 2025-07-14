@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "minecraft:milk",
+				"Name": "minecraft:air"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "minecraft:lava",
+				"Name": "minecraft:lava"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "minecraft:water",
+				"Name": "minecraft:water"
+			}
+		}
+	]
+}

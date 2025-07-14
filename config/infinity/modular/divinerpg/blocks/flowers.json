@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "divinerpg:bulbatobe"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:cracklespike"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:crimpetal"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dusk_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:dust_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:eye_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:fernite"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:gem_of_the_dunes"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:green_dulah"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:green_gemtop"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:moon_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:purple_gemtop"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:roofbell"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:shimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:shine_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:sun_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:sunbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:winterbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:wisp_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "divinerpg:yellow_dulah"
+		}
+	]
+}

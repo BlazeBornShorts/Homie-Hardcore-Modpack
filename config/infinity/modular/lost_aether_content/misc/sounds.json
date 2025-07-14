@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:block.songstone.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.aerwhale_king.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.aerwhale_king.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.aerwhale_king.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.aerwhale_king.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.aerwhale_king.idle_distant"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.aerwhale_king.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.aerwhale_king.spout_fog"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.cloud_shot.puff"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.flying_cow.death_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.flying_cow.hurt_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.flying_cow.idle_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.phyg.death_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.phyg.hurt_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.phyg.idle_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.sheepuff.death_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.sheepuff.hurt_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:entity.sheepuff.idle_override"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:record.legacy"
+		},
+		{
+			"weight": 1.0,
+			"key": "lost_aether_content:record.sovereign_of_the_skies"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:apprentice_tome_of_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:archmage_tome_of_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:glyph_sentient_harm"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:glyph_sentient_wrath"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:living_mage_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:living_mage_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:living_mage_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:living_mage_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:mint_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "tomeofblood:novice_tome_of_blood"
+		}
+	]
+}

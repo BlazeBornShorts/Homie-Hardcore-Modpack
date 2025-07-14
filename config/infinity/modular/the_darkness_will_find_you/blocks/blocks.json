@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "the_darkness_will_find_you:deep_core",
+				"full": true
+			}
+		}
+	]
+}

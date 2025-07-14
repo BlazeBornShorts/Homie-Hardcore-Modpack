@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:dripping_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:dripping_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:dripping_virulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:falling_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:falling_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:falling_virulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomper_fart"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:landing_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:landing_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:landing_virulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shard_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smog"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:snowflake"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:undergarden_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_crit"
+		}
+	]
+}

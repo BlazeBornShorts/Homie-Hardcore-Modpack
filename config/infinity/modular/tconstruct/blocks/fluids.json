@@ -1,0 +1,424 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:beetroot_soup",
+				"Name": "tconstruct:beetroot_soup_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:blazing_blood",
+				"Name": "tconstruct:blazing_blood_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:earth_slime",
+				"Name": "tconstruct:earth_slime_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:ender_slime",
+				"Name": "tconstruct:ender_slime_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:honey",
+				"Name": "tconstruct:honey_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:liquid_soul",
+				"Name": "tconstruct:liquid_soul_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:magma",
+				"Name": "tconstruct:magma_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:meat_soup",
+				"Name": "tconstruct:meat_soup_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_aluminum",
+				"Name": "tconstruct:molten_aluminum_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_amethyst_bronze",
+				"Name": "tconstruct:molten_amethyst_bronze_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_amethyst",
+				"Name": "tconstruct:molten_amethyst_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_brass",
+				"Name": "tconstruct:molten_brass_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_bronze",
+				"Name": "tconstruct:molten_bronze_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_clay",
+				"Name": "tconstruct:molten_clay_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_cobalt",
+				"Name": "tconstruct:molten_cobalt_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_constantan",
+				"Name": "tconstruct:molten_constantan_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_copper",
+				"Name": "tconstruct:molten_copper_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_debris",
+				"Name": "tconstruct:molten_debris_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_diamond",
+				"Name": "tconstruct:molten_diamond_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_electrum",
+				"Name": "tconstruct:molten_electrum_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_emerald",
+				"Name": "tconstruct:molten_emerald_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_ender",
+				"Name": "tconstruct:molten_ender_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_enderium",
+				"Name": "tconstruct:molten_enderium_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_glass",
+				"Name": "tconstruct:molten_glass_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_gold",
+				"Name": "tconstruct:molten_gold_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_hepatizon",
+				"Name": "tconstruct:molten_hepatizon_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_invar",
+				"Name": "tconstruct:molten_invar_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_iron",
+				"Name": "tconstruct:molten_iron_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_knightslime",
+				"Name": "tconstruct:molten_knightslime_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_lead",
+				"Name": "tconstruct:molten_lead_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_lumium",
+				"Name": "tconstruct:molten_lumium_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_manyullyn",
+				"Name": "tconstruct:molten_manyullyn_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_netherite",
+				"Name": "tconstruct:molten_netherite_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_nickel",
+				"Name": "tconstruct:molten_nickel_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_obsidian",
+				"Name": "tconstruct:molten_obsidian_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_osmium",
+				"Name": "tconstruct:molten_osmium_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_pewter",
+				"Name": "tconstruct:molten_pewter_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_pig_iron",
+				"Name": "tconstruct:molten_pig_iron_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_platinum",
+				"Name": "tconstruct:molten_platinum_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_porcelain",
+				"Name": "tconstruct:molten_porcelain_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_quartz",
+				"Name": "tconstruct:molten_quartz_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_queens_slime",
+				"Name": "tconstruct:molten_queens_slime_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_refined_glowstone",
+				"Name": "tconstruct:molten_refined_glowstone_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_refined_obsidian",
+				"Name": "tconstruct:molten_refined_obsidian_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_rose_gold",
+				"Name": "tconstruct:molten_rose_gold_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_signalum",
+				"Name": "tconstruct:molten_signalum_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_silver",
+				"Name": "tconstruct:molten_silver_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_slimesteel",
+				"Name": "tconstruct:molten_slimesteel_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_soulsteel",
+				"Name": "tconstruct:molten_soulsteel_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_steel",
+				"Name": "tconstruct:molten_steel_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_tin",
+				"Name": "tconstruct:molten_tin_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_tungsten",
+				"Name": "tconstruct:molten_tungsten_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_uranium",
+				"Name": "tconstruct:molten_uranium_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:molten_zinc",
+				"Name": "tconstruct:molten_zinc_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:mushroom_stew",
+				"Name": "tconstruct:mushroom_stew_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:rabbit_stew",
+				"Name": "tconstruct:rabbit_stew_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:scorched_stone",
+				"Name": "tconstruct:scorched_stone_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:seared_stone",
+				"Name": "tconstruct:seared_stone_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:sky_slime",
+				"Name": "tconstruct:sky_slime_fluid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "tconstruct:venom",
+				"Name": "tconstruct:venom_fluid"
+			}
+		}
+	]
+}

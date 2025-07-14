@@ -1,0 +1,840 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogel_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogel_glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogel_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogel_glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogetic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogetic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogetic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogetic_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogetic_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aerogetic_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aeronautic_dart_shooter"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aeronautic_leaper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:aether_quartz_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ambrosium_campfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ambrosium_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_aerogetic_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_angelic_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_dungeon_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_frozen_holystone_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_gale_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_hellfire_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_holystone_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_mossy_holystone_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_obelisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_sentry_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ancient_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:angelic_corner_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:angelic_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:angelic_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:ascended_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:atmosine_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:blue_skyroot_pine_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:blue_skyroot_pine_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:boss_doorway_aerogetic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:boss_doorway_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:boss_doorway_carved_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:boss_doorway_corrupted_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:boss_doorway_wynd_sentry_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:burgundy_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:carved_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:carved_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:carved_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:carved_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:carved_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:corrupted_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:crystal_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:crystal_skyroot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:divine_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:divine_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:divine_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:divine_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:elevetia"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:enchanted_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:enchanted_skyroot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:festive_gummy_swet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:festive_swet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:fluffalo_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:fluffalo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:fluffalo_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:frozen_holystone_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:gale_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:gale_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:grapes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:gravity_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:growth_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:growth_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:hellfire_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:hellfire_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:hermes_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:hermes_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:highsproot_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:holystone_brick_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:holystone_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:laboratory_dungeon_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:lavender_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_aerogetic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_aerogetic_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_angelic_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_carved_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_carved_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_corrupted_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_gale_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_hellfire_stone_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:locked_wynd_sentry_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:mechanical_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:mosaic_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:mossy_holystone_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:mutated_aechor_plant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:mysterious_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:pink_cape"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:powered_obelisk"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:royal_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sakura_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sentry_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:shield_of_inebriation"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:shield_of_remediation"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sky_blue_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sky_blues"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sky_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:skyroot_pine_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:skyroot_pine_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:slammberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:slammroot_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:slider_prototype"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:solar_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:strength_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_highsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_highsproot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_highsproot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_highsproot_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_sakura_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_sakura_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:stripped_sakura_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sun_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:sunset_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:teal_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:trapped_aerogetic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:trapped_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:trapped_carved_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:trapped_corrupted_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:treasure_doorway_aerogetic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:treasure_doorway_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:treasure_doorway_corrupted_aeronautic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:treasure_doorway_wynd_sentry_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:turquoise_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_clay_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrie_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_gloves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_lance"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:valkyrum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:violet_aercloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:violet_moa_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:warrior_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:warrior_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:whale_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wind_blower"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wynd_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wynd_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wynd_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wynd_sentry_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancient_aether:wynd_thistle"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 14215167,
+				"Instant": false,
+				"Name": "mowziesmobs:frozen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 13500280,
+				"Instant": false,
+				"Name": "mowziesmobs:geomancy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 6750003,
+				"Instant": false,
+				"Name": "mowziesmobs:poison_resist"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16768834,
+				"Instant": false,
+				"Name": "mowziesmobs:sunblock"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16768834,
+				"Instant": false,
+				"Name": "mowziesmobs:suns_blessing"
+			}
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "dungeon_echo:snow_structure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "dungeon_echo:maze_manicore"
+			}
+		}
+	]
+}

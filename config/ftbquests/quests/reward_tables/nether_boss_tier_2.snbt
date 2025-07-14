@@ -1,0 +1,175 @@
+{
+	id: "1AFBCA62038E4EA4"
+	loot_size: 5
+	order_index: 9
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "celestial_artifacts:nebula_cube"
+			}
+			random_bonus: 2
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:blaze_rod"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "blazegear:brimsteel_ingot"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:netherite_ingot"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_sword_diamond"
+				tag: {
+					Damage: 0
+				}
+			}
+			only_one: true
+			weight: 0.25f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_pickaxe_diamond"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "betternether:obsidian_breaker"
+						lvl: 2s
+					}]
+				}
+			}
+			only_one: true
+			weight: 0.25f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_hoe_diamond"
+				tag: {
+					Damage: 0
+				}
+			}
+			only_one: true
+			weight: 0.25f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_axe_diamond"
+				tag: {
+					Damage: 0
+				}
+			}
+			only_one: true
+			weight: 0.25f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "betternether:cincinnasite_shovel_diamond"
+				tag: {
+					Damage: 0
+				}
+			}
+			only_one: true
+			weight: 0.25f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "netherexp:sanctum_compass"
+				tag: { }
+			}
+			only_one: true
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "spelunkery:portal_fluid_bottle"
+				tag: { }
+			}
+			only_one: true
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "irons_spellbooks:upgrade_orb"
+			}
+			only_one: true
+		}
+	]
+	title: "nether boss tier 2"
+}

@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_captain_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_captain_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_captain_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_captain_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_pirate_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_pirate_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_pirate_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_pirate_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_turtle_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_turtle_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:armor_turtle_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:block_captain"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:block_crew"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:block_pirate"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:block_sailor"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:block_trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:disc_marine"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:disc_pirate"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:lighthouse_trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:marine_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:marine_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:marine_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:pirate_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:pirate_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:pirate_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_marine"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_marine_zombie"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_piglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_pirate"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_pirate_zombie"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_witch"
+		},
+		{
+			"weight": 1.0,
+			"key": "taxov:ship_wither"
+		}
+	]
+}

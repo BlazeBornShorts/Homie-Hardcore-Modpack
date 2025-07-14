@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -52378,
+				"Instant": false,
+				"Name": "obscure_api:fury"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -13408513,
+				"Instant": false,
+				"Name": "obscure_api:knowledge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6736897,
+				"Instant": false,
+				"Name": "obscure_api:rush"
+			}
+		}
+	]
+}

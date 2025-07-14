@@ -1,0 +1,552 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "inventorypets:banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:blue_screen"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:candy_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:cloud_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:easter_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:egg_nog"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:feed_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:holiday_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:holiday_gift"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:item_petrifier"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nether_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nugget_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nugget_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nugget_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nugget_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nugget_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nugget_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:patreon_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:patreon_shirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_april_fool"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_biome"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_black_hole"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_blaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_brewing_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_cheetah"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_christmas_tree"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_cow"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_creeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_double_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_dubstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_enchanting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_end_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_ender_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_enderman"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_flying_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_ghast"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_grave"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_house"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_illuminati"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_iron_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_juggernaut"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_jukebox"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_loot"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_magma_cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_menorah"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_100"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_25"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_50"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_75"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_aoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_mob"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_peaceful"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_special"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_utility"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_meta_youtuber"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_mickerson"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_mishumaa_saba"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_moon"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_mooshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_nether_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_ocelot"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_pacman"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_pig"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_pingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_pixie"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_politically_correct"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_pufferfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_purplicious_cow"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_qcm"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_sated_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_sated_double_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_sheep"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_siamese"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_silverfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_snow_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_spider"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_wither"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:pet_wolf"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_10"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_20"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_30"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_40"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_50"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_60"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_all"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:petachieve_general"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:rock_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sand_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sand_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:siamese_gift"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:solstice_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:solstice_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:solstice_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:solstice_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:solstice_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:space_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:start_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:stone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:stone_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:temp_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:temp_double_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:temp_feed_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:temp_sated_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:temp_sated_double_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:windows_31"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:windows_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:windows_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:windows_me"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:windows_mojave"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:windows_xp"
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:xerox_parc_gui"
+		}
+	]
+}

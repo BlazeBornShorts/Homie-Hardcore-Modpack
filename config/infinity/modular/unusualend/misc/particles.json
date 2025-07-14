@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_shine"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pink_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_bubbles"
+		}
+	]
+}

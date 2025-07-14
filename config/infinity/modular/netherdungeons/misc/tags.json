@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:ginger_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:magma_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:truncus_prefers_land"
+		}
+	]
+}

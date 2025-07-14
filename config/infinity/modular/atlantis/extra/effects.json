@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16711680,
+				"Instant": false,
+				"Name": "atlantis:spikes"
+			}
+		}
+	]
+}

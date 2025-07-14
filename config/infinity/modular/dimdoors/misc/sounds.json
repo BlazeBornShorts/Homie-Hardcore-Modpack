@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdoors:bloop"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:creepy"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:door_lock_removed"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:door_locked"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:key_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:key_unlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:monk"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:tearing"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:tesselating_weave"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:they_stare_back"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_void"
+		}
+	]
+}

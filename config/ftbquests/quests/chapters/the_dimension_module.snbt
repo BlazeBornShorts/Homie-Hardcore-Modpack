@@ -1,0 +1,560 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_dimension_module"
+	group: "7D1CA68D540B909D"
+	icon: {
+		Count: 1b
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "betternether:pig_statue_respawner"
+	}
+	id: "543A971AB1711A8A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["You spawn into the overworld unsure of what your destiny may be..."]
+			icon_scale: 2.0d
+			id: "600BCF5AF2E2DD2D"
+			rewards: [{
+				count: 5
+				id: "6221CFE80F4375F4"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "upgrade_aquatic:mulberry_bread"
+				}
+				type: "item"
+			}]
+			subtitle: "Where am I?"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:grass_block"
+				}
+				id: "29CC7327D0A2BDF0"
+				type: "dimension"
+			}]
+			title: "The Overworld"
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Use an obsidian frame and a flint and steel to reach the nether."
+				""
+				"Be warned; it is alot warmer here than what you may be used to....."
+			]
+			icon_scale: 2.0d
+			id: "4265BE55F1551F75"
+			rewards: [
+				{
+					count: 5
+					id: "3EF12B81C58C29A5"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:water"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C7E5305C4B14400"
+					item: {
+						Count: 1b
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Maybe Hell isn't a place on Earth"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:obsidian"
+				}
+				id: "193480FC31BB6FE3"
+				type: "dimension"
+			}]
+			title: "The Nether"
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Craft eyes of ender; a right click using one in the overworld will guide you to the stronghold where you will search for the end portal frame filling it with eyes of ender."
+				""
+				"Tread lightly; for every step may send you back from where you came..."
+			]
+			icon_scale: 2.0d
+			id: "597873B0DD5B18E2"
+			rewards: [{
+				count: 4
+				id: "7FA418FEA4640C2A"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:end_crystal"
+				}
+				type: "item"
+			}]
+			subtitle: "And I looked into the void....."
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:end_portal_frame"
+				}
+				id: "20F302385613D265"
+				type: "dimension"
+			}]
+			title: "The End"
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Build a frame out of glowstone and place water within it to craft an Aether portal."
+				""
+				"A haven away from the dangers of the other realms; but not without its own problems..."
+			]
+			icon_scale: 2.0d
+			id: "535ED65D8B6AAA0B"
+			rewards: [{
+				id: "390A49329BA5D6BE"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "What goes up"
+			tasks: [{
+				dimension: "aether:the_aether"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:glowstone"
+				}
+				id: "2940C1A27CED3C9E"
+				type: "dimension"
+			}]
+			title: "The Aether"
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"Craft a catalyst and build a frame of stone bricks; clicking on the frame with the catalyst to open a portal."
+				""
+				"Not so scary... For now...."
+			]
+			icon_scale: 2.0d
+			id: "2D16C641587DA4AE"
+			rewards: [{
+				count: 3
+				id: "4B446F2059AE521B"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:ghast_tear"
+				}
+				type: "item"
+			}]
+			subtitle: "Must come down"
+			tasks: [{
+				dimension: "undergarden:undergarden"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:stone_bricks"
+				}
+				id: "37BFB60D33D1AAB6"
+				title: "The Undergarden"
+				type: "dimension"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4265BE55F1551F75"]
+			description: [
+				"Found across the nether the nether lilies can be mined by hand offering a semi permanent solution the heat issue. Walking over them will hydrate temporarily cooling you down."
+				""
+				"The rehydration enchantment can assist with this as well."
+				""
+				"Additionally a flask can help to hydrate you."
+			]
+			id: "1B346476AD1D2A2F"
+			rewards: [
+				{
+					count: 4
+					id: "4E49E23B12921CE4"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:arrow"
+					}
+					random_bonus: 12
+					type: "item"
+				}
+				{
+					id: "4655CE75A235A190"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:saddle"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "A little hot under the collar?"
+			tasks: [
+				{
+					id: "2B4078A60AAD51FD"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "scorchful:warped_lily"
+					}
+					type: "item"
+				}
+				{
+					id: "0DFBA132359161C1"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "scorchful:crimson_lily"
+					}
+					type: "item"
+				}
+			]
+			title: "Nether Lilies"
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4265BE55F1551F75"]
+			description: ["Super powerful and probably super unnessecary; obtain a Diamond-Netherite ingot!"]
+			id: "6744DF1D6F9203DE"
+			rewards: [
+				{
+					id: "2D363EFE2BCFBFD5"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:ancient_debris"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "42BA28AC082728E6"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:arcane_debris"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "6CB36133618E36B9"
+					type: "xp"
+					xp: 300
+				}
+			]
+			subtitle: "Excessive much?"
+			tasks: [{
+				id: "3D7908963B84EB6A"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "advancednetherite:netherite_diamond_ingot"
+				}
+				type: "item"
+			}]
+			title: "Shiny netherite"
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["600BCF5AF2E2DD2D"]
+			id: "262C92DF898D9743"
+			rewards: [
+				{
+					id: "6B47D8E59F707945"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "06BFD84FDAD85E02"
+					type: "xp"
+					xp: 25
+				}
+			]
+			subtitle: "Craft a Waterskin!"
+			tasks: [{
+				id: "7ABC81A32F681327"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "scorchful:water_skin"
+				}
+				type: "item"
+			}]
+			title: "Can't Stand the Heat?"
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["600BCF5AF2E2DD2D"]
+			id: "2790E182A76650C2"
+			rewards: [
+				{
+					id: "29AD91C67FA8B3C7"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:saddle"
+					}
+					type: "item"
+				}
+				{
+					id: "3EBA6ED2A55F1CE2"
+					type: "xp"
+					xp: 15
+				}
+			]
+			subtitle: "Craft a backpack!"
+			tasks: [{
+				id: "67B0BBB7DBF2878E"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "sophisticatedbackpacks:backpack"
+				}
+				type: "item"
+			}]
+			title: "Explorers Friend"
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["600BCF5AF2E2DD2D"]
+			description: [
+				"Use the Spelunker's Table to translate caves tablets! The Spelunker's Table can be found in small, ruined, underground structures."
+				""
+				"Each of these biomes has unique propertise, gear, tools, and utilities that may prove useful to you!"
+			]
+			id: "6F08787F0B6C7CB8"
+			rewards: [
+				{
+					id: "11F1C877408783E9"
+					type: "xp"
+					xp: 300
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D733125CAB93407"
+					table_id: 8336744830693658030L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "797132E182171AE3"
+					table_id: 617706698790065710L
+					type: "loot"
+				}
+			]
+			subtitle: "Visit all of Alex's Caves"
+			tasks: [
+				{
+					biome: "alexscaves:toxic_caves"
+					icon: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:acid_bucket"
+					}
+					id: "087CFC7BF2E32027"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:abyssal_chasm"
+					icon: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:pearl"
+					}
+					id: "532544044CEAA118"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:forlorn_hollows"
+					icon: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:pure_darkness"
+					}
+					id: "1FEFACC3070CD92C"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:magnetic_caves"
+					icon: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:scarlet_neodymium_ingot"
+					}
+					id: "0472CD86FD8C55EB"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:primordial_caves"
+					icon: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:limestone"
+					}
+					id: "276EE126E8382435"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:candy_cavity"
+					icon: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexscaves:gummy_ring_blue"
+					}
+					id: "04ED85D140D9D95F"
+					type: "biome"
+				}
+			]
+			title: "Spelunkers Charm!"
+			x: -9.5d
+			y: -5.0d
+		}
+	]
+	title: "The Dimension Module"
+}

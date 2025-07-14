@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 3245223,
+				"Instant": false,
+				"Name": "toomanyorigins:charged"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 13041858,
+				"Instant": true,
+				"Name": "toomanyorigins:end_fire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 2572577,
+				"Instant": false,
+				"Name": "toomanyorigins:zombifying"
+			}
+		}
+	]
+}

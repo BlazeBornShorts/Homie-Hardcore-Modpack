@@ -1,0 +1,220 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 2445989,
+				"Instant": false,
+				"Name": "netherexp:absorption_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 11730944,
+				"Instant": false,
+				"Name": "netherexp:betrayed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 7235236,
+				"Instant": false,
+				"Name": "netherexp:brain_damage_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 2696993,
+				"Instant": false,
+				"Name": "netherexp:darkness_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16750848,
+				"Instant": false,
+				"Name": "netherexp:fire_resistance_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 6497843,
+				"Instant": false,
+				"Name": "netherexp:fogsight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 14270531,
+				"Instant": false,
+				"Name": "netherexp:haste_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 5797459,
+				"Instant": false,
+				"Name": "netherexp:hunger_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16185078,
+				"Instant": false,
+				"Name": "netherexp:invisibility_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16646020,
+				"Instant": false,
+				"Name": "netherexp:jump_boost_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 13565951,
+				"Instant": false,
+				"Name": "netherexp:levitation_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 5882118,
+				"Instant": false,
+				"Name": "netherexp:luck_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 4866583,
+				"Instant": false,
+				"Name": "netherexp:mining_fatigue_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 8889187,
+				"Instant": false,
+				"Name": "netherexp:poison_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 13458603,
+				"Instant": false,
+				"Name": "netherexp:regeneration_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9520880,
+				"Instant": false,
+				"Name": "netherexp:resistance_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 9154528,
+				"Instant": false,
+				"Name": "netherexp:slowness_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3402751,
+				"Instant": false,
+				"Name": "netherexp:speed_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16762624,
+				"Instant": false,
+				"Name": "netherexp:strength_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 1787717,
+				"Instant": false,
+				"Name": "netherexp:unbounded_speed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 12624973,
+				"Instant": false,
+				"Name": "netherexp:unluck_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 10017472,
+				"Instant": false,
+				"Name": "netherexp:water_breathing_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 4738376,
+				"Instant": false,
+				"Name": "netherexp:weakness_immunity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 7561558,
+				"Instant": false,
+				"Name": "netherexp:wither_immunity"
+			}
+		}
+	]
+}

@@ -1,0 +1,2896 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:acacia_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:acacia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_dandelion"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:alpha_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:apple_oak_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:apple_oak_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:argillite"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:argillite_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ash_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ashen_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ashen_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ashen_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ashen_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ashen_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ashen_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:ashen_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:aster"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bamboo_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bamboo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bamboo_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:baobab_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:barley"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:barrel_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:birch_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:black_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:black_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:black_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:black_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackstone_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blackwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bladed_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bladed_tall_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:bleeding_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_bioshroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_magnolia_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_magnolia_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_magnolia_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_magnolia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:blue_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimsprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimsprout_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_log_magma"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brimwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brown_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brown_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brown_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:brown_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cactus_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cattail"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cave_hyssop"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cherry_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cherry_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:clover"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_earlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_webbing"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cobalt_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:corpse_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cyan_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cyan_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cyan_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cyan_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dark_oak_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dark_oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:day_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_pine_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_pine_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_pine_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_steppe_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dead_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:deepslate_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:deepslate_prismoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:deepslate_viridescent_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dorcel"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dropleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:duckweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:duskmelon_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:dusktrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:elephant_ear"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:enchanted_birch_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:enchanted_birch_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:enchanted_birch_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:enchanted_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:eucalyptus_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:felicia_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:fireweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:flowering_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:flowering_lily_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:flowering_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:flowering_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:frozen_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glister_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glister_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glistering_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glistering_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glistering_ivy"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glistering_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glistering_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glistering_wart"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glowing_blue_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glowing_green_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glowing_pink_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:glowing_yellow_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:golden_larch_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:golden_larch_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:golden_larch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:gray_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:gray_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:gray_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:gray_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_bioshroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:green_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hanging_earlight_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hanging_prismarite"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hibiscus"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hyacinth_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hyacinth_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hyacinth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:hyssop"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:icicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_beard"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:joshua_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:jungle_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:jungle_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:kapok_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:larch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:large_prismarite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_blue_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_blue_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_blue_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_blue_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_gray_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_gray_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_gray_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:light_gray_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:lime_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:lime_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:lime_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:lime_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magenta_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magenta_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magenta_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magenta_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:magnolia_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mangrove_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mangrove_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mauve_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:meadow_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:medium_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mossy_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mycotoxic_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mycotoxic_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mycotoxic_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:mycotoxic_mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:oak_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:oak_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_coneflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_maple_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:orange_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:overgrown_bone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_beard"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:peat_coarse_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:peat_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:peat_dirt_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:peat_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:peat_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:peat_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:peat_podzol"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pine_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_bioshroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_magnolia_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_magnolia_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_magnolia_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_magnolia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pink_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:pointed_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:polished_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:polished_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:polished_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:poppy_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:prismaglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:prismarite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:prismoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:prismoss_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_coneflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:purple_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:raw_redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_maple_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:red_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redstone_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redstone_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:redwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:saguaro_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:salmon_poppy_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:salmonberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:sandy_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:sandy_tall_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silt_coarse_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silt_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silt_dirt_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silt_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silt_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silt_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silt_podzol"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silver_birch_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silver_birch_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silver_birch_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silver_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silver_birch_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silver_birch_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:silver_birch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:small_desert_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:small_oak_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:small_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:small_oak_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:socotra_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:spanish_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:spruce_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:spruce_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:steppe_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:steppe_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:steppe_tall_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stone_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stone_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_bamboo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_baobab_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_blackwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_blackwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_blue_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_blue_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_brimwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_brimwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_cobalt_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_cobalt_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_dead_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_dead_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_eucalyptus_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_green_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_green_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_joshua_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_joshua_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_kapok_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_kapok_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_larch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_larch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_magnolia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_magnolia_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_mauve_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_mauve_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_pine_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_pine_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_pink_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_pink_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_redwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_small_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_socotra_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_socotra_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_yellow_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:stripped_yellow_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tall_blue_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tall_cobalt_earlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tall_green_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tall_hyacinth_stock"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tall_pink_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tall_yellow_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tassel"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:tsubaki"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:viridescent_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:volcanic_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:waratah"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_magnolia_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_magnolia_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_magnolia_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_magnolia_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_snowbelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:white_trillium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:wilting_trillium"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:windswept_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_bioshroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_lupine"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_painted_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_painted_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "regions_unexplored:yellow_snowbelle"
+		}
+	]
+}

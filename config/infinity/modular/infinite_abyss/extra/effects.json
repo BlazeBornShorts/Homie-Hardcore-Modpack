@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -13159,
+				"Instant": false,
+				"Name": "infinite_abyss:cold_resistance"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16751002,
+				"Instant": false,
+				"Name": "infinite_abyss:depth_resistance"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "infinite_abyss:depth_sickness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6684673,
+				"Instant": false,
+				"Name": "infinite_abyss:ethereal_resistance"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -6684673,
+				"Instant": false,
+				"Name": "infinite_abyss:freeze"
+			}
+		}
+	]
+}

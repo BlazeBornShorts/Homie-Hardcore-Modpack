@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:abyssal_ecosystem"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:burst_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:consumable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:dino_scavenge"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:gelatin_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:radioactive"
+		}
+	]
+}

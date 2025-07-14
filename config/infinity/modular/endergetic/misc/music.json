@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endergetic:music.end.poise_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "endergetic:music.record.kilobyte"
+		}
+	]
+}

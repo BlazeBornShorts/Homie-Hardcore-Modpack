@@ -1,0 +1,302 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "mna:faction/boss/fey_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/winter_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "mna:faction/boss/council_island"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/ritual_circle_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:witch_hunter",
+								"maxCount": 3
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:spell_breaker",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "mna:faction/council_library"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/ritual_circle_tundra"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:caches/largearcane"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:caches/smallarcane_broken"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "mna:faction/boss/demon_arena"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/potion_hut"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:caches/largearcane_broken"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/research_outpost_swamp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:pixie",
+								"maxCount": 3
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:mushroom_soldier",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "mna:faction/fairy_glade"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:caches/smallarcane"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/wistful_runesmith"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:hulking_zombie",
+								"maxCount": 2
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:skeleton_assassin",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "mna:faction/undead_crypt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:lantern_wraith",
+								"maxCount": 3
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mna:demon_imp",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "mna:faction/demon_fortress"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/respawn_altar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/lonely_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "mna:faction/boss/cathedral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "mna:scatter/ritual_circle_desert"
+			}
+		}
+	]
+}

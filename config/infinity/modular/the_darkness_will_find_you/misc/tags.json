@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:air_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:chiseled_deepslate_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:cobbled_deepslate_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_brick_slab_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_brick_stairs_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_brick_wall_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_bricks_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_tile_slab_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_tile_stairs_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_tile_wall_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:deepslate_tiles_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:gray_carpet_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:gray_wool_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:lava_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:not_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:polished_deepslate_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:sculk_catalyst_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:sculk_sensor_and_shrieker_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:soul_campfire_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:soul_lantern_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:soul_torch_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_darkness_will_find_you:soul_wall_torch_replaceable"
+		}
+	]
+}

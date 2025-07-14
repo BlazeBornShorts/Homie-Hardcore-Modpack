@@ -1,0 +1,460 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:baby_salamander_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:baby_strampler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:basalt_crab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:basalt_geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:brogg_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:brogg_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:brogg_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:carved_turquoise_gourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:cooked_indigo_salamander_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:cooked_salamander_tail_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_shell_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_shell_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_strampler_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:diamond_strampler_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:dna_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:dread_full_tunes"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_bone_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_smithing_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:drifter_vault"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:electrum_strampler_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:geiger_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:geneticmiracle"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:glowing_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:gold_strampler_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hell_stinger_hive_b_lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hell_stinger_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hell_wax_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hellish_wax"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hellish_wax_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hellstinger_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hellstinger_mask_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:hellstingerhive"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_flowering_azalea"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_salamander_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_salamander_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_scyphozoa_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_shroom_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:indigo_wart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:iron_strampler_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:jack_o_gourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:jelly_baloon_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:jelly_baloon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:leather_strampler_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:mystic_blues"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:nest_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:netherite_strampler_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:radiant_cephalotus"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:radiant_cephalotusstage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:radiant_gland"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:radiant_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:radiantcephalotusstage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:raw_indigo_salamander_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:raw_salamander_tail_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:salamander_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:salamandertailonastick"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:small_radiant_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:sniffer_egg_corrupt"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_horn_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:strampler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:striped_turquoise_bamboo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:stripped_indigo_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:stripped_indigo_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:tall_indigo_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:toxic_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_bamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_drifter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_gourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_roarer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_spiral_herb"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:turquoise_wart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:uranium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:wild_turquoise_gourd"
+		}
+	]
+}

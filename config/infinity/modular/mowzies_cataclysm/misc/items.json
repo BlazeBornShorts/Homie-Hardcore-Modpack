@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mowzies_cataclysm:frostmaw_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowzies_cataclysm:sun_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowzies_cataclysm:tongbi_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowzies_cataclysm:wrought_eye"
+		}
+	]
+}

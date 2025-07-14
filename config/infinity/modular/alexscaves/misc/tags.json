@@ -1,0 +1,180 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cave_paintings"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cooks_meat_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_blocks_digging"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:dinosaur_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:dinosaurs_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:drain_breaks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:ferromagnetic_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:galena_gen_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gingerbread_town_gen_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gloomoth_light_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_food_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grows_mussels"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gum_worm_blocks_digging"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gum_worm_favored_digging"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_breaks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnet_removes_last"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetic_attachables"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetic_caves_base_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_weapons"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuke_proof"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:primordial_caves_base_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radon_lamps"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radrock_gen_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raycat_sleeps_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:reduce_rainbounce_boots_effect_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:regenerates_after_primordial_boss_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_knockable_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_knockable_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_nibbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:remote_detonator_activates"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:resists_magnetron_body_building"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:rock_candies"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:scaffolding"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:stops_dinosaur_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_assembly_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tesla_bulb_base_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:trench_generation_ignores"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tube_worm_avoids"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:turns_into_cave_paintings"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_light_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:unmovable"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:volcano_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:water_carver_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:whalefall_ignores"
+		}
+	]
+}

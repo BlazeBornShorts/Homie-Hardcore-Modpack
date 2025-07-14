@@ -1,0 +1,323 @@
+
+[General]
+	#Gives you the ace wiki book at start
+	ACE_WIKI_ENABLED = true
+	#Whether it gives you back the tablet when exiting the spelunky table
+	REDOABLE_SPELUNKY_ENABLED = true
+	#Amount of tries you get for the spelunky table per tablet
+	#Range: > 1
+	SPELUNKY_ATTEMPTS_AMOUNT = 5
+	#Whether vanilla enchantments adapts to weapons (ex.Dreadbow, etc..)
+	VANILLA_ADAPTIONS_ENABLED = true
+	#Chances of creepers from caves to be charged (0 for disable)
+	#Range: 0.0 ~ 1.0
+	CHARGED_CAVE_CREEPER_CHANCE = 0.2
+	#Adds flammability to blocks that should be flammable
+	ADDITIONAL_FLAMMABILITY_ENABLED = true
+	#Reduces level instead of insta-losing in spelunkery minigame
+	NON_INSTA_LOSE_ENABLED = true
+	#Whether it adds new interactions of bone meal with Alex's Cave's flora
+	CAVIAL_BONEMEAL_ENABLED = true
+	#Whether deciphering tablets give decent xp
+	DECIPHERABLE_EXPERIENCE_ENABLED = true
+	#Whether AC liquids can be renewable
+	LIQUID_REPLICATION_ENABLED = true
+	#Using a wither star to nullify godly interventions.To allow you to use natures compass and alike to find biomes
+	POWERED_LOCATORS_ENABLED = true
+
+["Candy Cavity"]
+	#Whether blocks inside candy cavity, can be eaten by right clicking
+	GLUTTONY_ENABLED = true
+	#Whether purple soda causes stickyness when in it
+	STICKY_SODA_ENABLED = true
+	#Having Radiant Essence amplifies the attacks of Sugar Staff
+	RADIANT_WRATH_ENABLED = true
+	#Dropping foods in a dropped sack of sating will consume the dropped foods
+	TUNED_SATING_ENABLED = true
+	#Sugar Rushes at the end will cause sugar crashed dealing damage and temporary slowness
+	SUGAR_CRASH_ENABLED = true
+	#Thrown ice cream slightly freezes those that are hit
+	ICED_CREAM_ENABLED = true
+	#Adds interactions when eating things from Candy Cavity
+	OVERTUNED_CONSUMPTION_ENABLED = true
+	#Makes the candy cavity freeze outsiders slowly
+	CRYONIC_CAVITY_ENABLED = true
+	#Allows the creation of gelatin with bone blocks
+	BREAKING_CANDY_ENABLED = true
+	#You can make Ice Cream Cones
+	ICE_CREAM_CONE_ENABLED = true
+	#You can amplify conversion crucibles with radiant essences
+	OVERDRIVED_CONVERSION_ENABLED = true
+	#--Compatible with modded dyeable armors--
+	#Whether purple soda, purples dyable armor
+	PURPLE_LEATHERED_ENABLED = true
+	#--Compatible with BOP and Create--
+	#Adds interactibility with frostmint items
+	AMPLIFIED_FROSTMINT_ENABLED = true
+
+	["Candy Cavity".Caniac]
+		#Whether Caniac dissolve in water and will actively avoid it
+		CANIAC_SENSITIVITY_ENABLED = true
+		#Whether Caniacs randomly destroy beds
+		BEDWARS_ENABLED = true
+		#Whether Caniacs randomly attacks others
+		CANIAC_MANIAC_ENABLED = true
+		#Whether Caniacs randomly lights placed explosives
+		CANIACAL_EXPLOSION_ENABLED = true
+
+	["Candy Cavity".Candicorn]
+		#Whether candicorn heals with caramel apple
+		CANDICORN_HEAL_ENABLED = true
+
+	["Candy Cavity"."Caramel Cube"]
+		#Whether caramel cube's stickiness applies to its attacks
+		STICKY_CARAMEL_ENABLED = true
+		#Whether caramel cubes merge with eachother
+		CARAMERGING_ENABLED = true
+
+	["Candy Cavity"."Gingerbread Man"]
+		#Whether Gingerbread Men can be amputated with an axe
+		AMPUTATION_ENABLED = true
+		#Whether Gingerbread Men will attack you if you attack one of them.
+		HIVE_MIND_ENABLED = true
+		#Whether Gingerbread Men will attack you if you eat their crumbs
+		CRUMBY_RAGE_ENABLED = true
+		#Whether Gingerbread Men are sensitive to water
+		GINGER_DISINTEGRATE_ENABLED = true
+
+	["Candy Cavity".Gumbeeper]
+		#--Requires Alexs Mobs--
+		#Whether Gumbeepers will attack, Blue jays and Raccoons in Alexs Mobs
+		REGULAR_REFERENCE_ENABLED = true
+
+	["Candy Cavity"."Gummy Bear"]
+		#Jellybean harvesting is changed where amount of jellybeans is made the longer they hibernate
+		JELLYBEAN_CHANGES_ENABLED = true
+		#Whether feeding Sweetish Fish to a Gummy Bear that are of the same color will speed up its hibernation
+		SWEETISH_SPEEDUP_ENABLED = true
+
+	["Candy Cavity"."Gum Worm"]
+		#Whether candy hooks will take damage overtime when riding a gum worm
+		PRESSURED_HOOKS_ENABLED = true
+		#Whether to kick you off the gum worm when either of your hooks are not present
+		LOGICAL_RIDING_ENABLED = true
+		#Whether gum worm head damages nearby enemies
+		GUM_TRAMPLE_ENABLED = true
+
+	["Candy Cavity".Licowitch]
+		#Whether licowitches attack villagers and iron golems
+		LICOWITCH_VENGEANCE_ENABLED = true
+
+["Forlorn Hollows"]
+	#--Compatible with Curios Lanterns--
+	#Whether most forlorn mammals are effected when a player holds light
+	FORLORN_LIGHT_EFFECT_ENABLED = true
+	#Whether breaking Forlorn Hollows blocks has a chance to burst out Underzealots or Corrodents
+	BURST_OUT_ENABLED = true
+	#Whether darkness arrows have a 1% chance of inflicting darkness
+	DARKNESS_APPLYED_ENABLED = true
+	#Whether corrodents inflict rabies-like symptoms
+	RABIES_ENABLED = true
+	#Whether guano slows you down
+	GUANO_SLOW_ENABLED = true
+	#Whether peering coprolith interact with players holding light in different ways
+	PEERING_TRIGGER_ENABLED = true
+	#Whether beholders stalk nearby players when unused
+	BEHOLDENT_STALKING_ENABLED = true
+
+	["Forlorn Hollows".Corrodent]
+		#Whether corrodents knaw on dropped items
+		KNAWING_ENABLED = true
+		#--Compatible with Dark Offering Feature--
+		#Whether corrodents can be converted to underzealots through ritual
+		CORRODENT_CONVERSION_ENABLED = true
+
+	["Forlorn Hollows".Underzealot]
+		#Whether underzealots extinguish campfires
+		EXTINGUISH_CAMPFIRES_ENABLED = true
+		#Whether underzealot respect those that wear the darkness
+		UNDERZEALOT_RESPECT_ENABLED = true
+		#--Compatible with Vine Lasso from AM--
+		#Allow you to offer sacrifices to underzealots when neutral to them
+		DARK_OFFERING_ENABLED = true
+
+	["Forlorn Hollows".Vesper]
+		#Whether vespers attack underzealots sacrificing vespers
+		ANTI_SACRIFICE_ENABLED = true
+		#Additional mobs vesper hunt
+		VESPER_HUNT_ENABLED = true
+		#Whether vespers can be shot down
+		VESPER_SHOTDOWN_ENABLED = true
+
+	["Forlorn Hollows".Watcher]
+		#Whether you get disoriented when possessed by a watcher
+		DISORIENTED_ENABLED = true
+		#Whether watchers solidify into totems when long enough
+		SOLIDIFIED_WATCHER_ENABLED = true
+
+["Toxic Caves"]
+	#Amount of irradiation level to get the deadly effects
+	#Range: > 1
+	EXEMPLIFIED_IRRADIATION_AMOUNT = 5
+	#Whether Irradiated Creepers have their explosions amplified
+	IRRADIATED_CREEPER_ENABLED = true
+	#Whether Geothermal Vents have effects when standing on top depending on the spewed smoke
+	GEOTHERMAL_EFFECTS_ENABLED = true
+	#Allows lighting of explosives, including nuclear bombs with a flint and steel off-hand during flight
+	KIROV_REPORTING_ENABLED = true
+	#Hazmat reduces amount of irradiation recieved from rayguns
+	HAZMAT_AMPLIFIED_ENABLED = true
+	#Radioactive blocks emit irradiation to nearby players
+	RADIOACTIVE_AWARENESS_ENABLED = true
+	#Amplifies raygun effects,Such as block destruction
+	RERAYGUNNED_ENABLED = true
+	#Explosions only progress when in ground (primarily used for midair nuking)
+	GROUNDED_NUKE_ENABLED = false
+	#--Compatible with Soap from Supplementaries--
+	#Whether Irradiation wears off faster when in water
+	IRRADIATION_WASHOFF_ENABLED = true
+
+	["Toxic Caves".Braniac]
+		#Whether players with irradiated with an amplifier of 2 or more spawns braniacs
+		MUTATED_DEATH_ENABLED = true
+		#Whether Braniacs can pickup waste drums if they have non
+		WASTE_PICKUP_ENABLED = true
+		#Whether Braniacs drinking waste drums powers them up
+		WASTE_POWERUP_ENABLED = true
+
+	["Toxic Caves".Gammaroach]
+		#Whether gammaroaches hunt dropped food
+		GAMMAROACH_FOODING_ENABLED = true
+
+	["Toxic Caves".Nucleeper]
+		#Whether nucleepers explode when they die from explosions
+		NUCLEAR_CHAIN_ENABLED = true
+		#Whether nucleepers can be defused
+		DEFUSION_ENABLED = true
+		#Rusted Nucleepers are slower and weaker
+		RUSTED_NUCLEEPER_ENABLED = true
+
+	["Toxic Caves".Radgill]
+		#Whether fish have a chance to turn into radgill when dowsed in acid
+		FISH_MUTATION_ENABLED = true
+
+	["Toxic Caves".Raycat]
+		#Whether cats have a chance to turn into raycat when dowsed in acid
+		CAT_MUTATION_ENABLED = true
+
+	["Toxic Caves".Tremorzilla]
+		#Adds a gammafied tremorzilla, assimilated into a more powerful form
+		GAMMARATED_TREMORZILLA_ENABLED = true
+
+["Primordial Caves"]
+	#Whether you have less oxygen inside Primordial Caves
+	PRIMORDIAL_OXYGEN_ENABLED = true
+	#Whether you are attacked by some dinosaurs if seen with a limestone spear
+	FEARED_ANCESTORS_ENABLED = true
+	#Whether untamed dinosaurs will attack any that are seen with their egg
+	DINOSAUR_EGG_ANGER_ENABLED = true
+	#--Compatible with Farmers Delight and Caves Delight--
+	#Whether carnivores scavenge for placed dinosaur chops
+	SCAVENGING_ENABLED = true
+	#Whether stepping on amber can rarely heal you
+	AMBER_HEAL_ENABLED = true
+	#Whether Atlatitans/Lux stomps will cause damage
+	STOMP_DAMAGE_ENABLED = true
+	#Whether painting dinosaurs gives temporary effects
+	PAINT_EFFECTS_ENABLED = true
+	#--Compatible with Alexs Mobs--
+	#Whether amber when generated could contain trapped mobs
+	PRESERVED_AMBER_ENABLED = true
+	#--Requires Alexs Mobs--
+	#Flytraps close shut when a fly (From Alexs Mobs) comes into contact with it
+	FLY_TRAP_ENABLED = true
+
+	["Primordial Caves".Atlatitan]
+		#Whether atlatitan eggs or babies can be sacrificed to a volcano to refresh its lux cooldown
+		VOLCANIC_SACRIFICE_ENABLED = true
+
+	["Primordial Caves".Tremorsaurus]
+		#Whether tremorsaurus can be tamed alternatively with meat(MUST HAVE SCAVENGING FEATURE ENABLED)
+		SEETHED_TAMING_ENABLED = true
+		#Whether tremorsaurus fights other tremorsaurus when attacked
+		TREMOR_V_TREMOR_ENABLED = true
+		#Whether tremorsaurus destroys blocks like a ravager when ridden
+		RAVAGING_TREMOR_ENABLED = true
+
+["Magnetic Caves"]
+	#Enchantment for Resistor Shield and Galena Gauntlet, amplifying their capabilities
+	MAGNETICISM_ENABLED = true
+	#Tesla bulbs rarely directly shock nearby intruders
+	SHOCKING_THERAPY_ENABLED = true
+	#Tesla bulbs have new added sfx from Command & Conquer
+	TESLA_COILED_ENABLED = true
+	#Scalable Holograms with Azurite/Scarlet ingots
+	SCALABLE_HOLOGRAM_ENABLED = true
+	#Will rip magnetic items in your hands when afflicted with weakness
+	MAGNERIP_ENABLED = true
+	#--Requires Magnerip--
+	#Now causes all your magnetic items in your inventory will be attracted off you,no matter what
+	HARDCORE_MAGNERIP_ENABLED = false
+
+	["Magnetic Caves".Boundroid]
+		#Boundroid attracts magnetic items and attacks uniquely to magnetable players
+		BOUNDED_MAGNETISM_ENABLED = true
+
+	["Magnetic Caves".Teletor]
+		#Teletors rearm their magnetic weapons when unavailable with nearby magnetic weapons
+		TELETOR_REARM_ENABLED = true
+
+	["Magnetic Caves".Notor]
+		#Notors self destruct when attacked
+		SELF_DESTURCT_ENABLED = true
+
+["Abyssal Chasm"]
+	#--Compatible with Create--
+	#Whether abyssal chasms cause crushing damage to you and your breath meter when deep enough
+	ABYSSAL_CRUSH_ENABLED = true
+	#Affecting the abyssal ecosystem will have effects for your reputation
+	ECOLOGICAL_REPUTATION_ENABLED = true
+	#--Compatible with Curios Lanterns--
+	#Whether abyssal mobs interact with entities holding light
+	ABYSSAL_LIGHT_CHECK_ENABLED = true
+	#Whether deep ones wilt when outside of abyssal chasm
+	DEEP_WEAKENED_ENABLED = true
+	#Whether submarine deals damage when moving
+	SUBMARINE_BUMP_ENABLED = true
+
+	["Abyssal Chasm"."Mine Guardian"]
+		#Whether mine guardians can be made and owned
+		REMINEDING_ENABLED = true
+		#Noon variant
+		NOON_GUARDIAN_ENABLED = true
+		#Mine guardians can be turned to nuclear variants with nuclear bombs
+		NAVAL_NUCLEARITY_ENABLED = true
+
+	["Abyssal Chasm"."Sea Pig"]
+		#Whether seapigs can inflict poison in nearby mobs
+		POISONOUS_SKIN_ENABLED = true
+
+	["Abyssal Chasm"."Gossamer Worm"]
+		#Feeding marine snow to worms,dropping bioluminescence in return
+		GOSSAMER_FEEDING_ENABLED = true
+
+["Goofy Mode"]
+	#Dreadbow go RATATATA
+	RATATATATATA_ENABLED = false
+	#Pushable Nukes (therefore duplicatable)
+	NUCLEAR_PISTONATION_ENABLED = false
+	#Spelunkery XRAY
+	BRAINDEAD_MODE_ENABLED = false
+	#Parrots explode with cookie block
+	COOKIE_CRUMBLE_ENABLED = false
+	#Punished for too much sweets
+	SWEET_PUNISHMENT_ENABLED = false
+	#Notors bout to leak your ip
+	IP_ENABLED = false
+	#--Compatible with Alexs Mobs--
+	#dont pspsps the cat
+	CATTASTROPHE_ENABLED = false
+	#--Compatible with Alexs Mobs--
+	#Roaches are nuke proof
+	TOUGH_ROACHES_ENABLED = false
+

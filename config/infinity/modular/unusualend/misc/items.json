@@ -1,0 +1,1212 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualend:ancient_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ancient_encased_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ancient_encased_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ancient_podium"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ancient_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ancient_shortbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ancient_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:blazing_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:blob_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:blooming_chorus_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bluk_au_chocolat"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bluk_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bluk_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bluk_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_research_notes"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_scale_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bolok_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bouncy_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bouncy_gloopslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:bouncy_gloopstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:budding_citrine"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:building_inhibitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:carved_warped_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:celestial_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:central_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:charged_gloopstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_endstone_builder"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_endstone_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_endstone_friendship"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_endstone_scared"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_endstone_us"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_endstone_work"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_gloopstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_gneiss_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_polished_gloopslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_polished_purpur_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chiseled_polished_warped_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_cane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_cane_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_mosaic_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_planks_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_nest_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_petals_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:chorus_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_gum"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:citrine_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:condensed_citrine_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:cooked_bluk"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:cooked_bolok_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:cracked_endermite_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:cracked_lens_hardglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:creative_health_boost"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:creative_serenity"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:creative_swift_strikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:crystal_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:crystal_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:crystal_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:disc_fragment_flying_ships"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:dragling_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:dragling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:dragon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:dripping_gloopstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:end_blob"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:end_blob_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ender_blob_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ender_firefly_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ender_firefly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:ender_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_moult"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_moult_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_moult_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_moult_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_moult_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_moult_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderblob_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderbulb_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderbulb_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderfirefly_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:enderling_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endermite_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endstone_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endstone_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:endstone_trapper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:fading_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:firefly_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:floating_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flowering_gloopy_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:flowering_purpur_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopilon_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopilon_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopilon_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopilon_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopslate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopslate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopslate_pedestral"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopy_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopy_endstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopy_tendrils"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gloopy_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:glub_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:glub_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:gneiss_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:golem_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:golem_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:grown_warped_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:healing_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:infested_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:infused_end_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:infuser_infos"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:large_citrine_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:leeching_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:lens_hardglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:lurker_sludge"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:lurker_spine"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:music_disc_endstone_golem_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:music_disc_flying_ships"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:music_disc_queen"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_infuser"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:pearlescent_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:phantom_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:phantom_membrane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_citrine"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_citrine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gloopslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gloopslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gloopslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gloopstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gloopstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gloopstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gneiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gneiss_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_gneiss_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_tiles_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_purpur_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_raw_purpur_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_warped_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_warped_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:polished_warped_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_chorus_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_chorus_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_chorus_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_chorus_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_crystal_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_gloopy_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_gloopy_tendrils"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_shiny_spirea"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:potted_warped_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismalite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismalite_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismalite_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismalitic_gloopslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismatic_gum"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismatic_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismatic_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:prismatic_pearl_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:purpur_embedded_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:purpur_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:purpur_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:raw_bluk"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:raw_purpur_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:raw_purpur_block_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:raw_purpur_block_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:raw_purpur_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:rooted_raw_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:scale_horse_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_crystal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_crystal_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_crystal_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_crystal_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_gloopstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_gum"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shiny_spirea"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shulker_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:shulker_shooter"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:small_enderbulb_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:small_warped_algae"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:small_warped_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spectral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spectral_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spectral_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spirit_grim_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spirit_malice_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spirit_mania_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spirit_smile_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spirit_twist_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spirit_vice_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:spunkler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:squash_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:stabilised_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:stripped_chorus_cane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:stripped_chorus_nest_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:stripped_chorus_nest_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:stripped_chorus_nest_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:teleportation_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:undead_enderling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:void_explosive"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:void_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:void_particles_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:void_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:void_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:void_tracker"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:wandering_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:wandering_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_algae"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_endstone_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_infusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_squash_wedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_embedded_citrine"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warped_stone_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:warping_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:weak_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualend:withering_orb"
+		}
+	]
+}

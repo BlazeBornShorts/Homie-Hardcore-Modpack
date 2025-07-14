@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nethers_exorcism_reborn:drifter_hideout"
+			}
+		}
+	]
+}

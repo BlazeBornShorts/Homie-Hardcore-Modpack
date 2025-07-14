@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ender_fern_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:gliding_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:grease_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:radon_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:ruinous_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:twisted_float"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:void_blade_left_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:void_blade_right_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "endlessbiomes:void_rise"
+		}
+	]
+}

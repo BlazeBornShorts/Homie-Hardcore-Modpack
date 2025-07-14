@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "endlessbiomes:white_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:light_gray_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:gray_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:black_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:brown_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:red_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:orange_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:yellow_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:lime_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:green_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:light_blue_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:blue_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:cyan_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:purple_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:magenta_radon_lamp"
+				},
+				{
+					"Name": "endlessbiomes:pink_radon_lamp"
+				}
+			]
+		}
+	]
+}

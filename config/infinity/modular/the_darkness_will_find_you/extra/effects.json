@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "the_darkness_will_find_you:marked"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "the_darkness_will_find_you:protected_by_charged_totem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "the_darkness_will_find_you:protected_by_cursed_totem"
+			}
+		}
+	]
+}

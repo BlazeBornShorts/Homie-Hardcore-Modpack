@@ -1,0 +1,81 @@
+{
+	id: "38BFE9B7E88F9F81"
+	loot_size: 5
+	order_index: 2
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "celestial_artifacts:soul_box"
+			}
+			only_one: true
+			weight: 0.3f
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "majruszsdifficulty:soul_jar"
+			}
+		}
+		{
+			count: 3
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:blaze_rod"
+			}
+			random_bonus: 5
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "irons_spellbooks:nature_upgrade_orb"
+			}
+		}
+		{
+			count: 2
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "celestial_artifacts:nebula_cube"
+			}
+		}
+		{
+			count: 3
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "majruszsdifficulty:enderium_shard"
+			}
+			random_bonus: 3
+		}
+	]
+	title: "Corrupted Champion"
+}

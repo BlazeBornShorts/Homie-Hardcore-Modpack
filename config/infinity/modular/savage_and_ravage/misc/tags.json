@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:harpsichord_note_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:orchestral_note_blocks"
+		}
+	]
+}

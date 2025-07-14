@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bountiful:bounty"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountiful:bountyboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountiful:decree"
+		}
+	]
+}

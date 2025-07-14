@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cofh_core:ender_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "cofh_core:glow_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "cofh_core:lightning_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "cofh_core:signal_air"
+		}
+	]
+}

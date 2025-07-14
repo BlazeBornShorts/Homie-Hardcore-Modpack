@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ambient.lost_caves.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:ambient.lost_caves.sandstorm_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:block.rare_ice.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:entity.sand_snapper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:entity.sand_snapper.digging"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:entity.sand_snapper.emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:entity.sand_snapper.happy"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:entity.sand_snapper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "yungscavebiomes:entity.sand_snapper.panic"
+		}
+	]
+}

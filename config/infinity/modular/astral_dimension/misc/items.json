@@ -1,0 +1,3148 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_eye_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_necklace_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_sentry_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:apocalyptic_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:arrow_caller"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_altar_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_altar_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_dimension"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_marble_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_reward"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_sun_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astral_trophy_spinning"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astralstoneslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astralstonestairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astralstonewall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_cage"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:astranite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:baby_amethyst_crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bacteria_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:basalt_storage_farm_room"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:berry_of_saturation"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:black_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:black_portal_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:black_soul_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:blaze_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:block_of_lucid"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:blooming_dread"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:blue_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:blue_soul_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bonefish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bovelin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_black_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bricks_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bright_void_bulbs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:broken_amethyst_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:broken_bone_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:brown_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:burning_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:burning_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:carrot_ginger_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:chili_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:chiseled_astral_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:chiseled_astral_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:chiseled_faded_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:chiseled_harsh_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:chiseled_moonstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:chiseled_pyrite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:clematis_crispa"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cobbledvoidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:corrupted_astral_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:corrupted_astral_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:corrupted_outer_debris_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:count_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cracked_astral_marble_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cracked_astral_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cracked_harsh_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cracked_moonstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cracked_pyrite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cross_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:crypt_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:crystallized_astral_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:crystallized_moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cut_faded_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cut_faded_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cut_faded_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:cut_faded_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:damned_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dark_void_bulbs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dead_dragon_fruit_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dead_kelp"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dead_postrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dead_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dead_seagrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dead_twisted_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:debris_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:debris_pane_cooldown"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:diary"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dragon_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dragon_fruit_plant_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dragon_fruit_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dragon_fruit_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dragon_fruit_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dragon_fruit_stage_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:dust_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ectoplasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ectoplasm_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ectoplasm_block_starts_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ectoplasm_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electric_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electric_projectile_shooter"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electric_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electric_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electric_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electrified_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electrified_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:elite_bubble_blower"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ender_dragon_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:eversion_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:experiment_room"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_fgenerator"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_flame_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_temple_g"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fake_visage_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fatal_shroom_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ffmg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fftg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_birch_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_birch_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_birch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_cow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_hummingbird_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_yolk"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:final_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:final_crystal_cooldown_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:final_crystal_cooldown_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:final_crystal_cooldown_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:final_crystal_summoning"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:firestorm_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fish_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_black_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flake_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flamethrower_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flamethrower_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flaming_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flaming_luminous_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_black_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flower_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fried_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:frost_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:frozen_harsh_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghost_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghost_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoul_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoulish_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoulish_pie_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoulish_pie_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoulish_pie_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoulish_pie_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ginger_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:gloompillar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:gloomy_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:glowing_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:gold_eye_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:golden_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:golden_bone_meal"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:golem_dungeon_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:gravel_soul_sand_tree_room"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:gray_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:green_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:growing_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_bean_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_bean_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_bean_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_bean_stage_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_icicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_leather_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_leather_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_leather_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_leather_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:harsh_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:healer_astral_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:helioos_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hibiscus"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hot_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hot_cake_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hot_cake_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hot_cake_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hot_cake_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:incomplete_velka"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:infernal_monument_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:infested_catedral_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:instigator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:invisible_faded_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:invisible_shade_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:jailor_spark_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:jailor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:keeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:knight_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:large_fiery_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:large_solar_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lava_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lava_luminous_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lava_orchid"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lethal_astral_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lethal_astral_stone_exposed"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:library_cactus_storage_room"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:light_blue_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:light_gray_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lime_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:little_spark_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lock_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_bell_cooldown"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_bell_ringing"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lucid_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminous_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:luminousbookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lunar_beetroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lunar_beetroot_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lunar_beetroot_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lunar_beetroot_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lunar_beetroot_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lunar_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lunatic_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lush_bulbs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:lush_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magenta_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magenta_soul_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magma_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magma_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magma_puffball"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magma_puffball_ready_to_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:magma_wings_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:meat_slime_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:meatball"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:meatball_shooter"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:medium_fireball"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:meeting_room"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:megvin_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:megvin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:melee_astral_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_black_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:metal_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moon_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonbubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonfoam"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:moonstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:nanta_bubbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:nanta_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:nanta_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:nether_visage_portal_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:night_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:obsidian_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:orange_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:outer_debris_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:overworld_visage_portal_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pajama_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pajama_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pajama_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pajama_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pigail_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pigail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_black_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pillar_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pink_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:poked_bean"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_marble_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_marble_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_marble_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_astral_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_harsh_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_harsh_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_harsh_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_harsh_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_moonstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_moonstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_moonstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_pyrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_pyrite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_pyrite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:polished_pyrite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:portal_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_1_breached"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_2_breached"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_3_breached"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_11"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_12"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_13"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_14"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_15"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_21"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_22"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_23"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_24"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_25"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_26"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_31"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_32"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_33"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_34"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_35"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_36"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_41"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_42"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_43"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_44"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_cooldown_45"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_cell_load_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_eye_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_tnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_black_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:present_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:protector_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pumkase_disguise"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pumkase_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pumpkin_farm"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pure_velka"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pure_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:purple_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_treasury"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyrite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_done"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_helmet_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_talk_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_talk_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_talk_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pyum_talk_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ranged_astral_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:raw_astranite"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:raw_astranite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_chilli"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_chilli_plant_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_chilli_plant_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_chilli_plant_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_chilli_plant_stage_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_chilli_plant_stage_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_chilli_plant_stage_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:red_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:reinforced_astral_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ronion"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ronion_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ronion_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ronion_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ruined_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sanctuary_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:scorcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:scorcher_hotter"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:scorcher_hottest"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:scourge_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sentry_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:setback"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sewer_void_worm_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:shade_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sick_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sickness_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_eye_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_plant_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_plant_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_plant_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_plant_stage_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_plant_stage_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludge_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sludgy_bone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:slurker_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:slurker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:small_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:small_fiery_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:smash_beetle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soggy_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_bear_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_hornet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_membrane"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_moonstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_pulp"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_pulp_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_sting"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_jack_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:soul_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sparkly_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sparkly_cake_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sparkly_cake_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sparkly_cake_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sparkly_cake_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:staff_of_levitation"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sticky_porkchop"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:storm_wisp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_luminous_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_luminous_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_soggy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_soggy_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_soul_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_soul_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_tormented_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_tormented_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_wisteria_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:stripped_wisteria_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sun_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sunmoss_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:super_void_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:supreme_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:supreme_altar_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:supreme_altar_ready"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:supreme_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:supreme_titan_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:sword_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:temple_keeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:thornball_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:thunder_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:thunder_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:titan_helmet_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:titan_sentry_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_mansion_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_twigs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tormented_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tornpillar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:torso_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:totem_of_decay"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tower_of_malice_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:twisted_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:twisted_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:upgraded_void_eater"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:velka"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:villager_pod_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:villager_pod_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_boots_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_centipede_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_charge_titan"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_crystal_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_eater"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_eater_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_footprints"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_gas"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_gas_warning"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_giant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_grids"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_magma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_menace_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_mushroom_block_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_mycelium"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_sentry_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_titan_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy_astranite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy_golden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy_iron_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy_lucid_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy_netherite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy_stone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_trophy_wooden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_worm_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_worm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:warlock_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:white_carved_pumpkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:white_ghost_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:white_pumpkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_black_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_brown_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_cyan_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_green_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_light_blue_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_light_gray_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_lime_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_magenta_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_orange_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_pink_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_purple_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_red_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_white_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:window_yellow_jelly_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wisteria_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:worm_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wrecked_guard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:yellow_ghost_jelly_block"
+		}
+	]
+}

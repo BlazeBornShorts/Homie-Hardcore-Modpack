@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "origins:cobwebs"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins:natural_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins:unphasable"
+		}
+	]
+}

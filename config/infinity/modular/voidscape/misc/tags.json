@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "voidscape:debug_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "voidscape:needs_ichor_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "voidscape:needs_titanite_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "voidscape:needs_voidic_tool"
+		}
+	]
+}

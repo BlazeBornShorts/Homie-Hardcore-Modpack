@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pmmo:cascading_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "pmmo:crops"
+		}
+	]
+}

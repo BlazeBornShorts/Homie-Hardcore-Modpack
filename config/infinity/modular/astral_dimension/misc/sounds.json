@@ -1,0 +1,448 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_crawler_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_crawler_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_crawler_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_knight_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_knight_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:amethyst_knight_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:baby_amethyst_crawler_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:baby_amethyst_crawler_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bovelin_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bovelin_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:bovelin_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:crystal_set"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electric_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:electric_zap"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_pillar_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:faded_totem_growls"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fake_visage_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fake_visage_screams"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fatal_mushroom_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fatal_mushroom_shoots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fatal_mushroom_suffocating"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fatal_shroom_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_cow_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_cow_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_cow_moo"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_hummingbird_chirps"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_hummingbird_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fiery_hummingbird_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fire_cracking_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:fireball_falling"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flamethrower_crackles"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flamethrower_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:flamethrower_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoul_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:ghoul_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:giant_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:helioos_ring_hovers"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:helioos_vision"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:hellish_moo"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:instigator_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:instigator_flying"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:instigator_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:instigator_shoots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:jailor_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:jailor_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:jailor_rages"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:jailor_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:jailor_stun"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:malice_tower_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:malice_tower_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:malice_tower_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:malice_tower_shoots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:meat_slime_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:meat_slime_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:meat_slime_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:megvin_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:megvin_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:megvin_honks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:megvin_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:nanta_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:nanta_eats"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:nanta_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pigail_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pigail_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pigail_oinks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:postrum_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pumkase_awakens"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pumkase_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pumkase_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:pumkase_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:scourge_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:scourge_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:scourge_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:slurker_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:slurker_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:slurker_lurks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_bear_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_bear_groan"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_bear_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_hornet_buzzes"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_hornet_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:solar_hornet_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:storm_wisp_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:storm_wisp_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:storm_wisp_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:tornpillar_shoots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:torso_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:torso_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:torso_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_centipede_crawls"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_centipede_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_centipede_hisses"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_centipede_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_giant_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_giant_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_giant_shrieks"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_menace_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_menace_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_menace_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_portal_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_portal_destroyed"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_titan_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_titan_shoots"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_titan_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_titan_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_visage_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_visage_screams"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:void_visage_shatters"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "astral_dimension:wrecked_guard_drinks"
+		}
+	]
+}

@@ -1,0 +1,1268 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aether_redux:airbound_cape"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:ancient_sentrite_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:aurum"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:avelium"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:avelium_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:avelium_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightbunny_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightbunny_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blighted_aercloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blighted_aether_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blighted_skyroot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blighted_skyroot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blighted_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightmoss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightmoss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightmoss_holystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightmoss_holystone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightmoss_holystone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightmoss_holystone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightshade"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blightwillow_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blue_swet_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blueberry_bagel"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:blueberry_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:boss_doorway_carved_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:boss_doorway_carved_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:boss_doorway_sentry_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:boss_doorway_sentry_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:carved_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:carved_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloud_cap_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_hyphae_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_mushling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_stem_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cloudcap_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:coarse_aether_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:cockatrice_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:corrupted_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_fruit_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:crystal_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:daggerbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:divinite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:divinite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:divinite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:divinite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:driftshale"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_blueberry_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_shell_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_shell_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_shell_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:enchanted_shell_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:feather_of_warding"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_petals"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fieldsproot_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:flareblossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fungal_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:fungal_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_holystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_holystone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_holystone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_holystone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_oak_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_oak_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gilded_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:glacia_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:golden_clover"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:golden_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:golden_swet_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:golden_swet_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:golden_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:grand_victory_medal"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gravitite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:gravitite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:holysilt"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:infernia"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:infused_veridium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:infused_veridium_dart_shooter"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:infused_veridium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:infused_veridium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:infused_veridium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:infused_veridium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:iridia"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_hyphae_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_stem_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:jellyshroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:lightroot_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:locked_carved_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:locked_carved_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:locked_polished_sentrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:locked_runelight"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:locked_sentry_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:locked_sentry_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:logicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:lumina"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:luxweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:mouse_ear_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:mykapod_shell_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:mykapod_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:oatmeal"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_driftshale"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_driftshale_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_driftshale_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_driftshale_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_sentrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_sentrite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_sentrite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:polished_sentrite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:purple_crystal_fruit_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:purple_glacia_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:purple_glacia_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:raw_gravitite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:raw_gravitite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:raw_valkyrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:raw_valkyrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:raw_veridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:raw_veridium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:refined_sentrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:refined_sentrite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:ring_of_construction"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:ring_of_wisdom"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:runelight"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentrite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentry_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentry_chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentry_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sentry_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shell_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shell_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shell_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shell_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shimmercow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shimmerstool"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:short_aether_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:shroom_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:skysprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:snailshell_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:solar_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:spear_of_the_blight"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:spirolyctil"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:splitfern"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sporing_blightwillow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:sporing_blightwillow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_blightwillow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_blightwillow_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_blightwillow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_blightwillow_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_cloudcap_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_cloudcap_hyphae_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_cloudcap_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_cloudcap_stem_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_crystal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_crystal_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_crystal_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_crystal_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_fieldsproot_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_fieldsproot_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_fieldsproot_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_fieldsproot_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_glacia_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_glacia_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_glacia_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:stripped_glacia_wood_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:subzero_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:theratip"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:trapped_carved_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:trapped_carved_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:trapped_sentry_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:trapped_sentry_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:vampire_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:vanilla_gummy_swet"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:vanilla_swet_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:vanilla_swet_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:vanilla_swet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_dart_shooter"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:veridium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:wynd_bagel"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:wynd_oat_panicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:wynd_oats"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:wyndsprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:xaelia_patch"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:zanberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:zanberry_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:zanberry_bush_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether_redux:zyatrix"
+		}
+	]
+}

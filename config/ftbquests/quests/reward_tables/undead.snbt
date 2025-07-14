@@ -1,0 +1,77 @@
+{
+	id: "56FABFCA899E950F"
+	loot_size: 3
+	order_index: 1
+	rewards: [
+		{
+			count: 6
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:rotten_flesh"
+			}
+		}
+		{
+			count: 4
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:raw_iron"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "alexscaves:dark_tatters"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:uncommon"
+					}
+					gem: "irons_spellbooks:nature"
+				}
+			}
+		}
+		{
+			count: 2
+			item: {
+				Count: 1b
+				id: "minecraft:splash_potion"
+				tag: {
+					Potion: "minecraft:long_weakness"
+				}
+			}
+		}
+		{
+			count: 3
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "graveyard:corruption"
+			}
+		}
+	]
+	title: "Undead"
+}

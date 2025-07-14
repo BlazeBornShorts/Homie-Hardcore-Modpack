@@ -1,0 +1,67 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "voidscape:aether"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 655628,
+				"Name": "voidscape:antispires"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2689838,
+				"Name": "voidscape:end"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 2165762,
+				"Name": "voidscape:nether"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 655628,
+				"Name": "voidscape:null"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5011004,
+				"Name": "voidscape:overworld"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5446026,
+				"Name": "voidscape:thunder_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 655628,
+				"Name": "voidscape:thunderspires"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 655628,
+				"Name": "voidscape:void"
+			}
+		}
+	]
+}

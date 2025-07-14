@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:music.soulblight_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "gardens_of_the_dead:music.whistling_woods"
+		}
+	]
+}

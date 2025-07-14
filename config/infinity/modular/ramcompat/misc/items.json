@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ramcompat:frost_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ramcompat:stink_gland"
+		},
+		{
+			"weight": 1.0,
+			"key": "ramcompat:tendon_lump"
+		}
+	]
+}

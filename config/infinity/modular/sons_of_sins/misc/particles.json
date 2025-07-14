@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:blood_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:ether_soul"
+		}
+	]
+}

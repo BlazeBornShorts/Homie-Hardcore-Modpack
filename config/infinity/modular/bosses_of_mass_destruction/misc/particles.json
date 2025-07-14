@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:disappearing_swirl"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:downsparkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:earthdive_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:enchant"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:eye_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:fluff"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:gauntlet_revive_sparkles"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:ground_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:line"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:magic_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_anvil_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_burst"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_burst_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_spike_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:obsidilith_wave_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:pillar_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:pillar_spawn_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:pillar_spawn_indicator_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:pollen"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:soul_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:sparkles"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:spore_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:void_blossom_spike_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "bosses_of_mass_destruction:void_blossom_spike_wave_indicator"
+		}
+	]
+}

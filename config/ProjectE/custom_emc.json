@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "item": "arphex:chitin",
+      "emc": 6000
+    },
+    {
+      "item": "arphex:abyssal_shard",
+      "emc": 25000
+    },
+    {
+      "item": "arphex:fire_opal_shard",
+      "emc": 30000
+    },
+    {
+      "item": "arphex:void_geode_shard",
+      "emc": 37500
+    },
+    {
+      "item": "arphex:time_prism_shard",
+      "emc": 45000
+    },
+    {
+      "item": "arphex:entropy_matrix_shard",
+      "emc": 55000
+    },
+    {
+      "item": "arphex:maggot_grub",
+      "emc": 500
+    },
+    {
+      "item": "arphex:roach_nymph",
+      "emc": 500
+    },
+    {
+      "item": "arphex:bloodworm_grub",
+      "emc": 500
+    },
+    {
+      "item": "arphex:locust_larvae",
+      "emc": 500
+    },
+    {
+      "item": "arphex:burning_glands",
+      "emc": 500
+    },
+    {
+      "item": "arphex:antenna",
+      "emc": 2000
+    },
+    {
+      "item": "arphex:ectoplasm",
+      "emc": 1000
+    },
+    {
+      "item": "arphex:necrotic_fang",
+      "emc": 2000
+    },
+    {
+      "item": "arphex:venomous_appendage",
+      "emc": 2000
+    },
+    {
+      "item": "arphex:fly_appendage",
+      "emc": 2000
+    },
+    {
+      "item": "arphex:giant_spinneret",
+      "emc": 25000
+    },
+    {
+      "item": "arphex:crusher_claw",
+      "emc": 50000
+    },
+    {
+      "item": "arphex:brown_scarab",
+      "emc": 2000
+    },
+    {
+      "item": "arphex:green_scarab",
+      "emc": 4000
+    },
+    {
+      "item": "arphex:green_gold_scarab",
+      "emc": 16000
+    },
+    {
+      "item": "arphex:iridescent_scarab",
+      "emc": 32000
+    },
+    {
+      "item": "arphex:purple_scarab",
+      "emc": 64000
+    },
+    {
+      "item": "arphex:golden_scarab",
+      "emc": 128000
+    },
+    {
+      "item": "arphex:crawling_clay",
+      "emc": 200
+    },
+    {
+      "item": "arphex:decadent_dust",
+      "emc": 200
+    },
+    {
+      "item": "arphex:tectonic_tunneler",
+      "emc": 32000
+    },
+    {
+      "item": "arphex:prowler_pack",
+      "emc": 10000
+    }
+  ]
+}

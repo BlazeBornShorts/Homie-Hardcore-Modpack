@@ -1,0 +1,576 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:amethyst_chisel"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:amethyst_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:azalea_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:calcite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:calcite_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:calcite_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:carved_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:carved_tuff_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:carved_tuff_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkfloor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkstonebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkstonebricksslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkstonebricksstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkstoneslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chalkstonestairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chert"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chert_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chert_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chert_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chert_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chert_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chert_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chiseled_amethyst_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chiseled_calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chiseled_dripstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chiseled_rose_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:chiseled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cobbled_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_charger"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_lantern_hanging"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copperchargerstage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:copperchargerstage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cut_amethyst_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cut_amethyst_block_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cut_amethyst_block_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cut_chalkstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cut_chalkstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cut_chalkstonestairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cutmudstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cutmudstoneslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:cutmudstonestairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:deepslate_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:deepslate_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:deepslate_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:deepslate_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:dripstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:dripstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:dripstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:dripstone_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:dripstone_spikes_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:drygrasplaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:drygrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glittering_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glittering_dust_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glittering_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glittering_fungus_placeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glittering_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glittering_glasspanes"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glitteringchalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glitteringchalkblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glitteringchalkfloor"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glow_berries_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:glow_squid_tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:golden_lush_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lichenfungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lichenfungusplaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lush_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lush_fruit_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lush_fruit_stem_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lush_fruit_stem_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lush_fruit_stem_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lush_fruit_stem_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:lushfruitseeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:moss_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mossy_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mossy_cobbled_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mossy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mossy_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mudstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mudstonebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mudstonebricksslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mudstonebricksstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mudstoneslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:mudstonestairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polished_chert"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polished_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polishedandesitebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polishedandesitebricksslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polishedandesitebricksstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polisheddioritebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polisheddioritebricksslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polisheddioritebricksstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polishedgranitebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polishedgranitebricksslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:polishedgranitebricksstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:raw_rose_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:raw_rose_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rose_gold_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rose_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rose_gold_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rose_gold_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rose_gold_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegold_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegold_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegold_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegold_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegoldaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegoldhoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegoldpickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegoldshovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegoldsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:rosegoldupgradesmithingtemplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_lapislazuli_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:slate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:soul_copper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:soul_copper_lantern_hanging"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:tallmossybush"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:tuff_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:tuff_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "cavesanddepths:tuff_glittering_lamp"
+		}
+	]
+}

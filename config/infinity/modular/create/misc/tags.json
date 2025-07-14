@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create:fan_processing_catalysts/smoking"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:passive_boiler_heaters"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:simple_mounted_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:sugar_cane_variants"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:tree_attachments"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:wrench_pickup"
+		}
+	]
+}

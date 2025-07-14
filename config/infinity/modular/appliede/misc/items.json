@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "appliede:cable_emc_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:dummy_emc_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:emc_export_bus"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:emc_import_bus"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:emc_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:emc_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:learning_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:transmutation_terminal"
+		},
+		{
+			"weight": 1.0,
+			"key": "appliede:wireless_transmutation_terminal"
+		}
+	]
+}

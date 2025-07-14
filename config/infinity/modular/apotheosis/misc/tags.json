@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "apotheosis:basic_skulls"
+		},
+		{
+			"weight": 1.0,
+			"key": "apotheosis:rogue_spawner_covers"
+		}
+	]
+}

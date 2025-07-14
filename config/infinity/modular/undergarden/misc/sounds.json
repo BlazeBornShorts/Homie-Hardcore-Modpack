@@ -1,0 +1,460 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.abyss"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.abyss_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.bog_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.dense_forest_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.fields_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.frost_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.frostfields_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.gronglegrowth_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.sea"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.sea_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.smogstem_forest_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.spires"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.spires_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.undergarden"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ambient.wigglewood_forest_addition"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.gronglet.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.gronglet.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.gronglet.burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.gronglet.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.undergarden_portal.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.undergarden_portal.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.undergarden_portal.travel"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.virulent.bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:block.virulent.flow"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.boomgourd.primed"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.brute.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.brute.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.brute.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.dweller.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.dweller.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.dweller.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.dweller.jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.dweller.saddle_remove"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.dweller.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten_guardian.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten_guardian.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten_guardian.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten_guardian.deflect"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten_guardian.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.forgotten_guardian.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gloomper.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gloomper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gloomper.fart"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gloomper.hop"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gloomper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gwib.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gwib.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gwib.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gwibling.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gwibling.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.gwibling.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.masticator.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.masticator.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.masticator.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.masticator.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.masticator.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.minion.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.minion.repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.minion.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.mog.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.mog.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.mog.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.muncher.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.muncher.chew"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.muncher.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.muncher.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.nargoyle.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.nargoyle.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.nargoyle.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotbeast.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotbeast.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotbeast.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotbeast.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotbeast.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotling.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotling.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotling.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotling.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotwalker.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotwalker.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotwalker.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.rotwalker.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.scintling.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.scintling.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.scintling.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.smog_mog.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.smog_mog.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.smog_mog.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.sploogie.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.sploogie.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.sploogie.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.sploogie.spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.chant"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.confused"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.pleased"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.speaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:entity.stoneborn.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.blisterberry_bush.pick"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.blisterbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.bucket.empty_virulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.bucket.fill_virulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.ditchbulb_paste.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.slingshot.draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.slingshot.gronglet_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:item.slingshot.shoot"
+		}
+	]
+}

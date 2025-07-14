@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10387789,
+				"Name": "unusualend:gloopstone_lands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10387789,
+				"Name": "unusualend:warped_reef"
+			}
+		}
+	]
+}

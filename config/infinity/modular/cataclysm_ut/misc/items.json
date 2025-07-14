@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:aspectoftheend"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:bottomlesslavabucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:bottomlesssandbucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:crabbait"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:cursegem"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:lava_absorbant_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:lifefire"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:mechdrill"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:netheritesummon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:superfishingrod"
+		},
+		{
+			"weight": 1.0,
+			"key": "cataclysm_ut:terminus"
+		}
+	]
+}

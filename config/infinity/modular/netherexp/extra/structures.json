@@ -1,0 +1,147 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "netherexp:mega_fossil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "netherexp:chapel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 1,
+								"type": "minecraft:skeleton",
+								"maxCount": 3
+							},
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "netherexp:vessel",
+								"maxCount": 2
+							},
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "netherexp:banshee",
+								"maxCount": 1
+							},
+							{
+								"weight": 7,
+								"minCount": 1,
+								"type": "netherexp:apparition",
+								"maxCount": 1
+							},
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "raw_generation",
+				"id": "netherexp:sanctum"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 3,
+								"minCount": 1,
+								"type": "minecraft:skeleton",
+								"maxCount": 1
+							},
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "netherexp:vessel",
+								"maxCount": 1
+							},
+							{
+								"weight": 2,
+								"minCount": 1,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "netherexp:mega_fossil_campsite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "netherexp:devils_bluff"
+			}
+		}
+	]
+}

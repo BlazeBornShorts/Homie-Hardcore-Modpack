@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10387789,
+				"Name": "endlessbiomes:penumbral_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10387789,
+				"Name": "endlessbiomes:twisted_reef"
+			}
+		}
+	]
+}

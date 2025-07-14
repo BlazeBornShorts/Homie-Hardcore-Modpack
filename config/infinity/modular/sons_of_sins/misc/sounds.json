@@ -1,0 +1,204 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:blood_bucket_emptying"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:blud_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:blud_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:blud_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:butcher_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:butcher_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:butcher_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:curse_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:curse_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:curse_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:devourer_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:devourer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:devourer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:ether_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:ether_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:grub_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:grub_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:grub_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:guzzler_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:guzzler_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:guzzler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:kelvin_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:kelvin_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:kelvin_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:nibbler_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:nibbler_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:nibbler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:prowler_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:prowler_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:prowler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:remnant_tanking"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:sickle_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:sickle_kill"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:sin_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:sins_redwolf"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:soul_steel_dig"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:soul_steel_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:tension"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:the_curse_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:the_curse_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:the_curse_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:walking_bed_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:walking_bed_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:walking_bed_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:wight_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:wight_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:wight_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:wistiver_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:wistiver_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:wistiver_hurt"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "lost_aether_content:aerwhale_king"
+			}
+		}
+	]
+}

@@ -1,0 +1,1136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "undergarden:amorous_bristle"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ancient_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ancient_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ancient_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ashen_deepturf"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ashen_deepturf_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blisterberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blisterbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blood_globule"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blood_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blood_mushroom_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blood_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:bloody_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blue_mogmoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:blue_mogmoss_rug"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:boomgourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:brute_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:brute_tusk"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:butterbunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:carved_gloomgourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:chiseled_depthrock_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:chiseled_shiverstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:chiseled_tremblecrust_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cloggrum_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:coarse_deepsoil"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cooked_gwibling"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cracked_depthrock_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cracked_shiverstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:cracked_tremblecrust_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:deepsoil"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:deepsoil_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:deepturf"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:deepturf_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_cloggrum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_pebble"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_regalium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_utherium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:depthrock_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ditchbulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ditchbulb_paste"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:droopvine_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:dweller_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:dweller_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:engorged_blood_mushroom_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_guardian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:forgotten_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:froststeel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:frozen_deepturf"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:frozen_deepturf_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:glitterkelp"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloom_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomgourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomgourd_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomgourd_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomper_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gloomper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:goo"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:goo_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:goo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:grongle_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gronglet"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gwib_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gwibling_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:gwibling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:hanging_grongle_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:indigo_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:indigo_mushroom_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:indigo_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:indigo_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ink_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ink_mushroom_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:ink_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:inky_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:loose_tremblecrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:masticated_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:masticator_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:miserabell"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mog_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mogmoss"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mogmoss_rug"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:muncher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:mushroom_veil"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music_disc_gloomper_anthem"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music_disc_gloomper_secret"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music_disc_limax_maximus"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music_disc_mammoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:music_disc_relict"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:nargoyle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:polished_depthrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:polished_depthrock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:polished_depthrock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:polished_depthrock_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:raw_cloggrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:raw_cloggrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:raw_dweller_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:raw_froststeel"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:raw_froststeel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:raw_gloomper_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:raw_gwibling"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:regalium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:regalium_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:roasted_underbeans"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotbeast_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotten_blisterberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:rotwalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:scintling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:sediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:sediment_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:sediment_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:seeping_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shard_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shard_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shimmerweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_cloggrum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_froststeel_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_regalium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_utherium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:shiverstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:slingshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:slop_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smog_mog_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smog_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:smogstem_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:sploogie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stoneborn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stripped_grongle_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stripped_grongle_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stripped_smogstem_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stripped_smogstem_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stripped_wigglewood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:stripped_wigglewood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tall_deepturf"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tall_shimmerweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_utherium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:tremblecrust_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:twistytwig"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:underbean_on_a_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:underbeans"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utheric_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:utherium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:veil_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:veil_mushroom_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:veil_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:veiled_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:virulent_mix_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "undergarden:wigglewood_wood"
+		}
+	]
+}

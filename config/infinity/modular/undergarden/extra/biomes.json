@@ -1,0 +1,116 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4477507,
+				"Name": "undergarden:ancient_sea"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7568503,
+				"Name": "undergarden:barren_abyss"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 6180396,
+				"Name": "undergarden:blood_mushroom_bog"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7568503,
+				"Name": "undergarden:dead_sea"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4224322,
+				"Name": "undergarden:dense_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5993819,
+				"Name": "undergarden:forgotten_field"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14609908,
+				"Name": "undergarden:frostfields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14609908,
+				"Name": "undergarden:frosty_smogstem_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4103962,
+				"Name": "undergarden:gronglegrowth"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 14609908,
+				"Name": "undergarden:icy_sea"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4212845,
+				"Name": "undergarden:indigo_mushroom_bog"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 4075847,
+				"Name": "undergarden:ink_mushroom_bog"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7568503,
+				"Name": "undergarden:smog_spires"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 5928296,
+				"Name": "undergarden:smogstem_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7696730,
+				"Name": "undergarden:veil_mushroom_bog"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 7304538,
+				"Name": "undergarden:wigglewood_forest"
+			}
+		}
+	]
+}

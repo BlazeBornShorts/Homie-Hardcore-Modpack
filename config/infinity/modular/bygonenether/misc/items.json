@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bygonenether:chiseled_warped_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:chiseled_withered_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:cobbled_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:corpor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:cracked_withered_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:cracked_withered_blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:cracked_withered_blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:cracked_withered_blackstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:gilded_netherite_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:netherite_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:piglin_hunter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:piglin_prisoner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:soul_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:warped_ender_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:warped_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:warped_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:warped_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:warped_nether_brick_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:warped_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:wex_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:wither_skeleton_horse_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:wither_skeleton_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:wither_waltz_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_blackstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_debris"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:withered_quartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "bygonenether:wraither_spawn_egg"
+		}
+	]
+}

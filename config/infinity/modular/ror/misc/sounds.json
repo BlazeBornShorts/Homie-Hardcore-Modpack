@@ -1,0 +1,184 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ror:ambient_factory"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:cyberland_portal_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:electric_guitar_chords"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:electric_guitar_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:electric_guitar_impair"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:enscorcelment_station_used"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:factory_portal_spawns"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:flowerbed_portal_spawns"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:force_field_zaps"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:french_horn_anger"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:french_horn_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:french_horn_impair"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:french_horn_slow_recovery"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:generic_spells"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:ghost_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:googloid_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:laser_buzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:laser_shoots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:levitation_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lute_big_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lute_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lute_impair"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lute_reveal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lyre_anger"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lyre_extinguish"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lyre_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lyre_impair"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:lyre_reveal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:mox_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:mox_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:mox_kills"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:neon_city_portal_spawns"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:panpipes_anger"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:panpipes_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:panpipes_reveal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:prismacon_portal_spawns"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:radar_wand_used"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:rainboom"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:repair_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:robot_dies"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:scan"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:titania_spawns"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:twinkly_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:undercopter_noise"
+		},
+		{
+			"weight": 1.0,
+			"key": "ror:wrench_used"
+		}
+	]
+}

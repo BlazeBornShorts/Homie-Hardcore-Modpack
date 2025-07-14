@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 12891319,
+				"Instant": false,
+				"Name": "galosphere:astral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 7612935,
+				"Instant": false,
+				"Name": "galosphere:block_bane"
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+
+["Ocean World Configs"]
+	#The height the water reaches in the Deep Sea dimension. Can be set from 62 (default sea level in overworld) to 320 (max height in minecraft)
+	#Range: 62 ~ 320
+	"Water Level" = 300
+

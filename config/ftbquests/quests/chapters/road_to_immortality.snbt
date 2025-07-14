@@ -1,0 +1,1139 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "road_to_immortality"
+	group: "635ADC3A5ED51702"
+	icon: "cataclysm:cursed_eye"
+	id: "65BD709AD4152BB2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["22C5496F71810BC3"]
+			description: [
+				"While you go into the final stretches of your journey it is important to watch how your gear, tools, magic, and charms interact with each other. As things become stronger finding creative ways to increase health, dps, and defense is important."
+				""
+				"Some methods may be risky, sometimes the risk is worth it."
+			]
+			id: "23DDBC6B0BA820F2"
+			rewards: [{
+				id: "0E0EF63BEAF2781E"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestial_artifacts:end_etching"
+				}
+				type: "item"
+			}]
+			subtitle: "Final Strides"
+			tasks: [{
+				id: "4EC201D10E947C91"
+				title: "Into Oblivion"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "1BD560A3DC5AB856"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7569DD6E4A153D52"
+					table_id: 6318216879935714365L
+					type: "loot"
+				}
+				{
+					id: "32C8B9C617FF656B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			subtitle: "Craft a Netherite-Diamond ingot"
+			tasks: [{
+				id: "5230115E1477FACF"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "advancednetherite:netherite_diamond_ingot"
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "6D8A462F10F9E07F"
+			rewards: [{
+				id: "13228F768725CFEC"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Craft a resistor shield"
+			tasks: [{
+				id: "584B414FF88B202C"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "alexscaves:resistor_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "695303AF15A24B60"
+			rewards: [
+				{
+					id: "1BC9CF7B4A920678"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "786A8C4BC65C9A28"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "advancednetherite:netherite_gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "68E32054E316361A"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestial_artifacts:life_etching"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft Solaris"
+			tasks: [{
+				id: "04F14AB59B2D994E"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:solaris"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "0A0FF6C17CFA380D"
+			rewards: [
+				{
+					id: "7D7007E47135661B"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "3330FBC10FE7CC59"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:infinity"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DBAF461EEE57638"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestial_artifacts:truth_etching"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft Crescentia"
+			tasks: [{
+				id: "23774E2811A4AF99"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:crescentia"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "5C72F9DFF7D76272"
+			rewards: [
+				{
+					id: "038607CF54DEA218"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "30BE81F348AFBF64"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "1B77353B419420B4"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestial_artifacts:chaotic_etching"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft a Breezebreaker"
+			tasks: [{
+				id: "5B42BFF3B389DE38"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:breezebreaker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "0287C4822D2AB3B2"
+			rewards: [
+				{
+					id: "2C57A32C6227A37C"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "5FEF6F1297E0504E"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:amethyst_rapier"
+						tag: {
+							Damage: 0
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:echoing_strikes"
+									index: 0
+									level: 5
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 1b
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4CE031A9DE0D200D"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestial_artifacts:nihility_etching"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft a Poltergiest"
+			tasks: [{
+				id: "014875B5CE93EC9B"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:poltergeist"
+					tag: {
+						Damage: 0
+						csExtras: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "52ABF583AFC7567F"
+			rewards: [
+				{
+					id: "2E8F4164B8620DE8"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "624D7DCE97C6AA30"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "aquaculture:neptunium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "3F305F87F75AD7C5"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestial_artifacts:origin_etching"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft the Rainfall Serenity"
+			tasks: [{
+				id: "4E3755194292F2E7"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:rainfall_serenity"
+					tag: {
+						Damage: 0
+						csExtras: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "1342F40F093D8D3D"
+			rewards: [
+				{
+					id: "59AB618536A71186"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "44CF9C8288FE5C12"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "apotheosis:rectifier_t2"
+					}
+					type: "item"
+				}
+				{
+					id: "6ACF718D99C3369A"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestial_artifacts:desire_etching"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft the Aquaflora"
+			tasks: [{
+				id: "184B46D58D305DC6"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:aquaflora"
+					tag: {
+						Damage: 0
+						csController: { }
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			description: ["Applying curses to your armor and tools can increase your dps; is it worth it?"]
+			id: "1D01D55D7EADFCA3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22EEAE40840E9A57"
+				table_id: 2040278390088923211L
+				type: "loot"
+			}]
+			subtitle: "Is it worth it?"
+			tasks: [{
+				id: "312CCB059382859A"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestial_artifacts:cursed_talisman"
+				}
+				type: "item"
+			}]
+			title: "Risky Business"
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			id: "1FADF45E6FDC3573"
+			rewards: [
+				{
+					id: "11A2145677585F72"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "0FF3E14049DBA99C"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "undergarden:forgotten_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "2AA922E93B9616A5"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "celestial_artifacts:end_etching"
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft the Frostbound"
+			tasks: [{
+				id: "1670F4073DA90940"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "celestisynth:frostbound"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["23DDBC6B0BA820F2"]
+			description: [
+				"The final stretch grows near; are these weaker bosses even worth your time?"
+				""
+				"Complete raids and find golems to complete these!"
+			]
+			id: "6420D2B9BFFCDEB9"
+			rewards: [{
+				id: "36C0BE518107520F"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Rounding out"
+			tasks: [{
+				id: "4908CBCDB1775EA5"
+				title: "Strong Roots"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6420D2B9BFFCDEB9"]
+			description: ["Found in raids"]
+			id: "69557D61509F1C50"
+			rewards: [{
+				id: "70BC5A388740E351"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Defeat a Magispeller"
+			tasks: [{
+				entity: "illageandspillage:magispeller"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:pink_wool"
+				}
+				id: "6D75AD5BD6E5C343"
+				type: "kill"
+				value: 1L
+			}]
+			title: "No Such thing as Magic"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6420D2B9BFFCDEB9"]
+			description: ["Found in raids"]
+			id: "566D76067F6866F9"
+			rewards: [{
+				id: "4350C87547C41C64"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Defeat a Freakager"
+			tasks: [{
+				entity: "illageandspillage:freakager"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:fermented_spider_eye"
+				}
+				id: "309C0FC489A08883"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Who's gonna match my freak?"
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6420D2B9BFFCDEB9"]
+			description: ["Found in raids"]
+			id: "6F99BC6075EFD7C3"
+			rewards: [{
+				id: "7689451394BFD46A"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Defeat a Spirit Caller"
+			tasks: [{
+				entity: "illageandspillage:spiritcaller"
+				icon: {
+					Count: 1b
+					id: "irons_spellbooks:scroll"
+					tag: {
+						ISB_Spells: {
+							data: [{
+								id: "irons_spellbooks:summon_vex"
+								index: 0
+								level: 1
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+				}
+				id: "064818AD133EBE84"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Who you gonna call?"
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6420D2B9BFFCDEB9"]
+			description: ["Find the Ancient of Prismarine spawning reguarly in a prismarine box in the overworld."]
+			id: "600EC6071128B11F"
+			rewards: [{
+				id: "344FA8584B7306B1"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "And with his hook"
+			tasks: [{
+				entity: "plenty_of_golems:ancient_of_prismarine"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:prismarine_crystals"
+				}
+				id: "70BB505A41DC901A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ancient of Prismarine"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6420D2B9BFFCDEB9"]
+			description: ["Found in Swamp structures"]
+			id: "754BB5F55BB7B86D"
+			rewards: [{
+				id: "4048675F2A338CAA"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Defeat the Elder Gear Golem"
+			tasks: [{
+				entity: "wetlands:elder_gear_golem"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "wetlands:animated_broken_copper_gear"
+				}
+				id: "080FB7A197A80BAC"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Swamp thing"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6420D2B9BFFCDEB9"]
+			description: ["Summoned in a deep underground structure"]
+			id: "79FC10791A6B5CBE"
+			rewards: [{
+				id: "33E8A3324584575D"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Not quite a Warden"
+			tasks: [{
+				entity: "plenty_of_golems:guardian_of_the_deep"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:calibrated_sculk_sensor"
+				}
+				id: "43D2EEB5BF1187C9"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Guardian of the Deep"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6420D2B9BFFCDEB9"]
+			description: [
+				"These final bosses may very well prove to be your undoing. For some even maxed gear and charms may be barely enough."
+				""
+				"Play smart."
+			]
+			id: "1C2ADFE21F138A60"
+			rewards: [{
+				id: "24DA5FD323DBEF77"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Beware"
+			tasks: [{
+				id: "57BACAAA6DFFBEF1"
+				title: "The Final Destination"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C2ADFE21F138A60"]
+			description: ["Found in the desert using an Eye of Desert. Summon using a necklace found by sifting through suspicious sand in the structure on the statue beneath."]
+			id: "6B88EEA1C10DFEFD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "39C92E7EABBF20CE"
+					table_id: 5919487383201469128L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2186F56245740A0F"
+					table_id: 4329548466731727806L
+					type: "loot"
+				}
+				{
+					id: "43CFC196494D3996"
+					type: "xp"
+					xp: 200
+				}
+			]
+			subtitle: "Defeat an Ancient Remnant"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:desert_eye"
+				}
+				id: "2BE2A01DFA8C5CE3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Tooth and bone"
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C2ADFE21F138A60"]
+			dependency_requirement: "one_completed"
+			description: ["Craft an Eye of Void to find in the End"]
+			id: "722E25AB16AC7D2A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1D3491FDC036DCAD"
+					table_id: 5919487383201469128L
+					type: "loot"
+				}
+				{
+					id: "26330EBB06324185"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Defeat the Ender Gaurdian"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:void_eye"
+				}
+				id: "6B61E2713FACCFCE"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Until the End"
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1C2ADFE21F138A60"]
+			description: ["Found in the nether using a Monstrous Eye"]
+			id: "223B964A0E10C50E"
+			rewards: [
+				{
+					id: "045CA73AA6C1AA58"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71C95457FFC7F9AB"
+					table_id: 5919487383201469128L
+					type: "loot"
+				}
+				{
+					id: "042C05F062D0F98C"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Defeat a netherite monstrosity"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:monstrous_eye"
+				}
+				id: "57916BA4ECEDADDB"
+				type: "kill"
+				value: 1L
+			}]
+			title: "There be monsters"
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1C2ADFE21F138A60"]
+			description: ["Found using an Eye of Mech and awakened by a Nether Star"]
+			id: "2BF4AEFDD4DCAAC9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "331A999D2566F683"
+					table_id: 5919487383201469128L
+					type: "loot"
+				}
+				{
+					id: "506C037C715115E9"
+					type: "xp"
+					xp: 300
+				}
+			]
+			subtitle: "Defeat the Harbinger"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:mech_eye"
+				}
+				id: "7D449F10C59CBE35"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Techno Gangsters"
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1C2ADFE21F138A60"]
+			description: ["Craft an Eye of Void to find in the oceans. Must be summoned using an Abyssal Sacrifice"]
+			id: "6ACCA20A4218880C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3238C2194930ABE5"
+					table_id: 5919487383201469128L
+					type: "loot"
+				}
+				{
+					id: "4F89B8CA1CD3A559"
+					type: "xp"
+					xp: 300
+				}
+				{
+					exclude_from_claim_all: true
+					id: "15EB675EA704F76E"
+					table_id: 9080264910884977206L
+					type: "loot"
+				}
+			]
+			subtitle: "Defeat a Leviathan"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:abyss_eye"
+				}
+				id: "045AEA0BADCAA3EB"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Fishy Business"
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1C2ADFE21F138A60"]
+			description: ["Found using an Eye of Curse."]
+			id: "2F97D7439286548C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "447FAB50CBB8AE53"
+					table_id: 5919487383201469128L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "346E34047A7027D6"
+					table_id: 4089243962765713281L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32ED0E1EE27AD5C8"
+					table_id: 2040278390088923211L
+					type: "loot"
+				}
+				{
+					id: "75C4A93D9786DFBB"
+					type: "xp"
+					xp: 400
+				}
+			]
+			subtitle: "Defeat Maledictus"
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:cursed_eye"
+				}
+				id: "2BB4FA9F11E20E2D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "A Haunting Task"
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1C2ADFE21F138A60"]
+			description: ["Found using an Eye of Flame in the nether and summoned using Burning Ashes dropped by the mini bosses."]
+			id: "73BB508639CD1E55"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "076222CA93058D9B"
+					table_id: 1690479432549089218L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "53FA0A3EA185525C"
+					table_id: 5919487383201469128L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "625B6BE6F1D0DBC8"
+					table_id: 2040278390088923211L
+					type: "loot"
+				}
+				{
+					id: "28433FC9A3241E10"
+					type: "xp"
+					xp: 500
+				}
+			]
+			subtitle: "Defeat Ignis"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					Count: 1b
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "cataclysm:flame_eye"
+				}
+				id: "172912356EDA5608"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Knight in Flaming Armor"
+			x: 9.0d
+			y: -3.0d
+		}
+	]
+	title: "Road to immortality"
+}

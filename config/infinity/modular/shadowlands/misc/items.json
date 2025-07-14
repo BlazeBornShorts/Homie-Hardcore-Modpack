@@ -1,0 +1,1768 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shadowlands:abysmite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:abyssal_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ascendant_star_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:averite_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:averite_leaves_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:averite_leaves_blue_and_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:averite_leaves_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:averite_leaves_red_and_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:averite_leaves_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_megasword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:belronite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:big_green_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:bitter_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blood_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blood_forest_fire_gem_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blood_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blood_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blood_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blue_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blue_gem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blue_gem_converter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blue_gem_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blue_glowing_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blue_glowing_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:blue_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:book_of_knowledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:bow_of_greed"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:bright_red_nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:bright_red_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:bright_red_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:brutallium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:brutallium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:brutallium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:brutallium_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:brutallium_robot_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:burning_upgrade_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cactus_on_a_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:carved_vellium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:casting_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cherry_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cherry_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_bricks_large"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_dungeon_loot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cloud_tower_loot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:containment_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:copper_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:corrupted_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:corrupted_tablet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cosmic_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:covishroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creep_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_alloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_alloy_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_alloy_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_alloy_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_alloy_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_cave_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_forest_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creeper_stem_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creepmetal_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creepoid_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:creepy_clam"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:crushed_belronite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:crushed_brutallium"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:crushed_ghostmetal"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:crushed_shadowmetal"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cursed_armor_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cyprendium"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:cyprendium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:dark_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:dark_red_abysmite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:dark_vellium_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:darkshroom_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:darkshroom_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:dead_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:deception_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:decipede_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:deep_greenstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:demon_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:demon_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:demon_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:demonic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:display_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:doom_star_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:doom_star_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:dull_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:duskflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emerald_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emeraldium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:emperor_wither_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:endereye_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_ruby_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowgem_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_shadowmetal_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:enhanced_void_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:eyeball"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fiery_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fiery_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fiery_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fiery_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fiery_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fiery_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fire_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fire_gem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:flamer"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:fruiting_creeper_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:full_containment_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostly_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostly_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostly_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostly_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ghostmetal_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:giant_cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:giant_cherry_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:giant_strider_hide"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowing_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowing_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowing_residue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowing_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowing_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_forest_portal_igniter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_forest_stalactite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_forest_stalagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_master_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_master_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_master_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_master_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:glowshroom_master_token"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_ascendant_star_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_doom_star_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_emperor_wither_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_guardian_boar_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_plaguemaiden_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_red_knight_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_red_nightmare_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_sporeking_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_vellium_megabee_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gold_wither_skeleton_commander_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:golden_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:golden_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:goo"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:goo_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:goo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:goo_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:gray_creeper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:green_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:green_gem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:green_gem_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:greenwort"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:guardian_bane_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:guardian_boar_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:guardian_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:hellish_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:hellish_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:hellish_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:hellish_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:huge_green_shroom_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:huge_toxic_shroom_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:inkcap"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:jellyfish_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:keygem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:lightning_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:lightweight_upgrade_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:loot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:loot_block_lowquality"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:magma_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:marine_upgrade_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:medium_red_abysmite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:megabee_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:megabee_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:mint_forest_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:mint_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:mint_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:mushroom_stalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:neon_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:neon_gem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:nightmare_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:nightmare_tooth_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:nightshroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:nightshroom_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:nightshroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:orange_fireshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ornate_glass_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ornate_glass_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ornate_glass_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ornate_glass_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:overgrown_cherry_forest_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:overgrown_cherry_forest_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pastel_carver"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pastel_green_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pastel_mint_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pastel_pink_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pastel_yellow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pink_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pinkreed"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:plague_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:plaguemaiden_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:plaguestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:poisoned_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:polished_shadowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:polished_shadowstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:polished_shadowstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purity_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purity_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purity_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purity_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purity_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purple_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purple_shroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:purple_shroom_block_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pyramid_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pyramid_fruit_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pyramid_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pyrite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:pyrite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:rambutan"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:raw_abyssal_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:raw_decipede_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_abysmite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_castle_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_dusklily"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_gem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_gem_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_knight_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_nightmare_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_shadowgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:red_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:redstone_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:reinforced_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:sacrificial_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:saw_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_forest_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_forest_stalactite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_forest_stalagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_spirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_thorns"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadow_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowgem_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowgem_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowgem_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowgem_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowgemingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowgemsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowmetal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowmetal_enhancer"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowmetal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowmetalingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowprickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowstone_deconstructor"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shadowwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shroom_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shroom_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shroomstar"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:shroomvine"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:silver_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:silver_creep_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:small_orange_fireshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:small_shroomgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:small_toxic_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:small_vellium_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:solid_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:sparkpolia_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:sparkpolia_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spike_part_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spike_part_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spike_part_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spike_part_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spiked_upgrade_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:spore_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:sporeking_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:star_crystal_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:star_crystal_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:star_crystal_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:star_crystal_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:star_crystal_maul"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:staring_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:stone_trader"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:stripped_shadow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:stripped_shadow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:stripped_void_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:summoning_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:summoning_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:summoning_rings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:supreme_blaze_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:supreme_void_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:tainted_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:tall_glowing_blue_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:tall_green_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:tall_red_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:tall_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:tall_toxic_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:thorny_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:toxic_glowing_shroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:toxic_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:toxic_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:toxic_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:twisting_stem_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ultra_void_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:ultraflame_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:unbreakable_nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:unbreakable_red_nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:unbreakable_shadowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:underbrick_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:underbrick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:underbricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:underbricks_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:underground_dungeon_loot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:underground_dungeon_loot_block_low_quality"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:unpowered_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:unpowered_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:upgrade_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:upgrade_station_activated"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:veins"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:velite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:velliar_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_megabee_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_portal_igniter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_stalactite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_stalagmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_starflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_tulip"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellium_water_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:velloplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vellor_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:velplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:velweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:vex_blaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_armor_loot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_armor_loot_block_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_armor_loot_block_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_armor_loot_block_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_blade_fragments"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_dungeon_loot"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_fruit_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_traveler_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_traveler_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_traveler_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_traveler_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:void_upgrade_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:waterdungeon_loot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:white_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:wither_skeleton_commander_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:yellow_shroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shadowlands:yellow_shroom_block_edge"
+		}
+	]
+}

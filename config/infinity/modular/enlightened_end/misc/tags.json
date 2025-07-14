@@ -1,0 +1,168 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:azure_berry_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_stalk_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depletable_irradium"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depleted_irradium"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_biome_replace_valid"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:extreme_radioactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:eylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vents"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:high_radioactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:impermeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:laser_valid"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:low_radioactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:medium_radioactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:oxidized_bismuth_walls"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:plank"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:super_cooling"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:valid_teleporter_connection"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxable_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth"
+		}
+	]
+}

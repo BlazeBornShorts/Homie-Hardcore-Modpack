@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 6980226,
+				"Instant": false,
+				"Name": "ancient_aether:divine_protection"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 9414819,
+				"Instant": false,
+				"Name": "ancient_aether:natures_boost"
+			}
+		}
+	]
+}

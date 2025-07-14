@@ -1,0 +1,130 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -13955072,
+				"Instant": false,
+				"Name": "ror:alchohol"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -22006,
+				"Instant": false,
+				"Name": "ror:bravery"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16764058,
+				"Instant": false,
+				"Name": "ror:clumsyness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -3407872,
+				"Instant": false,
+				"Name": "ror:cooldown"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -13434778,
+				"Instant": false,
+				"Name": "ror:deafness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10092442,
+				"Instant": false,
+				"Name": "ror:fatal_poison"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10027060,
+				"Instant": false,
+				"Name": "ror:fear"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6684673,
+				"Instant": false,
+				"Name": "ror:hope"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3394561,
+				"Instant": false,
+				"Name": "ror:magic_boost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -26113,
+				"Instant": false,
+				"Name": "ror:magical_ability_cooldown"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 10092442,
+				"Instant": false,
+				"Name": "ror:mana_drain"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 9133107,
+				"Instant": false,
+				"Name": "ror:music_boost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -6724096,
+				"Instant": false,
+				"Name": "ror:musical_ability_cooldown"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -13421773,
+				"Instant": false,
+				"Name": "ror:silence"
+			}
+		}
+	]
+}
