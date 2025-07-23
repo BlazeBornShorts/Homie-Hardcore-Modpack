@@ -1,0 +1,16 @@
+
+#Integration options for JEI (Just Enough Items)
+["JEI Settings"]
+	#Set this to false to disable JEI integration functionality.
+	jei = true
+
+#Integration options for Patchouli
+["Patchouli Settings"]
+	#Set this to false to disable Patchouli integration functionality.
+	patchouli = true
+
+#Integration options for TslatEntityStatus
+["TES Settings"]
+	#Set this to false to disable TES integration functionality.
+	tes = true
+

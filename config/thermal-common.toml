@@ -3,14 +3,6 @@
 
 	[World.Features]
 
-		[World.Features."Oil Sand"]
-			#Whether this feature should naturally spawn in the world.
-			Enable = true
-
-		[World.Features.Apatite]
-			#Whether this feature should naturally spawn in the world.
-			Enable = true
-
 		[World.Features.Silver]
 			#Whether this feature should naturally spawn in the world.
 			Enable = true
@@ -27,10 +19,6 @@
 			#Whether this feature should naturally spawn in the world.
 			Enable = true
 
-		[World.Features.Cinnabar]
-			#Whether this feature should naturally spawn in the world.
-			Enable = true
-
 		[World.Features.Sulfur]
 			#Whether this feature should naturally spawn in the world.
 			Enable = true
@@ -40,6 +28,18 @@
 			Enable = true
 
 		[World.Features.Niter]
+			#Whether this feature should naturally spawn in the world.
+			Enable = true
+
+		[World.Features."Oil Sand"]
+			#Whether this feature should naturally spawn in the world.
+			Enable = true
+
+		[World.Features.Apatite]
+			#Whether this feature should naturally spawn in the world.
+			Enable = true
+
+		[World.Features.Cinnabar]
 			#Whether this feature should naturally spawn in the world.
 			Enable = true
 
