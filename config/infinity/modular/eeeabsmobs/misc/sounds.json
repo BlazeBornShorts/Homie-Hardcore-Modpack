@@ -2,10 +2,6 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:break"
-		},
-		{
-			"weight": 1.0,
 			"key": "eeeabsmobs:corpse.death"
 		},
 		{
@@ -26,6 +22,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "eeeabsmobs:crimson_crack.break"
+		},
+		{
+			"weight": 1.0,
 			"key": "eeeabsmobs:crimson_ray"
 		},
 		{
@@ -34,15 +34,23 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:guling.sentinel.death"
+			"key": "eeeabsmobs:grenade.launch"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:guling.sentinel.electromagnetic"
+			"key": "eeeabsmobs:guardian_laser"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:guling.sentinel.hurt"
+			"key": "eeeabsmobs:guling_sentinel.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel.electromagnetic"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:guling_sentinel.hurt"
 		},
 		{
 			"weight": 1.0,
@@ -74,119 +82,203 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:guling_sentinel_heavy.spark"
-		},
-		{
-			"weight": 1.0,
 			"key": "eeeabsmobs:guling_sentinel_heavy.step"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.executioner.block"
+			"key": "eeeabsmobs:immortal.accumulating"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.executioner.burn"
+			"key": "eeeabsmobs:immortal.accumulating_end"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.executioner.dash"
+			"key": "eeeabsmobs:immortal.adapt"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.executioner.death"
+			"key": "eeeabsmobs:immortal.attack"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.executioner.detonation"
+			"key": "eeeabsmobs:immortal.attack2"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.executioner.hurt"
+			"key": "eeeabsmobs:immortal.attract"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.executioner.scratch"
+			"key": "eeeabsmobs:immortal.blocking"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.golem.death"
+			"key": "eeeabsmobs:immortal.blocking_counter"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.golem.hurt"
+			"key": "eeeabsmobs:immortal.death"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.shaman.death"
+			"key": "eeeabsmobs:immortal.hurt"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.shaman.hurt"
+			"key": "eeeabsmobs:immortal.idle"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.shaman.prepare_shoot"
+			"key": "eeeabsmobs:immortal.punch_hard_hit"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.shaman.prepare_spell_casting"
+			"key": "eeeabsmobs:immortal.punch_hit"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.skeleton.death"
+			"key": "eeeabsmobs:immortal.shake_ground"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.skeleton.hurt"
+			"key": "eeeabsmobs:immortal.shoryuken"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:immortal.skeleton.roar"
+			"key": "eeeabsmobs:immortal.stone_crack"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:laser"
+			"key": "eeeabsmobs:immortal.subsonic"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.accumulating"
+			"key": "eeeabsmobs:immortal.teleport"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.accumulating_end"
+			"key": "eeeabsmobs:immortal_executioner.block"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.creak"
+			"key": "eeeabsmobs:immortal_executioner.burn"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.death"
+			"key": "eeeabsmobs:immortal_executioner.dash"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.hurt"
+			"key": "eeeabsmobs:immortal_executioner.death"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.idle"
+			"key": "eeeabsmobs:immortal_executioner.detonation"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.madness"
+			"key": "eeeabsmobs:immortal_executioner.hurt"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.pre_pounce"
+			"key": "eeeabsmobs:immortal_executioner.scratch"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.step"
+			"key": "eeeabsmobs:immortal_golem.death"
 		},
 		{
 			"weight": 1.0,
-			"key": "eeeabsmobs:nameless.guardian.whoosh"
+			"key": "eeeabsmobs:immortal_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_shaman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_shaman.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_shaman.prepare_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_shaman.prepare_spell_casting"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_shuriken.explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_shuriken.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_skeleton.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_skeleton.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:immortal_skeleton.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:magic_matrix.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.accumulating"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.accumulating_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.creak"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.madness"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.pre_pounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:nameless_guardian.whoosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "eeeabsmobs:undamaged"
 		}
 	]
 }

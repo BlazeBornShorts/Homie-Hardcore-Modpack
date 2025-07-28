@@ -45,12 +45,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]

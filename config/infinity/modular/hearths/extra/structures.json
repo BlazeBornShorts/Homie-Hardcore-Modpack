@@ -5,39 +5,6 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 3,
-								"minCount": 1,
-								"type": "minecraft:blaze",
-								"maxCount": 2
-							},
-							{
-								"weight": 10,
-								"minCount": 3,
-								"type": "minecraft:piglin",
-								"maxCount": 5
-							},
-							{
-								"weight": 3,
-								"minCount": 4,
-								"type": "minecraft:magma_cube",
-								"maxCount": 4
-							}
-						]
-					}
-				},
-				"step": "local_modifications",
-				"id": "hearths:crimson_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
 				},
 				"step": "local_modifications",
 				"id": "hearths:netherrack_spiral"
@@ -80,6 +47,39 @@
 				},
 				"step": "local_modifications",
 				"id": "hearths:warped_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 3,
+								"minCount": 1,
+								"type": "minecraft:blaze",
+								"maxCount": 2
+							},
+							{
+								"weight": 10,
+								"minCount": 3,
+								"type": "minecraft:piglin",
+								"maxCount": 5
+							},
+							{
+								"weight": 3,
+								"minCount": 4,
+								"type": "minecraft:magma_cube",
+								"maxCount": 4
+							}
+						]
+					}
+				},
+				"step": "local_modifications",
+				"id": "hearths:crimson_tower"
 			}
 		}
 	]

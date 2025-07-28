@@ -3,26 +3,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "incendium:ruined_lab"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-						]
-					}
 				},
 				"step": "underground_decoration",
-				"id": "incendium:forbidden_castle"
+				"id": "incendium:abandoned_tower"
 			}
 		},
 		{
@@ -43,46 +28,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "incendium:piglin_village"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
 				"step": "underground_decoration",
 				"id": "incendium:pipeline"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-						]
-					}
-				},
-				"step": "underground_decoration",
-				"id": "incendium:nether_reactor"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "incendium:abandoned_tower"
 			}
 		},
 		{
@@ -103,6 +53,56 @@
 				},
 				"step": "underground_decoration",
 				"id": "incendium:quartz_kitchen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "incendium:piglin_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_decoration",
+				"id": "incendium:nether_reactor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "incendium:ruined_lab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_decoration",
+				"id": "incendium:forbidden_castle"
 			}
 		}
 	]

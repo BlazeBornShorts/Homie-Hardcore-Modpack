@@ -5,65 +5,6 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 3,
-								"minCount": 1,
-								"type": "aquamirae:golden_moth",
-								"maxCount": 2
-							}
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 50,
-								"minCount": 1,
-								"type": "aquamirae:maw",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "fluid_springs",
-				"id": "aquamirae:ice_maze/arch"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 10,
-								"minCount": 1,
-								"type": "minecraft:pillager",
-								"maxCount": 2
-							},
-							{
-								"weight": 5,
-								"minCount": 1,
-								"type": "minecraft:vindicator",
-								"maxCount": 1
-							}
-						]
-					}
-				},
-				"step": "top_layer_modification",
-				"id": "aquamirae:outpost"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
@@ -125,7 +66,66 @@
 					}
 				},
 				"step": "top_layer_modification",
+				"id": "aquamirae:outpost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 1,
+								"type": "minecraft:pillager",
+								"maxCount": 2
+							},
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "minecraft:vindicator",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "top_layer_modification",
 				"id": "aquamirae:ship"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 3,
+								"minCount": 1,
+								"type": "aquamirae:golden_moth",
+								"maxCount": 2
+							}
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 50,
+								"minCount": 1,
+								"type": "aquamirae:maw",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "fluid_springs",
+				"id": "aquamirae:ice_maze/arch"
 			}
 		},
 		{

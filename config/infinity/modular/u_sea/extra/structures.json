@@ -7,77 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "u_sea:raft/cold/wide_tide_breaker"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "u_sea:raft/cold/cone_tide_breaker"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "u_sea:raft/temperate/grid"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "u_sea:raft/warm/cone_skipper"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "u_sea:ship/cove"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "u_sea:island/warm/hill"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "u_sea:raft/temperate/beam"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "u_sea:ship/hopper"
 			}
 		},
 		{
@@ -97,7 +27,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "u_sea:raft/cold/tide_breaker"
+				"id": "u_sea:ship/hopper"
 			}
 		},
 		{
@@ -117,7 +47,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "u_sea:raft/temperate/box"
+				"id": "u_sea:island/warm/hill"
 			}
 		},
 		{
@@ -137,7 +67,77 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
+				"id": "u_sea:ship/cove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "u_sea:raft/cold/wide_tide_breaker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "u_sea:raft/temperate/box"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "u_sea:raft/warm/cone_skipper"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "u_sea:raft/cold/tide_breaker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "u_sea:raft/cold/cone_tide_breaker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
 				"id": "u_sea:raft/warm/skipper"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "u_sea:raft/temperate/beam"
 			}
 		}
 	]

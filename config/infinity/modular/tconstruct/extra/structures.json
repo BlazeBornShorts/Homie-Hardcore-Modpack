@@ -11,14 +11,14 @@
 							{
 								"weight": 1,
 								"minCount": 4,
-								"type": "minecraft:magma_cube",
-								"maxCount": 6
+								"type": "tconstruct:ender_slime",
+								"maxCount": 4
 							}
 						]
 					}
 				},
-				"step": "underground_decoration",
-				"id": "tconstruct:blood_island"
+				"step": "surface_structures",
+				"id": "tconstruct:end_slime_island"
 			}
 		},
 		{
@@ -31,15 +31,15 @@
 						"spawns": [
 							{
 								"weight": 1,
-								"minCount": 3,
-								"type": "tconstruct:sky_slime",
+								"minCount": 4,
+								"type": "minecraft:slime",
 								"maxCount": 4
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "tconstruct:sky_slime_island"
+				"id": "tconstruct:earth_slime_island"
 			}
 		},
 		{
@@ -74,14 +74,14 @@
 							{
 								"weight": 1,
 								"minCount": 4,
-								"type": "minecraft:slime",
-								"maxCount": 4
+								"type": "minecraft:magma_cube",
+								"maxCount": 6
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
-				"id": "tconstruct:earth_slime_island"
+				"step": "underground_decoration",
+				"id": "tconstruct:blood_island"
 			}
 		},
 		{
@@ -94,15 +94,15 @@
 						"spawns": [
 							{
 								"weight": 1,
-								"minCount": 4,
-								"type": "tconstruct:ender_slime",
+								"minCount": 3,
+								"type": "tconstruct:sky_slime",
 								"maxCount": 4
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "tconstruct:end_slime_island"
+				"id": "tconstruct:sky_slime_island"
 			}
 		}
 	]

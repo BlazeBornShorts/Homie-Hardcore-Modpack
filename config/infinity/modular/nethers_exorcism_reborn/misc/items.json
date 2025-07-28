@@ -10,7 +10,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "nethers_exorcism_reborn:basalt_crab_spawn_egg"
+			"key": "nethers_exorcism_reborn:basalt_crab_2_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -34,6 +34,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:cocoon"
+		},
+		{
+			"weight": 1.0,
 			"key": "nethers_exorcism_reborn:cooked_indigo_salamander_tail"
 		},
 		{
@@ -43,6 +47,10 @@
 		{
 			"weight": 1.0,
 			"key": "nethers_exorcism_reborn:crab_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_claw"
 		},
 		{
 			"weight": 1.0,
@@ -286,6 +294,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:paint_brush"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:radiant_blend"
+		},
+		{
+			"weight": 1.0,
 			"key": "nethers_exorcism_reborn:radiant_cephalotus"
 		},
 		{
@@ -319,6 +335,10 @@
 		{
 			"weight": 1.0,
 			"key": "nethers_exorcism_reborn:salamandertailonastick"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:silkloin_spawn_egg"
 		},
 		{
 			"weight": 1.0,

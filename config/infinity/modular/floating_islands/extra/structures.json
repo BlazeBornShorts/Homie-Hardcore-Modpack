@@ -7,7 +7,37 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "floating_islands:shrine"
+				"id": "floating_islands:amethyst_island"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "floating_islands:spider_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "floating_islands:flower_island2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "floating_islands:pillager_camp"
 			}
 		},
 		{
@@ -37,17 +67,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "floating_islands:amethyst_island"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "floating_islands:flower_island2"
+				"id": "floating_islands:shrine"
 			}
 		},
 		{
@@ -68,16 +88,6 @@
 				},
 				"step": "surface_structures",
 				"id": "floating_islands:nether_island"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "floating_islands:spider_ruin"
 			}
 		}
 	]

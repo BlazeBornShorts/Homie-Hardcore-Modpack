@@ -1,5 +1,23 @@
 {
 	"statues": {
+		"savanna": [
+			{
+				"location": "explorations:statues/statue_1",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_2",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_3",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_4",
+				"weight": 2
+			}
+		],
 		"plains": [
 			{
 				"location": "explorations:statues/statue_1",
@@ -34,24 +52,6 @@
 			{
 				"location": "explorations:statues/statue_4",
 				"weight": 3
-			}
-		],
-		"savanna": [
-			{
-				"location": "explorations:statues/statue_1",
-				"weight": 2
-			},
-			{
-				"location": "explorations:statues/statue_2",
-				"weight": 2
-			},
-			{
-				"location": "explorations:statues/statue_3",
-				"weight": 2
-			},
-			{
-				"location": "explorations:statues/statue_4",
-				"weight": 2
 			}
 		],
 		"taiga": [

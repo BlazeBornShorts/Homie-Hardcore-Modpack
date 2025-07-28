@@ -122,6 +122,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "forge:crafting_tables"
+		},
+		{
+			"weight": 1.0,
 			"key": "forge:deepslate"
 		},
 		{
@@ -195,10 +199,6 @@
 		{
 			"weight": 1.0,
 			"key": "forge:enderman_place_on_blacklist"
-		},
-		{
-			"weight": 1.0,
-			"key": "forge:farmland"
 		},
 		{
 			"weight": 1.0,
@@ -499,10 +499,6 @@
 		{
 			"weight": 1.0,
 			"key": "forge:granite"
-		},
-		{
-			"weight": 1.0,
-			"key": "forge:grass"
 		},
 		{
 			"weight": 1.0,
@@ -1006,10 +1002,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "forge:soul_sand"
-		},
-		{
-			"weight": 1.0,
 			"key": "forge:stained_glass"
 		},
 		{
@@ -1118,6 +1110,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "forge:storage_blocks/blue_cheese"
+		},
+		{
+			"weight": 1.0,
 			"key": "forge:storage_blocks/blue_petal_block"
 		},
 		{
@@ -1147,6 +1143,10 @@
 		{
 			"weight": 1.0,
 			"key": "forge:storage_blocks/charcoal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/cheese"
 		},
 		{
 			"weight": 1.0,
@@ -1367,6 +1367,10 @@
 		{
 			"weight": 1.0,
 			"key": "forge:storage_blocks/neodymium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/nether_cheese"
 		},
 		{
 			"weight": 1.0,

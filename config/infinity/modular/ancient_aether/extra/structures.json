@@ -27,36 +27,6 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "ancient_aether:holystone_ruin"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "ancient_aether:sun_well"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
 				"id": "ancient_aether:mysterious_henge"
 			}
 		},
@@ -86,21 +56,6 @@
 						]
 					}
 				},
-				"step": "surface_structures",
-				"id": "ancient_aether:ancient_dungeon"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
 				"step": "underground_structures",
 				"id": "ancient_aether:sentry_laboratory"
 			}
@@ -117,7 +72,52 @@
 					}
 				},
 				"step": "surface_structures",
+				"id": "ancient_aether:sun_well"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "ancient_aether:ancient_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
 				"id": "ancient_aether:valkyrie_settlement_skyroot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "ancient_aether:holystone_ruin"
 			}
 		}
 	]

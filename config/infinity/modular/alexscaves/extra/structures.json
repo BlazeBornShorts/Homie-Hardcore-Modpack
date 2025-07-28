@@ -5,30 +5,9 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 20,
-								"minCount": 1,
-								"type": "alexscaves:mine_guardian",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "underground_structures",
-				"id": "alexscaves:abyssal_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
 				},
 				"step": "raw_generation",
-				"id": "alexscaves:cake_cave"
+				"id": "alexscaves:forlorn_canyon"
 			}
 		},
 		{
@@ -74,38 +53,8 @@
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "raw_generation",
-				"id": "alexscaves:acid_pit"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "raw_generation",
-				"id": "alexscaves:ferrocave"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
 				"step": "underground_structures",
-				"id": "alexscaves:volcano"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "alexscaves:underground_cabin"
+				"id": "alexscaves:soda_bottle"
 			}
 		},
 		{
@@ -116,26 +65,6 @@
 				},
 				"step": "raw_generation",
 				"id": "alexscaves:ocean_trench"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "alexscaves:donut_arch"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "raw_generation",
-				"id": "alexscaves:forlorn_canyon"
 			}
 		},
 		{
@@ -165,8 +94,18 @@
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "underground_structures",
-				"id": "alexscaves:forlorn_bridge"
+				"step": "raw_generation",
+				"id": "alexscaves:acid_pit"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "alexscaves:cake_cave"
 			}
 		},
 		{
@@ -176,7 +115,68 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "alexscaves:soda_bottle"
+				"id": "alexscaves:underground_cabin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "alexscaves:ferrocave"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "alexscaves:donut_arch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 20,
+								"minCount": 1,
+								"type": "alexscaves:mine_guardian",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "alexscaves:abyssal_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "alexscaves:volcano"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "alexscaves:forlorn_bridge"
 			}
 		}
 	]

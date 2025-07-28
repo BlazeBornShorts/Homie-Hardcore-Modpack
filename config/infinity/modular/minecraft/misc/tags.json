@@ -102,6 +102,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:candle"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:candle_cakes"
 		},
 		{
@@ -139,6 +143,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:completes_find_tree_tutorial"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:concrete"
 		},
 		{
 			"weight": 1.0,
@@ -287,6 +295,18 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:get_hellstinger_angry_if_broken"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:glazed_terracotta"
 		},
 		{
 			"weight": 1.0,
@@ -562,7 +582,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:seared_blocks"
+			"key": "minecraft:shulker_box"
 		},
 		{
 			"weight": 1.0,
@@ -571,6 +591,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:signs"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:silk_attachable"
 		},
 		{
 			"weight": 1.0,
@@ -694,6 +718,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:terracota"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:terracotta"
 		},
 		{
@@ -799,6 +827,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:wool_carpet"
 		},
 		{
 			"weight": 1.0,

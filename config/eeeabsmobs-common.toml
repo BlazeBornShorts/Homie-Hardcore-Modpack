@@ -2,34 +2,29 @@
 [Items]
 
 	[Items."Summoning Soul Necklace"]
-		#Set item cool down time after player on use (in seconds)
-		#Range: 0.0 ~ 60.0
-		"Set item cool down time" = 20
 		#Set maximum amount of damage a player can take while holding this item
 		#Range: 1.0 ~ 3.4028234663852886E38
 		"Set maximum cumulative damage taken" = 50.0
-
-	[Items.Howitzer]
 		#Set item cool down time after player on use (in seconds)
 		#Range: 0.0 ~ 60.0
-		"Set item cool down time" = 2.0
-		#Set Grenade explosion radius(the bigger the blast radius, the higher the damage)
-		#Range: 1.0 ~ 10.0
-		"Set explosion radius" = 2.5
+		"Set item cool down time" = 20.0
+
+	[Items.Howitzer]
 		#Set Grenade maximum explosion damage(damage to the center of the explosion)
 		#Range: 1.0 ~ 128.0
 		"Set explosion damage cap" = 10.0
+		#Set Grenade explosion radius(the bigger the blast radius, the higher the damage)
+		#Range: 1.0 ~ 10.0
+		"Set explosion radius" = 2.5
+		#Set item cool down time after player on use (in seconds)
+		#Range: 0.0 ~ 60.0
+		"Set item cool down time" = 2.0
 		#Set tool attack damage
 		#Range: 0.0 ~ 3.4028234663852886E38
 		"Attack damage" = 8.0
 		#Set tool attack speed
 		#Range: 0.0 ~ 3.4028234663852886E38
 		"Attack speed" = 1.6
-
-	[Items."Immortal Staff"]
-		#Set item cool down time after player on use (in seconds)
-		#Range: 0.0 ~ 60.0
-		"Set item cool down time" = 1.5
 
 	[Items."Guardian Battleaxe"]
 		#The increase in damage should refer to the Sweeping Edge enchantment
@@ -44,6 +39,11 @@
 		#Set tool attack speed
 		#Range: 0.0 ~ 3.4028234663852886E38
 		"Attack speed" = 0.9
+
+	[Items."Immortal Staff"]
+		#Set item cool down time after player on use (in seconds)
+		#Range: 0.0 ~ 60.0
+		"Set item cool down time" = 1.5
 
 	[Items."Ghost Warrior Series"]
 		#If set to 'True' armor or weapon will be depleted
@@ -61,6 +61,34 @@
 		#Set item cool down time after player on use (in seconds)
 		#Range: 0.0 ~ 60.0
 		"Set item cool down time" = 4.0
+
+[Entities]
+
+	[Entities."Guardian Laser"]
+		#If set to 'False' disable scorch generate on the ground
+		"Enable scorch generate" = true
+		#Set the maximum shooting distance for players
+		#Range: 1.0 ~ 64.0
+		"Set attack radius" = 16.0
+		#If set to 'False' disable block destruction by players
+		"Enable destroy block" = true
+		#Set max block hardness for laser destruction
+		#Range: 1.0 ~ 3.4028234663852886E38
+		"Set laser max hardness" = 1.0
+
+	[Entities."Falling Block"]
+		#If set to 'False' disable falling block spawn
+		"Enable falling block spawn" = true
+		#If set to 'False' disable falling block rendering
+		"Enable falling block render" = true
+		#Set the maximum range for downward block detection to determine the Y-axis position where the entity spawns
+		#Range: 1 ~ 10
+		"Set below check range" = 3
+
+	[Entities.Tester]
+		#Range: 1.0 ~ 1024.0
+		"Set max health" = 20.0
+		"Enable immune to environmental or status damage" = true
 
 [Mobs]
 
@@ -228,34 +256,6 @@
 			#Set corpse minion to restore its owner's health
 			#Range: 0.0 ~ 1024.0
 			"Death Heal Amount" = 5.0
-
-[Entities]
-
-	[Entities."Guardian Laser"]
-		#If set to 'False' disable scorch generate on the ground
-		"Enable scorch generate" = true
-		#Set the maximum shooting distance for players
-		#Range: 1.0 ~ 64.0
-		"Set attack radius" = 16.0
-		#If set to 'False' disable block destruction by players
-		"Enable destroy block" = true
-		#Set max block hardness for laser destruction
-		#Range: 1.0 ~ 3.4028234663852886E38
-		"Set laser max hardness" = 1.0
-
-	[Entities."Falling Block"]
-		#If set to 'False' disable falling block spawn
-		"Enable falling block spawn" = true
-		#If set to 'False' disable falling block rendering
-		"Enable falling block render" = true
-		#Set the maximum range for downward block detection to determine the Y-axis position where the entity spawns
-		#Range: 1 ~ 10
-		"Set below check range" = 3
-
-	[Entities.Tester]
-		#Range: 1.0 ~ 1024.0
-		"Set max health" = 20.0
-		"Enable immune to environmental or status damage" = true
 
 [Others]
 

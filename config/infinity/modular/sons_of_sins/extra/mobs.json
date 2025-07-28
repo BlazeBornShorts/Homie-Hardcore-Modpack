@@ -18,6 +18,20 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "monster",
+				"Name": "sons_of_sins:blud_aggressive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "sons_of_sins:blud_trade"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
 				"Name": "sons_of_sins:butcher"
 			}
 		},
@@ -131,6 +145,13 @@
 			"key": {
 				"Category": "monster",
 				"Name": "sons_of_sins:wistiver"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "sons_of_sins:wistiver_jaw"
 			}
 		}
 	]

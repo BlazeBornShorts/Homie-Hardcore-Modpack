@@ -7,7 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "raw_generation",
-				"id": "structory:abandoned_chapel"
+				"id": "structory:northern_ruin"
 			}
 		},
 		{
@@ -17,7 +17,27 @@
 				"spawn_overrides": {
 				},
 				"step": "raw_generation",
-				"id": "structory:graveyard"
+				"id": "structory:outcast_villager_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "structory:outcast_villager_grassy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "structory:abandoned_chapel"
 			}
 		},
 		{
@@ -37,6 +57,16 @@
 				"spawn_overrides": {
 				},
 				"step": "raw_generation",
+				"id": "structory:abandoned_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
 				"id": "structory:taiga_ruin_surface"
 			}
 		},
@@ -46,18 +76,8 @@
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
-				"id": "structory:dense_forest_ruin"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
 				"step": "raw_generation",
-				"id": "structory:boat"
+				"id": "structory:graveyard"
 			}
 		},
 		{
@@ -104,27 +124,17 @@
 				"spawn_overrides": {
 				},
 				"step": "raw_generation",
-				"id": "structory:northern_ruin"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "raw_generation",
 				"id": "structory:ruin_grassy"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
-				"step": "raw_generation",
-				"id": "structory:outcast_villager_grassy"
+				"step": "surface_structures",
+				"id": "structory:old_manor"
 			}
 		},
 		{
@@ -145,31 +155,21 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_box",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "structory:old_manor"
+				"id": "structory:dense_forest_ruin"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
 				"step": "raw_generation",
-				"id": "structory:outcast_villager_desert"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "raw_generation",
-				"id": "structory:abandoned_camp"
+				"id": "structory:boat"
 			}
 		}
 	]

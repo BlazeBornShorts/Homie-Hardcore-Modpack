@@ -15,7 +15,7 @@
     "hideFromDebug": true,
     "hideFromTabList": true,
     "enableTextToSpeech": false,
-    "hintOverlayToggle": false,
+    "hintOverlayToggle": true,
     "hintNarratorToggle": true,
     "previewOverlay": true
   },

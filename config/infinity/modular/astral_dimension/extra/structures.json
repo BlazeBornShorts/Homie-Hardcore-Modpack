@@ -3,41 +3,21 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "top_layer_modification",
+				"id": "astral_dimension:lunar_base_ruins_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
-				"id": "astral_dimension:crystal_pool"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "top_layer_modification",
-				"id": "astral_dimension:tormented_mansion"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "top_layer_modification",
-				"id": "astral_dimension:electric_swamp_hut"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "astral_dimension:amethyst_sanctuary_hallways"
+				"step": "underground_structures",
+				"id": "astral_dimension:pyrite_crypt"
 			}
 		},
 		{
@@ -53,11 +33,31 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "astral_dimension:ambushed_gateway"
+				"id": "astral_dimension:short_faded_sewer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "astral_dimension:crystal_pool"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "top_layer_modification",
+				"id": "astral_dimension:lunar_base_ruins_2"
 			}
 		},
 		{
@@ -77,36 +77,6 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "astral_dimension:postrum_temple"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "astral_dimension:short_faded_sewer"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "astral_dimension:pyrite_crypt"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "astral_dimension:amethyst_sanctuary_garden"
 			}
 		},
@@ -117,7 +87,17 @@
 				"spawn_overrides": {
 				},
 				"step": "top_layer_modification",
-				"id": "astral_dimension:lunar_base_ruins_1"
+				"id": "astral_dimension:tormented_mansion"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "astral_dimension:ambushed_gateway"
 			}
 		},
 		{
@@ -146,18 +126,28 @@
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "top_layer_modification",
-				"id": "astral_dimension:lunar_base_ruins_2"
+				"step": "surface_structures",
+				"id": "astral_dimension:amethyst_sanctuary_hallways"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "astral_dimension:postrum_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "top_layer_modification",
-				"id": "astral_dimension:faded_temple"
+				"id": "astral_dimension:electric_swamp_hut"
 			}
 		},
 		{
@@ -168,6 +158,16 @@
 				},
 				"step": "surface_structures",
 				"id": "astral_dimension:void_egg"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "top_layer_modification",
+				"id": "astral_dimension:faded_temple"
 			}
 		}
 	]

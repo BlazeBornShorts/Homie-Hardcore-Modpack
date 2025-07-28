@@ -18,28 +18,7 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_jungle"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"ambient": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 50,
-								"minCount": 1,
-								"type": "alexsmobs:underminer",
-								"maxCount": 1
-							}
-						]
-					}
-				},
-				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_dripstone"
+				"id": "bettermineshafts:mineshaft_desert"
 			}
 		},
 		{
@@ -81,7 +60,70 @@
 					}
 				},
 				"step": "underground_structures",
+				"id": "bettermineshafts:mineshaft_lush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 50,
+								"minCount": 1,
+								"type": "alexsmobs:underminer",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "underground_structures",
 				"id": "bettermineshafts:mineshaft_mesa"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 50,
+								"minCount": 1,
+								"type": "alexsmobs:underminer",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "bettermineshafts:mineshaft_red_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 50,
+								"minCount": 1,
+								"type": "alexsmobs:underminer",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "bettermineshafts:mineshaft_dripstone"
 			}
 		},
 		{
@@ -123,7 +165,7 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_lush"
+				"id": "bettermineshafts:mineshaft_acacia"
 			}
 		},
 		{
@@ -144,28 +186,7 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_spruce_snowy"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"ambient": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 50,
-								"minCount": 1,
-								"type": "alexsmobs:underminer",
-								"maxCount": 1
-							}
-						]
-					}
-				},
-				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_overgrown"
+				"id": "bettermineshafts:mineshaft_jungle"
 			}
 		},
 		{
@@ -228,7 +249,7 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_acacia"
+				"id": "bettermineshafts:mineshaft_overgrown"
 			}
 		},
 		{
@@ -249,28 +270,7 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_red_desert"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"ambient": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 50,
-								"minCount": 1,
-								"type": "alexsmobs:underminer",
-								"maxCount": 1
-							}
-						]
-					}
-				},
-				"step": "underground_structures",
-				"id": "bettermineshafts:mineshaft_desert"
+				"id": "bettermineshafts:mineshaft_spruce_snowy"
 			}
 		}
 	]

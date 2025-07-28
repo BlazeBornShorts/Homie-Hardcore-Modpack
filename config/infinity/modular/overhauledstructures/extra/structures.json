@@ -7,17 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "overhauledstructures:overhauleddungeonprison"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "overhauledstructures:overhauleddungeonbasic"
+				"id": "overhauledstructures:overhauleddungeonspiders"
 			}
 		},
 		{
@@ -37,7 +27,17 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "overhauledstructures:overhauleddungeonspiders"
+				"id": "overhauledstructures:overhauleddungeonprison"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "overhauledstructures:overhauleddungeonbasic"
 			}
 		},
 		{

@@ -15,9 +15,32 @@
 			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 3,
+								"minCount": 1,
+								"type": "minecraft:skeleton",
+								"maxCount": 1
+							},
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "netherexp:vessel",
+								"maxCount": 1
+							},
+							{
+								"weight": 2,
+								"minCount": 1,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 1
+							}
+						]
+					}
 				},
 				"step": "surface_structures",
-				"id": "netherexp:chapel"
+				"id": "netherexp:mega_fossil_campsite"
 			}
 		},
 		{
@@ -45,12 +68,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -105,32 +128,9 @@
 			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 3,
-								"minCount": 1,
-								"type": "minecraft:skeleton",
-								"maxCount": 1
-							},
-							{
-								"weight": 5,
-								"minCount": 1,
-								"type": "netherexp:vessel",
-								"maxCount": 1
-							},
-							{
-								"weight": 2,
-								"minCount": 1,
-								"type": "mekanismadditions:baby_skeleton",
-								"maxCount": 1
-							}
-						]
-					}
 				},
 				"step": "surface_structures",
-				"id": "netherexp:mega_fossil_campsite"
+				"id": "netherexp:devils_bluff"
 			}
 		},
 		{
@@ -140,7 +140,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "netherexp:devils_bluff"
+				"id": "netherexp:chapel"
 			}
 		}
 	]

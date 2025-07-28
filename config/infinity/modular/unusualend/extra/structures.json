@@ -7,47 +7,38 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "unusualend:small_gloopy_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "fluid_springs",
-				"id": "unusualend:warped_station"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "unusualend:gloopy_nest"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "unusualend:wanderer_island"
+				"id": "unusualend:ancient_end_tower"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 3,
+								"type": "unusualend:undead_enderling",
+								"maxCount": 5
+							}
+						]
+					}
 				},
 				"step": "surface_structures",
-				"id": "unusualend:chorus_cane"
+				"id": "unusualend:flying_end_ship"
 			}
 		},
 		{
@@ -100,7 +91,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "unusualend:ancient_end_tower"
+				"id": "unusualend:chorus_cane"
 			}
 		},
 		{
@@ -108,20 +99,19 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 10,
-								"minCount": 3,
-								"type": "unusualend:undead_enderling",
-								"maxCount": 5
-							}
-						]
-					}
 				},
 				"step": "surface_structures",
-				"id": "unusualend:flying_end_ship"
+				"id": "unusualend:wanderer_island"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "unusualend:small_gloopy_ruins"
 			}
 		},
 		{
@@ -132,6 +122,16 @@
 				},
 				"step": "surface_structures",
 				"id": "unusualend:end_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "fluid_springs",
+				"id": "unusualend:warped_station"
 			}
 		}
 	]

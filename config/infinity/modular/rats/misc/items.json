@@ -1,0 +1,1396 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rats:air_raid_siren"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ancient_sawblade"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:arcane_technology"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:archeologist_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:assorted_vegetables"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:auto_curdler"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:aviator_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:biplane_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:black_death_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:black_death_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:black_marbled_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block_of_blue_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block_of_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block_of_nether_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:blue_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:brain_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cauldron_blue_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cauldron_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cauldron_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cauldron_nether_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:centipede"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:charged_creeper_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:charged_ratbot_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cheese_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cheese_cannonball"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cheese_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cheese_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:chef_toque"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:chunky_cheese_token"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:compressed_garbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:compressed_rat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:confit_byaldi"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:contaminated_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cooked_rat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:corrupt_rat_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:creative_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:crimson_liquid"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:cursed_garbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:demon_rat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:dragon_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:dutchrat_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:dutchrat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:dutchrat_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:dye_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:exterminator_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:farmer_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:feathery_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:feral_bagh_nakhs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:feral_rat_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:feral_ratlantean_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:filth"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:filth_corruption"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:fish_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:fisherman_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:garbage_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:gem_of_ratlantis"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ghost_pirat_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ghost_pirat_ectoplasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ghost_pirat_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ghost_pirat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:gilded_rat_flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:golden_rat_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:halo_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:herb_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:idol_of_ratlantis"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:jack_o_ratern"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:little_black_squash_balls"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:little_black_worm"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:manhole"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_cracked"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_cracked_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_cracked_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_mossy"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_mossy_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_mossy_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_golem_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_rat_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_raw"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:military_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:music_disc_living_mice"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:music_disc_mice_on_venus"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:neo_ratlantean_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:nether_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:oratchalcum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:oratchalcum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:oratchalcum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:oratchalcum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:party_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:patrol_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pied_garbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pied_piper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pied_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:piper_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_beast_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_cloud_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_doctor_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_doctor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_doctorate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_leech"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plague_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:plastic_waste"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:potato_knishes"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:potato_pancake"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:psionic_rat_brain"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:purified_garbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:purifying_liquid"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:radius_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_and_crossbones_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_and_sickle_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_attractor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_baron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_breeding_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_burger"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_cage"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_capture_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_fez"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_hammock_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_igloo_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_king_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_king_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_nugget_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_papers"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_paw"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_pelt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_quarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_quarry_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_sack"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_seed_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_toga"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_tube_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_advanced_energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_angel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_aquatic"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_archeologist"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_aristocrat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_asbestos"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_automaton_mount"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_basic"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_basic_energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_basic_mount"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_basic_ratlantean"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_beast_mount"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_bee"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_big_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_biplane_mount"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_bottler"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_breeder"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_buccaneer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_carrat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_chef"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_chicken_mount"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_christmas"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_combined"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_combined_creative"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_crafting"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_creative"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_damage_protection"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_demon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_disenchanter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_dj"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_elite_energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_enchanter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_ethereal"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_extreme_energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_farmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_feral_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_fisherman"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_flight"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_gardener"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_god"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_golem_mount"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_health"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_jury_rigged"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_lumberjack"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_milker"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_mob_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_no_flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_nonbeliever"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_ore_doubling"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_pickpocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_placer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_platter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_poison"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_psychic"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_quarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_ratinator"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_remedy"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_replanter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_sculked"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_shears"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_speed"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_strength"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_strider_mount"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_tick_accelerator"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_time_manipulator"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_tnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_tnt_survivor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_undead"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_underwater"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_voodoo"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_warrior"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_upgrade_whitelist"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_water_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratbot_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratbow_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratglove_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratglove_petals"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantean_automaton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantean_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantean_gem_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantean_ratbot_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantean_spirit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_rat_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_reactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:ratlantis_upgrade_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rattling_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:raw_oratchalcum"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:raw_plastic"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:raw_rat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:santa_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:string_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:stripped_pirat_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:stripped_pirat_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:tangled_rat_tails"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:tiny_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:token_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:token_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:top_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:trash_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:treacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:upgrade_combiner"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:upgrade_separator"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:vial_of_sentience"
+		}
+	]
+}

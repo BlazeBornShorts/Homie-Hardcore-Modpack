@@ -3,16 +3,6 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "medievalend:castle"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
@@ -33,11 +23,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "medievalend:ship"
+				"id": "medievalend:castle"
 			}
 		},
 		{
@@ -48,6 +38,16 @@
 				},
 				"step": "surface_structures",
 				"id": "medievalend:house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "medievalend:ship"
 			}
 		}
 	]

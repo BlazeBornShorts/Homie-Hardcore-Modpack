@@ -10,15 +10,15 @@
 						"spawns": [
 							{
 								"weight": 5,
-								"minCount": 3,
-								"type": "ars_nouveau:wilden_hunter",
+								"minCount": 1,
+								"type": "ars_nouveau:wilden_guardian",
 								"maxCount": 3
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "ars_nouveau:hunter_wilden_den"
+				"id": "ars_nouveau:guardian_wilden_den"
 			}
 		},
 		{
@@ -31,15 +31,15 @@
 						"spawns": [
 							{
 								"weight": 5,
-								"minCount": 1,
-								"type": "ars_nouveau:wilden_guardian",
+								"minCount": 3,
+								"type": "ars_nouveau:wilden_hunter",
 								"maxCount": 3
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "ars_nouveau:guardian_wilden_den"
+				"id": "ars_nouveau:hunter_wilden_den"
 			}
 		},
 		{

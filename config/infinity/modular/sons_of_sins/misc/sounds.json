@@ -62,6 +62,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "sons_of_sins:etheric_imbibation_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:etheric_imbibation_2"
+		},
+		{
+			"weight": 1.0,
 			"key": "sons_of_sins:grub_ambient"
 		},
 		{
@@ -138,6 +146,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "sons_of_sins:sins_coming"
+		},
+		{
+			"weight": 1.0,
 			"key": "sons_of_sins:sins_redwolf"
 		},
 		{
@@ -199,6 +211,10 @@
 		{
 			"weight": 1.0,
 			"key": "sons_of_sins:wistiver_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sons_of_sins:wistiver_sceamer"
 		}
 	]
 }

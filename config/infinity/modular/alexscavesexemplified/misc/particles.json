@@ -2,6 +2,10 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "alexscavesexemplified:azure_focused_lightning"
+		},
+		{
+			"weight": 1.0,
 			"key": "alexscavesexemplified:gamma_mushroom_cloud"
 		},
 		{
@@ -19,6 +23,10 @@
 		{
 			"weight": 1.0,
 			"key": "alexscavesexemplified:gamma_tephra_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscavesexemplified:scarlet_focused_lightning"
 		},
 		{
 			"weight": 1.0,

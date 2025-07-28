@@ -3,41 +3,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "terramity:trial_spire"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "terramity:chthonian_breach"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "terramity:sword_shrine"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "terramity:fairy_fountain"
+				"id": "terramity:court_of_gnomes"
 			}
 		},
 		{
@@ -53,11 +23,21 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "terramity:sword_shrine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "terramity:prismatic_pond"
+				"id": "terramity:subterranean_shrine"
 			}
 		},
 		{
@@ -83,31 +63,21 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "terramity:ancient_outcrop"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
 				"id": "terramity:fire_lookout_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "terramity:infested_laboratory"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "terramity:snow_fort"
 			}
 		},
 		{
@@ -127,17 +97,17 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "terramity:court_of_gnomes"
+				"id": "terramity:mudhut"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "bury",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
-				"id": "terramity:mudhut"
+				"step": "underground_structures",
+				"id": "terramity:fairy_fountain"
 			}
 		},
 		{
@@ -153,11 +123,41 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "terramity:chthonian_breach"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "terramity:trial_spire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "terramity:snow_fort"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "terramity:subterranean_shrine"
+				"id": "terramity:infested_laboratory"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "terramity:ancient_outcrop"
+				"id": "terramity:prismatic_pond"
 			}
 		}
 	]

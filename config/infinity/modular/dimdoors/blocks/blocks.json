@@ -1376,6 +1376,16 @@
 				"top": true,
 				"laggy": true,
 				"float": false,
+				"Name": "dimdoors:block_ag_dim_rats_pirat_door",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": false,
 				"Name": "dimdoors:block_ag_dim_ror_azuric_door",
 				"full": false
 			}
@@ -1407,6 +1417,16 @@
 				"laggy": true,
 				"float": false,
 				"Name": "dimdoors:block_ag_dim_ror_industrial_metal_door",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": false,
+				"Name": "dimdoors:block_ag_dim_sons_of_sins_soul_steel_door",
 				"full": false
 			}
 		},

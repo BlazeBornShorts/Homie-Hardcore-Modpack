@@ -62,15 +62,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "everycomp:nether_additions/charred_logs"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:nether_additions/saffron_logs"
-		},
-		{
-			"weight": 1.0,
 			"key": "everycomp:outer_end/azure_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rats/pirat_logs"
 		},
 		{
 			"weight": 1.0,

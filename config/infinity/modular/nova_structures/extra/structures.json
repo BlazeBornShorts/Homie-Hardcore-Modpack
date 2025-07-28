@@ -3,11 +3,51 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:village_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:tavern_snowy"
+				"id": "nova_structures:firewatch_tower_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "nova_structures:illager_hideout"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "nova_structures:undead_crypt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:illager_manor"
 			}
 		},
 		{
@@ -27,7 +67,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:well_dark_oak"
+				"id": "nova_structures:tavern_spruce"
 			}
 		},
 		{
@@ -37,17 +77,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:witch_villa"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "nova_structures:illager_hideout"
+				"id": "nova_structures:well_birch"
 			}
 		},
 		{
@@ -57,22 +87,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:tavern_dark_oak"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-						]
-					}
-				},
-				"step": "underground_decoration",
-				"id": "nova_structures:donjon"
+				"id": "nova_structures:nether_skeleton_tower_basalt"
 			}
 		},
 		{
@@ -82,77 +97,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:skeleton_camp_soul"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:firewatch_tower_birch"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:firewatch_tower_mangrove"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:skeleton_camp_waste"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:tavern_cherry"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:firewatch_tower_jungle"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:hamlet"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:nether_skeleton_tower_soul"
+				"id": "nova_structures:tavern_birch"
 			}
 		},
 		{
@@ -168,11 +113,78 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:creeping_crypt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:ruin_town"
+				"id": "nova_structures:tavern_cherry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:wild_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:skeleton_camp_warped"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:guardian",
+								"maxCount": 1
+							},
+							{
+								"weight": 5,
+								"minCount": 1,
+								"type": "minecraft:drowned",
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:conduit_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:piglin_camp"
 			}
 		},
 		{
@@ -210,270 +222,6 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:well_savana"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:well_birch"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:desert_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:nether_skeleton_tower_warped"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:skeleton_camp_crimson"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:firewatch_tower_cherry"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:badlands_miner_outpost"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "minecraft:guardian",
-								"maxCount": 1
-							},
-							{
-								"weight": 5,
-								"minCount": 1,
-								"type": "minecraft:drowned",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:conduit_ruin"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:village_swamp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:well_jungle"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:nether_skeleton_tower_basalt"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:tavern_oak"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 10,
-								"minCount": 2,
-								"type": "minecraft:blaze",
-								"maxCount": 3
-							},
-							{
-								"weight": 5,
-								"minCount": 4,
-								"type": "minecraft:zombified_piglin",
-								"maxCount": 4
-							},
-							{
-								"weight": 8,
-								"minCount": 5,
-								"type": "minecraft:wither_skeleton",
-								"maxCount": 5
-							},
-							{
-								"weight": 2,
-								"minCount": 5,
-								"type": "minecraft:skeleton",
-								"maxCount": 5
-							},
-							{
-								"weight": 3,
-								"minCount": 4,
-								"type": "minecraft:magma_cube",
-								"maxCount": 4
-							},
-							{
-								"weight": 1,
-								"minCount": 3,
-								"type": "mekanismadditions:baby_skeleton",
-								"maxCount": 3
-							},
-							{
-								"weight": 4,
-								"minCount": 3,
-								"type": "mekanismadditions:baby_wither_skeleton",
-								"maxCount": 3
-							}
-						]
-					}
-				},
-				"step": "underground_decoration",
-				"id": "nova_structures:nether_keep"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:skeleton_camp_warped"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:illager_manor"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:tavern_swamp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "nova_structures:underground_house"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:village_jungle"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:firewatch_tower_savanna"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:tavern_spruce"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
@@ -484,99 +232,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "nova_structures:undead_crypt"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "minecraft:stray",
-								"maxCount": 32
-							},
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "mekanismadditions:baby_stray",
-								"maxCount": 16
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:stray_fort"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:tavern_desert"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:creeping_crypt"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:tavern_acacia"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:firewatch_tower_dark_oak"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "minecraft:piglin",
-								"maxCount": 1
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:piglin_outstation"
+				"id": "nova_structures:skeleton_camp_soul"
 			}
 		},
 		{
@@ -643,7 +303,68 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:firewatch_tower_forest"
+				"id": "nova_structures:tavern_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "nova_structures:underground_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:skeleton_camp_waste"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:nether_skeleton_tower_soul"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:firewatch_tower_cherry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:piglin",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:piglin_outstation"
 			}
 		},
 		{
@@ -659,51 +380,68 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 10,
+								"minCount": 2,
+								"type": "minecraft:blaze",
+								"maxCount": 3
+							},
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "minecraft:zombified_piglin",
+								"maxCount": 4
+							},
+							{
+								"weight": 8,
+								"minCount": 5,
+								"type": "minecraft:wither_skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 5,
+								"type": "minecraft:skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 3,
+								"minCount": 4,
+								"type": "minecraft:magma_cube",
+								"maxCount": 4
+							},
+							{
+								"weight": 1,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_skeleton",
+								"maxCount": 3
+							},
+							{
+								"weight": 4,
+								"minCount": 3,
+								"type": "mekanismadditions:baby_wither_skeleton",
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"step": "underground_decoration",
+				"id": "nova_structures:nether_keep"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:well_oak"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:wild_ruin"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:illager_camp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:piglin_camp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "nova_structures:tavern_jungle"
+				"id": "nova_structures:ruin_town"
 			}
 		},
 		{
@@ -723,7 +461,47 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "nova_structures:tavern_birch"
+				"id": "nova_structures:firewatch_tower_dark_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:skeleton_camp_crimson"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:tavern_snowy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:witch_villa"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:badlands_miner_outpost"
 			}
 		},
 		{
@@ -743,7 +521,229 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
+				"id": "nova_structures:desert_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:well_dark_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:well_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:stray",
+								"maxCount": 32
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mekanismadditions:baby_stray",
+								"maxCount": 16
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:stray_fort"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:village_swamp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:nether_skeleton_tower_warped"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:tavern_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
 				"id": "nova_structures:firewatch_tower_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:firewatch_tower_mangrove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:firewatch_tower_birch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:tavern_swamp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:well_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:tavern_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:tavern_dark_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:well_savana"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_decoration",
+				"id": "nova_structures:donjon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:firewatch_tower_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:hamlet"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:illager_camp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:tavern_acacia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "nova_structures:firewatch_tower_savanna"
 			}
 		}
 	]

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rats:music_disc.rats.living_mice"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:music_disc.rats.mice_on_venus"
+		}
+	]
+}

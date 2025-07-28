@@ -268,6 +268,22 @@
 	#Range: 1.0 ~ 5.0
 	rockCandyDamageMultiplier = 2.0
 
+["Treasure Bag Settings"]
+	#宝藏袋相关配置
+	#Treasure Bag Configuration
+	#宝藏袋可能掉落的物品列表
+	#List of possible items from treasure bags
+	#
+	#格式：modid:物品ID,权重
+	#Format: modid:item_id,weight
+	#
+	#示例：minecraft:diamond,10
+	#Example: minecraft:diamond,10
+	#
+	#如果权重相同，物品掉落概率相等
+	#Items will have equal chances if weights are the same
+	possible_items = "bountifulbaubles:minds_eye,10;bountifulbaubles:luck_coin,10;bountifulbaubles:dragon_breath,10;bountifulbaubles:ice_shard,10;bountifulbaubles:tha_spider,10;bountifulbaubles:creepo,10;bountifulbaubles:tha_wizard,10;bountifulbaubles:book_o_enchanting,10;bountifulbaubles:warm_void,10;bountifulbaubles:golden_melon,10;bountifulbaubles:fire_mind,10;bountifulbaubles:drop_spindle,10;bountifulbaubles:dark_egg,10;bountifulbaubles:mossy_ring,10;bountifulbaubles:mossy_belt,10;bountifulbaubles:mad_aura,10;bountifulbaubles:turtle_shell,10;bountifulbaubles:dark_dagger,10;bountifulbaubles:ember,10;bountifulbaubles:wither_nail,10;bountifulbaubles:serpent_tooth,10;bountifulbaubles:blaze_heart,10;bountifulbaubles:starfish,10;bountifulbaubles:golden_skull,10;bountifulbaubles:butchers_cleaver,10;bountifulbaubles:karma,10;bountifulbaubles:oxalis,10;bountifulbaubles:glory_shards,10;bountifulbaubles:ruby_heart,10;bountifulbaubles:rock_candy,10"
+
 ["Loot Settings"]
 	#配置格式：物品ID,权重,最小数量,最大数量;多个物品用分号分隔
 	#Format: itemID,weight,minCount,maxCount;multiple items separated by semicolons
@@ -400,20 +416,4 @@
 	#针叶林村庄房屋
 	#结构ID: minecraft:chests/village/village_taiga_house
 	villageTaigaHouseLoot = ""
-
-["Treasure Bag Settings"]
-	#宝藏袋相关配置
-	#Treasure Bag Configuration
-	#宝藏袋可能掉落的物品列表
-	#List of possible items from treasure bags
-	#
-	#格式：modid:物品ID,权重
-	#Format: modid:item_id,weight
-	#
-	#示例：minecraft:diamond,10
-	#Example: minecraft:diamond,10
-	#
-	#如果权重相同，物品掉落概率相等
-	#Items will have equal chances if weights are the same
-	possible_items = "bountifulbaubles:minds_eye,10;bountifulbaubles:luck_coin,10;bountifulbaubles:dragon_breath,10;bountifulbaubles:ice_shard,10;bountifulbaubles:tha_spider,10;bountifulbaubles:creepo,10;bountifulbaubles:tha_wizard,10;bountifulbaubles:book_o_enchanting,10;bountifulbaubles:warm_void,10;bountifulbaubles:golden_melon,10;bountifulbaubles:fire_mind,10;bountifulbaubles:drop_spindle,10;bountifulbaubles:dark_egg,10;bountifulbaubles:mossy_ring,10;bountifulbaubles:mossy_belt,10;bountifulbaubles:mad_aura,10;bountifulbaubles:turtle_shell,10;bountifulbaubles:dark_dagger,10;bountifulbaubles:ember,10;bountifulbaubles:wither_nail,10;bountifulbaubles:serpent_tooth,10;bountifulbaubles:blaze_heart,10;bountifulbaubles:starfish,10;bountifulbaubles:golden_skull,10;bountifulbaubles:butchers_cleaver,10;bountifulbaubles:karma,10;bountifulbaubles:oxalis,10;bountifulbaubles:glory_shards,10;bountifulbaubles:ruby_heart,10;bountifulbaubles:rock_candy,10"
 

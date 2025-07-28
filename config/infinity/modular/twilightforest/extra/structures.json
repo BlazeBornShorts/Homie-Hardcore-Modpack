@@ -3,7 +3,7 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
 					"water_creature": {
 						"bounding_box": "full",
@@ -25,12 +25,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -47,7 +47,7 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "twilightforest:yeti_cave"
+				"id": "twilightforest:medium_hollow_hill"
 			}
 		},
 		{
@@ -75,312 +75,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
 					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "twilightforest:large_hollow_hill"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
 					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "twilightforest:lich_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "twilightforest:final_castle"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "twilightforest:quest_grove"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "twilightforest:dark_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "twilightforest:mushroom_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -425,12 +125,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -447,7 +147,7 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "twilightforest:aurora_palace"
+				"id": "twilightforest:large_hollow_hill"
 			}
 		},
 		{
@@ -475,12 +175,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -497,13 +197,13 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "twilightforest:hedge_maze"
+				"id": "twilightforest:dark_tower"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 					"water_creature": {
 						"bounding_box": "full",
@@ -525,12 +225,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -546,8 +246,8 @@
 						]
 					}
 				},
-				"step": "underground_structures",
-				"id": "twilightforest:troll_cave"
+				"step": "surface_structures",
+				"id": "twilightforest:quest_grove"
 			}
 		},
 		{
@@ -575,12 +275,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -625,12 +325,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -647,57 +347,7 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "twilightforest:medium_hollow_hill"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "underground_structures",
-				"id": "twilightforest:knight_stronghold"
+				"id": "twilightforest:mushroom_tower"
 			}
 		},
 		{
@@ -725,12 +375,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -747,7 +397,7 @@
 					}
 				},
 				"step": "surface_structures",
-				"id": "twilightforest:hydra_lair"
+				"id": "twilightforest:aurora_palace"
 			}
 		},
 		{
@@ -775,12 +425,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -798,6 +448,356 @@
 				},
 				"step": "surface_structures",
 				"id": "twilightforest:naga_courtyard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "twilightforest:hydra_lair"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "twilightforest:knight_stronghold"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "twilightforest:lich_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "twilightforest:yeti_cave"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "twilightforest:troll_cave"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "twilightforest:final_castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "twilightforest:hedge_maze"
 			}
 		}
 	]

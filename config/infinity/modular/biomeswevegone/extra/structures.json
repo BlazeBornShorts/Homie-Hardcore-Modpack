@@ -3,11 +3,71 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "biomeswevegone:ironwood_gour_plateau"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "biomeswevegone:village/salem"
+				"id": "biomeswevegone:village/skyris"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "biomeswevegone:village/pumpkin_patch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "biomeswevegone:prairie_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "biomeswevegone:dripstone_arch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "biomeswevegone:red_rock_arch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "biomeswevegone:village/red_rock"
 			}
 		},
 		{
@@ -34,21 +94,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "raw_generation",
-				"id": "biomeswevegone:red_rock_arch"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "biomeswevegone:village/pumpkin_patch"
+				"id": "biomeswevegone:village/swamp"
 			}
 		},
 		{
@@ -59,26 +109,6 @@
 				},
 				"step": "raw_generation",
 				"id": "biomeswevegone:sharpened_rock"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "raw_generation",
-				"id": "biomeswevegone:dripstone_arch"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "raw_generation",
-				"id": "biomeswevegone:lush_arch"
 			}
 		},
 		{
@@ -117,6 +147,16 @@
 			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "biomeswevegone:abandoned_prairie_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
 						"spawns": [
@@ -136,21 +176,21 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "raw_generation",
-				"id": "biomeswevegone:ironwood_gour_plateau"
+				"step": "surface_structures",
+				"id": "biomeswevegone:village/salem"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
-				"id": "biomeswevegone:village/red_rock"
+				"step": "raw_generation",
+				"id": "biomeswevegone:lush_arch"
 			}
 		},
 		{
@@ -161,46 +201,6 @@
 				},
 				"step": "surface_structures",
 				"id": "biomeswevegone:village/forgotten"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "biomeswevegone:village/swamp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "biomeswevegone:abandoned_prairie_house"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "biomeswevegone:village/skyris"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "biomeswevegone:prairie_house"
 			}
 		}
 	]

@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 9643043,
+				"Instant": false,
+				"Name": "aethergearexpansion:berserk"
+			}
+		}
+	]
+}

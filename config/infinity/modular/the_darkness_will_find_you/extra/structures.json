@@ -25,98 +25,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 20,
-								"minCount": 1,
-								"type": "the_darkness_will_find_you:wretched",
-								"maxCount": 3
-							}
-						]
-					},
 					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "the_darkness_will_find_you:sculk_cat",
-								"maxCount": 1
-							},
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "the_darkness_will_find_you:sculk_cow",
-								"maxCount": 1
-							},
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "the_darkness_will_find_you:sculk_pig",
-								"maxCount": 1
-							},
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "the_darkness_will_find_you:spreader",
-								"maxCount": 1
-							},
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "the_darkness_will_find_you:shackled",
-								"maxCount": 1
-							}
-						]
-					}
-				},
-				"step": "underground_decoration",
-				"id": "the_darkness_will_find_you:ancient_village"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
 					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -164,6 +78,92 @@
 				},
 				"step": "underground_decoration",
 				"id": "the_darkness_will_find_you:ancient_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 20,
+								"minCount": 1,
+								"type": "the_darkness_will_find_you:wretched",
+								"maxCount": 3
+							}
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "the_darkness_will_find_you:sculk_cat",
+								"maxCount": 1
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "the_darkness_will_find_you:sculk_cow",
+								"maxCount": 1
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "the_darkness_will_find_you:sculk_pig",
+								"maxCount": 1
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "the_darkness_will_find_you:spreader",
+								"maxCount": 1
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "the_darkness_will_find_you:shackled",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "underground_decoration",
+				"id": "the_darkness_will_find_you:ancient_village"
 			}
 		}
 	]

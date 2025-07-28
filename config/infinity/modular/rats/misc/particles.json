@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rats:black_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:dutchrat_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:flea"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:milk_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:pirat_ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_king_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:rat_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:running_rat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:saliva"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:upgrade_combiner"
+		}
+	]
+}

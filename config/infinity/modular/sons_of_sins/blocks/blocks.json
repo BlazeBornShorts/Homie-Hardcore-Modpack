@@ -125,6 +125,16 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"float": false,
+				"Name": "sons_of_sins:ether_lantern",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
 				"float": true,
 				"Name": "sons_of_sins:flesh_block",
 				"full": false
@@ -138,6 +148,26 @@
 				"float": true,
 				"Name": "sons_of_sins:soul_steel_block",
 				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "sons_of_sins:soul_steel_chain",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "sons_of_sins:soul_steel_door",
+				"full": false
 			}
 		},
 		{
@@ -168,6 +198,16 @@
 				"float": true,
 				"Name": "sons_of_sins:soul_steel_tiles",
 				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "sons_of_sins:soul_steel_trapdoor",
+				"full": false
 			}
 		},
 		{

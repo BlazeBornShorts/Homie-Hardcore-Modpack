@@ -18,6 +18,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "fnm_recrafted:burning_spreader_block"
+		},
+		{
+			"weight": 1.0,
 			"key": "fnm_recrafted:chiselednethermud"
 		},
 		{
@@ -30,7 +34,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "fnm_recrafted:effervescent_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:fiery_soul"
+		},
+		{
+			"weight": 1.0,
 			"key": "fnm_recrafted:flamus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:floating_wither_skull_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -50,6 +66,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "fnm_recrafted:ironshell_snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:lava_angel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "fnm_recrafted:livingsoulflame_spawn_egg"
 		},
 		{
@@ -59,6 +83,18 @@
 		{
 			"weight": 1.0,
 			"key": "fnm_recrafted:magmalizard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:magmatic_piglin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:morterium_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:morterium_tameable_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -99,6 +135,26 @@
 		{
 			"weight": 1.0,
 			"key": "fnm_recrafted:pixern_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:poison_spreader_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:quartz_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:quartz_walker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:runiza_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:scorching_berry_juice"
 		},
 		{
 			"weight": 1.0,
@@ -162,7 +218,31 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "fnm_recrafted:soul_leech_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:soul_mask_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:soul_roll"
+		},
+		{
+			"weight": 1.0,
 			"key": "fnm_recrafted:soulfungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:splitter_left_half_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:splitter_right_half_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:splitter_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -250,6 +330,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "fnm_recrafted:withering_spreader"
+		},
+		{
+			"weight": 1.0,
 			"key": "fnm_recrafted:witheringamethystaxe"
 		},
 		{
@@ -267,6 +351,10 @@
 		{
 			"weight": 1.0,
 			"key": "fnm_recrafted:witheringamethystsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "fnm_recrafted:yongire_cake"
 		},
 		{
 			"weight": 1.0,

@@ -46,6 +46,13 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "monster",
+				"Name": "fnm_recrafted:floating_wither_skull"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
 				"Name": "fnm_recrafted:fungan"
 			}
 		},
@@ -67,6 +74,20 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "monster",
+				"Name": "fnm_recrafted:ironshell_snail"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:lava_angel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
 				"Name": "fnm_recrafted:livingsoulflame"
 			}
 		},
@@ -75,6 +96,27 @@
 			"key": {
 				"Category": "monster",
 				"Name": "fnm_recrafted:magmalizard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:magmatic_piglin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:morterium"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:morterium_tameable"
 			}
 		},
 		{
@@ -96,6 +138,20 @@
 			"key": {
 				"Category": "monster",
 				"Name": "fnm_recrafted:pixern"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:quartz_walker"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:runiza"
 			}
 		},
 		{
@@ -166,6 +222,34 @@
 			"key": {
 				"Category": "monster",
 				"Name": "fnm_recrafted:skreytameable"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:soul_leech"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:splitter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:splitter_left_half"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "fnm_recrafted:splitter_right_half"
 			}
 		},
 		{

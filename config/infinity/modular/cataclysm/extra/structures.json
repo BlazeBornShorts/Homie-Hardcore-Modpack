@@ -3,16 +3,6 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "cataclysm:ancient_factory"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 					"monster": {
@@ -38,42 +28,6 @@
 				},
 				"step": "surface_structures",
 				"id": "cataclysm:cursed_pyramid"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-							{
-								"weight": 3,
-								"minCount": 1,
-								"type": "cataclysm:endermaptera",
-								"maxCount": 1
-							}
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "cataclysm:ruined_citadel"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "cataclysm:acropolis"
 			}
 		},
 		{
@@ -118,7 +72,53 @@
 					}
 				},
 				"step": "surface_structures",
+				"id": "cataclysm:acropolis"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"weight": 3,
+								"minCount": 1,
+								"type": "cataclysm:endermaptera",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "cataclysm:ruined_citadel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
 				"id": "cataclysm:burning_arena"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "cataclysm:ancient_factory"
 			}
 		}
 	]

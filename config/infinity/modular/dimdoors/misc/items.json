@@ -806,6 +806,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_rats_pirat_door"
+		},
+		{
+			"weight": 1.0,
 			"key": "dimdoors:item_ag_dim_ror_azuric_door"
 		},
 		{
@@ -819,6 +823,10 @@
 		{
 			"weight": 1.0,
 			"key": "dimdoors:item_ag_dim_ror_industrial_metal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_sons_of_sins_soul_steel_door"
 		},
 		{
 			"weight": 1.0,

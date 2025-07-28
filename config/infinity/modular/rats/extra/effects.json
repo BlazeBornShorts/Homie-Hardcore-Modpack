@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 4478519,
+				"Instant": false,
+				"Name": "rats:plague"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16768345,
+				"Instant": false,
+				"Name": "rats:synesthesia"
+			}
+		}
+	]
+}

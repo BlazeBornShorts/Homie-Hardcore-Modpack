@@ -1,0 +1,356 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.air_raid.siren"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.cheese_cauldron.blue_cheese_made"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.cheese_cauldron.cheese_made"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.cheese_cauldron.empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.cheese_cauldron.nether_cheese_made"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.dutchrat_bell.ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.rat_trap.add_bait"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.rat_trap.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.rat_trap.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.rat_trap.remove_bait"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.trash_can.empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.trash_can.fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:block.rats.trash_can.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:effect.rats.plague_spread"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:effect.rats.potion_effect.begin"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:effect.rats.potion_effect.end"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.biplane.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.biplane.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.biplane.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.biplane.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.black_death.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.black_death.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.black_death.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.black_death.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.dutchrat.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.dutchrat.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.dutchrat.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.dutchrat.laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.laser.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.neoratlantean.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.neoratlantean.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.neoratlantean.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.neoratlantean.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.neoratlantean.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.pied_piper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.pied_piper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.pied_piper.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.pirat.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_cloud.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_cloud.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_cloud.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_doctor.disappear"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_doctor.drink"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_doctor.drink_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_doctor.reappear"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_doctor.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.plague_doctor.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.dig"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.drink"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.pirate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.poop"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.santa"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat.transfer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat_beast.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat_king.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rat_king.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratfish.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratfish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratfish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratfish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_automaton.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_automaton.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_automaton.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_ratbot.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_ratbot.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_ratbot.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_spirit.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_spirit.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.ratlantean_spirit.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:entity.rats.rattling_gun.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.dye_sponge.used"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.ectoplasm.transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.rat_flute.no_funny"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.rat_flute.normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.rat_net.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.rat_nugget.ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.rat_whistle.whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.ratbow_essence.used"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:item.rats.ratlantean_flame.shoot"
+		}
+	]
+}

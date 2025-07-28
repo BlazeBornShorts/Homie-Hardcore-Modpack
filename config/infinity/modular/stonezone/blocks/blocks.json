@@ -166,16 +166,6 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
-				"Name": "stonezone:q/aether/holystone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
 				"Name": "stonezone:q/aether_redux/divinite_vertical_slab",
 				"full": false
 			}
@@ -288,16 +278,6 @@
 				"float": true,
 				"Name": "stonezone:q/astral_dimension/astral_stone_pillar",
 				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/astral_dimension/faded_stone_vertical_slab",
-				"full": false
 			}
 		},
 		{
@@ -426,26 +406,6 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
-				"Name": "stonezone:q/biomeswevegone/dacite_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/biomeswevegone/mossy_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
 				"Name": "stonezone:q/biomeswevegone/pink_sandstone_vertical_slab",
 				"full": false
 			}
@@ -496,16 +456,6 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
-				"Name": "stonezone:q/biomeswevegone/rocky_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
 				"Name": "stonezone:q/biomeswevegone/white_sandstone_vertical_slab",
 				"full": false
 			}
@@ -537,36 +487,6 @@
 				"laggy": false,
 				"float": true,
 				"Name": "stonezone:q/blue_skies/cinderstone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/blue_skies/lunar_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/blue_skies/nature_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/blue_skies/poison_stone_vertical_slab",
 				"full": false
 			}
 		},
@@ -656,16 +576,6 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
-				"Name": "stonezone:q/blue_skies/turquoise_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
 				"Name": "stonezone:q/blue_skies/umber_pillar",
 				"full": true
 			}
@@ -707,16 +617,6 @@
 				"laggy": false,
 				"float": true,
 				"Name": "stonezone:q/botania/polished_livingrock_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/botania/shimmerrock_vertical_slab",
 				"full": false
 			}
 		},
@@ -857,16 +757,6 @@
 				"laggy": false,
 				"float": true,
 				"Name": "stonezone:q/deeperdarker/sculk_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/divinerpg/asphalt_vertical_slab",
 				"full": false
 			}
 		},
@@ -1146,16 +1036,6 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
-				"Name": "stonezone:q/tconstruct/seared_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
 				"Name": "stonezone:q/terramity/igneostone_pillar",
 				"full": true
 			}
@@ -1236,26 +1116,6 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
-				"Name": "stonezone:q/undergarden/shiverstone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/undergarden/tremblecrust_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
 				"Name": "stonezone:q/unusualend/gloopslate_pillar",
 				"full": true
 			}
@@ -1307,16 +1167,6 @@
 				"laggy": false,
 				"float": true,
 				"Name": "stonezone:q/unusualend/polished_warped_stone_vertical_slab",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": false,
-				"float": true,
-				"Name": "stonezone:q/upgrade_aquatic/coralstone_vertical_slab",
 				"full": false
 			}
 		}

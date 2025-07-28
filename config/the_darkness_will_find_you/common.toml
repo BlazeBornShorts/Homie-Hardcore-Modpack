@@ -1,15 +1,15 @@
 #Chance to start a horror event every 2000 ticks at night (and in the always dark dimensions) when player has Marked effect
 #Default: 20
 #Range: 0 ~ 100
-marked_event_probability = 10
+marked_event_probability = 20
 #Chance to start Sculk Siege event at midnight (and two times per day in the always dark dimensions) when player has Marked effect
 #Default: 10
 #Range: 0 ~ 100
-sculk_siege_event_probability = 0
+sculk_siege_event_probability = 10
 #Chance to start Apocalyptic Wasteland event when player tries to sleep
 #Default: 20
 #Range: 1 ~ 100
-apocalyptic_wasteland_event_probability = 10
+apocalyptic_wasteland_event_probability = 20
 #Chance to burn Charged Totem of Darkness
 #Default: 5
 #Range: 0 ~ 100

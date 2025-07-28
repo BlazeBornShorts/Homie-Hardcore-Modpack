@@ -66,6 +66,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "eeeabsmobs:ghost_warrior_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
 			"key": "eeeabsmobs:guardian_axe"
 		},
 		{

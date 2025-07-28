@@ -12,6 +12,15 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"Category": "neutral",
+				"Color": 1900377,
+				"Instant": false,
+				"Name": "alexscavesexemplified:serened"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"Category": "harmful",
 				"Color": 16530937,
 				"Instant": false,

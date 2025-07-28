@@ -6,8 +6,8 @@
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
-				"id": "endlessbiomes:arkan_bulwark"
+				"step": "underground_structures",
+				"id": "endlessbiomes:resitive_bulwark"
 			}
 		},
 		{
@@ -16,8 +16,8 @@
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "underground_structures",
-				"id": "endlessbiomes:resitive_bulwark"
+				"step": "surface_structures",
+				"id": "endlessbiomes:arkan_bulwark"
 			}
 		}
 	]

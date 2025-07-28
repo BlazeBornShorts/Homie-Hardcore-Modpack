@@ -3,6 +3,16 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ad_astra:pygro_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_box",
 				"spawn_overrides": {
 				},
@@ -17,7 +27,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "ad_astra:oil_well"
+				"id": "ad_astra:lunarian_village"
 			}
 		},
 		{
@@ -28,36 +38,6 @@
 				},
 				"step": "surface_structures",
 				"id": "ad_astra:moon_dungeon"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ad_astra:pygro_village"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ad_astra:lunar_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ad_astra:lunarian_village"
 			}
 		},
 		{
@@ -78,6 +58,26 @@
 				},
 				"step": "surface_structures",
 				"id": "ad_astra:venus_bullet"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ad_astra:oil_well"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ad_astra:lunar_tower"
 			}
 		}
 	]

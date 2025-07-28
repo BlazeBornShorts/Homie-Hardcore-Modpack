@@ -7,16 +7,6 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "apotheosis:tower_leaf"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "apotheosis:tower_spruce"
 			}
 		},
@@ -27,7 +17,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "apotheosis:tower_sand"
+				"id": "apotheosis:tower_main"
 			}
 		},
 		{
@@ -37,7 +27,17 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "apotheosis:tower_main"
+				"id": "apotheosis:tower_leaf"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "apotheosis:tower_sand"
 			}
 		}
 	]

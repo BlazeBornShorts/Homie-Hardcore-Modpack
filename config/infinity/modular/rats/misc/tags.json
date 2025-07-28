@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rats:diggable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:marbled_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:quarry_ignoreables"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:trash_can_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "rats:unraidable_containers"
+		}
+	]
+}

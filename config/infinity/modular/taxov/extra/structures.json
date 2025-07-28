@@ -3,6 +3,16 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "taxov:lighthouse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
@@ -27,7 +37,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "taxov:marine_ship"
+				"id": "taxov:pirate_ship"
 			}
 		},
 		{
@@ -37,17 +47,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "taxov:pirate_ship"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "taxov:lighthouse"
+				"id": "taxov:marine_ship"
 			}
 		},
 		{

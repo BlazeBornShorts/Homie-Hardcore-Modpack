@@ -70,10 +70,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stonezone:q/aether/holystone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
 			"key": "stonezone:q/aether_redux/divinite_vertical_slab"
 		},
 		{
@@ -119,10 +115,6 @@
 		{
 			"weight": 1.0,
 			"key": "stonezone:q/astral_dimension/astral_stone_pillar"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/astral_dimension/faded_stone_vertical_slab"
 		},
 		{
 			"weight": 1.0,
@@ -174,14 +166,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stonezone:q/biomeswevegone/dacite_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/biomeswevegone/mossy_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
 			"key": "stonezone:q/biomeswevegone/pink_sandstone_vertical_slab"
 		},
 		{
@@ -202,10 +186,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stonezone:q/biomeswevegone/rocky_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
 			"key": "stonezone:q/biomeswevegone/white_sandstone_vertical_slab"
 		},
 		{
@@ -219,18 +199,6 @@
 		{
 			"weight": 1.0,
 			"key": "stonezone:q/blue_skies/cinderstone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/blue_skies/lunar_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/blue_skies/nature_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/blue_skies/poison_stone_vertical_slab"
 		},
 		{
 			"weight": 1.0,
@@ -266,10 +234,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stonezone:q/blue_skies/turquoise_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
 			"key": "stonezone:q/blue_skies/umber_pillar"
 		},
 		{
@@ -287,10 +251,6 @@
 		{
 			"weight": 1.0,
 			"key": "stonezone:q/botania/polished_livingrock_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/botania/shimmerrock_vertical_slab"
 		},
 		{
 			"weight": 1.0,
@@ -347,10 +307,6 @@
 		{
 			"weight": 1.0,
 			"key": "stonezone:q/deeperdarker/sculk_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/divinerpg/asphalt_vertical_slab"
 		},
 		{
 			"weight": 1.0,
@@ -462,10 +418,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stonezone:q/tconstruct/seared_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
 			"key": "stonezone:q/terramity/igneostone_pillar"
 		},
 		{
@@ -498,14 +450,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stonezone:q/undergarden/shiverstone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/undergarden/tremblecrust_vertical_slab"
-		},
-		{
-			"weight": 1.0,
 			"key": "stonezone:q/unusualend/gloopslate_pillar"
 		},
 		{
@@ -527,10 +471,6 @@
 		{
 			"weight": 1.0,
 			"key": "stonezone:q/unusualend/polished_warped_stone_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stonezone:q/upgrade_aquatic/coralstone_vertical_slab"
 		}
 	]
 }

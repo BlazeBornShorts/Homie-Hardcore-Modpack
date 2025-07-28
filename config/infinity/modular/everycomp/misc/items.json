@@ -3854,78 +3854,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_bookshelf"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_chest"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_hedge"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_ladder"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_leaf_carpet"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_post"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_trapped_chest"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/charred_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_bookshelf"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_chest"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_hedge"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_ladder"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_leaf_carpet"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_post"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_trapped_chest"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/saffron_vertical_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/vertical_charred_planks"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:q/nether_additions/vertical_saffron_planks"
-		},
-		{
-			"weight": 1.0,
 			"key": "everycomp:q/netherdungeons/ginger_bookshelf"
 		},
 		{
@@ -4051,6 +3979,50 @@
 		{
 			"weight": 1.0,
 			"key": "everycomp:q/outer_end/vertical_azure_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/hollow_pirat_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/stripped_pirat_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/vertical_pirat_planks"
 		},
 		{
 			"weight": 1.0,
@@ -6094,6 +6066,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/driftwood_post"
+		},
+		{
+			"weight": 1.0,
 			"key": "everycomp:q/upgrade_aquatic/driftwood_trapped_chest"
 		},
 		{
@@ -6139,6 +6115,10 @@
 		{
 			"weight": 1.0,
 			"key": "everycomp:q/upgrade_aquatic/river_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/upgrade_aquatic/stripped_driftwood_post"
 		},
 		{
 			"weight": 1.0,
@@ -7002,14 +6982,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "everycomp:ru/nether_additions/charred_branch"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:ru/nether_additions/saffron_branch"
-		},
-		{
-			"weight": 1.0,
 			"key": "everycomp:ru/netherdungeons/ginger_branch"
 		},
 		{
@@ -7059,6 +7031,14 @@
 		{
 			"weight": 1.0,
 			"key": "everycomp:ru/quark/yellow_blossom_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/rats/pirat_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ru/rats/pirat_shrub"
 		},
 		{
 			"weight": 1.0,
@@ -7994,14 +7974,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "everycomp:tf/nether_additions/charred_banister"
-		},
-		{
-			"weight": 1.0,
-			"key": "everycomp:tf/nether_additions/saffron_banister"
-		},
-		{
-			"weight": 1.0,
 			"key": "everycomp:tf/netherdungeons/ginger_banister"
 		},
 		{
@@ -8055,6 +8027,14 @@
 		{
 			"weight": 1.0,
 			"key": "everycomp:tf/quark/hollow_blossom_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/rats/hollow_pirat_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:tf/rats/pirat_banister"
 		},
 		{
 			"weight": 1.0,
@@ -8755,6 +8735,10 @@
 		{
 			"weight": 1.0,
 			"key": "everycomp:vp/quark/blossom_horticulturist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vp/rats/pirat_horticulturist_table"
 		},
 		{
 			"weight": 1.0,

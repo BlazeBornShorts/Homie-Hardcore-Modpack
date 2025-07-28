@@ -51,15 +51,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "jadeaddons.lootr": {
-    "info": true
-  },
-  "twilightforest": {
-    "quest_ram_wool": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -68,18 +59,70 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "expatternprovider": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
   "apotheosis": {
     "adventure": true,
-    "ench": true,
-    "spawner": true
+    "ench": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "projecte": {
+    "emc_provider": true
+  },
+  "mekanism": {
+    "infuse_type": true,
+    "gas": true,
+    "remove_builtin": true,
+    "pigment": true,
+    "fluid": true,
+    "slurry": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "projectexpansion": {
+    "provider": true
+  },
+  "aether_redux": {
+    "logicator": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
   },
   "waystones": {
     "waystone": true
   },
   "corpse": {
     "corpse": true
-  },
-  "balm": {
-    "jade": true
   }
 }

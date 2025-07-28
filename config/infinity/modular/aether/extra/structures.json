@@ -5,36 +5,6 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "aether:ruined_portal_swamp"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "aether:ruined_portal"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "aether:ruined_portal_mountain"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
 					"water_creature": {
 						"bounding_box": "full",
 						"spawns": [
@@ -75,12 +45,12 @@
 						"spawns": [
 						]
 					},
-					"creature": {
+					"water_ambient": {
 						"bounding_box": "full",
 						"spawns": [
 						]
 					},
-					"water_ambient": {
+					"creature": {
 						"bounding_box": "full",
 						"spawns": [
 						]
@@ -98,86 +68,6 @@
 				},
 				"step": "surface_structures",
 				"id": "aether:silver_dungeon"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"aether_darkness_monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"aether_surface_monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"aether_sky_monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"aether_aerwhale": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "surface_structures",
-				"id": "aether:gold_dungeon"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "aether:ruined_portal_jungle"
 			}
 		},
 		{
@@ -212,6 +102,26 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
+				"id": "aether:ruined_portal_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "aether:ruined_portal_swamp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
 				"id": "aether:ruined_portal_desert"
 			}
 		},
@@ -222,7 +132,97 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
+				"id": "aether:ruined_portal_mountain"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
 				"id": "aether:large_aercloud"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "aether:ruined_portal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"aether_darkness_monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"aether_surface_monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"aether_sky_monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"aether_aerwhale": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "aether:gold_dungeon"
 			}
 		}
 	]

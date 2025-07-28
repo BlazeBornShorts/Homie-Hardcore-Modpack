@@ -9,22 +9,28 @@
 						"bounding_box": "piece",
 						"spawns": [
 							{
-								"weight": 2,
+								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:piglin",
+								"type": "bygonenether:warped_enderman",
 								"maxCount": 1
 							},
 							{
 								"weight": 1,
 								"minCount": 1,
-								"type": "bygonenether:piglin_hunter",
+								"type": "minecraft:enderman",
+								"maxCount": 1
+							},
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "mekanismadditions:baby_enderman",
 								"maxCount": 1
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "bygonenether:piglin_manor"
+				"id": "bygonenether:citadel"
 			}
 		},
 		{
@@ -57,28 +63,22 @@
 						"bounding_box": "piece",
 						"spawns": [
 							{
-								"weight": 1,
+								"weight": 2,
 								"minCount": 1,
-								"type": "bygonenether:warped_enderman",
+								"type": "minecraft:piglin",
 								"maxCount": 1
 							},
 							{
 								"weight": 1,
 								"minCount": 1,
-								"type": "minecraft:enderman",
-								"maxCount": 1
-							},
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "mekanismadditions:baby_enderman",
+								"type": "bygonenether:piglin_hunter",
 								"maxCount": 1
 							}
 						]
 					}
 				},
 				"step": "surface_structures",
-				"id": "bygonenether:citadel"
+				"id": "bygonenether:piglin_manor"
 			}
 		}
 	]

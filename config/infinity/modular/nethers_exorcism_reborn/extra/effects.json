@@ -12,6 +12,15 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false,
+				"Name": "nethers_exorcism_reborn:fallnegate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"Category": "beneficial",
 				"Color": -3407668,
 				"Instant": false,
@@ -22,7 +31,16 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
-				"Color": -3355648,
+				"Color": -3342490,
+				"Instant": false,
+				"Name": "nethers_exorcism_reborn:pure_radiation"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -3342490,
 				"Instant": false,
 				"Name": "nethers_exorcism_reborn:radiation_poisoning"
 			}

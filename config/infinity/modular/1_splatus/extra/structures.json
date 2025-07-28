@@ -7,7 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "1_splatus:blaze_king_tower"
+				"id": "1_splatus:sanctum"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "1_splatus:sanctum"
+				"id": "1_splatus:blaze_king_tower"
 			}
 		}
 	]

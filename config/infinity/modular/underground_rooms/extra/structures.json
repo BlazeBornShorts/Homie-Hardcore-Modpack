@@ -12,7 +12,7 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:mining_storage_room"
+				"id": "underground_rooms:throne_room"
 			}
 		},
 		{
@@ -20,14 +20,9 @@
 			"key": {
 				"terrain_adaptation": "bury",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:library1"
+				"id": "underground_rooms:desert_crypt"
 			}
 		},
 		{
@@ -35,14 +30,9 @@
 			"key": {
 				"terrain_adaptation": "bury",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:hidden_temple"
+				"id": "underground_rooms:blacksmith_room1"
 			}
 		},
 		{
@@ -72,7 +62,7 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:throne_room"
+				"id": "underground_rooms:treasure_room"
 			}
 		},
 		{
@@ -82,53 +72,7 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:alchemy_room"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "underground_rooms:desert_crypt"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "minecraft:witch",
-								"maxCount": 2
-							}
-						]
-					}
-				},
-				"step": "underground_structures",
-				"id": "underground_rooms:enchanting_room"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "underground_structures",
-				"id": "underground_rooms:mainroom1"
+				"id": "underground_rooms:end_room"
 			}
 		},
 		{
@@ -157,9 +101,20 @@
 			"key": {
 				"terrain_adaptation": "bury",
 				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:witch",
+								"maxCount": 2
+							}
+						]
+					}
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:end_room"
+				"id": "underground_rooms:enchanting_room"
 			}
 		},
 		{
@@ -169,7 +124,37 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:blacksmith_room1"
+				"id": "underground_rooms:alchemy_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "underground_rooms:mainroom1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "underground_rooms:library1"
 			}
 		},
 		{
@@ -194,7 +179,22 @@
 					}
 				},
 				"step": "underground_structures",
-				"id": "underground_rooms:treasure_room"
+				"id": "underground_rooms:mining_storage_room"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "underground_structures",
+				"id": "underground_rooms:hidden_temple"
 			}
 		}
 	]

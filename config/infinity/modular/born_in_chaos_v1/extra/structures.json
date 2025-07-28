@@ -7,7 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_fubuki_banzai"
+				"id": "born_in_chaos_v1:grave_orion"
 			}
 		},
 		{
@@ -17,7 +17,57 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_euthymia"
+				"id": "born_in_chaos_v1:infernal_pumpkin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:dark_tower_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:grave_2_dling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:observation_tower_plains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:clown_caravan_savanna"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:grave_2003wise"
 			}
 		},
 		{
@@ -47,17 +97,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_memesus"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:mound_of_hounds"
+				"id": "born_in_chaos_v1:farm"
 			}
 		},
 		{
@@ -77,7 +117,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "born_in_chaos_v1:clown_caravan_savanna"
+				"id": "born_in_chaos_v1:dark_tower_forest"
 			}
 		},
 		{
@@ -87,7 +127,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "born_in_chaos_v1:observation_tower_forest"
+				"id": "born_in_chaos_v1:grave_euthymia"
 			}
 		},
 		{
@@ -107,106 +147,6 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "born_in_chaos_v1:observation_tower_plains"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_2003wise"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:dark_tower_forest"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:infernal_pumpkin"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_somfunambulist"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:dark_tower_taiga"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_darktitan"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_2_dling"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_feral"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:farm"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
 				"id": "born_in_chaos_v1:clown_caravan_plains"
 			}
 		},
@@ -217,17 +157,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_orion"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "born_in_chaos_v1:grave_petasi"
+				"id": "born_in_chaos_v1:grave_memesus"
 			}
 		},
 		{
@@ -247,7 +177,77 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
+				"id": "born_in_chaos_v1:mound_of_hounds"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:observation_tower_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
 				"id": "born_in_chaos_v1:grave_mike_and_rory"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:grave_feral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:grave_somfunambulist"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:grave_darktitan"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:grave_fubuki_banzai"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "born_in_chaos_v1:grave_petasi"
 			}
 		}
 	]

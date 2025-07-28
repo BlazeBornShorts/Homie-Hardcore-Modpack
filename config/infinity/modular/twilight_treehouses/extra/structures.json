@@ -7,7 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "twilight_treehouses:treehouse_abode"
+				"id": "twilight_treehouses:treehouse_cabin"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "twilight_treehouses:treehouse_cabin"
+				"id": "twilight_treehouses:treehouse_abode"
 			}
 		},
 		{

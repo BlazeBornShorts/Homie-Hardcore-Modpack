@@ -2,7 +2,43 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "nethers_exorcism_reborn:dreadfulltunes"
+			"key": "nethers_exorcism_reborn:break3"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:break5"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_idle5"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_idle6"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_idle7"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_rorar"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:crab_step1"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:dread_full_tunes_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:dreadfull_tunes_biome"
 		},
 		{
 			"weight": 1.0,
@@ -30,11 +66,19 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "nethers_exorcism_reborn:genetic_miracle"
+			"key": "nethers_exorcism_reborn:genetic_miracle_biome"
 		},
 		{
 			"weight": 1.0,
-			"key": "nethers_exorcism_reborn:mystic_blues"
+			"key": "nethers_exorcism_reborn:genetic_miracle_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:mystic_blues_biome"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:mystic_blues_disc"
 		},
 		{
 			"weight": 1.0,
@@ -51,6 +95,10 @@
 		{
 			"weight": 1.0,
 			"key": "nethers_exorcism_reborn:roarer_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "nethers_exorcism_reborn:small_crab_roar"
 		},
 		{
 			"weight": 1.0,

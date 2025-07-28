@@ -4,7 +4,7 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
-				"Color": 4879982,
+				"Color": 7004023,
 				"Instant": false,
 				"Name": "eeeabsmobs:armor_lower_effect"
 			}
@@ -13,7 +13,7 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
-				"Color": -15132648,
+				"Color": 1648179,
 				"Instant": false,
 				"Name": "eeeabsmobs:erode_effect"
 			}
@@ -31,7 +31,7 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
-				"Color": -13382297,
+				"Color": 13434675,
 				"Instant": false,
 				"Name": "eeeabsmobs:vertigo_effect"
 			}

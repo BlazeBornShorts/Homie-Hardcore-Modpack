@@ -7,27 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:huge_crystal_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:small_single_crystal_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:flowerbed_large_flowers_4"
+				"id": "ror:huge_crystal_type_2_2_red"
 			}
 		},
 		{
@@ -37,7 +17,27 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_2_light_blue"
+				"id": "ror:massive_crystal_4_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_5_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_green"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "ror:spike_crystals"
+				"id": "ror:factory-floor-placer"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_1_green"
+				"id": "ror:massive_crystal_2_red"
 			}
 		},
 		{
@@ -77,7 +77,197 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_4_red"
+				"id": "ror:massive_crystal_7_green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_type_2_1_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:server_towers"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_1_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_6_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_6_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "vegetal_decoration",
+				"id": "ror:gemcracking_tower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_2_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_1_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:radar_station"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:prismacon_structures"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_7_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_7_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_3_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_6_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:35x35-baseplate-placer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:small_single_crystal_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:plants_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_7_blue"
 			}
 		},
 		{
@@ -162,457 +352,7 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_3_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_green"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_6_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_1_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_3_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:flowerbed_large_flowers_2"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_1_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_4_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_7_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:server_towers"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_4_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
 				"id": "ror:massive_crystal_4_green"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_2_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_7_green"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_5_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_5_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_1_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_2_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:factory-floor-placer"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:factory-floor-y-placer"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_5_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_1_green"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_2_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:titanic_crystals"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:plants_1"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:flowerbed_large_flowers_3"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:small_single_crystal_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_1_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_7_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_2_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:medium_crystal_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:fairy_queen_arena"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:moon_dungeon"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_2_red"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_2_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_6_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:wfactory-placer-down"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_3_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:small_single_crystal_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "ror:flowerbed_large_flowers_1"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "vegetal_decoration",
-				"id": "ror:gemcracking_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_3_green"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_4_light_blue"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:radar_station"
 			}
 		},
 		{
@@ -632,7 +372,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "ror:crystal_trader_house"
+				"id": "ror:flowerbed_large_flowers_2"
 			}
 		},
 		{
@@ -642,17 +382,137 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_6_blue"
+				"id": "ror:massive_crystal_5_green"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "beard_thin",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_type_2_1_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_2_green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_3_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_5_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_type_2_2_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_4_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_type_2_2_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_6_green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_3_light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_5_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "ror:flowerbed_trader_house"
+				"id": "ror:spike_crystals"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_3_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_type_2_2_light_blue"
 			}
 		},
 		{
@@ -671,8 +531,18 @@
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_4_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
 				"step": "surface_structures",
-				"id": "ror:small_single_crystal_yellow"
+				"id": "ror:small_single_crystal_light_blue"
 			}
 		},
 		{
@@ -682,7 +552,17 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_1_light_blue"
+				"id": "ror:huge_crystal_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:titanic_crystals"
 			}
 		},
 		{
@@ -692,7 +572,7 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_5_blue"
+				"id": "ror:huge_crystal_blue"
 			}
 		},
 		{
@@ -702,7 +582,7 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_6_red"
+				"id": "ror:massive_crystal_4_blue"
 			}
 		},
 		{
@@ -712,7 +592,7 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:huge_crystal_type_2_1_blue"
+				"id": "ror:massive_crystal_7_light_blue"
 			}
 		},
 		{
@@ -722,7 +602,17 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_2_blue"
+				"id": "ror:huge_crystal_type_2_1_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_3_green"
 			}
 		},
 		{
@@ -732,17 +622,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "ror:prismacon_structures"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_7_blue"
+				"id": "ror:staring_eye_temple"
 			}
 		},
 		{
@@ -784,6 +664,16 @@
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
+				"step": "surface_structures",
+				"id": "ror:moon_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
 				"step": "strongholds",
 				"id": "ror:huge_crystal_type_2_1_yellow"
 			}
@@ -791,21 +681,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_1_yellow"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_7_light_blue"
+				"step": "surface_structures",
+				"id": "ror:flowerbed_large_flowers_3"
 			}
 		},
 		{
@@ -815,7 +695,57 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "ror:35x35-baseplate-placer"
+				"id": "ror:small_single_crystal_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:flowerbed_trader_house"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:small_single_crystal_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_2_yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:factory-floor-y-placer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_6_blue"
 			}
 		},
 		{
@@ -831,11 +761,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_3_red"
+				"step": "surface_structures",
+				"id": "ror:fairy_queen_arena"
 			}
 		},
 		{
@@ -845,7 +775,17 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_2_green"
+				"id": "ror:massive_crystal_1_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:medium_crystal_red"
 			}
 		},
 		{
@@ -855,17 +795,7 @@
 				"spawn_overrides": {
 				},
 				"step": "strongholds",
-				"id": "ror:massive_crystal_6_green"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "strongholds",
-				"id": "ror:massive_crystal_5_green"
+				"id": "ror:massive_crystal_1_red"
 			}
 		},
 		{
@@ -875,7 +805,77 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "ror:staring_eye_temple"
+				"id": "ror:flowerbed_large_flowers_4"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:flowerbed_large_flowers_1"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_5_red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_2_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:huge_crystal_type_2_1_green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:wfactory-placer-down"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "strongholds",
+				"id": "ror:massive_crystal_1_green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ror:crystal_trader_house"
 			}
 		}
 	]

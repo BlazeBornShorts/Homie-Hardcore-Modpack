@@ -8,8 +8,8 @@
   },
   "wardrobeHelmets": {
     "entries": {
-      "leather_helmet": 0.4,
-      "chainmail_helmet": 0.2
+      "chainmail_helmet": 0.2,
+      "leather_helmet": 0.4
     },
     "defaultItem": "air"
   },
@@ -29,8 +29,8 @@
   },
   "armoryLeggings": {
     "entries": {
-      "golden_leggings": 0.2,
-      "chainmail_leggings": 0.3
+      "chainmail_leggings": 0.3,
+      "golden_leggings": 0.2
     },
     "defaultItem": "air"
   },
@@ -50,8 +50,8 @@
   },
   "wardrobeBoots": {
     "entries": {
-      "leather_boots": 0.4,
-      "chainmail_boots": 0.2
+      "chainmail_boots": 0.2,
+      "leather_boots": 0.4
     },
     "defaultItem": "air"
   }

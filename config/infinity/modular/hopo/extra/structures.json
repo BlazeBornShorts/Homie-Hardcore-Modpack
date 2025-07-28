@@ -7,7 +7,7 @@
 				"spawn_overrides": {
 				},
 				"step": "fluid_springs",
-				"id": "hopo:underwater/underwater_warm_small_ruins"
+				"id": "hopo:underwater/underwater_fossils"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 				"spawn_overrides": {
 				},
 				"step": "fluid_springs",
-				"id": "hopo:underwater/underwater_fossils"
+				"id": "hopo:underwater/underwater_warm_small_ruins"
 			}
 		},
 		{

@@ -7,7 +7,27 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_decoration",
+				"id": "awesomedungeonnether:nth_absi_palace"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
 				"id": "awesomedungeonnether:nth_accum_quad"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "awesomedungeonnether:nth_center_square"
 			}
 		},
 		{
@@ -27,26 +47,6 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_decoration",
-				"id": "awesomedungeonnether:nth_blaze_tower"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
-				"id": "awesomedungeonnether:nth_absi_palace"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "underground_decoration",
 				"id": "awesomedungeonnether:nth_giant_crimson_tree"
 			}
 		},
@@ -57,7 +57,7 @@
 				"spawn_overrides": {
 				},
 				"step": "underground_decoration",
-				"id": "awesomedungeonnether:nth_center_square"
+				"id": "awesomedungeonnether:nth_blaze_tower"
 			}
 		}
 	]
