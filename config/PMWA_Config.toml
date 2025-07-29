@@ -1,0 +1,49 @@
+
+["Mob day requirements"]
+	#Add your entries here, more info and options below
+	"Mob/limit List" = ["mob:id,color:Announcement,requirement", "mob:id,color:Announcement,requirement", "mob:id,color:Announcement,requirement", "mob:id,color:Announcement,requirement", "mob:id,color:Announcement,requirement", "mob:id,color:Announcement,requirement (add as many of any types of trigger as you need)"]
+	#
+	#Note that all triggers, commands, and advancements work with IDs from other mods, not just vanilla!
+	# Here you can list all mobs (or entire mods’ entities!) you want to restrict, followed by an activation message (uses /tellraw and takes in a color name or # hex code) or a /command
+	# (if you use a command that contains double quotes, replace them with forward slashes, /pmwa adapt_command can do this for you),
+	# and finally, the days or requirements you want to limit them by.
+	# You can use four different types of restrictions (or use “never” to disable them completely). 
+	# 1. Restrict/trigger by day by using a day number for the restriction, e.g. “50” means any targeted mob won’t spawn until day 50, and the message/command will trigger as that day starts.
+	# 2. Restrict/trigger by distance from world x0 z0 coordinates by using a number followed by a dash for the restriction, e.g. “1000-“ means any targeted mob won’t spawn within 1000 blocks of the central x0 z0 world coordinates, and any message/command will trigger for any player that enters that zone each time they do so (commands execute in their name).
+	# 3. Restrict/trigger by mob kill by using an entity ID in the restriction portion, e.g. “minecraft:ender_dragon” means any targeted mob won’t spawn until the enderdragon has been killed, and the message/command will trigger upon it being killed for the first time.
+	# 4. Restrict/trigger by advancement (very powerful, you can find advancement IDs with the /advancement command) by using an advancement ID followed by a dash for the restriction, e.g. “minecraft:adventure/hero_of_the_village-“ means any targeted entity won’t spawn until at least one player in the world completes that advancement (or recipe unlock), and the message/command will trigger upon someone initially completing it.
+	#
+	# +  Entries should be formatted like this: “mob:id,color:Activation Message,requirement” (or you can use just a mod ID with a dash after the colon to limit every mob from that mod, or a /command in place of “color:Activation Message” portion). Here's some examples.
+	#  1. Zombies would not spawn until day 5 onwards, sends red tellraw message to everyone: “minecraft:zombie,red:The Zombies have arrived,5”
+	# 2. Enderman mobs would only be able to spawn at a minimum of 1000 blocks from world coordinates x0 z0, purple activation message shown to each player who enters the outer zone each time they do so: “minecraft:enderman,purple:You reached the outer ender-zone, beware the endermen,1000-“
+	# 3. Shulkers would not spawn until the enderdragon has been killed at least once, white activation message: “minecraft:shulker,#000000:You defeated the dragon, now shulkers can spawn!,minecraft:ender_dragon”
+	# 4. Pigs would not spawn until someone completes the “hero of the village” advancement (note the dash needed after the advancement ID to flag it as such instead of a mob ID): “minecraft:pig,pink:By saving the village, you unlocked pigs!”,minecraft:adventure/hero_of_the_village- 
+	#
+	# +  Additional feature examples
+	# - The “brutaliser” mob from one of my mods, ZoNiEx, would not spawn until someone gets an achievement from another one of my mods, ArPhEx, for obtaining an “abyssal blade” item: “zoniex:brutaliser,black:Now that you crafted the Abyssal Blade, the terrifying Brutaliser could appear at any time!,arphex:abyssal_blade_crafted-“
+	# - No mobs from my other mod ArPhEx would spawn until day 10 (you can target all mobs from any entire mod namespace by adding a dash after the colon!), displaying a red activation message when they activate: “arphex:-,Beware the arthropods,10”
+	# - No mobs would be limited at all, but a message would display on day 10: “blank,white:Day 10 is the best day!,10”
+	# - Instead of an activation message, a command will execute (If you want a message as well, use another entry). that gives all players absorption 10 for 5 minutes upon a wither being killed for the first time: “blank,/effect give @a absorption 9 300,minecraft:wither
+	# - Blanket disable mobs by using “never” as the condition (no point in adding an activation trigger). Example where cow spawning will be completely disabled: “minecraft:cow,,never”
+	# - Using a command with a distance-based requirement makes it execute in the name of that player, every time they enter that outer region. You could use this to make it teleport the player back to the world centre if they go too far out (500 blocks out for example): “blank,/tp @s 0 100 0,500-“
+	#
+	# +  Final notes: For no activation message, leave them blank, with two central commas touching. Generally, avoid using number characters outside of the day or distance requirements. Add your entries at the top!
+	# 
+	see_above = true
+
+["Bonus options"]
+	#Optional feature to go back a select number of days each time all players in the overworld die once. For example, setting this to 5 would mean it resets back five whole days each time every player is recorded as having died since the last time it reset. Only checks overworld deaths and players (players in other dimensions won't prevent reset). Dynamic difficulty control.
+	"Death reset system" = 0.0
+	#Set to true if you want the system to announce each day as it starts. Also announces day resets on death if enabled.
+	"Announce each day" = false
+	#Option to send an extra notice in chat to players when they re-enter an entity spawn radius based on the condition for distance from x0 z0 coordinates. Message will match the color of the regular chat for that radius, and display: You have left this outer region.
+	"Notify re-entering radius" = true
+	#If you have used any distance-based limits from world coordinates x0 z0, you may want to disable them in non-overworld dimensions to prevent alternative coordinate scalings from having different effects. Set to false to disable distance-based limits in other dimensions.
+	"Apply distance limits in other dimensions" = true
+	#Do you want the spawn limitations to apply in all dimensions, or just the overworld? Default true value makes it work in non-overworld dimensions
+	"Limit spawns in non-overworld dimensions" = true
+	#Do you want to limit mob spawns in non-vanilla dimensions? If you set the previous option to false, this option will have no effect.
+	"Limit spawns in non-vanilla dimensions" = true
+	#Global parameter. If you're using any activations based on mob kills, you may want to limit it so that the trigger only activates from being killed by a player
+	"Require player source for kill triggers" = true
+
