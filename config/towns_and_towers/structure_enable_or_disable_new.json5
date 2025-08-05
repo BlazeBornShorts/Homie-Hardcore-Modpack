@@ -26,6 +26,7 @@ GitHub Repository: [NEED TO MAKE ONE]
 		"pillager_outpost_ocean": true,
 		"pillager_outpost_old_growth_taiga": true,
 		"pillager_outpost_savanna": true,
+		"pillager_outpost_savanna_plateau": true,
 		"pillager_outpost_snowy_beach": true,
 		"pillager_outpost_snowy_plains": true,
 		"pillager_outpost_snowy_slopes": true,
@@ -65,6 +66,7 @@ GitHub Repository: [NEED TO MAKE ONE]
 		"village_ocean": true,
 		"village_old_growth_taiga": true,
 		"village_grove": true,
+		"village_savanna_plateau": true,
 		"village_sunflower_plains": true,
 		"village_snowy_taiga": true,
 		"village_sparse_jungle": true,
@@ -79,7 +81,8 @@ GitHub Repository: [NEED TO MAKE ONE]
 			"village_classic": true,
 			"village_rustic": true,
 			"village_iberian": true,
-			"village_nilotic": true
+			"village_nilotic": true,
+			"village_piglin": true
 		}
 	}
 }

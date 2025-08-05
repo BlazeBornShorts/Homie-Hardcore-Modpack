@@ -1,9 +1,6 @@
 
 [Etc]
-	#Lava Opacity for the Ignitium Helemt.
-	#Range: 0.01 ~ 1.0
-	lavaVisionOpacity = 0.5
-	#Whether to disable certain aspects of the Ignitium Helemt. Enable if issues with shaders persist.
+	#Off the Custom Rendering
 	shadersCompat = false
 	#ScreenShake(on/off)
 	"ScreenShake(on/off)" = true
@@ -176,7 +173,7 @@
 	EnderGuardianDamageTime = 30
 	#EnderGuardian's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	EnderGuardianNatureHealing = 10.0
+	EnderGuardianNatureHealing = 20.0
 	#Ender guardian's block breaking ignore the MobGriefing
 	EnderguardianBlockBreaking = true
 	#Guardian's Immune to Long distance attack range.
@@ -217,6 +214,12 @@
 	#Monstrosity's Lavabomb amount
 	#Range: 1 ~ 1000000
 	Lavabombamount = 3
+	#Lava Bomb of Monstrosity's Duration
+	#Range: 1 ~ 10000
+	LavaBombDuration = 350
+	#Lava Bomb of Monstrosity's additional random duration size
+	#Range: 1 ~ 10000
+	LavaBombRandomDuration = 150
 	#Monstrosity's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityHealthMultiplier = 1.0
@@ -228,7 +231,7 @@
 	MonstrosityHealingMultiplier = 1.0
 	# Monstrosity's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityNatureHealing = 10.0
+	MonstrosityNatureHealing = 20.0
 	#Monstrosity's DamageCap
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityDamageCap = 22.0
@@ -245,12 +248,6 @@
 	"Monstrosity's prevent attacks from far away Range" = 18.0
 	#Monstrosity's block breaking ignore the MobGriefing
 	monstrosityBlockBreaking = true
-	#Lava Bomb of Monstrosity's Duration
-	#Range: 1 ~ 10000
-	LavaBombDuration = 350
-	#Lava Bomb of Monstrosity's additional random duration size
-	#Range: 1 ~ 10000
-	LavaBombRandomDuration = 150
 
 ["Ender Golem"]
 	#Ender Golem's block breaking ignore the MobGriefing
@@ -274,7 +271,7 @@
 	IgnisDamageMultiplier = 1.0
 	#Ignis's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	IgnisNatureHealing = 10.0
+	IgnisNatureHealing = 20.0
 	#Ignis's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
 	IgnisHealingMultiplier = 1.0
@@ -349,7 +346,7 @@
 	LeviathanDamageMultiplier = 1.0
 	#Leviathan's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	LeviathanNatureHealing = 10.0
+	LeviathanNatureHealing = 20.0
 	#Leviathan's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Leviathan's prevent attacks from far away Range" = 38.0
@@ -417,7 +414,7 @@
 	AncientRemnantDamageMultiplier = 1.0
 	#AncientRemnant's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	AncientRemnantNatureHealing = 10.0
+	AncientRemnantNatureHealing = 20.0
 	#Ancient Remnant's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Ancient Remnant's prevent attacks from far away Range" = 14.0
@@ -488,7 +485,7 @@
 	"Maledictus's prevent attacks from far away Range" = 12.0
 	#Maledictus's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	MaledictusNatureHealing = 10.0
+	MaledictusNatureHealing = 20.0
 	#Maledictus's Phantom Halberd Damage
 	#Range: 0.0 ~ 1000000.0
 	"Maledictus' Phantom Halberd Damage'" = 13.0
@@ -619,6 +616,8 @@
 	#Scylla's Healing with out target
 	#Range: 0.0 ~ 1000000.0
 	"Scylla NatureHealing" = 25.0
+	#Scylla weather change
+	"Scylla Weather Change" = true
 	#Scylla's DamageCap
 	#Range: 0.0 ~ 1000000.0
 	"Scylla DamageCap" = 22.0
@@ -634,4 +633,16 @@
 	#Scylla's Lightning Storm HP Damage
 	#Range: 0.0 ~ 1000000.0
 	"Scylla's Lightning Storm HP Damage" = 0.04
+
+["Boss Respawner"]
+	#on/off
+	MonstrosityRespawner = true
+	#on/off
+	EnderGuardianRespawner = true
+	#on/off
+	HarbingerRespawner = true
+	#on/off
+	RemnantRespawner = true
+	#on/off
+	ScyllaRespawner = true
 

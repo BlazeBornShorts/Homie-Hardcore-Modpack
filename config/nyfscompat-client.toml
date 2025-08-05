@@ -1,0 +1,3 @@
+#Should the SS Calendar show it's information in an Item Frame?
+enableSereneSeasonsCalendarItemFrameInfo = true
+

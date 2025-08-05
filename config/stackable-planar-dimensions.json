@@ -1,0 +1,7 @@
+{
+  "enableMod": true,
+  "enablePlatform": true,
+  "dimensions": "minecraft:overworld?minecraft:the_nether*-1!128?minecraft:the_end$",
+  "tutorialExample": "Type the full dimension name, minecraft:overworld, then type * if you want to customize the world min (exclamation point ! after) and max (question mark ? after to indicate that it is the end), otherwise type a question mark ?. If it is the last dimension in the list, type $. Examples: minecraft:overworld?aether:the_aether$ OR minecraft:overworld*-64!320?aether:the_aether$. Delete this file to reset it.",
+  "tips": "Pressing enter will not ruin the config, to keep yourself organized here, press enter after every ? so that you have just a line for your dimension. If you go into a creative world and type /execute in, then press tab, you will have a list of the dimension names and you can copy and paste those into here to get them working. After every config change, make sure you either reload the world or type /spd.reload"
+}

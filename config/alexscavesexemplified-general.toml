@@ -12,14 +12,14 @@
 	CHARGED_CAVE_CREEPER_CHANCE = 0.2
 	#Adds flammability to blocks that should be flammable
 	ADDITIONAL_FLAMMABILITY_ENABLED = true
+	#Reduces level instead of insta-losing in spelunkery minigame
+	FORGIVING_SPELUKING_ENABLED = true
 	#Whether it adds new interactions of bone meal with Alex's Cave's flora
 	CAVIAL_BONEMEAL_ENABLED = true
 	#Whether AC liquids can be renewable
 	LIQUID_REPLICATION_ENABLED = true
 	#Using a wither star to nullify godly interventions.To allow you to use natures compass and alike to find biomes
 	POWERED_LOCATORS_ENABLED = true
-	#Reduces level instead of insta-losing in spelunkery minigame
-	FORGIVING_SPELUKING_ENABLED = true
 	#Adds extra targets for mobs
 	ADD_TARGETS_ENABLED = true
 
@@ -87,10 +87,10 @@
 	BURST_OUT_ENABLED = true
 	#Rabies Effects for Forlorn Hollows
 	RABIES_ENABLED = true
-	#Whether beholders stalk nearby players when unused
-	BEHOLDENT_STALKING_ENABLED = true
 	#Whether guano slows you down
 	GUASLOWPOKE_ENABLED = true
+	#Whether beholders stalk nearby players when unused
+	BEHOLDENT_STALKING_ENABLED = true
 	#Whether vanilla enchantments adapts to Dreadbow
 	DREAD_ADDAPTIONS_ENABLED = true
 
@@ -122,17 +122,17 @@
 	#Amount of irradiation level to get the deadly effects
 	#Range: > 1
 	EXEMPLIFIED_IRRADIATION_AMOUNT = 5
-	#Whether Geothermal Vents have effects when standing on top depending on the spewed smoke
-	GEOTHERMAL_EFFECTS_ENABLED = true
 	#Allows lighting of explosives, including nuclear bombs with a flint and steel off-hand during flight
 	KIROV_REPORTING_ENABLED = true
-	#--Compatible with Soap from Supplementaries--
-	#Whether Irradiation wears off faster when in water
-	IRRADIATION_WASHOFF_ENABLED = true
 	#Hazmat reduces amount of irradiation recieved from radiation
 	ARMORED_LIQUIDATORS_ENABLED = true
 	#Amplifies raygun effects,Such as block destruction
 	REARAYNGEMENT_ENABLED = true
+	#--Compatible with Soap from Supplementaries--
+	#Whether Irradiation wears off faster when in water
+	IRRADIATION_WASHOFF_ENABLED = true
+	#Whether Geothermal Vents have effects when standing on top depending on the spewed smoke
+	GEOTHERMAL_EFFECTS_ENABLED = true
 
 	["Toxic Caves".Braniac]
 		#Whether Braniacs can pickup waste drums if they have non
@@ -161,18 +161,18 @@
 		GAMMA_TREMORZILLA_ENABLED = true
 
 ["Primordial Caves"]
-	#--Compatible with Farmers Delight and Caves Delight--
-	#Whether carnivores scavenge for placed dinosaur chops
-	SCAVENGING_ENABLED = true
-	#--Compatible with Alexs Mobs--
-	#Whether amber when generated could contain trapped mobs
-	PRESERVED_AMBER_ENABLED = true
 	#Whether feeding mobs with serene salad calms them down
 	SERENED_ENABLED = true
 	#Whether untamed dinosaurs will attack any that are seen with their egg
 	EGG_ANGER_ENABLED = true
+	#--Compatible with Farmers Delight and Caves Delight--
+	#Whether carnivores scavenge for placed dinosaur chops
+	SCAVENGING_ENABLED = true
 	#Whether Atlatitans/Lux stomps will cause damage
 	STOMPING_ENABLED = true
+	#--Compatible with Alexs Mobs--
+	#Whether amber when generated could contain trapped mobs
+	PRESERVED_AMBER_ENABLED = true
 	#--Requires Alexs Mobs--
 	#Flytraps close shut when a fly (From Alexs Mobs) comes into contact with it
 	FLY_TRAPPED_ENABLED = true
