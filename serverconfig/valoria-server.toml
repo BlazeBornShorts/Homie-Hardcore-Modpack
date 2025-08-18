@@ -1,0 +1,4 @@
+#Pots spawn chance (Default: 5%)
+#Range: 0.0 ~ 1.0
+PotSpawnChance = 0.025
+
