@@ -13,13 +13,13 @@
 	#
 	# Allow Bumblezone mod to handle teleporting into the Bumblezone dimension.
 	#
-	enableEntranceTeleportation = true
+	enableEntranceTeleportation = false
 	# 
 	#-----------------------------------------------------
 	#
 	# Allow Bumblezone mod to handle teleporting out of the Bumblezone dimension.
 	#
-	enableExitTeleportation = true
+	enableExitTeleportation = false
 	# 
 	#-----------------------------------------------------
 	#

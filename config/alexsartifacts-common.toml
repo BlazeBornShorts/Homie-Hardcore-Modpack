@@ -4,7 +4,7 @@ logDirtBlock = true
 #Range: > 0
 magicNumber = 42
 #What you want the introduction message to be for the magic number
-magicNumberIntroduction = "The magic number is... "
+magicNumberIntroduction = "The goofy haha magic number is... "
 #A list of items to log on common setup.
 items = ["minecraft:iron_ingot"]
 

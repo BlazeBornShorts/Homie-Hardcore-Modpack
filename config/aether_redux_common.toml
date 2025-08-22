@@ -80,7 +80,7 @@
 		#When enabled, any biome value config changes will be reset. It is recommended that you disable this if you want to keep any custom biome parameters you may have set.
 		"Auto-Reset Biome Values" = true
 		#The value of Redux's biome region size. Larger values correspond to larger biome clumps
-		"Region Size" = 20
+		"Region Size" = 10
 		#Improves the water color of Aether biomes, making the color match the rest of the dimension better
 		"Better Water Color" = true
 		#Alters the sky colors of the Aether, to be a bit more in line with vanilla. Also adds some new unique colors as well to some of Redux's new biomes

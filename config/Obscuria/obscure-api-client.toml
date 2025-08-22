@@ -5,7 +5,7 @@
 	#Range: -1024 ~ 1024
 	"Mods Button Offset X" = 0
 	#Range: -1024 ~ 1024
-	"Mods Button Offset Y" = 0
+	"Mods Button Offset Y" = 128
 
 [Tooltips]
 	#Display food properties in tooltips

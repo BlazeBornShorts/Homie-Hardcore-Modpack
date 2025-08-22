@@ -23,6 +23,13 @@
 		enabled = true
 		"toomanyorigins:soul_siphon" = true
 		"toomanyorigins:hell_raised" = true
+		"legacytoomanyorigins:soul_shield_overlay" = true
+		"legacytoomanyorigins:black_thumb" = true
+		"legacytoomanyorigins:wither_toxins" = true
+		"legacytoomanyorigins:weariness" = true
+		"legacytoomanyorigins:wither_immunity" = true
+		"legacytoomanyorigins:soul_shield" = true
+		"legacytoomanyorigins:scorched_structure" = true
 
 	[origins."cham:chameleon"]
 		"cham:cham_natarmor" = true
@@ -81,6 +88,12 @@
 		enabled = true
 		"toomanyorigins:superfall" = true
 		"toomanyorigins:small_appetite" = true
+		"legacytoomanyorigins:bunny_hop" = true
+		"legacytoomanyorigins:bunny_hop_active" = true
+		"legacytoomanyorigins:sugary_delicacy" = true
+		"legacytoomanyorigins:large_leap" = true
+		"legacytoomanyorigins:lightweight" = true
+		"legacytoomanyorigins:lucky_footing" = true
 
 	[origins."origins:enderian"]
 		"origins:water_vulnerability" = true
@@ -108,6 +121,12 @@
 		"toomanyorigins:draconic_breath" = true
 		"toomanyorigins:weaponry_pride" = true
 		enabled = true
+		"legacytoomanyorigins:dragon_breath" = true
+		"legacytoomanyorigins:light_up" = true
+		"origins:carnivore" = true
+		"legacytoomanyorigins:no_knockback" = true
+		"legacytoomanyorigins:loose_scales" = true
+		"legacytoomanyorigins:zenith_scales" = true
 
 	[origins."toomanyorigins:swarm"]
 		"toomanyorigins:stinging_pains" = true
@@ -118,6 +137,12 @@
 		"toomanyorigins:hover" = true
 		"toomanyorigins:calming_aura" = true
 		enabled = true
+		"legacytoomanyorigins:hover" = true
+		"legacytoomanyorigins:smoke_exhaustion" = true
+		"legacytoomanyorigins:calming_aura" = true
+		"legacytoomanyorigins:expendable" = true
+		"legacytoomanyorigins:beekeeper" = true
+		"legacytoomanyorigins:aerial_affinity" = true
 
 	[origins."origins:human"]
 		enabled = false
@@ -178,7 +203,7 @@
 	[origins."origins:blazeborn"]
 		"origins:water_vulnerability" = true
 		"origins:flame_particles" = true
-		"origins:burning_wrath" = false
+		"origins:burning_wrath" = true
 		"origins:hotblooded" = true
 		"origins:fire_immunity" = true
 		"origins:damage_from_snowballs" = true
@@ -194,6 +219,11 @@
 		"toomanyorigins:redirect_lightning_chance" = true
 		"toomanyorigins:ailurophobia" = true
 		enabled = true
+		"legacytoomanyorigins:overheat" = true
+		"legacytoomanyorigins:conductor" = true
+		"legacytoomanyorigins:blast_immunity" = true
+		"legacytoomanyorigins:sneaking_steps" = true
+		"legacytoomanyorigins:ailurophobia" = true
 
 	[origins."origins:elytrian"]
 		"origins:more_kinetic_damage" = true
@@ -252,4 +282,19 @@
 		"origins_toughasnails:thermal_regulator" = true
 		"extra_compat:lava_drinker" = true
 		"extra_compat:thermal_regulator" = true
+
+	[origins."toomanyorigins:undead"]
+		enabled = true
+		"legacytoomanyorigins:burn_timer" = true
+		"legacytoomanyorigins:deathly_bite" = true
+		"legacytoomanyorigins:no_helmet_burn" = true
+		"legacytoomanyorigins:opposite_day" = true
+		"legacytoomanyorigins:cannibalism" = true
+		"legacytoomanyorigins:lacerated_liver" = true
+		"legacytoomanyorigins:damage_helmet_when_in_sun" = true
+		"toomanyorigins:unholy" = true
+		"legacytoomanyorigins:zombify_hit" = true
+		"legacytoomanyorigins:undead_immunities" = true
+		"legacytoomanyorigins:undead_callback" = true
+		"legacytoomanyorigins:take_damage_from_ender_dragon_fireball" = true
 

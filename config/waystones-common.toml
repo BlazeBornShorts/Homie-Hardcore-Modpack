@@ -15,13 +15,13 @@
 	#The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.
 	globalWaystoneCooldownMultiplier = 1.0
 	#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
-	warpStoneCooldown = 30
+	warpStoneCooldown = 60
 	#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
-	warpStoneUseTime = 32
+	warpStoneUseTime = 60
 	#The time in ticks that it takes to use a warp plate. This is the time the player has to stand on top for.
-	warpPlateUseTime = 20
+	warpPlateUseTime = 60
 	#The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.
-	scrollUseTime = 32
+	scrollUseTime = 60
 	#The cooldown between usages of the inventory button in seconds.
 	inventoryButtonCooldown = 300
 
@@ -43,7 +43,7 @@
 	#Set to true if waystones should be added to the generation of villages. Some villages may still spawn without a waystone.
 	spawnInVillages = true
 	#Ensures that pretty much every village will have a waystone, by spawning it as early as possible. In addition, this means waystones will generally be located in the center of the village.
-	forceSpawnInVillages = false
+	forceSpawnInVillages = true
 
 [restrictions]
 	#If enabled, only creative players can place, edit or break waystones. This does NOT disable the crafting recipe.
@@ -78,7 +78,7 @@
 	#Set to true if experience cost should be inverted, meaning the shorter the distance, the more expensive. Can be used to encourage other methods for short-distance travel.
 	inverseXpCost = false
 	#The amount of blocks per xp level requirement. If set to 500, the base xp cost for travelling 1000 blocks will be 2 levels.
-	blocksPerXpLevel = 1000
+	blocksPerXpLevel = 1
 	#The minimum base xp cost (may be subceeded by multipliers defined below)
 	minimumBaseXpCost = 0.0
 	#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs

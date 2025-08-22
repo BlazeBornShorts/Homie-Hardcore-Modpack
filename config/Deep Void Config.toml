@@ -3,7 +3,7 @@
 	#Whether the Cult Temple will be place at 0,0 or not
 	PlaceCultTemple = true
 	#Whether Players will teleport to the Deep Void when jumping in the Void or not
-	PlayersTeleportInVoid = true
+	PlayersTeleportInVoid = false
 	#Whether Players will teleport to the Deep Void when falling in the Void in the End or not (If PlayersTeleportInVoid is false, this will automatically be false)
 	PlayersTeleportInEnd = true
 	#At which depth does the Player teleport to the dimension (Default -70)

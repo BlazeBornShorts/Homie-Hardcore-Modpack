@@ -1,7 +1,7 @@
 
 ["Skill Points"]
 	#Range: 1 ~ 1000
-	"Maximum skill points" = 85
+	"Maximum skill points" = 100
 	#Range: > 0
 	"First skill point cost" = 15
 	#Range: > 0
@@ -17,7 +17,7 @@
 
 [Gems]
 	#Range: 0.0 ~ 1.0
-	"Base drop chance" = 0.15
+	"Base drop chance" = 0.05
 
 [Equipment]
 	#Range: 0 ~ 4
@@ -25,7 +25,7 @@
 	#Range: 0 ~ 4
 	"Default Chestplates Sockets" = 1
 	#Range: 0 ~ 4
-	"Default Leggings Sockets" = 0
+	"Default Leggings Sockets" = 1
 	#Range: 0 ~ 4
 	"Default Boots Sockets" = 1
 	#Range: 0 ~ 4

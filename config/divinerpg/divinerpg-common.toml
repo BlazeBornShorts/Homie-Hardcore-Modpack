@@ -7,5 +7,5 @@
 	#Range: 150 ~ 1000
 	allureMaxMobs = 300
 	#Safer handling of the Vethean inventory
-	saferVetheanInventory = false
+	saferVetheanInventory = true
 

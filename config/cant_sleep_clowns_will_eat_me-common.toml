@@ -2,5 +2,5 @@
 highlight_mobs = true
 #How long the highlight effect will last, in ticks.
 #Range: > 1
-highlight_duration = 60
+highlight_duration = 20
 

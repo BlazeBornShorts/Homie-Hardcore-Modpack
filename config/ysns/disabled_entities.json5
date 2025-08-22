@@ -20,7 +20,8 @@
     "minecraft:panda",
     "minecraft:polar_bear",
     "minecraft:salmon",
-    "minecraft:tropical_fish"
+    "minecraft:tropical_fish",
+    "undead_revamp2:invisilehcery"
   ],
   // Don't touch this!
   "CONFIG_VERSION": 1

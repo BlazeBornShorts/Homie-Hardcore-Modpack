@@ -9,7 +9,7 @@
   },
   "skipExistingItems": {
     "desc:": "Skips adding items already present in the loot, to avoid stacking additional items. Note that this increases the chance for modded loot aswell. default:false",
-    "skipExistingItems": false
+    "skipExistingItems": true
   },
   "moddedItemWeight": {
     "desc:": "Add additional weight to modded items (e.g. 10 = 10 times more likely), making them more likely to be chosen default:3, minimum:0",

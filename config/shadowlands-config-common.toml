@@ -4,4 +4,24 @@
 	"Do first load message" = false
 	#Give guide book on first world load
 	"Do first load guide" = true
+	#Allows bosses to use custom attribute values as defined in this config - disabled by default as this may prevent other mods from modifying those values
+	"Use custom attributes" = false
+	#Sets health of Wither Skeleton Commander boss. Default is 500. Values above 1024 will ONLY work with a mod such as AttributeFix installed, this applies to ALL the values below. Some bosses have armor values or healing as well, so have much higher effective health.
+	"Wither Skeleton Commander health" = 500
+	#Default is 1000.
+	"Doom Star health" = 1000
+	#Default is 1024.
+	"Vellium Megabee health" = 1024
+	#Default is 1000.
+	"Ascendant Star Stage 5 health" = 1000
+	#Default is 1024.
+	"Spore King health" = 1024
+	#Default is 1024.
+	"Plaguemaiden health" = 1024
+	#Default is 1024.
+	"Red Knight health" = 1024
+	#Default is 1000.
+	"Red Nightmare health" = 1000
+	#Default is 1024.
+	"Emperor Wither health" = 1024
 

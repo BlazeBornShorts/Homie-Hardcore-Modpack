@@ -57,7 +57,7 @@
 		"biomeswevegone:coniferous_forest": true,
 	},
 	// How much each BWG region weighs. This weight applies to all 3 BWG Regions
-	"region_weight": 8,
+	"region_weight": 6,
 	// Whether to add bwg flowers and features to Vanilla Biomes (Config Option for Fabric Only)
 	"vanilla_additions": true,
 	// BWG Features that we add to Vanilla Biomes

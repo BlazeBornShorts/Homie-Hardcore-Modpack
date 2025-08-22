@@ -16,14 +16,33 @@
 
   // this is a list of custom spread factors
   "customSpreadFactors": [
-    // example of the mansion being doubled in rarity (the mod's default)
     {
       "structure": "dimdoors:gateways",
       "factor": 3
     },
     {
       "structure": "minecraft:villages",
-      "factor": 2
+      "factor": 3
+    },
+    {
+      "structure": "aether_villages:aether_villages_structures",
+      "factor": 3
+    },
+    {
+    "structure": "ars_structurize:archwoodvillage",
+    "factor": 3
+    },
+    {
+    "structure": "biomeswevegone:villages",
+    "factor": 3
+    },
+    {
+    "structure": "compatstructures:swamp_village_house_magic",
+    "factor": 3
+    },
+    {
+    "structure": "skyvillages:skyvillage",
+    "factor": 4
     },
     // tip: you can dump all structure sets in a file by running the custom command /dumpstructuresets
     // tip: the same spread factors rules apply here (set to 0 to disable said structure)

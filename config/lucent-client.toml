@@ -7,7 +7,7 @@
 	#
 	# If enabled, torches and other vanilla fire-based items will not emit light underwater.
 	# Default: false
-	torchesDoNothingInWater = false
+	torchesDoNothingInWater = true
 	#
 	# A multiplier applied to an entity's light level when in the deep dark.
 	# Default: 0.5
@@ -17,12 +17,12 @@
 	# The maximum amount of times light tries to refresh in a second. Higher values attempt to refresh more often. This number can be decreased if you experience poor performance.
 	# Default: 40
 	#Range: 1 ~ 240
-	lightRefreshRate = 40
+	lightRefreshRate = 20
 	#
 	# Determines how far away you should be able to see light from an entity (measured in blocks). 0 for infinite distance. Use this to prevent far away entities from causing light updates.
 	# Default: 128
 	#Range: 0 ~ 1024
-	maxVisibleDistance = 128
+	maxVisibleDistance = 64
 	#
 	# Determines if dynamic lighting should still occur when an entity is behind a wall. Turning this on may impact performance, but allows light to be seen around corners from far away. Entities within 24 blocks will always emit light.
 	# Default: false
@@ -30,7 +30,7 @@
 	#
 	# Determines if dynamic lighting smoothly blends as you move. Works best with a high refresh rate. Will result in worse performance since lighting updates typically happen more often.
 	# Default: true
-	smoothBlending = true
+	smoothBlending = false
 	#
 	# If enabled, chunks with dynamic lighting will always render off thread. Improves FPS, but may cause strange rendering glitches (Does nothing if Optifine is installed).
 	# Default: true
@@ -148,15 +148,7 @@
 
 	[mod_compat.enabled_builtin_plugins]
 		#
-		# Enables the plugin for Blue Skies.
-		# Default: true
-		blue_skies = true
-		#
 		# Enables the plugin for Quark.
 		# Default: true
 		quark = true
-		#
-		# Enables the plugin for Tinkers' Construct.
-		# Default: true
-		tconstruct = true
 

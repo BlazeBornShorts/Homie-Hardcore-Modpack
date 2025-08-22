@@ -17,7 +17,7 @@
 	#Specifically disables the Tormentor boss entirely. It will be unable to be spawned in any form if this is enabled.
 	"Disable Tormentor" = false
 	#Disabled by default. If enabled, most mobs will become able to spawn in any dimension, including dimensions from other mods - may cause issues with some mod dimensions. Note, however, that the mobs will have a low spawn weight in other dimensions.
-	"Spawn in other dimensions" = false
+	"Spawn in other dimensions" = true
 	#By default, the Tormentor can spawn naturally once you defeat the first three bosses. At this point, you probably won't be ready yet to fight it, and so will be forced to seal it and locate a crawling portal (all intentional). Set to false to prevent this, and ensure the Tormentor can only spawn from being summoned. The earlier - Boss natural spawning - config option has the same effect, but also controls other bosses.
 	"Tormentor initial natural spawning" = true
 	#Do you want to massively amplify all ArPhEx spawns futher on top of the existing spawns? Enabling this will drastically amplfy random-system overworld spawns from the mod, and even add crawling dimension mobs like the spider ambusher into the overworld. Even the non-overworld bosses will spawn rarely in the overworld, except for the Tormentor (this must be summoned manually). Minibosses will spawn commonly. Perfect for fast-paced, intense gameplay!
@@ -49,7 +49,7 @@
 
 [Other]
 	#When you join a world for the first time with ArPhEx installed, it shows a welcome message, informing you about the wiki and showing that the mod is active. Set to false to disable.
-	"Welcome message" = true
+	"Welcome message" = false
 	#Allow structure generations? Without them you will need to cheat to access the lower Crawling dimension layers or get ant colonies and termite-related items. Some tiny elements may still generate.
 	"Structure generation toggle" = true
 	#Keep enabled if you want to use the bonus rendering system for the Tormentor, featuring infinite render distance for the entity along with modifying fog distance accordingly, plus fog colour when nearby
@@ -67,11 +67,11 @@
 	#Set to false to disable mobs like locusts from breaking crops, and minibosses/bosses from breaking leaves. Does not affect tamed ant commands, or the Tormentor's attacks
 	"ArPhEx Griefing" = true
 	#The Tormentor can occasionally respond to chat messages that mention its name, using a random threatening line. There are 32 built-in messages. You can add your own below, one per line. Each custom entry you add reduces the chance of using a built-in line. If you list 32 or more custom messages, only your custom responses will ever be used.
-	"Bonus Tormentor Chat Messages" = ["I am here, mortal", "Your torment is inevitable"]
+	"Bonus Tormentor Chat Messages" = ["I am here, mortal", "Your torment is inevitable", "I'll write that on your grave", "You called? I'll answer"]
 	#When the tormentor responds to a chat message, it has a 50% chance to cooldown. This config option lets you choose how many seconds it would cooldown for
 	"Tormentor Response Cooldown" = 2400.0
 	#Set to false to disable explosions from the final Tormentor boss' attacks - note that it only attacks if attacked first, and won't target players who died within the last minute, so its terrain damage can be localised to specific areas or avoided entirely with flight.
 	"Tormentor Griefing" = true
 	#Enables the Crawling Castle to generate on the world surface if enabled - otherwise generates underground
-	"Crawling Castle Surface" = true
+	"Crawling Castle Surface" = false
 

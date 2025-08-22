@@ -1,8 +1,0 @@
-#Should water and purified water work from a taverlers backpack for survive thirst?
-enableTravelersBackpackSurviveCompat = true
-#Should Iron's Spellbooks Scrolls scale with level?
-enableIronSpellsPerLevelScaling = true
-#Iron's Spellbooks Scrolls scaling factor
-#Range: 0.1 ~ 10.0
-ironSpellScalingFactor = 0.5
-
