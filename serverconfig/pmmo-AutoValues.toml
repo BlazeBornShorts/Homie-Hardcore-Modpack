@@ -7,7 +7,7 @@
 
 	#These settings turn auto-values on/off for the specific requirement type.  These are global settings
 	[Auto_Values.Req_Toggles]
-		"WEAR Req Values Generate" = true
+		"WEAR Req Values Generate" = false
 		"USE_ENCHANTMENT Req Values Generate" = true
 		"TOOL Req Values Generate" = true
 		"WEAPON Req Values Generate" = true
@@ -129,7 +129,7 @@
 				taming = 1
 
 			[Auto_Values.Xp_Awards.Entities."DEATH Default Xp Award"]
-				endurance = 1
+				endurance = 10
 
 			[Auto_Values.Xp_Awards.Entities."ENTITY Default Xp Award"]
 				charisma = 1
@@ -237,34 +237,34 @@
 			Damage = 1.5
 
 		[Auto_Values.Item_Tweaks.HEAD_Attributes]
-			Toughness = 10.0
-			Armor = 10.0
-			Knockback_Resistance = 10.0
-			Durability = 0.01
+			Toughness = 2.0
+			Armor = 2.0
+			Knockback_Resistance = 2.0
+			Durability = 0.001
 
 		[Auto_Values.Item_Tweaks.CHEST_Attributes]
-			Toughness = 10.0
-			Armor = 10.0
-			Knockback_Resistance = 10.0
-			Durability = 0.01
+			Toughness = 2.0
+			Armor = 2.0
+			Knockback_Resistance = 2.0
+			Durability = 0.001
 
 		[Auto_Values.Item_Tweaks.LEGS_Attributes]
-			Toughness = 10.0
-			Armor = 10.0
-			Knockback_Resistance = 10.0
-			Durability = 0.01
+			Toughness = 2.0
+			Armor = 2.0
+			Knockback_Resistance = 2.0
+			Durability = 0.001
 
 		[Auto_Values.Item_Tweaks.BOOTS_Attributes]
-			Toughness = 10.0
-			Armor = 10.0
-			Knockback_Resistance = 10.0
-			Durability = 0.01
+			Toughness = 2.0
+			Armor = 2.0
+			Knockback_Resistance = 2.0
+			Durability = 0.001
 
 		[Auto_Values.Item_Tweaks.WINGS_Attributes]
-			Toughness = 10.0
-			Armor = 10.0
-			Knockback_Resistance = 10.0
-			Durability = 0.01
+			Toughness = 2.0
+			Armor = 2.0
+			Knockback_Resistance = 2.0
+			Durability = 0.001
 
 	#Configuration tweaks specific to entities.
 	#'Health' Determines how much entity health affects auto value calculations
