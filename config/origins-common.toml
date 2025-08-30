@@ -136,7 +136,7 @@
 		"toomanyorigins:pollination" = true
 		"toomanyorigins:hover" = true
 		"toomanyorigins:calming_aura" = true
-		enabled = true
+		enabled = false
 		"legacytoomanyorigins:hover" = true
 		"legacytoomanyorigins:smoke_exhaustion" = true
 		"legacytoomanyorigins:calming_aura" = true
@@ -232,7 +232,7 @@
 		"origins:aerial_combatant" = true
 		"origins:light_armor" = true
 		"origins:launch_into_air" = true
-		enabled = true
+		enabled = false
 
 	[origins."origins:avian"]
 		"origins:fresh_air" = true
@@ -241,7 +241,7 @@
 		"origins:slow_falling" = true
 		"origins:tailwind" = false
 		"origins:like_air" = true
-		enabled = true
+		enabled = false
 
 	[origins."medievalorigins:yeti"]
 		enabled = true

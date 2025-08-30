@@ -148,6 +148,119 @@
 			ancient = true
 			blossom = true
 
+		[types.wood_type.deeperdarker]
+			bloom = true
+			echo = true
+
+		[types.wood_type.atlantis]
+			palm = true
+			atlantean = true
+
+		[types.wood_type.echoes]
+			llerae = true
+			shimmerdown = true
+
+		[types.wood_type.the_deep_void]
+			rotten = true
+
+		[types.wood_type.ad_astra]
+			aeronos = true
+			strophar = true
+			glacian = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.wood_type.voidscape]
+			thunder = true
+
+		[types.wood_type.shadowlands]
+			vellium = true
+			creeperwood = true
+
+		[types.wood_type.ror]
+			azuric = true
+			crystalline = true
+
+		[types.wood_type.luminous_depths]
+			indiwo = true
+			aulit_oak = true
+
+		[types.wood_type.astral_dimension]
+			luminous = true
+			tormented = true
+			soggy = true
+			wisteria = true
+			sick = true
+			soul = true
+
+		[types.wood_type.midnight]
+			shadowroot = true
+			dark_willow = true
+			decayed = true
+			manglewood = true
+			nightshroom = true
+			dewshroom = true
+			viridshroom = true
+			moonshroom = true
+			bogshroom = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.deep_aether]
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.wood_type.ancient_aether]
+			highsproot = true
+			sakura = true
+
+		[types.wood_type.aether_redux]
+			fieldsproot = true
+			blightwillow = true
+			cloudcap = true
+			jellyshroom = true
+			crystal = true
+			glacia = true
+
+		[types.wood_type.dimdoors]
+			driftwood = true
+
+		[types.wood_type.jitl]
+			euca_gold = true
+			euca_brown = true
+			frozen = true
+			depths = true
+			corba = true
+			terranian = true
+			cloudia = true
+
+		[types.wood_type.valoria]
+			eldritch = true
+			dreadwood = true
+
+		[types.wood_type.toybox]
+			plastic = true
+
+		[types.wood_type.divinerpg]
+			divine = true
+			shiverspine = true
+			auroraoak = true
+			cozybark = true
+			streamleaf = true
+			eucalyptus = true
+			eden = true
+			wildwood = true
+			apalachia = true
+			skythern = true
+			mortum = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -293,6 +406,131 @@
 			yellow_blossom = true
 			red_blossom = true
 
+		[types.leaves_type.aether]
+			golden_oak = true
+			holiday = true
+			decorated_holiday = true
+			crystal = true
+			crystal_fruit = true
+			skyroot = true
+
+		[types.leaves_type.aether_redux]
+			fieldsproot = true
+			gilded_oak = true
+			blighted_skyroot = true
+			purple_glacia = true
+			blightwillow = true
+			glacia = true
+
+		[types.leaves_type.deep_aether]
+			flowering_roseroot = true
+			blue_roseroot = true
+			flowering_blue_roseroot = true
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.leaves_type.ancient_aether]
+			crystal_skyroot = true
+			enchanted_skyroot = true
+			skyroot_pine = true
+			blue_skyroot_pine = true
+			highsproot = true
+			sakura = true
+
+		[types.leaves_type.atlantis]
+			palm = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.shadowlands]
+			shadow = true
+			void = true
+			golden = true
+			hellish = true
+			vellium = true
+			creep = true
+			sparkpolia = true
+			pastel_green = true
+			pastel_yellow = true
+			pastel_pink = true
+			pastel_mint = true
+
+		[types.leaves_type.ror]
+			blue = true
+			neon = true
+			xaxos_moon = true
+			crystalline = true
+
+		[types.leaves_type.luminous_depths]
+			indiwo = true
+			aulit_oak = true
+
+		[types.leaves_type.astral_dimension]
+			fiery = true
+			soggy = true
+			wisteria = true
+			fiery_birch = true
+			soul = true
+
+		[types.leaves_type.midnight]
+			shadowroot = true
+			dark_willow = true
+			manglewood = true
+
+		[types.leaves_type.sweet_calamity]
+			chocolate = true
+			white_chocolate = true
+			milk_chocolate = true
+			blue_gummy = true
+			yellow_gummy = true
+
+		[types.leaves_type.gaiadimension]
+			pink_agate = true
+			blue_agate = true
+			green_agate = true
+			purple_agate = true
+			fossilized = true
+			corrupted = true
+			burnt_agate = true
+			fire_agate = true
+			aura = true
+			golden = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.dimdoors]
+			driftwood = true
+
+		[types.leaves_type.valoria]
+			shadewood = true
+			eldritch = true
+
+		[types.leaves_type.divinerpg]
+			divine = true
+			brittle = true
+			auroraoak = true
+			cozybark = true
+			streamleaf = true
+			eden = true
+			wildwood = true
+			apalachia = true
+			skythern = true
+			mortum = true
+			firewood = true
+			dreamwood = true
+			hyrewood = true
+			mintwood = true
+
 	[types.stone_type]
 
 		[types.stone_type.galosphere]
@@ -394,10 +632,104 @@
 			myalite = true
 			permafrost = true
 
+		[types.stone_type.aether_redux]
+			sentrite = true
+			divinite = true
+			driftshale = true
+
+		[types.stone_type.deep_aether]
+			clorite = true
+			raw_clorite = true
+			aseterite = true
+			nimbus_stone = true
+
+		[types.stone_type.the_deep_void]
+			monolithic_stone = true
+			primordial_stone = true
+
+		[types.stone_type.ad_astra]
+			moon_stone = true
+			mars_stone = true
+			conglomerate = true
+			mercury_stone = true
+			venus_stone = true
+			glacio_stone = true
+			permafrost = true
+
+		[types.stone_type.undergarden]
+			depthrock = true
+			shiverstone = true
+			tremblecrust = true
+
+		[types.stone_type.shadowlands]
+			demonic_stone = true
+
+		[types.stone_type.ror]
+			bluestone = true
+			corrundum = true
+			moon_stone = true
+
+		[types.stone_type.astral_dimension]
+			astral_stone = true
+			harsh_stone = true
+			moonstone = true
+			pyrite = true
+			faded_stone = true
+
+		[types.stone_type.midnight]
+			nightstone = true
+			trenchstone = true
+			rockshroom = true
+
+		[types.stone_type.aether]
+			holystone = true
+			carved_stone = true
+			angelic_stone = true
+			hellfire_stone = true
+
+		[types.stone_type.lost_aether_content]
+			gale_stone = true
+
+		[types.stone_type.ancient_aether]
+			aerogetic_stone = true
+
+		[types.stone_type.deeperdarker]
+			sculk_stone = true
+			gloomslate = true
+
+		[types.stone_type.valoria]
+			picrite = true
+			ephemarite = true
+			ambane_stone = true
+			dunestone = true
+			limestone = true
+			crystal_stone = true
+			void_stone = true
+			tombstone = true
+			ancient_stone = true
+
+		[types.stone_type.divinerpg]
+			twilight_stone = true
+			frozen_stone = true
+			cobaltite = true
+			coalstone = true
+			asphalt = true
+			milk_stone = true
+			darkstone = true
+			icy_stone = true
+			ancient_stone = true
+			luna_stone = true
+
 	[types.mud_type]
 
 		[types.mud_type.eternal_tales]
 			inverted_mud = true
+
+		[types.mud_type.deeperdarker]
+			sculk_grime = true
+
+		[types.mud_type.deep_aether]
+			aether_mud = true
 
 #Disables specific entries
 [entries]

@@ -176,17 +176,6 @@
         "value": 255
       }
     },
-    "forge:entity_reach": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "obscure_api:magic_resistance": {
       "enabled": false,
       "min": {
@@ -196,6 +185,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "forge:entity_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "undead_revamp2:cheroattackspeed": {
@@ -704,17 +704,6 @@
         "value": 1000
       }
     },
-    "forge:entity_gravity": {
-      "enabled": false,
-      "min": {
-        "default": -8,
-        "value": -8
-      },
-      "max": {
-        "default": 8,
-        "value": 8
-      }
-    },
     "obscure_api:resilience": {
       "enabled": false,
       "min": {
@@ -724,6 +713,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "forge:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
       }
     },
     "additional_attributes:respiration": {
@@ -814,17 +814,6 @@
         "value": 64
       }
     },
-    "ars_nouveau:ars_nouveau.perk.saturation": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "galosphere:illager_resistance": {
       "enabled": false,
       "min": {
@@ -834,6 +823,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.saturation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "obscure_api:magic_damage": {
