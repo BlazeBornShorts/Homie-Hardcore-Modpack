@@ -16,6 +16,8 @@
 	OldHoleStructure = false
 	#At which Y level should the structure in the Overworld generate (this needs to be at the deepest layer where bedrock generates)
 	HoleStructureY = -64.0
+	#If crumbling bedrock should generate in the overworld
+	CrumblingBedrockGenerate = true
 
 [Spawns]
 	#Whether Abductors will spawn in the Overworld or not
@@ -48,6 +50,10 @@
 	StalkerBreaksBlocks = true
 	#If Darkness should attack the Player below y=0 while still keeping Hallucinate
 	Darkness = true
+	#Should players be teleported to the top of the dimension when falling in the void in the Deep Void
+	DeepVoidTp = true
+	#Should players be able to mine Primordial Stone with the Shatterbone Pickaxe
+	AllowMiningPrimordialStone = false
 
 ["Gameplay Changes"]
 	#When a player dies, they get sent to the Deep Void

@@ -124,8 +124,6 @@
 ["Experimental Features"]
 	#Should experimental features be enabled? (Default false)
 	experimental_features_enabled = false
-	#Should the experimental sculk sheep be enabled? (Default false)
-	experimental_sheep_enabled = false
 	#Should the experimental brood hatcher be enabled? (Default false)
 	experimental_brood_hatcher_enabled = false
 	#Should experimental hit squad event feature be enabled? (Default false)
